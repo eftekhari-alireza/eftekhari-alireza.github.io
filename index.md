@@ -26,7 +26,7 @@ This website contains:
 - [🌐 Storm Surge Detection Model](#)
 
 ## 📄 Resume
-- [Download PDF](assets/pdf/Alireza_Eftekhari_CV.pdf) *(you will upload this soon)*
+- [Download PDF](assets/pdf/Alireza_Eftekhari_CV.pdf) 
 
 
 
