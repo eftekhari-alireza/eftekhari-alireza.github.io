@@ -10,10 +10,15 @@ Data Requirements
 Usage
 
 Script 1: Determining Tidal Constituents
+
 Script 2: Predicting Tidal Signal
+
 Script 3: Calculating Storm Surge Residuals
+
 Script 4: Filtering Storm Surge and Identifying Events
+
 Supplementary Analysis: Threshold Selection
+
 Enhanced Residual Visualization
 
 
