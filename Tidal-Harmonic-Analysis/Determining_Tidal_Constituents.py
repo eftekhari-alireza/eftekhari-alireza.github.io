@@ -1,4 +1,8 @@
 """
+Author: Alireza Eftekhadi
+PhD Researcher, University of Galway
+a.eftekhari2@universityofgalway.ie
+
 # Determining Tidal Constituents
 # =======================================
 #
