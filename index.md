@@ -22,8 +22,11 @@ This website contains:
 
 ## 🔬 Projects
 - [🌊 Shannon Estuary Tidal Modeling](#) *(coming soon)*
-- [🌬️ Renewbale Energy Data Analysis using ERA5](#)
+- [⚡ Tidal Power Curve Analysis](https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/tidal-power-curve)  
+  Python scripts to calculate rated power and generate a power curve for a tidal turbine using real Shannon Estuary data and standardised methodology.
+- [🌬️ Renewable Energy Data Analysis using ERA5](#)
 - [🌐 Storm Surge Detection Model](#)
+
 
 ## 📄 Resume
 - [Download PDF](assets/pdf/Alireza_Eftekhari_CV.pdf) 
