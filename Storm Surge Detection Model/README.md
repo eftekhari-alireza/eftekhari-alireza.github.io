@@ -1,5 +1,6 @@
 📊 A Comprehensive Tool for Tidal Analysis and Storm Surge Detection
 This project provides a complete framework for performing harmonic tidal analysis, extracting storm surge signals, and identifying significant meteorological events affecting sea levels. Using advanced signal processing techniques, this toolset allows researchers, oceanographers, and coastal engineers to analyze sea level data, decompose it into tidal and non-tidal components, and detect extreme events.
+
 📋 Table of Contents
 
 Overview
@@ -26,17 +27,25 @@ Contact
 
 🌊 Overview
 Storm surges represent abnormal sea level rises or falls caused by meteorological conditions such as atmospheric pressure changes and wind forcing. Accurate detection and analysis of these events are crucial for coastal management, hazard assessment, and understanding climate change impacts.
+
 Storm surges can cause significant coastal flooding during extreme weather events, especially when they coincide with high tides. Conversely, negative storm surges (abnormally low water levels) can disrupt shipping and harbor operations. By accurately identifying and characterizing these events, coastal communities can develop more effective adaptation and mitigation strategies.
+
 This project implements a complete pipeline for storm surge analysis:
 
 Harmonic Tidal Analysis - Identifying and extracting tidal constituents from sea level measurements by decomposing the signal into astronomical components (M2, S2, K1, etc.) using linear regression on trigonometric functions. This step isolates the predictable, astronomically-driven tidal variations.
+
 Tidal Prediction - Reconstructing the pure astronomical tidal signal by combining the identified constituents with their calculated amplitudes and phases. This creates a "clean" tidal prediction that represents what would occur under normal astronomical forces alone.
+
 Residual Calculation - Extracting the non-tidal (storm surge) component by subtracting the predicted tidal signal from original measurements. This residual contains all meteorological and other non-astronomical influences on sea level.
+
 Signal Filtering - Separating meteorological signal from noise using Butterworth low-pass filters, which remove high-frequency oscillations while preserving the meteorologically-driven variations that typically occur over hours to days.
+
 Event Detection - Identifying significant surge events with adaptive thresholding based on statistical properties of the data. The system automatically groups consecutive threshold exceedances into discrete events and calculates their key characteristics.
+
 Visualization - Creating comprehensive educational visualizations of the results, including time series analysis, seasonal patterns, statistical distributions, and detailed event characterizations.
 
 The modular architecture allows users to perform the complete analysis pipeline or utilize individual components for specific research needs. Each module can be run independently with appropriate input data, making the system adaptable to various research and operational contexts.
+
 ✨ Features
 
 Robust Tidal Analysis: Accurate identification of major and minor tidal constituents including M2 (principal lunar semidiurnal), S2 (principal solar semidiurnal), N2 (larger lunar elliptic semidiurnal), K1 (lunar diurnal), O1 (lunar diurnal), and more. The system calculates precise amplitude and phase values for each constituent.
@@ -49,14 +58,27 @@ Seasonal Analysis: Tools for examining seasonal patterns in storm surge, includi
 Frequency Analysis: Distribution and statistical tools for surge characterization, including histogram analysis, quantile-quantile plots for normality testing, and extreme value analysis.
 Extreme Event Identification: Automated detection of significant surge events using configurable thresholds and duration criteria. The system can group consecutive threshold exceedances into coherent events and characterize their properties.
 
+🛠️ Installation
+bash# Clone the repository
+git clone https://github.com/yourusername/storm-surge-detection-model.git
+cd storm-surge-detection-model
+
+# Create a virtual environment (optional but recommended)
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install required packages
+pip install -r requirements.txt
+Requirements
+
+pip install numpy pandas matplotlib scipy scikit-learn
+
 Python 3.6+
 NumPy
 Pandas
 Matplotlib
 SciPy
 scikit-learn
-
-pip install numpy pandas matplotlib scipy scikit-learn
 
 📊 Data Requirements
 The model requires sea surface height (SSH) data as input, typically in CSV format. The data should:
@@ -74,8 +96,10 @@ timestamp,sea_level_height
 📝 Usage
 The analysis is split into multiple scripts that can be run sequentially or individually:
 Script 1: Determining Tidal Constituents
+
 This script performs the first step in tidal harmonic analysis: identifying and calculating the amplitude and phase of tidal constituents.
 bashpython 1_tidal_constituents.py --input your_ssh_data.csv --output ./tidal_analysis_results
+
 Key operations:
 
 Loads SSH (Sea Surface Height) data
