@@ -6,8 +6,8 @@
 
 I'm a researcher specializing in marine renewable energy and climate change impacts. I use high-resolution hydrodynamic models to assess tidal, wave, wind, and solar resources, focusing on their complementarity and predictability.
 
-- 🔭 Currently working on: Shannon Estuary Tidal Modeling
-- 🌱 Learning: Advanced climate change prediction models
+- 🔭 Currently working on: Tidal Energy Resilience in a Changing Climate: Assessment of Resource Dynamics in the Shannon Estuary Using Coupled CROCO-Wave Modeling
+- 🌱 Learning: Advanced Ocean Modelling Systems
 - 💡 Expertise: Tidal energy assessment, coastal processes simulation, renewable energy data analysis
 - 🖥️ Tools: CROCO, DHI MIKE, DIVAST, HPC systems, parallel programming
 
