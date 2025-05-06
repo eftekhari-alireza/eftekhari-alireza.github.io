@@ -25,6 +25,10 @@ This website contains:
 - [🌊 Renewable Energy Data Analysis using ERA5](#) *(coming soon)*
 - [🌊 Storm Surge Detection Model](https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/Storm%20Surge%20Detection%20Model)  
 
+## 🔗 Academic Profiles
+
+- [📚 Google Scholar](https://scholar.google.com/citations?user=_Bobmm4AAAAJ&hl=en&oi=ao)
+- [🔬 ResearchGate](https://www.researchgate.net/profile/Alireza-Eftekhari-4?ev=hdr_xprf)
 
 ## 📄 Resume
 - [Download PDF](assets/pdf/Alireza_Eftekhari_CV.pdf) 
