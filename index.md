@@ -5,13 +5,11 @@ title: Alireza Eftekhari
 
 # 👋 Welcome
 
-Hi, I'm Alireza, specializing in marine renewable energy resource assessment and climate change.
-My research involves high-resolution hydrodynamic modeling to simulate coastal and estuarine processes, aiming to identify viable tidal energy sites and assess the predictability of currents.
-I also explore wave, wind (onshore and offshore), and solar resources, analyzing their complementarity and weather windows for reliable energy harvesting.
-I study the impacts of climate change on marine environments and how it affects the availability and stability of marine energy resources.
-I have hands-on experience with a range of modeling tools, including CROCO, DHI MIKE, and DIVAST. 
-With a background in coastal engineering and a strong computational skillset, I work extensively with high-performance computing systems and parallel programming to run large-scale simulations and process environmental datasets. 
-I'm also passionate about education and have developed and taught courses for young students on marine and coastal engineering. 
+Hi, I'm Alireza, a researcher specializing in marine renewable energy and climate change impacts. I use high-resolution hydrodynamic models to assess tidal, wave, wind, and solar resources, with a focus on their complementarity and predictability.
+
+My work includes identifying viable tidal energy sites, simulating estuarine and coastal processes, and analyzing the effects of climate change on marine resource availability. I’m experienced with modeling tools like CROCO, DHI MIKE, and DIVAST, and I regularly work on HPC systems using parallel programming to run and analyze large-scale simulations.
+
+I'm also passionate about outreach and have designed and taught educational programs on marine and coastal engineering for young students.
 
 This website contains:
 - My latest research
