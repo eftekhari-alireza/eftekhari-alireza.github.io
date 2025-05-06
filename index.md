@@ -20,9 +20,10 @@ This website contains:
 
 ## 🔬 Projects
 - [🌊 Shannon Estuary Tidal Modeling](#) *(coming soon)*
-- [⚡ Tidal Power Curve Analysis](https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/tidal-power-curve)  
-- [🌬️ Renewable Energy Data Analysis using ERA5](#)
-- [🌐 Storm Surge Detection Model](https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/Storm%20Surge%20Detection%20Model)  
+- [🌊 Tidal Harmonic Analysis](https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/Tidal-Harmonic-Analysis)
+- [🌊 Tidal Power Curve Analysis](https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/tidal-power-curve)  
+- [🌊 Renewable Energy Data Analysis using ERA5](#)
+- [🌊 Storm Surge Detection Model](https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/Storm%20Surge%20Detection%20Model)  
 
 
 ## 📄 Resume
