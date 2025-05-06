@@ -547,7 +547,7 @@ If you use this code in your research, please cite:
 @software{storm_surge_detection_model,
   author = {Eftekhari, Alireza},
   title = {Storm Surge Detection Model},
-  url = {https://github.com/eftekhari-alireza/storm-surge-detection-model},
+  url = {https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/Storm%20Surge%20Detection%20Model},
   year = {2025},
 }
 📧 Contact
