@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Alireza Eftekhari | Researcher</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.20.0/plotly.min.js"></script>
   <style>
     :root {
       --primary: #0077cc;
@@ -86,6 +87,25 @@
       padding: 60px 0;
     }
     
+    .intro-content {
+      display: flex;
+      align-items: flex-start;
+      gap: 40px;
+    }
+    
+    .intro-text {
+      flex: 1;
+    }
+    
+    .intro-model {
+      flex: 1;
+      min-height: 400px;
+      border: 1px solid #eee;
+      border-radius: 5px;
+      overflow: hidden;
+      background-color: white;
+    }
+    
     .intro h2 {
       font-size: 36px;
       color: var(--dark);
@@ -95,7 +115,6 @@
     .intro p {
       font-size: 18px;
       margin-bottom: 30px;
-      max-width: 700px;
     }
     
     .section {
@@ -187,6 +206,15 @@
       nav ul li {
         margin: 0 10px;
       }
+      
+      .intro-content {
+        flex-direction: column;
+      }
+      
+      .intro-model {
+        width: 100%;
+        margin-top: 30px;
+      }
     }
   </style>
 </head>
@@ -215,10 +243,17 @@
   <!-- Introduction -->
   <section class="intro" id="about">
     <div class="container">
-      <h2>About Me</h2>
-      <p>
-        I am a marine renewable energy researcher specializing in the numerical modeling of oceans and oceanic processes to support sustainable energy development and resilience in a changing climate. My work focuses on the assessment of resource dynamics—particularly tidal, wind, and wave energy—by identifying viable energy sites, evaluating spatial-temporal variability, and analyzing long-term accessibility and complementarity. I use high-resolution hydrodynamic models such as CROCO, DHI MIKE, and DIVAST on high-performance computing platforms to simulate complex coastal systems. In parallel with my research, I design and lead educational programs in marine and coastal engineering to inspire students and promote ocean literacy.
-      </p>
+      <div class="intro-content">
+        <div class="intro-text">
+          <h2>About Me</h2>
+          <p>
+            I am a marine renewable energy researcher specializing in the numerical modeling of oceans and oceanic processes to support sustainable energy development and resilience in a changing climate. My work focuses on the assessment of resource dynamics—particularly tidal, wind, and wave energy—by identifying viable energy sites, evaluating spatial-temporal variability, and analyzing long-term accessibility and complementarity. I use high-resolution hydrodynamic models such as CROCO, DHI MIKE, and DIVAST on high-performance computing platforms to simulate complex coastal systems. In parallel with my research, I design and lead educational programs in marine and coastal engineering to inspire students and promote ocean literacy.
+          </p>
+        </div>
+        <div class="intro-model" id="model-container">
+          <!-- 3D model will be rendered here -->
+        </div>
+      </div>
     </div>
   </section>
   
@@ -359,5 +394,106 @@
       <p>&copy; 2025 Alireza Eftekhari. All rights reserved.</p>
     </div>
   </footer>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // First try to load the real data from JSON file
+      fetch('assets/data/bathymetry.json')
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Bathymetry data not found');
+          }
+          return response.json();
+        })
+        .then(bathymetryData => {
+          // Use the real data from JSON
+          createPlot(bathymetryData.x, bathymetryData.y, bathymetryData.z);
+        })
+        .catch(error => {
+          console.log('Using sample data instead:', error);
+          // Fall back to sample data if JSON file is not available
+          createSamplePlot();
+        });
+      
+      // Function to create plot with real data
+      function createPlot(x, y, z) {
+        const data = [{
+          type: 'surface',
+          x: x,
+          y: y,
+          z: z,
+          colorscale: 'Viridis',
+          contours: {
+            z: {
+              show: true,
+              usecolormap: true,
+              highlightcolor: "#42f462",
+              project: {z: true}
+            }
+          }
+        }];
+        
+        const layout = {
+          title: 'Ocean Bathymetry Model',
+          scene: {
+            xaxis: {title: 'Longitude'},
+            yaxis: {title: 'Latitude'},
+            zaxis: {title: 'Depth (m)'},
+            camera: {
+              eye: {x: 1.5, y: 1.5, z: 1}
+            }
+          },
+          margin: {
+            l: 0,
+            r: 0,
+            b: 0,
+            t: 30,
+            pad: 0
+          },
+          autosize: true
+        };
+        
+        const config = {
+          responsive: true,
+          displayModeBar: true
+        };
+        
+        Plotly.newPlot('model-container', data, layout, config);
+      }
+      
+      // Function to create plot with sample data
+      function createSamplePlot() {
+        // Create a grid of points for sample data
+        const size = 50;
+        const x = [];
+        const y = [];
+        const z = [];
+        
+        for (let i = 0; i < size; i++) {
+          for (let j = 0; j < size; j++) {
+            // Generate sample bathymetry data
+            const lon = -10.5 + (j/size) * 1.5;
+            const lat = 51.5 + (i/size) * 1.5;
+            // Create a somewhat realistic bathymetry shape with some underwater features
+            const depth = -50 * Math.exp(-((i-size/2)**2 + (j-size/2)**2)/(size*10)) - 20;
+            
+            x.push(lon);
+            y.push(lat);
+            z.push(depth);
+          }
+        }
+        
+        createPlot(x, y, z);
+      }
+      
+      // Make the plot responsive
+      window.addEventListener('resize', function() {
+        Plotly.relayout('model-container', {
+          'width': document.getElementById('model-container').offsetWidth,
+          'height': document.getElementById('model-container').offsetHeight
+        });
+      });
+    });
+  </script>
 </body>
 </html>
