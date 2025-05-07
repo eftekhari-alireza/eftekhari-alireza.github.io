@@ -397,31 +397,120 @@
 
   <script>
     document.addEventListener('DOMContentLoaded', function() {
+      console.log("DOM loaded, attempting to fetch bathymetry data...");
+      
       // First try to load the real data from JSON file
       fetch('assets/data/bathymetry.json')
         .then(response => {
+          console.log("Fetch response status:", response.status);
           if (!response.ok) {
-            throw new Error('Bathymetry data not found');
+            throw new Error('Bathymetry data not found, status: ' + response.status);
           }
           return response.json();
         })
         .then(bathymetryData => {
-          // Use the real data from JSON
-          createPlot(bathymetryData.x, bathymetryData.y, bathymetryData.z);
+          console.log("Successfully loaded bathymetry data");
+          console.log("Data sizes:", {
+            xLength: bathymetryData.x.length,
+            yLength: bathymetryData.y.length,
+            zLength: bathymetryData.z.length
+          });
+          
+          // Use the real data with mesh3d plot type which works better for scattered points
+          createMesh3dPlot(bathymetryData.x, bathymetryData.y, bathymetryData.z);
         })
         .catch(error => {
-          console.log('Using sample data instead:', error);
+          console.error('Error with bathymetry data:', error);
+          console.log('Falling back to sample data');
           // Fall back to sample data if JSON file is not available
           createSamplePlot();
         });
       
-      // Function to create plot with real data
-      function createPlot(x, y, z) {
+      // Function to create a mesh3d plot which works better for scattered points
+      function createMesh3dPlot(x, y, z) {
+        console.log("Creating mesh3d plot with provided data");
+        
+        // Create the mesh3d plot - better for scattered points
         const data = [{
-          type: 'surface',
+          type: 'mesh3d',
           x: x,
           y: y,
           z: z,
+          intensity: z,  // Color by depth
+          colorscale: 'Viridis',
+          opacity: 0.8,
+          contour: {
+            show: true,
+            width: 2
+          }
+        }];
+        
+        const layout = {
+          title: 'Shannon Estuary Bathymetry',
+          scene: {
+            aspectmode: 'manual',
+            aspectratio: {
+              x: 1.5, 
+              y: 1, 
+              z: 0.5
+            },
+            xaxis: {title: 'Longitude'},
+            yaxis: {title: 'Latitude'},
+            zaxis: {title: 'Depth (m)'},
+            camera: {
+              eye: {x: 1.5, y: 1.5, z: 0.8}
+            }
+          },
+          margin: {
+            l: 0,
+            r: 0,
+            b: 0,
+            t: 30,
+            pad: 0
+          },
+          autosize: true
+        };
+        
+        const config = {
+          responsive: true,
+          displayModeBar: true
+        };
+        
+        Plotly.newPlot('model-container', data, layout, config);
+        console.log("Mesh3d plot created successfully");
+      }
+      
+      // Function to create plot with sample data
+      function createSamplePlot() {
+        console.log("Creating sample plot");
+        // Create a grid of points for sample data
+        const size = 50;
+        const x = [];
+        const y = [];
+        const z = [];
+        
+        for (let i = 0; i < size; i++) {
+          for (let j = 0; j < size; j++) {
+            // Generate sample bathymetry data
+            const lon = -10.5 + (j/size) * 1.5;
+            const lat = 52.5 + (i/size) * 0.8;
+            // Create a somewhat realistic bathymetry shape with some underwater features
+            const depth = -50 * Math.exp(-((i-size/2)**2 + (j-size/2)**2)/(size*10)) - 20;
+            
+            x.push(lon);
+            y.push(lat);
+            z.push(depth);
+          }
+        }
+        
+        // For sample data, we'll use a surface plot since it's a regular grid
+        const data = [{
+          type: 'surface',
+          x: Array.from(new Set(x)).sort(),  // Unique, sorted x values
+          y: Array.from(new Set(y)).sort(),  // Unique, sorted y values
+          z: Array(size).fill().map((_, i) => 
+            Array(size).fill().map((_, j) => z[i * size + j])
+          ),
           colorscale: 'Viridis',
           contours: {
             z: {
@@ -434,7 +523,7 @@
         }];
         
         const layout = {
-          title: 'Ocean Bathymetry Model',
+          title: 'Sample Bathymetry (Example Data)',
           scene: {
             xaxis: {title: 'Longitude'},
             yaxis: {title: 'Latitude'},
@@ -459,31 +548,6 @@
         };
         
         Plotly.newPlot('model-container', data, layout, config);
-      }
-      
-      // Function to create plot with sample data
-      function createSamplePlot() {
-        // Create a grid of points for sample data
-        const size = 50;
-        const x = [];
-        const y = [];
-        const z = [];
-        
-        for (let i = 0; i < size; i++) {
-          for (let j = 0; j < size; j++) {
-            // Generate sample bathymetry data
-            const lon = -10.5 + (j/size) * 1.5;
-            const lat = 51.5 + (i/size) * 1.5;
-            // Create a somewhat realistic bathymetry shape with some underwater features
-            const depth = -50 * Math.exp(-((i-size/2)**2 + (j-size/2)**2)/(size*10)) - 20;
-            
-            x.push(lon);
-            y.push(lat);
-            z.push(depth);
-          }
-        }
-        
-        createPlot(x, y, z);
       }
       
       // Make the plot responsive
