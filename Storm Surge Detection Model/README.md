@@ -41,7 +41,7 @@ Our model works with sea surface height (SSH) data, typically in CSV format. The
 - Cover at least 1 month (preferably 1 year)
 - Have minimal gaps (small gaps are interpolated)
 
-```csv
+csv
 timestamp,sea_level_height
 2022-01-01 00:00:00,1.23
 2022-01-01 01:00:00,1.45
