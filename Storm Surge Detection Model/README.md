@@ -1,39 +1,48 @@
-🌊 Storm Surge Detection Model
+# 🌊 Storm Surge Detection Model
 
-A comprehensive framework for tidal analysis and storm surge detection, now available in an easy-to-use Google Colab notebook!
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/storm-surge-detection-model/blob/main/storm_surge_analysis.ipynb)
+[![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 
-📊 Overview
-Storm surges represent abnormal sea level rises or falls caused by meteorological conditions such as atmospheric pressure changes and wind forcing. This toolkit provides a complete analysis pipeline that you can run entirely in Google Colab - no local installation required!
 
-Why use our Colab-ready model?
+> **A comprehensive framework for tidal analysis and storm surge detection, now available in an easy-to-use Google Colab notebook!**
 
-Instant setup - Skip installation headaches
-Interactive workflow - Run each step in its own cell
-Easy experimentation - Modify parameters with simple widgets
-Visual results - See plots and analysis immediately
-Cloud computing - Process large datasets without local resources
-Shareable analysis - Collaborate seamlessly with colleagues
+## 📊 Overview
 
-✨ Features
+Storm surges represent abnormal sea level rises or falls caused by meteorological conditions such as atmospheric pressure changes and wind forcing. This toolkit provides a complete analysis pipeline that you can run **entirely in Google Colab** - no local installation required!
 
-Robust Tidal Analysis: Identify major and minor constituents (M2, S2, N2, K1, O1, etc.) with precise amplitudes and phases
-Advanced Signal Processing: Butterworth filtering with customizable cutoff frequency and filter order
-Adaptive Thresholding: Multiple threshold methods (1σ–3σ, absolute, percentile-based)
-Comprehensive Visualization: Time series plots, seasonal heatmaps, distribution histograms
-Statistical Analysis: Event duration, magnitude, onset rate, frequency of occurrence
-Educational Components: Detailed comments, explanations, and visual guides
-Seasonal & Frequency Analysis: Monthly patterns, statistical distributions, extreme value analysis
-Extreme Event Identification: Automated detection of significant surges with full event metadata
+![Storm Surge Visualization](https://raw.githubusercontent.com/yourusername/storm-surge-detection-model/main/images/sample_visualization.png)
 
-📊 Data Requirements
+### Why use our Colab-ready model?
+
+- **Instant setup** - Skip installation headaches
+- **Interactive workflow** - Run each step in its own cell
+- **Easy experimentation** - Modify parameters with simple widgets
+- **Visual results** - See plots and analysis immediately
+- **Cloud computing** - Process large datasets without local resources
+- **Shareable analysis** - Collaborate seamlessly with colleagues
+
+## ✨ Features
+
+- **Robust Tidal Analysis**: Identify major and minor constituents (M2, S2, N2, K1, O1, etc.) with precise amplitudes and phases
+- **Advanced Signal Processing**: Butterworth filtering with customizable cutoff frequency and filter order
+- **Adaptive Thresholding**: Multiple threshold methods (1σ–3σ, absolute, percentile-based)
+- **Comprehensive Visualization**: Time series plots, seasonal heatmaps, distribution histograms
+- **Statistical Analysis**: Event duration, magnitude, onset rate, frequency of occurrence
+- **Educational Components**: Detailed comments, explanations, and visual guides
+- **Seasonal & Frequency Analysis**: Monthly patterns, statistical distributions, extreme value analysis
+- **Extreme Event Identification**: Automated detection of significant surges with full event metadata
+
+## 📊 Data Requirements
+
 Our model works with sea surface height (SSH) data, typically in CSV format. The data should:
 
-Contain time-series measurements of sea level
-Be regularly sampled (ideally hourly)
-Cover at least 1 month (preferably 1 year)
-Have minimal gaps (small gaps are interpolated)
+- Contain time-series measurements of sea level
+- Be regularly sampled (ideally hourly)
+- Cover at least 1 month (preferably 1 year)
+- Have minimal gaps (small gaps are interpolated)
 
-csvtimestamp,sea_level_height
+```csv
+timestamp,sea_level_height
 2022-01-01 00:00:00,1.23
 2022-01-01 01:00:00,1.45
 ...
