@@ -395,169 +395,123 @@
     </div>
   </footer>
 
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      console.log("DOM loaded, attempting to fetch bathymetry data...");
-      
-      // First try to load the real data from JSON file
-      fetch('assets/data/bathymetry.json')
-        .then(response => {
-          console.log("Fetch response status:", response.status);
-          if (!response.ok) {
-            throw new Error('Bathymetry data not found, status: ' + response.status);
-          }
-          return response.json();
-        })
-        .then(bathymetryData => {
-          console.log("Successfully loaded bathymetry data");
-          console.log("Data sizes:", {
-            xLength: bathymetryData.x.length,
-            yLength: bathymetryData.y.length,
-            zLength: bathymetryData.z.length
-          });
-          
-          // Use the real data with mesh3d plot type which works better for scattered points
-          createMesh3dPlot(bathymetryData.x, bathymetryData.y, bathymetryData.z);
-        })
-        .catch(error => {
-          console.error('Error with bathymetry data:', error);
-          console.log('Falling back to sample data');
-          // Fall back to sample data if JSON file is not available
-          createSamplePlot();
-        });
-      
-      // Function to create a mesh3d plot which works better for scattered points
-      function createMesh3dPlot(x, y, z) {
-        console.log("Creating mesh3d plot with provided data");
-        
-        // Create the mesh3d plot - better for scattered points
-        const data = [{
-          type: 'mesh3d',
-          x: x,
-          y: y,
-          z: z,
-          intensity: z,  // Color by depth
-          colorscale: 'Viridis',
-          opacity: 0.8,
-          contour: {
-            show: true,
-            width: 2
-          }
-        }];
-        
-        const layout = {
-          title: 'Shannon Estuary Bathymetry',
-          scene: {
-            aspectmode: 'manual',
-            aspectratio: {
-              x: 1.5, 
-              y: 1, 
-              z: 0.5
-            },
-            xaxis: {title: 'Longitude'},
-            yaxis: {title: 'Latitude'},
-            zaxis: {title: 'Depth (m)'},
-            camera: {
-              eye: {x: 1.5, y: 1.5, z: 0.8}
-            }
-          },
-          margin: {
-            l: 0,
-            r: 0,
-            b: 0,
-            t: 30,
-            pad: 0
-          },
-          autosize: true
-        };
-        
-        const config = {
-          responsive: true,
-          displayModeBar: true
-        };
-        
-        Plotly.newPlot('model-container', data, layout, config);
-        console.log("Mesh3d plot created successfully");
-      }
-      
-      // Function to create plot with sample data
-      function createSamplePlot() {
-        console.log("Creating sample plot");
-        // Create a grid of points for sample data
-        const size = 50;
-        const x = [];
-        const y = [];
-        const z = [];
-        
-        for (let i = 0; i < size; i++) {
-          for (let j = 0; j < size; j++) {
-            // Generate sample bathymetry data
-            const lon = -10.5 + (j/size) * 1.5;
-            const lat = 52.5 + (i/size) * 0.8;
-            // Create a somewhat realistic bathymetry shape with some underwater features
-            const depth = -50 * Math.exp(-((i-size/2)**2 + (j-size/2)**2)/(size*10)) - 20;
-            
-            x.push(lon);
-            y.push(lat);
-            z.push(depth);
-          }
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    console.log("DOM loaded, attempting to fetch bathymetry data...");
+    
+    // First try to load the real data from JSON file
+    fetch('assets/data/bathymetry.json')
+      .then(response => {
+        console.log("Fetch response status:", response.status);
+        if (!response.ok) {
+          throw new Error('Bathymetry data not found, status: ' + response.status);
         }
+        return response.json();
+      })
+      .then(bathymetryData => {
+        console.log("Successfully loaded bathymetry data");
+        console.log("Data samples:", {
+          xSample: bathymetryData.x.slice(0, 5),
+          ySample: bathymetryData.y.slice(0, 5),
+          zSample: bathymetryData.z.slice(0, 5)
+        });
         
-        // For sample data, we'll use a surface plot since it's a regular grid
-        const data = [{
-          type: 'surface',
-          x: Array.from(new Set(x)).sort(),  // Unique, sorted x values
-          y: Array.from(new Set(y)).sort(),  // Unique, sorted y values
-          z: Array(size).fill().map((_, i) => 
-            Array(size).fill().map((_, j) => z[i * size + j])
-          ),
+        // Use simple scatter3d plot for clear visualization
+        createScatter3dPlot(bathymetryData.x, bathymetryData.y, bathymetryData.z);
+      })
+      .catch(error => {
+        console.error('Error with bathymetry data:', error);
+        console.log('Falling back to sample data');
+        // Fall back to sample data if JSON file is not available
+        createSamplePlot();
+      });
+    
+    // Simple scatter3d plot that works reliably with any data format
+    function createScatter3dPlot(x, y, z) {
+      console.log("Creating scatter3d plot with provided data");
+      
+      // Create a scatter3d plot - most reliable for all data types
+      const data = [{
+        type: 'scatter3d',
+        mode: 'markers',
+        x: x,
+        y: y,
+        z: z,
+        marker: {
+          size: 3,
+          color: z,
           colorscale: 'Viridis',
-          contours: {
-            z: {
-              show: true,
-              usecolormap: true,
-              highlightcolor: "#42f462",
-              project: {z: true}
-            }
+          opacity: 0.8
+        }
+      }];
+      
+      const layout = {
+        title: 'Bathymetry Data Visualization',
+        scene: {
+          xaxis: {title: 'Longitude'},
+          yaxis: {title: 'Latitude'},
+          zaxis: {title: 'Depth (m)'},
+          camera: {
+            eye: {x: 1.5, y: 1.5, z: 1.2}
           }
-        }];
+        },
+        margin: {
+          l: 0,
+          r: 0,
+          b: 0,
+          t: 30,
+          pad: 0
+        },
+        autosize: true
+      };
+      
+      const config = {
+        responsive: true,
+        displayModeBar: true
+      };
+      
+      Plotly.newPlot('model-container', data, layout, config);
+      console.log("Scatter3d plot created successfully");
+    }
+    
+    // Function to create plot with sample data
+    function createSamplePlot() {
+      console.log("Creating sample plot");
+      // Create sample points
+      const points = 1000;
+      const x = [];
+      const y = [];
+      const z = [];
+      
+      // Generate a more realistic estuary-like sample
+      for (let i = 0; i < points; i++) {
+        // Generate random points along an estuary shape
+        const t = Math.random();
+        const width = 0.1 + 0.3 * t; // Estuary gets wider toward the sea
         
-        const layout = {
-          title: 'Sample Bathymetry (Example Data)',
-          scene: {
-            xaxis: {title: 'Longitude'},
-            yaxis: {title: 'Latitude'},
-            zaxis: {title: 'Depth (m)'},
-            camera: {
-              eye: {x: 1.5, y: 1.5, z: 1}
-            }
-          },
-          margin: {
-            l: 0,
-            r: 0,
-            b: 0,
-            t: 30,
-            pad: 0
-          },
-          autosize: true
-        };
+        const lon = -10.5 + t * 1.5;
+        const lat = 52.5 + (Math.random() - 0.5) * width;
         
-        const config = {
-          responsive: true,
-          displayModeBar: true
-        };
+        // Depth increases toward the middle of the estuary and toward the sea
+        const channelFactor = 1 - 2 * Math.abs(Math.random() - 0.5);
+        const depth = -5 - 30 * t - 20 * channelFactor * t;
         
-        Plotly.newPlot('model-container', data, layout, config);
+        x.push(lon);
+        y.push(lat);
+        z.push(depth);
       }
       
-      // Make the plot responsive
-      window.addEventListener('resize', function() {
-        Plotly.relayout('model-container', {
-          'width': document.getElementById('model-container').offsetWidth,
-          'height': document.getElementById('model-container').offsetHeight
-        });
+      createScatter3dPlot(x, y, z);
+    }
+    
+    // Make the plot responsive
+    window.addEventListener('resize', function() {
+      Plotly.relayout('model-container', {
+        'width': document.getElementById('model-container').offsetWidth,
+        'height': document.getElementById('model-container').offsetHeight
       });
     });
-  </script>
+  });
+</script>
 </body>
 </html>
