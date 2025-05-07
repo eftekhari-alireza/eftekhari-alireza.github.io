@@ -54,6 +54,20 @@
       align-items: center;
     }
     
+    .header-left {
+      display: flex;
+      align-items: center;
+    }
+    
+    .profile-pic {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      margin-right: 15px;
+      object-fit: cover;
+      border: 2px solid var(--primary);
+    }
+    
     .header-content h1 {
       color: var(--dark);
       font-size: 28px;
@@ -156,6 +170,16 @@
         text-align: center;
       }
       
+      .header-left {
+        flex-direction: column;
+        margin-bottom: 15px;
+      }
+      
+      .profile-pic {
+        margin-right: 0;
+        margin-bottom: 10px;
+      }
+      
       nav ul {
         margin-top: 20px;
       }
@@ -171,7 +195,10 @@
   <header>
     <div class="container">
       <div class="header-content">
-        <h1>Alireza Eftekhari</h1>
+        <div class="header-left">
+          <img src="assets/images/profile.jpg" alt="Alireza Eftekhari" class="profile-pic">
+          <h1>Alireza Eftekhari</h1>
+        </div>
         <nav>
           <ul>
             <li><a href="#about">About</a></li>
@@ -186,7 +213,7 @@
   </header>
   
   <!-- Introduction -->
-  <section class="intro">
+  <section class="intro" id="about">
     <div class="container">
       <h2>About Me</h2>
       <p>
