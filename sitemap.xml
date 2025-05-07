@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <!-- Homepage -->
   <url>
     <loc>https://eftekhari-alireza.github.io/</loc>
@@ -11,54 +12,79 @@
   <url>
     <loc>https://eftekhari-alireza.github.io/ocean-literacy/tides.html</loc>
     <lastmod>2025-05-07</lastmod>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://eftekhari-alireza.github.io/ocean-literacy/waves.html</loc>
     <lastmod>2025-05-07</lastmod>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://eftekhari-alireza.github.io/ocean-literacy/renewable.html</loc>
     <lastmod>2025-05-07</lastmod>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://eftekhari-alireza.github.io/ocean-literacy/models.html</loc>
     <lastmod>2025-05-07</lastmod>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://eftekhari-alireza.github.io/ocean-literacy/coastal.html</loc>
     <lastmod>2025-05-07</lastmod>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://eftekhari-alireza.github.io/ocean-literacy/climate.html</loc>
     <lastmod>2025-05-07</lastmod>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://eftekhari-alireza.github.io/ocean-literacy/remotesensing.html</loc>
     <lastmod>2025-05-07</lastmod>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
-  <!-- Project Pages (hosted on GitHub) -->
+  <!-- Projects hosted on GitHub -->
   <url>
     <loc>https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/Tidal-Harmonic-Analysis</loc>
     <lastmod>2025-05-07</lastmod>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/tidal-power-curve</loc>
     <lastmod>2025-05-07</lastmod>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/Storm%20Surge%20Detection%20Model</loc>
     <lastmod>2025-05-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/croco/grid</loc>
+    <lastmod>2025-05-07</lastmod>
     <priority>0.6</priority>
   </url>
-  <!-- Add more project URLs as needed -->
+  <url>
+    <loc>https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/croco/croco_json</loc>
+    <lastmod>2025-05-07</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/XYZ_Merger_Gridding_Tool</loc>
+    <lastmod>2025-05-07</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/Ocean_Defenders_of_Ireland</loc>
+    <lastmod>2025-05-07</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/Wind_Turbine_Power_Detective_Challenge</loc>
+    <lastmod>2025-05-07</lastmod>
+    <priority>0.6</priority>
+  </url>
+
 </urlset>
