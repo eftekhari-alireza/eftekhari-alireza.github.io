@@ -119,15 +119,16 @@ This game aligns with science curriculum goals related to:
 ## 📝 License
 
 This educational tool is free to use and modify for educational purposes.
+If you use or modify this tool, mentioning the original author (Alireza Eftekhari) is appreciated.
 
 ## 👥 Contributors
 
-- Your name/organization here
+- Alireza Eftekhari
 - Youth Academy Science Program
 
 ## 📧 Contact
 
-For questions, suggestions, or feedback, please contact: [your contact info]
+For questions, suggestions, or feedback, please contact: [a.eftekhari2@universityofgalway.ie]
 
 ---
 
