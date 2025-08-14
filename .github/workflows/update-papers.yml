@@ -1,0 +1,39 @@
+name: Update papers daily
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # runs 07:00 UTC daily (08:00 in Dublin during summer)
+  workflow_dispatch:       # lets you run it manually
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: python -m pip install --upgrade requests
+
+      - name: Generate pages
+        run: python scripts/update_papers.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/papers.json papers/index.md
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: daily papers update"
+            git push
+          fi
