@@ -180,10 +180,4 @@ numpy
 
 ---
 
-## 📜 License
-
-Add a `LICENSE` file (e.g., **MIT**) to clarify reuse.
-
----
-
 **Have fun — may your winds be steady, your waves energetic, and your tides slack at maintenance!** 🌬️🌊🌙
