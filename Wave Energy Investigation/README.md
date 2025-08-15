@@ -165,24 +165,16 @@ python wave_investigation.py
 * A quick site suitability index **H²T** is used with a classroom threshold of **H²T > 20**.
 * Energy estimate combines average power, a nominal device width (30 m), hours/year, and a capacity factor.
 
-## How It Works (Plain English)
-
-Wave power scales with height² and period → P ∝ H² × T  
-The game uses a teaching-friendly approximation for power density:  
-P ≈ 0.49 × H² × T (kW per meter of wave crest)  
-A quick site suitability index H²T is used with a classroom threshold of H²T > 20.  
-Energy estimate combines average power, a nominal device width (30 m), hours/year, and a capacity factor.  
-
 ```mermaid
 flowchart LR
-A[generate_wave_data.py] -->|creates wave .xlsx files| B[wave_investigation.py]
-B --> C[Quiz and basics]
-B --> D[Analyze locations]
-D --> E[Charts: power / seasonal / rose]
-D --> F[Env and economic insights]
-D --> G[Rankings and suitability (H2T)]
-G --> H[Text report export]
-
+A["generate_wave_data.py"] -->|creates wave xlsx files| B["wave_investigation.py"]
+B --> C["Quiz and basics"]
+B --> D["Analyze locations"]
+D --> E["Charts - power seasonal rose"]
+D --> F["Environmental and economic insights"]
+D --> G["Rankings and suitability - H2T"]
+G --> H["Text report export"]
+```
 
 > 🧭 **Reminder**: Real‑world assessments need multi‑year data, spectral/ directional details, extremes & survivability checks, grid connections, ecology, permitting, and finance.
 
@@ -279,6 +271,7 @@ Ideas & improvements welcome! Great first issues:
 Please open a PR with a brief description, screenshots of new charts (if applicable), and notes on any new dependencies.
 
 ---
+
 
 ## 📦 requirements.txt
 
