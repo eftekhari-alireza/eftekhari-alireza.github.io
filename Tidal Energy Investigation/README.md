@@ -283,12 +283,6 @@ Please open a PR with a short description, screenshots of new charts (if applica
 
 ---
 
-## 📜 License
-
-Add a `LICENSE` file (e.g., **MIT**) to clarify reuse.
-
----
-
 ## 📦 requirements.txt
 
 ```txt
