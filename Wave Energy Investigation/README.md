@@ -165,7 +165,7 @@ python wave_investigation.py
 * A quick site suitability index **H²T** is used with a classroom threshold of **H²T > 20**.
 * Energy estimate combines average power, a nominal device width (30 m), hours/year, and a capacity factor.
 
-```mermaid
+
 flowchart LR
 A[generate_wave_data.py] -->|creates *_Wave_2024.xlsx| B[wave_investigation.py]
 B --> C[Quiz & Basics]
@@ -174,7 +174,7 @@ D --> E[Charts: Power / Seasonal / Rose]
 D --> F[Env & Economic Insights]
 D --> G[Rankings & Suitability (H²T)]
 G --> H[Text Report Export]
-```
+
 
 > 🧭 **Reminder**: Real‑world assessments need multi‑year data, spectral/ directional details, extremes & survivability checks, grid connections, ecology, permitting, and finance.
 
