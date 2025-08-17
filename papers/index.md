@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-08-16** · Showing results since **2024**_
+_Last update: **2025-08-17** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -62,8 +62,8 @@ _Last update: **2025-08-16** · Showing results since **2024**_
 - [Effect of Climate Change‐Induced Tropical Cyclone Track Shift on Sedimentology in the East China Coastal Ocean](https://doi.org/10.1029/2024jc022245) · 2025-08-01
 - [Use of SWOT Data for Hydrodynamic Modelling in a Tropical Microtidal Estuarine System: The Case of Casamance (Senegal)](https://doi.org/10.20944/preprints202507.2525.v1) · 2025-07-30
 - [A GPU-ACCELERATED NUMERICAL MODEL FOR COASTAL FLOODING](https://doi.org/10.9753/icce.v38.management.217) · 2025-05-29
+- [Experimental and numerical investigation of the vertical distribution of macro plastic transport in rivers](https://doi.org/10.5194/egusphere-egu25-18928) · 2025-03-15
 - [A storm surge hindcast for the Northwest Pacific Ocean from 1979 to 2023](https://doi.org/10.5194/egusphere-egu25-18912) · 2025-03-15
-- [Combining SAR and numerical modeling to reconstruct wind, waves and surface currents in Lake Garda, Italy](https://doi.org/10.5194/egusphere-egu25-17024) · 2025-03-15
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)

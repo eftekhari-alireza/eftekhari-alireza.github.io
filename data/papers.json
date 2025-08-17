@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-16",
+  "date": "2025-08-17",
   "year_from": 2024,
   "items": [
     {
@@ -205,16 +205,16 @@
           "link": "https://doi.org/10.9753/icce.v38.management.217"
         },
         {
+          "title": "Experimental and numerical investigation of the vertical distribution of macro plastic transport in rivers",
+          "date": "2025-03-15",
+          "venue": "",
+          "link": "https://doi.org/10.5194/egusphere-egu25-18928"
+        },
+        {
           "title": "A storm surge hindcast for the Northwest Pacific Ocean from 1979 to 2023",
           "date": "2025-03-15",
           "venue": "",
           "link": "https://doi.org/10.5194/egusphere-egu25-18912"
-        },
-        {
-          "title": "Combining SAR and numerical modeling to reconstruct wind, waves and surface currents in Lake Garda, Italy",
-          "date": "2025-03-15",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-17024"
         }
       ]
     },
