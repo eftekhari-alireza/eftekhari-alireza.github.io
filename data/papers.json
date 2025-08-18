@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-17",
+  "date": "2025-08-18",
   "year_from": 2024,
   "items": [
     {
@@ -133,16 +133,16 @@
           "link": "https://stce.huce.edu.vn/index.php/en/article/download/3219/1557"
         },
         {
-          "title": "Reply on RC2",
-          "date": "2025-01-25",
-          "venue": "",
-          "link": "https://doi.org/10.5194/nhess-2024-196-ac2"
-        },
-        {
           "title": "Reply on RC1",
           "date": "2025-01-25",
           "venue": "",
           "link": "https://doi.org/10.5194/nhess-2024-196-ac1"
+        },
+        {
+          "title": "Reply on RC2",
+          "date": "2025-01-25",
+          "venue": "",
+          "link": "https://doi.org/10.5194/nhess-2024-196-ac2"
         }
       ]
     },

@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-08-17** · Showing results since **2024**_
+_Last update: **2025-08-18** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -42,8 +42,8 @@ _Last update: **2025-08-17** · Showing results since **2024**_
 - [Spatio-Temporal Analysis of Shoreline Changes and Wave Modeling: Case of Mostaganem Bay, Algeria](https://doi.org/10.17818/nm/2025/1.1) · 2025-06-01
 - [The Effectiveness of Groin Modifications to Reduce the Impacts of Indian Ocean Dipole (IOD)-induced Port Siltation in Adapting to Climate Change](https://doi.org/10.22146/jcef.16683) · 2025-04-14
 - [Study on spatial arrangement for coastal protection solutions in Ben Tre province using numerical model](https://stce.huce.edu.vn/index.php/en/article/download/3219/1557) · 2025-03-25
-- [Reply on RC2](https://doi.org/10.5194/nhess-2024-196-ac2) · 2025-01-25
 - [Reply on RC1](https://doi.org/10.5194/nhess-2024-196-ac1) · 2025-01-25
+- [Reply on RC2](https://doi.org/10.5194/nhess-2024-196-ac2) · 2025-01-25
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
