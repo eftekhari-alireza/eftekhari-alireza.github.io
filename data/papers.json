@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-19",
+  "date": "2025-08-20",
   "year_from": 2024,
   "items": [
     {
@@ -13,16 +13,16 @@
           "link": "https://doi.org/10.21203/rs.3.rs-6322401/v1"
         },
         {
-          "title": "Quantifying Tidal Dune Morphodynamics at the Laboratory Scale: A Combined Measuring and Modelling Approach",
-          "date": "2025-03-15",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-19135"
-        },
-        {
           "title": "Mixing of tracers in stratified sheared flows &amp;#160; &amp;#160;&amp;#160;",
           "date": "2025-03-15",
           "venue": "",
           "link": "https://doi.org/10.5194/egusphere-egu25-17431"
+        },
+        {
+          "title": "Quantifying Tidal Dune Morphodynamics at the Laboratory Scale: A Combined Measuring and Modelling Approach",
+          "date": "2025-03-15",
+          "venue": "",
+          "link": "https://doi.org/10.5194/egusphere-egu25-19135"
         },
         {
           "title": "The Role of Fine-Scale Winds in Upwelling and Coastal Circulation in the Southern Benguela Upwelling System",
@@ -133,16 +133,16 @@
           "link": "https://stce.huce.edu.vn/index.php/en/article/download/3219/1557"
         },
         {
-          "title": "Reply on RC1",
-          "date": "2025-01-25",
-          "venue": "",
-          "link": "https://doi.org/10.5194/nhess-2024-196-ac1"
-        },
-        {
           "title": "Reply on RC2",
           "date": "2025-01-25",
           "venue": "",
           "link": "https://doi.org/10.5194/nhess-2024-196-ac2"
+        },
+        {
+          "title": "Reply on RC1",
+          "date": "2025-01-25",
+          "venue": "",
+          "link": "https://doi.org/10.5194/nhess-2024-196-ac1"
         }
       ]
     },
@@ -205,16 +205,16 @@
           "link": "https://doi.org/10.9753/icce.v38.management.217"
         },
         {
-          "title": "Experimental and numerical investigation of the vertical distribution of macro plastic transport in rivers",
-          "date": "2025-03-15",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-18928"
-        },
-        {
           "title": "A storm surge hindcast for the Northwest Pacific Ocean from 1979 to 2023",
           "date": "2025-03-15",
           "venue": "",
           "link": "https://doi.org/10.5194/egusphere-egu25-18912"
+        },
+        {
+          "title": "Experimental and numerical investigation of the vertical distribution of macro plastic transport in rivers",
+          "date": "2025-03-15",
+          "venue": "",
+          "link": "https://doi.org/10.5194/egusphere-egu25-18928"
         }
       ]
     },
