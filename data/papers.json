@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-23",
+  "date": "2025-08-24",
   "year_from": 2024,
   "items": [
     {
@@ -79,6 +79,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "An Ocean Model for Novel Combined Groups of Artificial Reefs With Wind Power Foundation",
+          "date": "2025-06-22",
+          "venue": "",
+          "link": "https://doi.org/10.1115/omae2025-157073"
+        },
+        {
           "title": "Analysis of Abnormal Sea Level Rise in Offshore Waters of Bohai Sea in 2024",
           "date": "2025-06-05",
           "venue": "",
@@ -101,12 +107,6 @@
           "date": "2025-01-24",
           "venue": "",
           "link": "https://doi.org/10.5194/gmd-2024-146-rc1"
-        },
-        {
-          "title": "Modeling the impact of extreme weather events and future climate on the radiologically contaminated sites of Enewetak Atoll",
-          "date": "2025-01-15",
-          "venue": "",
-          "link": "https://doi.org/10.1038/s41598-025-85849-8"
         }
       ]
     },

@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-08-23** · Showing results since **2024**_
+_Last update: **2025-08-24** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -29,11 +29,11 @@ _Last update: **2025-08-23** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [An Ocean Model for Novel Combined Groups of Artificial Reefs With Wind Power Foundation](https://doi.org/10.1115/omae2025-157073) · 2025-06-22
 - [Analysis of Abnormal Sea Level Rise in Offshore Waters of Bohai Sea in 2024](https://doi.org/10.3390/jmse13061134) · 2025-06-05
 - [Need for Mechanisms to Monitor Ocean Circulation‐Driven Seagrass Population Expansions](https://doi.org/10.1002/ece3.71087) · 2025-03-27
 - [Hydrodynamic impacts of extreme drought-to-flood transition events: insights from the Poyang Lake](https://doi.org/10.2166/wcc.2025.815) · 2025-03-12
 - [Comment on gmd-2024-146](https://doi.org/10.5194/gmd-2024-146-rc1) · 2025-01-24
-- [Modeling the impact of extreme weather events and future climate on the radiologically contaminated sites of Enewetak Atoll](https://doi.org/10.1038/s41598-025-85849-8) · 2025-01-15
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
