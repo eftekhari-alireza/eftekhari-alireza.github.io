@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-27",
+  "date": "2025-08-28",
   "year_from": 2024,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in the Northern South China Sea and Its Response to Typhoon",
+          "date": "2025-08-25",
+          "venue": "",
+          "link": "https://doi.org/10.20944/preprints202507.2300.v2"
+        },
+        {
           "title": "A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord",
           "date": "2025-07-22",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2025-04-16",
           "venue": "",
           "link": "https://doi.org/10.1007/s12237-025-01532-1"
-        },
-        {
-          "title": "Reconstruction of the Spatial Physical and Bio-Geochemical Fields based on of earth observations, numerical modeling and AI methods within the framework of 4DBaltDyn ESA project",
-          "date": "2025-03-15",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-12195"
         }
       ]
     },
@@ -205,16 +205,16 @@
           "link": "https://doi.org/10.9753/icce.v38.management.217"
         },
         {
-          "title": "A storm surge hindcast for the Northwest Pacific Ocean from 1979 to 2023",
-          "date": "2025-03-15",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-18912"
-        },
-        {
           "title": "Experimental and numerical investigation of the vertical distribution of macro plastic transport in rivers",
           "date": "2025-03-15",
           "venue": "",
           "link": "https://doi.org/10.5194/egusphere-egu25-18928"
+        },
+        {
+          "title": "A storm surge hindcast for the Northwest Pacific Ocean from 1979 to 2023",
+          "date": "2025-03-15",
+          "venue": "",
+          "link": "https://doi.org/10.5194/egusphere-egu25-18912"
         }
       ]
     },
