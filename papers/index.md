@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-08-29** · Showing results since **2024**_
+_Last update: **2025-08-30** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2025-08-29** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in Northern South China Sea and Its Response to Typhoon](https://www.mdpi.com/2077-1312/13/9/1646/pdf?version=1756377192) · 2025-08-28
 - [Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in the Northern South China Sea and Its Response to Typhoon](https://doi.org/10.20944/preprints202507.2300.v2) · 2025-08-25
 - [A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord](https://doi.org/10.5194/egusphere-2025-3361) · 2025-07-22
 - [Development and assessment of the physical–biogeochemical ocean regional model in the Northwest Pacific: NPRT v1.0 (ROMS v3.9–TOPAZ v2.0)](https://doi.org/10.5194/gmd-18-3941-2025) · 2025-07-01
 - [Implementing Astronomical Potential and Wavelet Analysis to Improve Regional Tide Modeling](https://doi.org/10.3390/computation13060145) · 2025-06-11
-- [Physics of Transport in the Oligohaline Reach of the Delaware Estuary](https://doi.org/10.1007/s12237-025-01532-1) · 2025-04-16
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -62,8 +62,8 @@ _Last update: **2025-08-29** · Showing results since **2024**_
 - [Effect of Climate Change‐Induced Tropical Cyclone Track Shift on Sedimentology in the East China Coastal Ocean](https://doi.org/10.1029/2024jc022245) · 2025-08-01
 - [Use of SWOT Data for Hydrodynamic Modelling in a Tropical Microtidal Estuarine System: The Case of Casamance (Senegal)](https://doi.org/10.20944/preprints202507.2525.v1) · 2025-07-30
 - [A GPU-ACCELERATED NUMERICAL MODEL FOR COASTAL FLOODING](https://doi.org/10.9753/icce.v38.management.217) · 2025-05-29
+- [ASSESSING HYDRO-OCEANOGRAPHY CONDITIONS USING DELFT3D NUMERICAL MODEL FOR LAMPIA PORT, BONE GULF, INDONESIA](https://doi.org/10.24843/jits.2025.v29.i02.p01) · 2025-03-31
 - [Experimental and numerical investigation of the vertical distribution of macro plastic transport in rivers](https://doi.org/10.5194/egusphere-egu25-18928) · 2025-03-15
-- [A storm surge hindcast for the Northwest Pacific Ocean from 1979 to 2023](https://doi.org/10.5194/egusphere-egu25-18912) · 2025-03-15
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)

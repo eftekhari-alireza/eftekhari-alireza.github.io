@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-29",
+  "date": "2025-08-30",
   "year_from": 2024,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in Northern South China Sea and Its Response to Typhoon",
+          "date": "2025-08-28",
+          "venue": "",
+          "link": "https://www.mdpi.com/2077-1312/13/9/1646/pdf?version=1756377192"
+        },
+        {
           "title": "Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in the Northern South China Sea and Its Response to Typhoon",
           "date": "2025-08-25",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2025-06-11",
           "venue": "",
           "link": "https://doi.org/10.3390/computation13060145"
-        },
-        {
-          "title": "Physics of Transport in the Oligohaline Reach of the Delaware Estuary",
-          "date": "2025-04-16",
-          "venue": "",
-          "link": "https://doi.org/10.1007/s12237-025-01532-1"
         }
       ]
     },
@@ -205,16 +205,16 @@
           "link": "https://doi.org/10.9753/icce.v38.management.217"
         },
         {
+          "title": "ASSESSING HYDRO-OCEANOGRAPHY CONDITIONS USING DELFT3D NUMERICAL MODEL FOR LAMPIA PORT, BONE GULF, INDONESIA",
+          "date": "2025-03-31",
+          "venue": "",
+          "link": "https://doi.org/10.24843/jits.2025.v29.i02.p01"
+        },
+        {
           "title": "Experimental and numerical investigation of the vertical distribution of macro plastic transport in rivers",
           "date": "2025-03-15",
           "venue": "",
           "link": "https://doi.org/10.5194/egusphere-egu25-18928"
-        },
-        {
-          "title": "A storm surge hindcast for the Northwest Pacific Ocean from 1979 to 2023",
-          "date": "2025-03-15",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-18912"
         }
       ]
     },
