@@ -3,15 +3,15 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-08-30** · Showing results since **2024**_
+_Last update: **2025-08-31** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
 - [Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf](https://doi.org/10.21203/rs.3.rs-6322401/v1) · 2025-04-22
-- [Quantifying Tidal Dune Morphodynamics at the Laboratory Scale: A Combined Measuring and Modelling Approach](https://doi.org/10.5194/egusphere-egu25-19135) · 2025-03-15
 - [Mixing of tracers in stratified sheared flows &amp;#160; &amp;#160;&amp;#160;](https://doi.org/10.5194/egusphere-egu25-17431) · 2025-03-15
+- [Quantifying Tidal Dune Morphodynamics at the Laboratory Scale: A Combined Measuring and Modelling Approach](https://doi.org/10.5194/egusphere-egu25-19135) · 2025-03-15
 - [The Role of Fine-Scale Winds in Upwelling and Coastal Circulation in the Southern Benguela Upwelling System](https://doi.org/10.5194/egusphere-egu25-10536) · 2025-03-14
 - [Assessing the Future ODYSEA Satellite Mission for the Estimation of Ocean Surface Currents, Wind Stress, Energy Fluxes, and the Mechanical Coupling Between the Ocean and the Atmosphere](https://doi.org/10.3390/rs17020302) · 2025-01-16
 
@@ -29,11 +29,11 @@ _Last update: **2025-08-30** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Changes in Ocean Current Characteristics Due to Freshwater Discharge from Fjord Regions](https://doi.org/10.9765/kscoe.2025.37.4.93) · 2025-08-29
 - [An Ocean Model for Novel Combined Groups of Artificial Reefs With Wind Power Foundation](https://doi.org/10.1115/omae2025-157073) · 2025-06-22
 - [Analysis of Abnormal Sea Level Rise in Offshore Waters of Bohai Sea in 2024](https://doi.org/10.3390/jmse13061134) · 2025-06-05
 - [Need for Mechanisms to Monitor Ocean Circulation‐Driven Seagrass Population Expansions](https://doi.org/10.1002/ece3.71087) · 2025-03-27
 - [Hydrodynamic impacts of extreme drought-to-flood transition events: insights from the Poyang Lake](https://doi.org/10.2166/wcc.2025.815) · 2025-03-12
-- [Comment on gmd-2024-146](https://doi.org/10.5194/gmd-2024-146-rc1) · 2025-01-24
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -63,7 +63,7 @@ _Last update: **2025-08-30** · Showing results since **2024**_
 - [Use of SWOT Data for Hydrodynamic Modelling in a Tropical Microtidal Estuarine System: The Case of Casamance (Senegal)](https://doi.org/10.20944/preprints202507.2525.v1) · 2025-07-30
 - [A GPU-ACCELERATED NUMERICAL MODEL FOR COASTAL FLOODING](https://doi.org/10.9753/icce.v38.management.217) · 2025-05-29
 - [ASSESSING HYDRO-OCEANOGRAPHY CONDITIONS USING DELFT3D NUMERICAL MODEL FOR LAMPIA PORT, BONE GULF, INDONESIA](https://doi.org/10.24843/jits.2025.v29.i02.p01) · 2025-03-31
-- [Experimental and numerical investigation of the vertical distribution of macro plastic transport in rivers](https://doi.org/10.5194/egusphere-egu25-18928) · 2025-03-15
+- [A storm surge hindcast for the Northwest Pacific Ocean from 1979 to 2023](https://doi.org/10.5194/egusphere-egu25-18912) · 2025-03-15
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)

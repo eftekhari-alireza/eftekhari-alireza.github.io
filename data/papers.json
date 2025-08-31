@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-30",
+  "date": "2025-08-31",
   "year_from": 2024,
   "items": [
     {
@@ -13,16 +13,16 @@
           "link": "https://doi.org/10.21203/rs.3.rs-6322401/v1"
         },
         {
-          "title": "Quantifying Tidal Dune Morphodynamics at the Laboratory Scale: A Combined Measuring and Modelling Approach",
-          "date": "2025-03-15",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-19135"
-        },
-        {
           "title": "Mixing of tracers in stratified sheared flows &amp;#160; &amp;#160;&amp;#160;",
           "date": "2025-03-15",
           "venue": "",
           "link": "https://doi.org/10.5194/egusphere-egu25-17431"
+        },
+        {
+          "title": "Quantifying Tidal Dune Morphodynamics at the Laboratory Scale: A Combined Measuring and Modelling Approach",
+          "date": "2025-03-15",
+          "venue": "",
+          "link": "https://doi.org/10.5194/egusphere-egu25-19135"
         },
         {
           "title": "The Role of Fine-Scale Winds in Upwelling and Coastal Circulation in the Southern Benguela Upwelling System",
@@ -79,6 +79,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Changes in Ocean Current Characteristics Due to Freshwater Discharge from Fjord Regions",
+          "date": "2025-08-29",
+          "venue": "",
+          "link": "https://doi.org/10.9765/kscoe.2025.37.4.93"
+        },
+        {
           "title": "An Ocean Model for Novel Combined Groups of Artificial Reefs With Wind Power Foundation",
           "date": "2025-06-22",
           "venue": "",
@@ -101,12 +107,6 @@
           "date": "2025-03-12",
           "venue": "",
           "link": "https://doi.org/10.2166/wcc.2025.815"
-        },
-        {
-          "title": "Comment on gmd-2024-146",
-          "date": "2025-01-24",
-          "venue": "",
-          "link": "https://doi.org/10.5194/gmd-2024-146-rc1"
         }
       ]
     },
@@ -211,10 +211,10 @@
           "link": "https://doi.org/10.24843/jits.2025.v29.i02.p01"
         },
         {
-          "title": "Experimental and numerical investigation of the vertical distribution of macro plastic transport in rivers",
+          "title": "A storm surge hindcast for the Northwest Pacific Ocean from 1979 to 2023",
           "date": "2025-03-15",
           "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-18928"
+          "link": "https://doi.org/10.5194/egusphere-egu25-18912"
         }
       ]
     },
