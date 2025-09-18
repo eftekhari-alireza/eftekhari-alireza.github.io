@@ -3,17 +3,17 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-09-17** · Showing results since **2024**_
+_Last update: **2025-09-18** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.](https://doi.org/10.36688/ewtec-2025-845) · 2025-09-08
 - [Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf](https://doi.org/10.21203/rs.3.rs-6322401/v1) · 2025-04-22
-- [Mixing of tracers in stratified sheared flows &amp;#160; &amp;#160;&amp;#160;](https://doi.org/10.5194/egusphere-egu25-17431) · 2025-03-15
 - [Quantifying Tidal Dune Morphodynamics at the Laboratory Scale: A Combined Measuring and Modelling Approach](https://doi.org/10.5194/egusphere-egu25-19135) · 2025-03-15
+- [Mixing of tracers in stratified sheared flows &amp;#160; &amp;#160;&amp;#160;](https://doi.org/10.5194/egusphere-egu25-17431) · 2025-03-15
 - [The Role of Fine-Scale Winds in Upwelling and Coastal Circulation in the Southern Benguela Upwelling System](https://doi.org/10.5194/egusphere-egu25-10536) · 2025-03-14
-- [Assessing the Future ODYSEA Satellite Mission for the Estimation of Ocean Surface Currents, Wind Stress, Energy Fluxes, and the Mechanical Coupling Between the Ocean and the Atmosphere](https://doi.org/10.3390/rs17020302) · 2025-01-16
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -29,11 +29,11 @@ _Last update: **2025-09-17** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Extremal-Aware Deep Numerical Reinforcement Learning Fusion for Marine Tidal Prediction](https://doi.org/10.3390/jmse13091771) · 2025-09-13
 - [Changes in Ocean Current Characteristics Due to Freshwater Discharge from Fjord Regions](https://doi.org/10.9765/kscoe.2025.37.4.93) · 2025-08-29
 - [An Ocean Model for Novel Combined Groups of Artificial Reefs With Wind Power Foundation](https://doi.org/10.1115/omae2025-157073) · 2025-06-22
 - [Analysis of Abnormal Sea Level Rise in Offshore Waters of Bohai Sea in 2024](https://doi.org/10.3390/jmse13061134) · 2025-06-05
 - [Need for Mechanisms to Monitor Ocean Circulation‐Driven Seagrass Population Expansions](https://doi.org/10.1002/ece3.71087) · 2025-03-27
-- [Hydrodynamic impacts of extreme drought-to-flood transition events: insights from the Poyang Lake](https://doi.org/10.2166/wcc.2025.815) · 2025-03-12
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -69,8 +69,8 @@ _Last update: **2025-09-17** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.](https://doi.org/10.36688/ewtec-2025-845) · 2025-09-08
 - [What makes a successful community model for research and operations? Lessons learned from WAVEWATCH III®](https://doi.org/10.1175/bams-d-24-0223.1) · 2025-04-04
 - [An integrated Geostatistical and Numerical Modelling framework for Spatiotemporal Analysis of Wave Energy Fields in the Aegean Sea](https://doi.org/10.5194/egusphere-egu25-16444) · 2025-03-15
 - [The marine and coastal hazards of Mediterranean cyclones](https://doi.org/10.5194/egusphere-egu25-4078) · 2025-03-14
 - [Impacts of Physical Parameterization Schemes on Typhoon Doksuri (2023) Forecasting from the Perspective of Wind–Wave Coupling](https://doi.org/10.3390/jmse13020195) · 2025-01-21
-- [Prediction of Significant Wave Heights by an Ensemble of Neural Networks](https://doi.org/10.5540/03.2025.011.01.0459) · 2025-01-20
