@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-09-18** · Showing results since **2024**_
+_Last update: **2025-09-19** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2025-09-18** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Comment on egusphere-2025-3361](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3361/egusphere-2025-3361.pdf) · 2025-09-18
 - [Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in Northern South China Sea and Its Response to Typhoon](https://doi.org/10.3390/jmse13091646) · 2025-08-28
 - [Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in the Northern South China Sea and Its Response to Typhoon](https://doi.org/10.20944/preprints202507.2300.v2) · 2025-08-25
 - [A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord](https://doi.org/10.5194/egusphere-2025-3361) · 2025-07-22
 - [Development and assessment of the physical–biogeochemical ocean regional model in the Northwest Pacific: NPRT v1.0 (ROMS v3.9–TOPAZ v2.0)](https://doi.org/10.5194/gmd-18-3941-2025) · 2025-07-01
-- [Implementing Astronomical Potential and Wavelet Analysis to Improve Regional Tide Modeling](https://doi.org/10.3390/computation13060145) · 2025-06-11
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
