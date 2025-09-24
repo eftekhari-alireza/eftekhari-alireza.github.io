@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-23",
+  "date": "2025-09-24",
   "year_from": 2024,
   "items": [
     {
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Use of SWOT Data for Hydrodynamic Modelling in a Tropical Microtidal Estuarine System: The Case of Casamance (Senegal)",
+          "date": "2025-09-20",
+          "venue": "",
+          "link": "https://doi.org/10.3390/rs17183252"
+        },
+        {
           "title": "Sediment dynamics in a dyke breach and across a tidally flooded land surface",
           "date": "2025-09-08",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2025-05-29",
           "venue": "",
           "link": "https://doi.org/10.9753/icce.v38.management.217"
-        },
-        {
-          "title": "ASSESSING HYDRO-OCEANOGRAPHY CONDITIONS USING DELFT3D NUMERICAL MODEL FOR LAMPIA PORT, BONE GULF, INDONESIA",
-          "date": "2025-03-31",
-          "venue": "",
-          "link": "https://doi.org/10.24843/jits.2025.v29.i02.p01"
         }
       ]
     },
