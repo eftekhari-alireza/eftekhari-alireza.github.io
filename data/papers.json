@@ -1,78 +1,16 @@
 {
-  "date": "2025-09-24",
+  "date": "2025-09-25",
   "year_from": 2024,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.",
-          "date": "2025-09-08",
-          "venue": "",
-          "link": "https://doi.org/10.36688/ewtec-2025-845"
-        },
-        {
-          "title": "Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf",
-          "date": "2025-04-22",
-          "venue": "",
-          "link": "https://doi.org/10.21203/rs.3.rs-6322401/v1"
-        },
-        {
-          "title": "Mixing of tracers in stratified sheared flows &amp;#160; &amp;#160;&amp;#160;",
-          "date": "2025-03-15",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-17431"
-        },
-        {
-          "title": "Quantifying Tidal Dune Morphodynamics at the Laboratory Scale: A Combined Measuring and Modelling Approach",
-          "date": "2025-03-15",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-19135"
-        },
-        {
-          "title": "The Role of Fine-Scale Winds in Upwelling and Coastal Circulation in the Southern Benguela Upwelling System",
-          "date": "2025-03-14",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-10536"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Comment on egusphere-2025-3361",
-          "date": "2025-09-18",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3361/egusphere-2025-3361.pdf"
-        },
-        {
-          "title": "Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in Northern South China Sea and Its Response to Typhoon",
-          "date": "2025-08-28",
-          "venue": "",
-          "link": "https://doi.org/10.3390/jmse13091646"
-        },
-        {
-          "title": "Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in the Northern South China Sea and Its Response to Typhoon",
-          "date": "2025-08-25",
-          "venue": "",
-          "link": "https://doi.org/10.20944/preprints202507.2300.v2"
-        },
-        {
-          "title": "A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord",
-          "date": "2025-07-22",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-2025-3361"
-        },
-        {
-          "title": "Development and assessment of the physical\u2013biogeochemical ocean regional model in the Northwest Pacific: NPRT v1.0 (ROMS v3.9\u2013TOPAZ v2.0)",
-          "date": "2025-07-01",
-          "venue": "",
-          "link": "https://doi.org/10.5194/gmd-18-3941-2025"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
@@ -113,38 +51,7 @@
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Spatio-Temporal Analysis of Shoreline Changes and Wave Modeling: Case of Mostaganem Bay, Algeria",
-          "date": "2025-06-01",
-          "venue": "",
-          "link": "https://doi.org/10.17818/nm/2025/1.1"
-        },
-        {
-          "title": "The Effectiveness of Groin Modifications to Reduce the Impacts of Indian Ocean Dipole (IOD)-induced Port Siltation in Adapting to Climate Change",
-          "date": "2025-04-14",
-          "venue": "",
-          "link": "https://doi.org/10.22146/jcef.16683"
-        },
-        {
-          "title": "Study on spatial arrangement for coastal protection solutions in Ben Tre province using numerical model",
-          "date": "2025-03-25",
-          "venue": "",
-          "link": "https://stce.huce.edu.vn/index.php/en/article/download/3219/1557"
-        },
-        {
-          "title": "Reply on RC2",
-          "date": "2025-01-25",
-          "venue": "",
-          "link": "https://doi.org/10.5194/nhess-2024-196-ac2"
-        },
-        {
-          "title": "Reply on RC1",
-          "date": "2025-01-25",
-          "venue": "",
-          "link": "https://doi.org/10.5194/nhess-2024-196-ac1"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 3\"",
