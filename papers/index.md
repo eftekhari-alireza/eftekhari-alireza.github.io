@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-09-26** · Showing results since **2024**_
+_Last update: **2025-09-27** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -11,8 +11,8 @@ _Last update: **2025-09-26** · Showing results since **2024**_
 **Recent items (OpenAlex):**
 - [Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.](https://doi.org/10.36688/ewtec-2025-845) · 2025-09-08
 - [Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf](https://doi.org/10.21203/rs.3.rs-6322401/v1) · 2025-04-22
-- [Mixing of tracers in stratified sheared flows &amp;#160; &amp;#160;&amp;#160;](https://doi.org/10.5194/egusphere-egu25-17431) · 2025-03-15
 - [Quantifying Tidal Dune Morphodynamics at the Laboratory Scale: A Combined Measuring and Modelling Approach](https://doi.org/10.5194/egusphere-egu25-19135) · 2025-03-15
+- [Mixing of tracers in stratified sheared flows &amp;#160; &amp;#160;&amp;#160;](https://doi.org/10.5194/egusphere-egu25-17431) · 2025-03-15
 - [The Role of Fine-Scale Winds in Upwelling and Coastal Circulation in the Southern Benguela Upwelling System](https://doi.org/10.5194/egusphere-egu25-10536) · 2025-03-14
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
