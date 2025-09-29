@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-28",
+  "date": "2025-09-29",
   "year_from": 2024,
   "items": [
     {
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Phytoplankton phenology paradox in an isolated tropical lagoon of the northern Red Sea",
+          "date": "2025-09-26",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41598-025-17907-0.pdf"
+        },
+        {
           "title": "Use of SWOT Data for Hydrodynamic Modelling in a Tropical Microtidal Estuarine System: The Case of Casamance (Senegal)",
           "date": "2025-09-20",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2025-07-30",
           "venue": "",
           "link": "https://doi.org/10.20944/preprints202507.2525.v1"
-        },
-        {
-          "title": "A GPU-ACCELERATED NUMERICAL MODEL FOR COASTAL FLOODING",
-          "date": "2025-05-29",
-          "venue": "",
-          "link": "https://doi.org/10.9753/icce.v38.management.217"
         }
       ]
     },
