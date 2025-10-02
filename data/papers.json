@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-01",
+  "date": "2025-10-02",
   "year_from": 2024,
   "items": [
     {
@@ -77,110 +77,17 @@
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Extremal-Aware Deep Numerical Reinforcement Learning Fusion for Marine Tidal Prediction",
-          "date": "2025-09-13",
-          "venue": "",
-          "link": "https://doi.org/10.3390/jmse13091771"
-        },
-        {
-          "title": "Changes in Ocean Current Characteristics Due to Freshwater Discharge from Fjord Regions",
-          "date": "2025-08-29",
-          "venue": "",
-          "link": "https://doi.org/10.9765/kscoe.2025.37.4.93"
-        },
-        {
-          "title": "An Ocean Model for Novel Combined Groups of Artificial Reefs With Wind Power Foundation",
-          "date": "2025-06-22",
-          "venue": "",
-          "link": "https://doi.org/10.1115/omae2025-157073"
-        },
-        {
-          "title": "Analysis of Abnormal Sea Level Rise in Offshore Waters of Bohai Sea in 2024",
-          "date": "2025-06-05",
-          "venue": "",
-          "link": "https://doi.org/10.3390/jmse13061134"
-        },
-        {
-          "title": "Need for Mechanisms to Monitor Ocean Circulation\u2010Driven Seagrass Population Expansions",
-          "date": "2025-03-27",
-          "venue": "",
-          "link": "https://doi.org/10.1002/ece3.71087"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Spatio-Temporal Analysis of Shoreline Changes and Wave Modeling: Case of Mostaganem Bay, Algeria",
-          "date": "2025-06-01",
-          "venue": "",
-          "link": "https://doi.org/10.17818/nm/2025/1.1"
-        },
-        {
-          "title": "The Effectiveness of Groin Modifications to Reduce the Impacts of Indian Ocean Dipole (IOD)-induced Port Siltation in Adapting to Climate Change",
-          "date": "2025-04-14",
-          "venue": "",
-          "link": "https://doi.org/10.22146/jcef.16683"
-        },
-        {
-          "title": "Study on spatial arrangement for coastal protection solutions in Ben Tre province using numerical model",
-          "date": "2025-03-25",
-          "venue": "",
-          "link": "https://stce.huce.edu.vn/index.php/en/article/download/3219/1557"
-        },
-        {
-          "title": "Reply on RC2",
-          "date": "2025-01-25",
-          "venue": "",
-          "link": "https://doi.org/10.5194/nhess-2024-196-ac2"
-        },
-        {
-          "title": "Reply on RC1",
-          "date": "2025-01-25",
-          "venue": "",
-          "link": "https://doi.org/10.5194/nhess-2024-196-ac1"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 3\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Numerical Investigation of Jet Angle Effects on Thermal Dispersion Characteristics in Coastal Waters",
-          "date": "2025-05-09",
-          "venue": "",
-          "link": "https://doi.org/10.3390/jmse13050931"
-        },
-        {
-          "title": "Wave propagation over a submerged bar: benchmarking of VoF, sigma transformation, and SPH numerical models against physical wave flume tests",
-          "date": "2025-05-03",
-          "venue": "",
-          "link": "https://doi.org/10.1007/s42452-025-06651-9"
-        },
-        {
-          "title": "Modelled Water Temperature Patterns and Energy Balance of a Threatened Coastal Lagoon Ecosystem",
-          "date": "2025-02-01",
-          "venue": "",
-          "link": "https://doi.org/10.1002/hyp.70068"
-        },
-        {
-          "title": "Modeling nearshore-offshore water exchange in Lake Ontario",
-          "date": "2025-01-08",
-          "venue": "",
-          "link": "https://doi.org/10.1371/journal.pone.0298702"
-        },
-        {
-          "title": "Preliminary approach of oil spill model: A hindcasting with in situ data and numerical model in Balikpapan Bay, Indonesia",
-          "date": "2025-01-07",
-          "venue": "",
-          "link": "https://doi.org/10.24294/jipd10173"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Delft3D\"",

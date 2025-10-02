@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-10-01** · Showing results since **2024**_
+_Last update: **2025-10-02** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -28,32 +28,11 @@ _Last update: **2025-10-01** · Showing results since **2024**_
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
-**Recent items (OpenAlex):**
-- [Extremal-Aware Deep Numerical Reinforcement Learning Fusion for Marine Tidal Prediction](https://doi.org/10.3390/jmse13091771) · 2025-09-13
-- [Changes in Ocean Current Characteristics Due to Freshwater Discharge from Fjord Regions](https://doi.org/10.9765/kscoe.2025.37.4.93) · 2025-08-29
-- [An Ocean Model for Novel Combined Groups of Artificial Reefs With Wind Power Foundation](https://doi.org/10.1115/omae2025-157073) · 2025-06-22
-- [Analysis of Abnormal Sea Level Rise in Offshore Waters of Bohai Sea in 2024](https://doi.org/10.3390/jmse13061134) · 2025-06-05
-- [Need for Mechanisms to Monitor Ocean Circulation‐Driven Seagrass Population Expansions](https://doi.org/10.1002/ece3.71087) · 2025-03-27
-
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
-**Recent items (OpenAlex):**
-- [Spatio-Temporal Analysis of Shoreline Changes and Wave Modeling: Case of Mostaganem Bay, Algeria](https://doi.org/10.17818/nm/2025/1.1) · 2025-06-01
-- [The Effectiveness of Groin Modifications to Reduce the Impacts of Indian Ocean Dipole (IOD)-induced Port Siltation in Adapting to Climate Change](https://doi.org/10.22146/jcef.16683) · 2025-04-14
-- [Study on spatial arrangement for coastal protection solutions in Ben Tre province using numerical model](https://stce.huce.edu.vn/index.php/en/article/download/3219/1557) · 2025-03-25
-- [Reply on RC2](https://doi.org/10.5194/nhess-2024-196-ac2) · 2025-01-25
-- [Reply on RC1](https://doi.org/10.5194/nhess-2024-196-ac1) · 2025-01-25
-
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
-
-**Recent items (OpenAlex):**
-- [Numerical Investigation of Jet Angle Effects on Thermal Dispersion Characteristics in Coastal Waters](https://doi.org/10.3390/jmse13050931) · 2025-05-09
-- [Wave propagation over a submerged bar: benchmarking of VoF, sigma transformation, and SPH numerical models against physical wave flume tests](https://doi.org/10.1007/s42452-025-06651-9) · 2025-05-03
-- [Modelled Water Temperature Patterns and Energy Balance of a Threatened Coastal Lagoon Ecosystem](https://doi.org/10.1002/hyp.70068) · 2025-02-01
-- [Modeling nearshore-offshore water exchange in Lake Ontario](https://doi.org/10.1371/journal.pone.0298702) · 2025-01-08
-- [Preliminary approach of oil spill model: A hindcasting with in situ data and numerical model in Balikpapan Bay, Indonesia](https://doi.org/10.24294/jipd10173) · 2025-01-07
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Delft3D"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
