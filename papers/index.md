@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-10-03** · Showing results since **2024**_
+_Last update: **2025-10-04** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -34,22 +34,8 @@ _Last update: **2025-10-03** · Showing results since **2024**_
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
-**Recent items (OpenAlex):**
-- [Numerical Investigation of Jet Angle Effects on Thermal Dispersion Characteristics in Coastal Waters](https://doi.org/10.3390/jmse13050931) · 2025-05-09
-- [Wave propagation over a submerged bar: benchmarking of VoF, sigma transformation, and SPH numerical models against physical wave flume tests](https://doi.org/10.1007/s42452-025-06651-9) · 2025-05-03
-- [Modelled Water Temperature Patterns and Energy Balance of a Threatened Coastal Lagoon Ecosystem](https://doi.org/10.1002/hyp.70068) · 2025-02-01
-- [Modeling nearshore-offshore water exchange in Lake Ontario](https://doi.org/10.1371/journal.pone.0298702) · 2025-01-08
-- [Preliminary approach of oil spill model: A hindcasting with in situ data and numerical model in Balikpapan Bay, Indonesia](https://doi.org/10.24294/jipd10173) · 2025-01-07
-
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Delft3D"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
-
-**Recent items (OpenAlex):**
-- [Phytoplankton phenology paradox in an isolated tropical lagoon of the northern Red Sea](https://www.nature.com/articles/s41598-025-17907-0.pdf) · 2025-09-26
-- [Use of SWOT Data for Hydrodynamic Modelling in a Tropical Microtidal Estuarine System: The Case of Casamance (Senegal)](https://doi.org/10.3390/rs17183252) · 2025-09-20
-- [Sediment dynamics in a dyke breach and across a tidally flooded land surface](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1626491/pdf) · 2025-09-08
-- [Effect of Climate Change‐Induced Tropical Cyclone Track Shift on Sedimentology in the East China Coastal Ocean](https://doi.org/10.1029/2024jc022245) · 2025-08-01
-- [Use of SWOT Data for Hydrodynamic Modelling in a Tropical Microtidal Estuarine System: The Case of Casamance (Senegal)](https://doi.org/10.20944/preprints202507.2525.v1) · 2025-07-30
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
