@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-13",
+  "date": "2025-10-14",
   "year_from": 2024,
   "items": [
     {
@@ -205,16 +205,16 @@
           "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1626491/pdf"
         },
         {
+          "title": "Modeling Waves and Water Levels at the Entrance of a Bar-Built Estuary Under Variable Inlet Orientations",
+          "date": "2025-08-09",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s12237-025-01581-6.pdf"
+        },
+        {
           "title": "Effect of Climate Change\u2010Induced Tropical Cyclone Track Shift on Sedimentology in the East China Coastal Ocean",
           "date": "2025-08-01",
           "venue": "",
           "link": "https://doi.org/10.1029/2024jc022245"
-        },
-        {
-          "title": "Use of SWOT Data for Hydrodynamic Modelling in a Tropical Microtidal Estuarine System: The Case of Casamance (Senegal)",
-          "date": "2025-07-30",
-          "venue": "",
-          "link": "https://doi.org/10.20944/preprints202507.2525.v1"
         }
       ]
     },
