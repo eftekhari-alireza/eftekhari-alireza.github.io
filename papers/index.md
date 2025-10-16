@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-10-15** · Showing results since **2024**_
+_Last update: **2025-10-16** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2025-10-15** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Detached &lt;i&gt;Hexareef &lt;/i&gt;Breakwater Configuration Design to Reduce the Effect of Ocean Waves at Eco-Resort Area Raja Ampat](https://doi.org/10.4028/p-px6use) · 2025-10-13
+- [Quantifying the drivers of sea level changes along Singapore’s coastline: the role of tides, non-tidal residuals, and wave dynamics](https://doi.org/10.1080/21664250.2025.2569226) · 2025-10-12
 - [Phytoplankton phenology paradox in an isolated tropical lagoon of the northern Red Sea](https://www.nature.com/articles/s41598-025-17907-0.pdf) · 2025-09-26
 - [Use of SWOT Data for Hydrodynamic Modelling in a Tropical Microtidal Estuarine System: The Case of Casamance (Senegal)](https://www.mdpi.com/2072-4292/17/18/3252/pdf?version=1758374430) · 2025-09-20
 - [Sediment dynamics in a dyke breach and across a tidally flooded land surface](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1626491/pdf) · 2025-09-08
-- [Modeling Waves and Water Levels at the Entrance of a Bar-Built Estuary Under Variable Inlet Orientations](https://link.springer.com/content/pdf/10.1007/s12237-025-01581-6.pdf) · 2025-08-09
-- [Effect of Climate Change‐Induced Tropical Cyclone Track Shift on Sedimentology in the East China Coastal Ocean](https://doi.org/10.1029/2024jc022245) · 2025-08-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
