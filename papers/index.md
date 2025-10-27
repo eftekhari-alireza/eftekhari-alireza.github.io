@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-10-26** · Showing results since **2024**_
+_Last update: **2025-10-27** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2025-10-26** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Analisis Genangan Sungai Bailang Akibat Kombinasi Debit Sungai dan Pasang Surut menggunakan Program Mike 21](https://doi.org/10.55606/jurritek.v4i2.6171) · 2025-07-11
 - [Spatio-Temporal Analysis of Shoreline Changes and Wave Modeling: Case of Mostaganem Bay, Algeria](https://doi.org/10.17818/nm/2025/1.1) · 2025-06-01
 - [The Effectiveness of Groin Modifications to Reduce the Impacts of Indian Ocean Dipole (IOD)-induced Port Siltation in Adapting to Climate Change](https://doi.org/10.22146/jcef.16683) · 2025-04-14
 - [Study on spatial arrangement for coastal protection solutions in Ben Tre province using numerical model](https://stce.huce.edu.vn/index.php/en/article/download/3219/1557) · 2025-03-25
 - [Reply on RC2](https://doi.org/10.5194/nhess-2024-196-ac2) · 2025-01-25
-- [Reply on RC1](https://doi.org/10.5194/nhess-2024-196-ac1) · 2025-01-25
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2025-10-26** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Modelling the transport and deposition of sediment-microplastics fluxes in a braided river, using Delft3D](https://doi.org/10.1098/rsta.2024.0442) · 2025-10-23
 - [Detached &lt;i&gt;Hexareef &lt;/i&gt;Breakwater Configuration Design to Reduce the Effect of Ocean Waves at Eco-Resort Area Raja Ampat](https://doi.org/10.4028/p-px6use) · 2025-10-13
 - [Quantifying the drivers of sea level changes along Singapore’s coastline: the role of tides, non-tidal residuals, and wave dynamics](https://doi.org/10.1080/21664250.2025.2569226) · 2025-10-12
 - [Phytoplankton phenology paradox in an isolated tropical lagoon of the northern Red Sea](https://www.nature.com/articles/s41598-025-17907-0.pdf) · 2025-09-26
 - [Use of SWOT Data for Hydrodynamic Modelling in a Tropical Microtidal Estuarine System: The Case of Casamance (Senegal)](https://www.mdpi.com/2072-4292/17/18/3252/pdf?version=1758374430) · 2025-09-20
-- [Sediment dynamics in a dyke breach and across a tidally flooded land surface](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1626491/pdf) · 2025-09-08
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)

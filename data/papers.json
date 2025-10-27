@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-26",
+  "date": "2025-10-27",
   "year_from": 2024,
   "items": [
     {
@@ -115,6 +115,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Analisis Genangan Sungai Bailang Akibat Kombinasi Debit Sungai dan Pasang Surut menggunakan Program Mike 21",
+          "date": "2025-07-11",
+          "venue": "",
+          "link": "https://doi.org/10.55606/jurritek.v4i2.6171"
+        },
+        {
           "title": "Spatio-Temporal Analysis of Shoreline Changes and Wave Modeling: Case of Mostaganem Bay, Algeria",
           "date": "2025-06-01",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2025-01-25",
           "venue": "",
           "link": "https://doi.org/10.5194/nhess-2024-196-ac2"
-        },
-        {
-          "title": "Reply on RC1",
-          "date": "2025-01-25",
-          "venue": "",
-          "link": "https://doi.org/10.5194/nhess-2024-196-ac1"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Modelling the transport and deposition of sediment-microplastics fluxes in a braided river, using Delft3D",
+          "date": "2025-10-23",
+          "venue": "",
+          "link": "https://doi.org/10.1098/rsta.2024.0442"
+        },
+        {
           "title": "Detached &lt;i&gt;Hexareef &lt;/i&gt;Breakwater Configuration Design to Reduce the Effect of Ocean Waves at Eco-Resort Area Raja Ampat",
           "date": "2025-10-13",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2025-09-20",
           "venue": "",
           "link": "https://www.mdpi.com/2072-4292/17/18/3252/pdf?version=1758374430"
-        },
-        {
-          "title": "Sediment dynamics in a dyke breach and across a tidally flooded land surface",
-          "date": "2025-09-08",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1626491/pdf"
         }
       ]
     },
