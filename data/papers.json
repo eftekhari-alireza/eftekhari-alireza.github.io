@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-29",
+  "date": "2025-10-30",
   "year_from": 2024,
   "items": [
     {
@@ -19,16 +19,16 @@
           "link": "https://doi.org/10.21203/rs.3.rs-6322401/v1"
         },
         {
-          "title": "Quantifying Tidal Dune Morphodynamics at the Laboratory Scale: A Combined Measuring and Modelling Approach",
-          "date": "2025-03-15",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-19135"
-        },
-        {
           "title": "Mixing of tracers in stratified sheared flows &amp;#160; &amp;#160;&amp;#160;",
           "date": "2025-03-15",
           "venue": "",
           "link": "https://doi.org/10.5194/egusphere-egu25-17431"
+        },
+        {
+          "title": "Quantifying Tidal Dune Morphodynamics at the Laboratory Scale: A Combined Measuring and Modelling Approach",
+          "date": "2025-03-15",
+          "venue": "",
+          "link": "https://doi.org/10.5194/egusphere-egu25-19135"
         },
         {
           "title": "The Role of Fine-Scale Winds in Upwelling and Coastal Circulation in the Southern Benguela Upwelling System",
