@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-01",
+  "date": "2025-11-02",
   "year_from": 2024,
   "items": [
     {
@@ -91,6 +91,12 @@
           "link": "https://doi.org/10.9765/kscoe.2025.37.4.93"
         },
         {
+          "title": "Extreme wave and storm surge characteristics in the southeastern coastal and offshore regions of China",
+          "date": "2025-07-24",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41598-025-09737-x.pdf"
+        },
+        {
           "title": "An Ocean Model for Novel Combined Groups of Artificial Reefs With Wind Power Foundation",
           "date": "2025-06-22",
           "venue": "",
@@ -101,12 +107,6 @@
           "date": "2025-06-05",
           "venue": "",
           "link": "https://doi.org/10.3390/jmse13061134"
-        },
-        {
-          "title": "Need for Mechanisms to Monitor Ocean Circulation\u2010Driven Seagrass Population Expansions",
-          "date": "2025-03-27",
-          "venue": "",
-          "link": "https://doi.org/10.1002/ece3.71087"
         }
       ]
     },
