@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-03",
+  "date": "2025-11-04",
   "year_from": 2024,
   "items": [
     {
@@ -11,6 +11,12 @@
           "date": "2025-09-08",
           "venue": "",
           "link": "https://doi.org/10.36688/ewtec-2025-845"
+        },
+        {
+          "title": "Oceanic teleconnection and ocean-atmosphere coupling in the south-eastern Tropical Atlantic (HDR)",
+          "date": "2025-06-04",
+          "venue": "",
+          "link": "https://doi.org/10.13140/rg.2.2.30934.97605"
         },
         {
           "title": "Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf",
@@ -29,12 +35,6 @@
           "date": "2025-03-15",
           "venue": "",
           "link": "https://doi.org/10.5194/egusphere-egu25-19135"
-        },
-        {
-          "title": "The Role of Fine-Scale Winds in Upwelling and Coastal Circulation in the Southern Benguela Upwelling System",
-          "date": "2025-03-14",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-10536"
         }
       ]
     },
@@ -43,34 +43,34 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
-          "title": "Comment on egusphere-2025-3361",
-          "date": "2025-09-18",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3361/egusphere-2025-3361.pdf"
-        },
-        {
           "title": "Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in Northern South China Sea and Its Response to Typhoon",
           "date": "2025-08-28",
           "venue": "",
-          "link": "https://doi.org/10.3390/jmse13091646"
+          "link": "https://www.mdpi.com/2077-1312/13/9/1646/pdf?version=1756377192"
         },
         {
           "title": "Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in the Northern South China Sea and Its Response to Typhoon",
           "date": "2025-08-25",
           "venue": "",
-          "link": "https://doi.org/10.20944/preprints202507.2300.v2"
+          "link": "https://www.preprints.org/frontend/manuscript/125344eaae8f2df2920f40e48fd248a8/download_pub"
         },
         {
           "title": "A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord",
           "date": "2025-07-22",
           "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-2025-3361"
+          "link": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3361/egusphere-2025-3361.pdf"
         },
         {
           "title": "Development and assessment of the physical\u2013biogeochemical ocean regional model in the Northwest Pacific: NPRT v1.0 (ROMS v3.9\u2013TOPAZ v2.0)",
           "date": "2025-07-01",
           "venue": "",
-          "link": "https://doi.org/10.5194/gmd-18-3941-2025"
+          "link": "https://gmd.copernicus.org/articles/18/3941/2025/gmd-18-3941-2025.pdf"
+        },
+        {
+          "title": "Implementing Astronomical Potential and Wavelet Analysis to Improve Regional Tide Modeling",
+          "date": "2025-06-11",
+          "venue": "",
+          "link": "https://www.mdpi.com/2079-3197/13/6/145/pdf?version=1749630579"
         }
       ]
     },
@@ -78,6 +78,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Storm Surge Dynamics and Mechanisms in the Macao Cross Tidal Channel",
+          "date": "2025-11-03",
+          "venue": "",
+          "link": "https://doi.org/10.3390/jmse13112087"
+        },
         {
           "title": "Extremal-Aware Deep Numerical Reinforcement Learning Fusion for Marine Tidal Prediction",
           "date": "2025-09-13",
@@ -88,7 +94,7 @@
           "title": "Changes in Ocean Current Characteristics Due to Freshwater Discharge from Fjord Regions",
           "date": "2025-08-29",
           "venue": "",
-          "link": "https://doi.org/10.9765/kscoe.2025.37.4.93"
+          "link": "http://www.jkscoe.or.kr/upload/pdf/jkscoe-37-4-93.pdf"
         },
         {
           "title": "Extreme wave and storm surge characteristics in the southeastern coastal and offshore regions of China",
@@ -101,12 +107,6 @@
           "date": "2025-06-22",
           "venue": "",
           "link": "https://doi.org/10.1115/omae2025-157073"
-        },
-        {
-          "title": "Analysis of Abnormal Sea Level Rise in Offshore Waters of Bohai Sea in 2024",
-          "date": "2025-06-05",
-          "venue": "",
-          "link": "https://doi.org/10.3390/jmse13061134"
         }
       ]
     },
@@ -115,13 +115,19 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Investigation of the Dumping Dredged Material in the Offshore of Dung Quat Seaport, Vietnam",
+          "date": "2025-09-30",
+          "venue": "",
+          "link": "https://doi.org/10.4274/jems.2025.06641"
+        },
+        {
           "title": "Analisis Genangan Sungai Bailang Akibat Kombinasi Debit Sungai dan Pasang Surut menggunakan Program Mike 21",
           "date": "2025-07-11",
           "venue": "",
-          "link": "https://doi.org/10.55606/jurritek.v4i2.6171"
+          "link": "https://prin.or.id/index.php/JURRITEK/article/download/6171/4551"
         },
         {
-          "title": "Spatio-Temporal Analysis of Shoreline Changes and Wave Modeling: Case of Mostaganem Bay, Algeria",
+          "title": "Spatio-Temporal Analysis of Shoreline Changes and\u00a0Wave Modeling: Case of Mostaganem Bay, Algeria",
           "date": "2025-06-01",
           "venue": "",
           "link": "https://doi.org/10.17818/nm/2025/1.1"
@@ -130,19 +136,13 @@
           "title": "The Effectiveness of Groin Modifications to Reduce the Impacts of Indian Ocean Dipole (IOD)-induced Port Siltation in Adapting to Climate Change",
           "date": "2025-04-14",
           "venue": "",
-          "link": "https://doi.org/10.22146/jcef.16683"
+          "link": "https://journal.ugm.ac.id/v3/JCEF/article/download/16683/5590"
         },
         {
           "title": "Study on spatial arrangement for coastal protection solutions in Ben Tre province using numerical model",
           "date": "2025-03-25",
           "venue": "",
-          "link": "https://stce.huce.edu.vn/index.php/en/article/download/3219/1557"
-        },
-        {
-          "title": "Reply on RC2",
-          "date": "2025-01-25",
-          "venue": "",
-          "link": "https://doi.org/10.5194/nhess-2024-196-ac2"
+          "link": "https://doi.org/10.31814/stce.huce2025-19(1)-07"
         }
       ]
     },
@@ -154,13 +154,13 @@
           "title": "Numerical Investigation of Jet Angle Effects on Thermal Dispersion Characteristics in Coastal Waters",
           "date": "2025-05-09",
           "venue": "",
-          "link": "https://doi.org/10.3390/jmse13050931"
+          "link": "https://www.mdpi.com/2077-1312/13/5/931/pdf?version=1746787085"
         },
         {
           "title": "Wave propagation over a submerged bar: benchmarking of VoF, sigma transformation, and SPH numerical models against physical wave flume tests",
           "date": "2025-05-03",
           "venue": "",
-          "link": "https://doi.org/10.1007/s42452-025-06651-9"
+          "link": "https://link.springer.com/content/pdf/10.1007/s42452-025-06651-9.pdf"
         },
         {
           "title": "Modelled Water Temperature Patterns and Energy Balance of a Threatened Coastal Lagoon Ecosystem",
@@ -169,16 +169,10 @@
           "link": "https://doi.org/10.1002/hyp.70068"
         },
         {
-          "title": "Modeling nearshore-offshore water exchange in Lake Ontario",
-          "date": "2025-01-08",
+          "title": "Fine-Scale hydrodynamic modelling of Lake Ontario: Has climate change affected circulation patterns?",
+          "date": "2024-02-01",
           "venue": "",
-          "link": "https://doi.org/10.1371/journal.pone.0298702"
-        },
-        {
-          "title": "Preliminary approach of oil spill model: A hindcasting with in situ data and numerical model in Balikpapan Bay, Indonesia",
-          "date": "2025-01-07",
-          "venue": "",
-          "link": "https://doi.org/10.24294/jipd10173"
+          "link": "https://www.researchsquare.com/article/rs-3296977/latest.pdf"
         }
       ]
     },
@@ -199,12 +193,6 @@
           "link": "https://doi.org/10.4028/p-px6use"
         },
         {
-          "title": "Quantifying the drivers of sea level changes along Singapore\u2019s coastline: the role of tides, non-tidal residuals, and wave dynamics",
-          "date": "2025-10-12",
-          "venue": "",
-          "link": "https://doi.org/10.1080/21664250.2025.2569226"
-        },
-        {
           "title": "Phytoplankton phenology paradox in an isolated tropical lagoon of the northern Red Sea",
           "date": "2025-09-26",
           "venue": "",
@@ -215,6 +203,12 @@
           "date": "2025-09-20",
           "venue": "",
           "link": "https://www.mdpi.com/2072-4292/17/18/3252/pdf?version=1758374430"
+        },
+        {
+          "title": "Sediment dynamics in a dyke breach and across a tidally flooded land surface",
+          "date": "2025-09-08",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1626491/pdf"
         }
       ]
     },
@@ -238,7 +232,7 @@
           "title": "What makes a successful community model for research and operations? Lessons learned from WAVEWATCH III\u00ae",
           "date": "2025-04-04",
           "venue": "",
-          "link": "https://doi.org/10.1175/bams-d-24-0223.1"
+          "link": "https://journals.ametsoc.org/downloadpdf/view/journals/bams/aop/BAMS-D-24-0223.1/BAMS-D-24-0223.1.pdf"
         },
         {
           "title": "An integrated Geostatistical and Numerical Modelling framework for Spatiotemporal Analysis of Wave Energy Fields in the Aegean Sea",
