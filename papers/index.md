@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-11-05** · Showing results since **2024**_
+_Last update: **2025-11-06** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -29,7 +29,7 @@ _Last update: **2025-11-05** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [Storm Surge Dynamics and Mechanisms in the Macao Cross Tidal Channel](https://doi.org/10.3390/jmse13112087) · 2025-11-03
+- [Storm Surge Dynamics and Mechanisms in the Macao Cross Tidal Channel](https://www.mdpi.com/2077-1312/13/11/2087/pdf?version=1762160064) · 2025-11-03
 - [Extremal-Aware Deep Numerical Reinforcement Learning Fusion for Marine Tidal Prediction](https://www.mdpi.com/2077-1312/13/9/1771/pdf?version=1758081605) · 2025-09-13
 - [Changes in Ocean Current Characteristics Due to Freshwater Discharge from Fjord Regions](http://www.jkscoe.or.kr/upload/pdf/jkscoe-37-4-93.pdf) · 2025-08-29
 - [Extreme wave and storm surge characteristics in the southeastern coastal and offshore regions of China](https://www.nature.com/articles/s41598-025-09737-x.pdf) · 2025-07-24
@@ -58,11 +58,11 @@ _Last update: **2025-11-05** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Numerical Analysis of Hydrodynamic and Channel Discharge Impacts of Planned Coastal Reclamation in Eastern Surabaya](https://doi.org/10.62012/mp.v4i3.46527) · 2025-11-04
 - [Modelling the transport and deposition of sediment-microplastics fluxes in a braided river, using Delft3D](https://doi.org/10.1098/rsta.2024.0442) · 2025-10-23
 - [Detached &lt;i&gt;Hexareef &lt;/i&gt;Breakwater Configuration Design to Reduce the Effect of Ocean Waves at Eco-Resort Area Raja Ampat](https://doi.org/10.4028/p-px6use) · 2025-10-13
 - [Phytoplankton phenology paradox in an isolated tropical lagoon of the northern Red Sea](https://www.nature.com/articles/s41598-025-17907-0.pdf) · 2025-09-26
 - [Use of SWOT Data for Hydrodynamic Modelling in a Tropical Microtidal Estuarine System: The Case of Casamance (Senegal)](https://www.mdpi.com/2072-4292/17/18/3252/pdf?version=1758374430) · 2025-09-20
-- [Sediment dynamics in a dyke breach and across a tidally flooded land surface](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1626491/pdf) · 2025-09-08
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
