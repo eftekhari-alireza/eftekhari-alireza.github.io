@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-11-06** · Showing results since **2024**_
+_Last update: **2025-11-07** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -21,7 +21,7 @@ _Last update: **2025-11-06** · Showing results since **2024**_
 **Recent items (OpenAlex):**
 - [Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in Northern South China Sea and Its Response to Typhoon](https://www.mdpi.com/2077-1312/13/9/1646/pdf?version=1756377192) · 2025-08-28
 - [Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in the Northern South China Sea and Its Response to Typhoon](https://www.preprints.org/frontend/manuscript/125344eaae8f2df2920f40e48fd248a8/download_pub) · 2025-08-25
-- [A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3361/egusphere-2025-3361.pdf) · 2025-07-22
+- [A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord](https://doi.org/10.5194/egusphere-2025-3361) · 2025-07-22
 - [Development and assessment of the physical–biogeochemical ocean regional model in the Northwest Pacific: NPRT v1.0 (ROMS v3.9–TOPAZ v2.0)](https://gmd.copernicus.org/articles/18/3941/2025/gmd-18-3941-2025.pdf) · 2025-07-01
 - [Implementing Astronomical Potential and Wavelet Analysis to Improve Regional Tide Modeling](https://www.mdpi.com/2079-3197/13/6/145/pdf?version=1749630579) · 2025-06-11
 
@@ -43,7 +43,7 @@ _Last update: **2025-11-06** · Showing results since **2024**_
 - [Analisis Genangan Sungai Bailang Akibat Kombinasi Debit Sungai dan Pasang Surut menggunakan Program Mike 21](https://prin.or.id/index.php/JURRITEK/article/download/6171/4551) · 2025-07-11
 - [Spatio-Temporal Analysis of Shoreline Changes and Wave Modeling: Case of Mostaganem Bay, Algeria](https://doi.org/10.17818/nm/2025/1.1) · 2025-06-01
 - [The Effectiveness of Groin Modifications to Reduce the Impacts of Indian Ocean Dipole (IOD)-induced Port Siltation in Adapting to Climate Change](https://journal.ugm.ac.id/v3/JCEF/article/download/16683/5590) · 2025-04-14
-- [Study on spatial arrangement for coastal protection solutions in Ben Tre province using numerical model](https://doi.org/10.31814/stce.huce2025-19(1)-07) · 2025-03-25
+- [Study on spatial arrangement for coastal protection solutions in Ben Tre province using numerical model](https://stce.huce.edu.vn/index.php/en/article/download/3219/1557) · 2025-03-25
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)

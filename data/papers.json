@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-06",
+  "date": "2025-11-07",
   "year_from": 2024,
   "items": [
     {
@@ -58,7 +58,7 @@
           "title": "A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord",
           "date": "2025-07-22",
           "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3361/egusphere-2025-3361.pdf"
+          "link": "https://doi.org/10.5194/egusphere-2025-3361"
         },
         {
           "title": "Development and assessment of the physical\u2013biogeochemical ocean regional model in the Northwest Pacific: NPRT v1.0 (ROMS v3.9\u2013TOPAZ v2.0)",
@@ -142,7 +142,7 @@
           "title": "Study on spatial arrangement for coastal protection solutions in Ben Tre province using numerical model",
           "date": "2025-03-25",
           "venue": "",
-          "link": "https://doi.org/10.31814/stce.huce2025-19(1)-07"
+          "link": "https://stce.huce.edu.vn/index.php/en/article/download/3219/1557"
         }
       ]
     },
