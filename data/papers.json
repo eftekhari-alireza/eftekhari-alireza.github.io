@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-13",
+  "date": "2025-11-14",
   "year_from": 2024,
   "items": [
     {
@@ -7,16 +7,16 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Deep Canyon\u2010Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans",
+          "date": "2025-11-01",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008"
+        },
+        {
           "title": "Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.",
           "date": "2025-09-08",
           "venue": "",
           "link": "https://doi.org/10.36688/ewtec-2025-845"
-        },
-        {
-          "title": "Oceanic teleconnection and ocean-atmosphere coupling in the south-eastern Tropical Atlantic (HDR)",
-          "date": "2025-06-04",
-          "venue": "",
-          "link": "https://doi.org/10.13140/rg.2.2.30934.97605"
         },
         {
           "title": "Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf",
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Deep Canyon\u2010Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans",
+          "date": "2025-11-01",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008"
+        },
+        {
           "title": "Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in Northern South China Sea and Its Response to Typhoon",
           "date": "2025-08-28",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2025-07-01",
           "venue": "",
           "link": "https://gmd.copernicus.org/articles/18/3941/2025/gmd-18-3941-2025.pdf"
-        },
-        {
-          "title": "Implementing Astronomical Potential and Wavelet Analysis to Improve Regional Tide Modeling",
-          "date": "2025-06-11",
-          "venue": "",
-          "link": "https://www.mdpi.com/2079-3197/13/6/145/pdf?version=1749630579"
         }
       ]
     },
