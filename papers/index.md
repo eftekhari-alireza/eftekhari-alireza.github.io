@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-11-15** · Showing results since **2024**_
+_Last update: **2025-11-16** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2025-11-15** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Physical, Analytical and Numerical Study of Ship-Generated Waves-Induced Hydrodynamics and Associated Sediment Transport](https://doi.org/10.20381/ruor-31508) · 2025-11-13
 - [Investigation of the Dumping Dredged Material in the Offshore of Dung Quat Seaport, Vietnam](https://doi.org/10.4274/jems.2025.06641) · 2025-09-30
 - [Analisis Genangan Sungai Bailang Akibat Kombinasi Debit Sungai dan Pasang Surut menggunakan Program Mike 21](https://prin.or.id/index.php/JURRITEK/article/download/6171/4551) · 2025-07-11
 - [Spatio-Temporal Analysis of Shoreline Changes and Wave Modeling: Case of Mostaganem Bay, Algeria](https://doi.org/10.17818/nm/2025/1.1) · 2025-06-01
 - [The Effectiveness of Groin Modifications to Reduce the Impacts of Indian Ocean Dipole (IOD)-induced Port Siltation in Adapting to Climate Change](https://journal.ugm.ac.id/v3/JCEF/article/download/16683/5590) · 2025-04-14
-- [Study on spatial arrangement for coastal protection solutions in Ben Tre province using numerical model](https://stce.huce.edu.vn/index.php/en/article/download/3219/1557) · 2025-03-25
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
