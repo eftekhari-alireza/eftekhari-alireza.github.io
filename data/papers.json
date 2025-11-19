@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-18",
+  "date": "2025-11-19",
   "year_from": 2024,
   "items": [
     {
@@ -61,16 +61,16 @@
           "link": "https://www.preprints.org/frontend/manuscript/125344eaae8f2df2920f40e48fd248a8/download_pub"
         },
         {
-          "title": "A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord",
-          "date": "2025-07-22",
+          "title": "Probabilistic and deterministic models of Pb-Zn mineralisation and post-mineralisation megabreccia, in the Lawn Hill region, Australia",
+          "date": "2025-08-21",
           "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-2025-3361"
+          "link": "https://researchonline.jcu.edu.au/1614/10/10references.pdf"
         },
         {
-          "title": "Development and assessment of the physical\u2013biogeochemical ocean regional model in the Northwest Pacific: NPRT v1.0 (ROMS v3.9\u2013TOPAZ v2.0)",
-          "date": "2025-07-01",
+          "title": "Real-Time Prediction of Pressure and Film Height Distribution in Plain Bearings Using Physics-Informed Neural Networks (PINNs)",
+          "date": "2025-08-14",
           "venue": "",
-          "link": "https://gmd.copernicus.org/articles/18/3941/2025/gmd-18-3941-2025.pdf"
+          "link": "https://www.mdpi.com/2075-4442/13/8/360/pdf?version=1755180696"
         }
       ]
     },
@@ -127,22 +127,22 @@
           "link": "https://doi.org/10.4274/jems.2025.06641"
         },
         {
+          "title": "Preserving Navigational Channel Depth at the Batang Arau Floodway Mouth, Padang, West Sumatra, Indonesia: A Numerical Study of Jetty Layout Effectiveness",
+          "date": "2025-09-01",
+          "venue": "",
+          "link": "http://www.hrpub.org/download/20250830/CEA13-14842155.pdf"
+        },
+        {
+          "title": "Machine Learning for Flood Resiliency\u2014Current Status and Unexplored Directions",
+          "date": "2025-07-28",
+          "venue": "",
+          "link": "https://www.mdpi.com/2076-3298/12/8/259/pdf?version=1753710380"
+        },
+        {
           "title": "Analisis Genangan Sungai Bailang Akibat Kombinasi Debit Sungai dan Pasang Surut menggunakan Program Mike 21",
           "date": "2025-07-11",
           "venue": "",
           "link": "https://prin.or.id/index.php/JURRITEK/article/download/6171/4551"
-        },
-        {
-          "title": "Spatio-Temporal Analysis of Shoreline Changes and\u00a0Wave Modeling: Case of Mostaganem Bay, Algeria",
-          "date": "2025-06-01",
-          "venue": "",
-          "link": "https://doi.org/10.17818/nm/2025/1.1"
-        },
-        {
-          "title": "The Effectiveness of Groin Modifications to Reduce the Impacts of Indian Ocean Dipole (IOD)-induced Port Siltation in Adapting to Climate Change",
-          "date": "2025-04-14",
-          "venue": "",
-          "link": "https://journal.ugm.ac.id/v3/JCEF/article/download/16683/5590"
         }
       ]
     },
@@ -151,10 +151,22 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Modelling the Dispersion of Dredged Material in Marine Environment Using Hydrodynamic and Sediment Transport Simulations in Tho Quang Port, Vietnam",
+          "date": "2025-05-15",
+          "venue": "",
+          "link": "https://js.vnu.edu.vn/EES/article/download/5273/4231"
+        },
+        {
           "title": "Numerical Investigation of Jet Angle Effects on Thermal Dispersion Characteristics in Coastal Waters",
           "date": "2025-05-09",
           "venue": "",
           "link": "https://www.mdpi.com/2077-1312/13/5/931/pdf?version=1746787085"
+        },
+        {
+          "title": "Wave-resolving Voronoi model of the Rouse number for sediment entrainment",
+          "date": "2025-05-05",
+          "venue": "",
+          "link": "https://os.copernicus.org/articles/21/877/2025/os-21-877-2025.pdf"
         },
         {
           "title": "Wave propagation over a submerged bar: benchmarking of VoF, sigma transformation, and SPH numerical models against physical wave flume tests",
@@ -167,12 +179,6 @@
           "date": "2025-02-01",
           "venue": "",
           "link": "https://doi.org/10.1002/hyp.70068"
-        },
-        {
-          "title": "Fine-Scale hydrodynamic modelling of Lake Ontario: Has climate change affected circulation patterns?",
-          "date": "2024-02-01",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-3296977/latest.pdf"
         }
       ]
     },
@@ -223,28 +229,28 @@
           "link": "https://doi.org/10.1029/2025jc022391"
         },
         {
+          "title": "Sizing the largest ocean waves using the SWOT mission",
+          "date": "2025-09-16",
+          "venue": "",
+          "link": "https://www.pnas.org/doi/pdf/10.1073/pnas.2513381122"
+        },
+        {
           "title": "Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.",
           "date": "2025-09-08",
           "venue": "",
           "link": "https://doi.org/10.36688/ewtec-2025-845"
         },
         {
-          "title": "What makes a successful community model for research and operations? Lessons learned from WAVEWATCH III\u00ae",
-          "date": "2025-04-04",
+          "title": "Analysis of infragravity waves characteristics and energy evaluation based on field observations",
+          "date": "2025-07-02",
           "venue": "",
-          "link": "https://journals.ametsoc.org/downloadpdf/view/journals/bams/aop/BAMS-D-24-0223.1/BAMS-D-24-0223.1.pdf"
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1627163/pdf"
         },
         {
-          "title": "An integrated Geostatistical and Numerical Modelling framework for Spatiotemporal Analysis of Wave Energy Fields in the Aegean Sea",
-          "date": "2025-03-15",
+          "title": "Modelling the Dispersion of Dredged Material in Marine Environment Using Hydrodynamic and Sediment Transport Simulations in Tho Quang Port, Vietnam",
+          "date": "2025-05-15",
           "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-16444"
-        },
-        {
-          "title": "The marine and coastal hazards of Mediterranean cyclones",
-          "date": "2025-03-14",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-4078"
+          "link": "https://js.vnu.edu.vn/EES/article/download/5273/4231"
         }
       ]
     }
