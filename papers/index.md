@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-11-27** · Showing results since **2024**_
+_Last update: **2025-11-28** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -61,9 +61,9 @@ _Last update: **2025-11-27** · Showing results since **2024**_
 **Recent items (OpenAlex):**
 - [Bayesian Projections of Shoreline Retreat Under Climate Change Along the Arid Coast of Duba, Saudi Arabia](https://www.mdpi.com/2071-1050/17/22/10401/pdf?version=1763634855) · 2025-11-20
 - [Numerical Analysis of Hydrodynamic and Channel Discharge Impacts of Planned Coastal Reclamation in Eastern Surabaya](https://doi.org/10.62012/mp.v4i3.46527) · 2025-11-04
+- [Analysis of Changes in Hydrodynamics Patterns and Sedimentation due to Coastal Reclamation Plans in Surabaya](https://doi.org/10.1088/1755-1315/1551/1/012063) · 2025-11-01
 - [Modelling the transport and deposition of sediment-microplastics fluxes in a braided river, using Delft3D](https://doi.org/10.1098/rsta.2024.0442) · 2025-10-23
 - [Detached &lt;i&gt;Hexareef &lt;/i&gt;Breakwater Configuration Design to Reduce the Effect of Ocean Waves at Eco-Resort Area Raja Ampat](https://doi.org/10.4028/p-px6use) · 2025-10-13
-- [Phytoplankton phenology paradox in an isolated tropical lagoon of the northern Red Sea](https://www.nature.com/articles/s41598-025-17907-0.pdf) · 2025-09-26
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)

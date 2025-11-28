@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-27",
+  "date": "2025-11-28",
   "year_from": 2024,
   "items": [
     {
@@ -199,6 +199,12 @@
           "link": "https://doi.org/10.62012/mp.v4i3.46527"
         },
         {
+          "title": "Analysis of Changes in Hydrodynamics Patterns and Sedimentation due to Coastal Reclamation Plans in Surabaya",
+          "date": "2025-11-01",
+          "venue": "",
+          "link": "https://doi.org/10.1088/1755-1315/1551/1/012063"
+        },
+        {
           "title": "Modelling the transport and deposition of sediment-microplastics fluxes in a braided river, using Delft3D",
           "date": "2025-10-23",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2025-10-13",
           "venue": "",
           "link": "https://doi.org/10.4028/p-px6use"
-        },
-        {
-          "title": "Phytoplankton phenology paradox in an isolated tropical lagoon of the northern Red Sea",
-          "date": "2025-09-26",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s41598-025-17907-0.pdf"
         }
       ]
     },
