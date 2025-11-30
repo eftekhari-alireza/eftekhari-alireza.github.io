@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-29",
+  "date": "2025-11-30",
   "year_from": 2024,
   "items": [
     {
@@ -13,28 +13,28 @@
           "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008"
         },
         {
+          "title": "Deep Canyon\u2010Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans",
+          "date": "2025-11-01",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008"
+        },
+        {
           "title": "Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.",
           "date": "2025-09-08",
           "venue": "",
           "link": "https://doi.org/10.36688/ewtec-2025-845"
         },
         {
+          "title": "Diapycnal Mixing and Tracer Dispersion in a Terrain\u2010Following Coordinate Model",
+          "date": "2025-08-01",
+          "venue": "",
+          "link": "https://doi.org/10.1029/2024ms004768"
+        },
+        {
           "title": "Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf",
           "date": "2025-04-22",
           "venue": "",
           "link": "https://doi.org/10.21203/rs.3.rs-6322401/v1"
-        },
-        {
-          "title": "Mixing of tracers in stratified sheared flows &amp;#160; &amp;#160;&amp;#160;",
-          "date": "2025-03-15",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-17431"
-        },
-        {
-          "title": "Quantifying Tidal Dune Morphodynamics at the Laboratory Scale: A Combined Measuring and Modelling Approach",
-          "date": "2025-03-15",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu25-19135"
         }
       ]
     },
@@ -42,6 +42,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Deep Canyon\u2010Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans",
+          "date": "2025-11-01",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008"
+        },
         {
           "title": "Deep Canyon\u2010Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans",
           "date": "2025-11-01",
@@ -65,12 +71,6 @@
           "date": "2025-08-21",
           "venue": "",
           "link": "https://researchonline.jcu.edu.au/1614/10/10references.pdf"
-        },
-        {
-          "title": "Real-Time Prediction of Pressure and Film Height Distribution in Plain Bearings Using Physics-Informed Neural Networks (PINNs)",
-          "date": "2025-08-14",
-          "venue": "",
-          "link": "https://www.mdpi.com/2075-4442/13/8/360/pdf?version=1755180696"
         }
       ]
     },
@@ -193,6 +193,12 @@
           "link": "https://www.mdpi.com/2071-1050/17/22/10401/pdf?version=1763634855"
         },
         {
+          "title": "Bayesian Projections of Shoreline Retreat Under Climate Change Along the Arid Coast of Duba, Saudi Arabia",
+          "date": "2025-11-20",
+          "venue": "",
+          "link": "https://www.mdpi.com/2071-1050/17/22/10401/pdf?version=1763634855"
+        },
+        {
           "title": "Numerical Analysis of Hydrodynamic and Channel Discharge Impacts of Planned Coastal Reclamation in Eastern Surabaya",
           "date": "2025-11-04",
           "venue": "",
@@ -205,16 +211,10 @@
           "link": "https://doi.org/10.1088/1755-1315/1551/1/012063"
         },
         {
-          "title": "Modelling the transport and deposition of sediment-microplastics fluxes in a braided river, using Delft3D",
-          "date": "2025-10-23",
+          "title": "Analysis of Changes in Hydrodynamics Patterns and Sedimentation due to Coastal Reclamation Plans in Surabaya",
+          "date": "2025-11-01",
           "venue": "",
-          "link": "https://doi.org/10.1098/rsta.2024.0442"
-        },
-        {
-          "title": "Detached &lt;i&gt;Hexareef &lt;/i&gt;Breakwater Configuration Design to Reduce the Effect of Ocean Waves at Eco-Resort Area Raja Ampat",
-          "date": "2025-10-13",
-          "venue": "",
-          "link": "https://doi.org/10.4028/p-px6use"
+          "link": "https://doi.org/10.1088/1755-1315/1551/1/012063"
         }
       ]
     },

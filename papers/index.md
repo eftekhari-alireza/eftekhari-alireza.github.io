@@ -3,27 +3,27 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-11-29** · Showing results since **2024**_
+_Last update: **2025-11-30** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
 - [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
+- [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
 - [Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.](https://doi.org/10.36688/ewtec-2025-845) · 2025-09-08
+- [Diapycnal Mixing and Tracer Dispersion in a Terrain‐Following Coordinate Model](https://doi.org/10.1029/2024ms004768) · 2025-08-01
 - [Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf](https://doi.org/10.21203/rs.3.rs-6322401/v1) · 2025-04-22
-- [Mixing of tracers in stratified sheared flows &amp;#160; &amp;#160;&amp;#160;](https://doi.org/10.5194/egusphere-egu25-17431) · 2025-03-15
-- [Quantifying Tidal Dune Morphodynamics at the Laboratory Scale: A Combined Measuring and Modelling Approach](https://doi.org/10.5194/egusphere-egu25-19135) · 2025-03-15
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
 - [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
+- [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
 - [Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in Northern South China Sea and Its Response to Typhoon](https://www.mdpi.com/2077-1312/13/9/1646/pdf?version=1756377192) · 2025-08-28
 - [Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in the Northern South China Sea and Its Response to Typhoon](https://www.preprints.org/frontend/manuscript/125344eaae8f2df2920f40e48fd248a8/download_pub) · 2025-08-25
 - [Probabilistic and deterministic models of Pb-Zn mineralisation and post-mineralisation megabreccia, in the Lawn Hill region, Australia](https://researchonline.jcu.edu.au/1614/10/10references.pdf) · 2025-08-21
-- [Real-Time Prediction of Pressure and Film Height Distribution in Plain Bearings Using Physics-Informed Neural Networks (PINNs)](https://www.mdpi.com/2075-4442/13/8/360/pdf?version=1755180696) · 2025-08-14
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -60,10 +60,10 @@ _Last update: **2025-11-29** · Showing results since **2024**_
 
 **Recent items (OpenAlex):**
 - [Bayesian Projections of Shoreline Retreat Under Climate Change Along the Arid Coast of Duba, Saudi Arabia](https://www.mdpi.com/2071-1050/17/22/10401/pdf?version=1763634855) · 2025-11-20
+- [Bayesian Projections of Shoreline Retreat Under Climate Change Along the Arid Coast of Duba, Saudi Arabia](https://www.mdpi.com/2071-1050/17/22/10401/pdf?version=1763634855) · 2025-11-20
 - [Numerical Analysis of Hydrodynamic and Channel Discharge Impacts of Planned Coastal Reclamation in Eastern Surabaya](https://doi.org/10.62012/mp.v4i3.46527) · 2025-11-04
 - [Analysis of Changes in Hydrodynamics Patterns and Sedimentation due to Coastal Reclamation Plans in Surabaya](https://doi.org/10.1088/1755-1315/1551/1/012063) · 2025-11-01
-- [Modelling the transport and deposition of sediment-microplastics fluxes in a braided river, using Delft3D](https://doi.org/10.1098/rsta.2024.0442) · 2025-10-23
-- [Detached &lt;i&gt;Hexareef &lt;/i&gt;Breakwater Configuration Design to Reduce the Effect of Ocean Waves at Eco-Resort Area Raja Ampat](https://doi.org/10.4028/p-px6use) · 2025-10-13
+- [Analysis of Changes in Hydrodynamics Patterns and Sedimentation due to Coastal Reclamation Plans in Surabaya](https://doi.org/10.1088/1755-1315/1551/1/012063) · 2025-11-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
