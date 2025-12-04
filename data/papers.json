@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-03",
+  "date": "2025-12-04",
   "year_from": 2024,
   "items": [
     {
@@ -115,6 +115,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications",
+          "date": "2025-11-26",
+          "venue": "",
+          "link": "https://doi.org/10.48550/arxiv.2511.21856"
+        },
+        {
+          "title": "A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications",
+          "date": "2025-11-26",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2511.21856"
+        },
+        {
           "title": "Physical, Analytical and Numerical Study of Ship-Generated Waves-Induced Hydrodynamics and Associated Sediment Transport",
           "date": "2025-11-13",
           "venue": "",
@@ -131,18 +143,6 @@
           "date": "2025-09-01",
           "venue": "",
           "link": "http://www.hrpub.org/download/20250830/CEA13-14842155.pdf"
-        },
-        {
-          "title": "Machine Learning for Flood Resiliency\u2014Current Status and Unexplored Directions",
-          "date": "2025-07-28",
-          "venue": "",
-          "link": "https://www.mdpi.com/2076-3298/12/8/259/pdf?version=1753710380"
-        },
-        {
-          "title": "Analisis Genangan Sungai Bailang Akibat Kombinasi Debit Sungai dan Pasang Surut menggunakan Program Mike 21",
-          "date": "2025-07-11",
-          "venue": "",
-          "link": "https://prin.or.id/index.php/JURRITEK/article/download/6171/4551"
         }
       ]
     },
@@ -223,6 +223,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications",
+          "date": "2025-11-26",
+          "venue": "",
+          "link": "https://doi.org/10.48550/arxiv.2511.21856"
+        },
+        {
+          "title": "A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications",
+          "date": "2025-11-26",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2511.21856"
+        },
+        {
           "title": "Spectral Refraction Modeling of Waves Around the Steep Reef at Palau",
           "date": "2025-09-30",
           "venue": "",
@@ -239,18 +251,6 @@
           "date": "2025-09-08",
           "venue": "",
           "link": "https://doi.org/10.36688/ewtec-2025-845"
-        },
-        {
-          "title": "Analysis of infragravity waves characteristics and energy evaluation based on field observations",
-          "date": "2025-07-02",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1627163/pdf"
-        },
-        {
-          "title": "Modelling the Dispersion of Dredged Material in Marine Environment Using Hydrodynamic and Sediment Transport Simulations in Tho Quang Port, Vietnam",
-          "date": "2025-05-15",
-          "venue": "",
-          "link": "https://js.vnu.edu.vn/EES/article/download/5273/4231"
         }
       ]
     }

@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-12-03** · Showing results since **2024**_
+_Last update: **2025-12-04** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2025-12-03** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications](https://doi.org/10.48550/arxiv.2511.21856) · 2025-11-26
+- [A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications](https://arxiv.org/pdf/2511.21856) · 2025-11-26
 - [Physical, Analytical and Numerical Study of Ship-Generated Waves-Induced Hydrodynamics and Associated Sediment Transport](https://doi.org/10.20381/ruor-31508) · 2025-11-13
 - [Investigation of the Dumping Dredged Material in the Offshore of Dung Quat Seaport, Vietnam](https://doi.org/10.4274/jems.2025.06641) · 2025-09-30
 - [Preserving Navigational Channel Depth at the Batang Arau Floodway Mouth, Padang, West Sumatra, Indonesia: A Numerical Study of Jetty Layout Effectiveness](http://www.hrpub.org/download/20250830/CEA13-14842155.pdf) · 2025-09-01
-- [Machine Learning for Flood Resiliency—Current Status and Unexplored Directions](https://www.mdpi.com/2076-3298/12/8/259/pdf?version=1753710380) · 2025-07-28
-- [Analisis Genangan Sungai Bailang Akibat Kombinasi Debit Sungai dan Pasang Surut menggunakan Program Mike 21](https://prin.or.id/index.php/JURRITEK/article/download/6171/4551) · 2025-07-11
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -69,8 +69,8 @@ _Last update: **2025-12-03** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications](https://doi.org/10.48550/arxiv.2511.21856) · 2025-11-26
+- [A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications](https://arxiv.org/pdf/2511.21856) · 2025-11-26
 - [Spectral Refraction Modeling of Waves Around the Steep Reef at Palau](https://doi.org/10.1029/2025jc022391) · 2025-09-30
 - [Sizing the largest ocean waves using the SWOT mission](https://www.pnas.org/doi/pdf/10.1073/pnas.2513381122) · 2025-09-16
 - [Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.](https://doi.org/10.36688/ewtec-2025-845) · 2025-09-08
-- [Analysis of infragravity waves characteristics and energy evaluation based on field observations](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1627163/pdf) · 2025-07-02
-- [Modelling the Dispersion of Dredged Material in Marine Environment Using Hydrodynamic and Sediment Transport Simulations in Tho Quang Port, Vietnam](https://js.vnu.edu.vn/EES/article/download/5273/4231) · 2025-05-15
