@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-04",
+  "date": "2025-12-05",
   "year_from": 2024,
   "items": [
     {
@@ -127,6 +127,12 @@
           "link": "https://arxiv.org/pdf/2511.21856"
         },
         {
+          "title": "A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications",
+          "date": "2025-11-26",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2511.21856"
+        },
+        {
           "title": "Physical, Analytical and Numerical Study of Ship-Generated Waves-Induced Hydrodynamics and Associated Sediment Transport",
           "date": "2025-11-13",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2025-09-30",
           "venue": "",
           "link": "https://doi.org/10.4274/jems.2025.06641"
-        },
-        {
-          "title": "Preserving Navigational Channel Depth at the Batang Arau Floodway Mouth, Padang, West Sumatra, Indonesia: A Numerical Study of Jetty Layout Effectiveness",
-          "date": "2025-09-01",
-          "venue": "",
-          "link": "http://www.hrpub.org/download/20250830/CEA13-14842155.pdf"
         }
       ]
     },
@@ -235,6 +235,12 @@
           "link": "https://arxiv.org/pdf/2511.21856"
         },
         {
+          "title": "A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications",
+          "date": "2025-11-26",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2511.21856"
+        },
+        {
           "title": "Spectral Refraction Modeling of Waves Around the Steep Reef at Palau",
           "date": "2025-09-30",
           "venue": "",
@@ -245,12 +251,6 @@
           "date": "2025-09-16",
           "venue": "",
           "link": "https://www.pnas.org/doi/pdf/10.1073/pnas.2513381122"
-        },
-        {
-          "title": "Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.",
-          "date": "2025-09-08",
-          "venue": "",
-          "link": "https://doi.org/10.36688/ewtec-2025-845"
         }
       ]
     }
