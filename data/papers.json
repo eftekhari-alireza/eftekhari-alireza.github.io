@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-09",
+  "date": "2025-12-10",
   "year_from": 2024,
   "items": [
     {
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Erosion and Sedimentation Modeling Using Delft3D in the Manikin Estuary, Kupang, East Nusa Tenggara",
+          "date": "2025-12-08",
+          "venue": "",
+          "link": "https://doi.org/10.12962/j20861206.v40i3.9321"
+        },
+        {
           "title": "Hydrodynamics of ebb-tidal jet and circulations within a tidal inlet and embayed beach system",
           "date": "2025-12-05",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2025-11-04",
           "venue": "",
           "link": "https://doi.org/10.62012/mp.v4i3.46527"
-        },
-        {
-          "title": "Analysis of Changes in Hydrodynamics Patterns and Sedimentation due to Coastal Reclamation Plans in Surabaya",
-          "date": "2025-11-01",
-          "venue": "",
-          "link": "https://doi.org/10.1088/1755-1315/1551/1/012063"
         }
       ]
     },

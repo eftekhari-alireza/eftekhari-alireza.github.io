@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-12-09** · Showing results since **2024**_
+_Last update: **2025-12-10** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2025-12-09** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Erosion and Sedimentation Modeling Using Delft3D in the Manikin Estuary, Kupang, East Nusa Tenggara](https://doi.org/10.12962/j20861206.v40i3.9321) · 2025-12-08
 - [Hydrodynamics of ebb-tidal jet and circulations within a tidal inlet and embayed beach system](https://doi.org/10.7488/era/6800) · 2025-12-05
 - [Bayesian Projections of Shoreline Retreat Under Climate Change Along the Arid Coast of Duba, Saudi Arabia](https://www.mdpi.com/2071-1050/17/22/10401/pdf?version=1763634855) · 2025-11-20
 - [Bayesian Projections of Shoreline Retreat Under Climate Change Along the Arid Coast of Duba, Saudi Arabia](https://www.mdpi.com/2071-1050/17/22/10401/pdf?version=1763634855) · 2025-11-20
 - [Numerical Analysis of Hydrodynamic and Channel Discharge Impacts of Planned Coastal Reclamation in Eastern Surabaya](https://doi.org/10.62012/mp.v4i3.46527) · 2025-11-04
-- [Analysis of Changes in Hydrodynamics Patterns and Sedimentation due to Coastal Reclamation Plans in Surabaya](https://doi.org/10.1088/1755-1315/1551/1/012063) · 2025-11-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
