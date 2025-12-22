@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-12-21** · Showing results since **2024**_
+_Last update: **2025-12-22** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -53,7 +53,7 @@ _Last update: **2025-12-21** · Showing results since **2024**_
 - [Numerical Investigation of Jet Angle Effects on Thermal Dispersion Characteristics in Coastal Waters](https://www.mdpi.com/2077-1312/13/5/931/pdf?version=1746787085) · 2025-05-09
 - [Wave-resolving Voronoi model of the Rouse number for sediment entrainment](https://os.copernicus.org/articles/21/877/2025/os-21-877-2025.pdf) · 2025-05-05
 - [Wave propagation over a submerged bar: benchmarking of VoF, sigma transformation, and SPH numerical models against physical wave flume tests](https://link.springer.com/content/pdf/10.1007/s42452-025-06651-9.pdf) · 2025-05-03
-- [Modelled Water Temperature Patterns and Energy Balance of a Threatened Coastal Lagoon Ecosystem](https://doi.org/10.1002/hyp.70068) · 2025-02-01
+- [Modelled Water Temperature Patterns and Energy Balance of a Threatened Coastal Lagoon Ecosystem](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hyp.70068) · 2025-02-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Delft3D"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
