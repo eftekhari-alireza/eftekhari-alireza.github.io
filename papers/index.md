@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-12-24** · Showing results since **2024**_
+_Last update: **2025-12-25** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2025-12-24** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [High-resolution regional SST AI downscaling based on multi-mode inputs from nested ROMS simulations](https://doi.org/10.1088/2632-2153/ae3054) · 2025-12-22
 - [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
 - [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
 - [Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in Northern South China Sea and Its Response to Typhoon](https://www.mdpi.com/2077-1312/13/9/1646/pdf?version=1756377192) · 2025-08-28
 - [Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in the Northern South China Sea and Its Response to Typhoon](https://www.preprints.org/frontend/manuscript/125344eaae8f2df2920f40e48fd248a8/download_pub) · 2025-08-25
-- [Probabilistic and deterministic models of Pb-Zn mineralisation and post-mineralisation megabreccia, in the Lawn Hill region, Australia](https://researchonline.jcu.edu.au/1614/10/10references.pdf) · 2025-08-21
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2025-12-24** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [Longitudinal Wave Power as a Proxy for Coastal Change Detection](https://doi.org/10.5194/egusphere-2025-5773) · 2025-12-22
+- [DYCOVE: A Python package for coupling dynamic vegetation processes with hydro-morphodynamic models](https://doi.org/10.31223/x52j29) · 2025-12-23
+- [Longitudinal Wave Power as a Proxy for Coastal Change Detection](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5773/egusphere-2025-5773.pdf) · 2025-12-22
 - [NUMERICAL WAVE MODELING AND ANALYSIS OF COASTAL BREAKWATERS FOR THE MITIGATION OF EXTREME EVENT IMPACTS IN SANTOS/SP](https://doi.org/10.5281/zenodo.17856742) · 2025-12-08
 - [NUMERICAL WAVE MODELING AND ANALYSIS OF COASTAL BREAKWATERS FOR THE MITIGATION OF EXTREME EVENT IMPACTS IN SANTOS/SP](https://doi.org/10.5281/zenodo.17856743) · 2025-12-08
 - [Erosion and Sedimentation Modeling Using Delft3D in the Manikin Estuary, Kupang, East Nusa Tenggara](https://journal.its.ac.id/index.php/jce/article/download/9321/7517) · 2025-12-08
-- [Hydrodynamics of ebb-tidal jet and circulations within a tidal inlet and embayed beach system](https://doi.org/10.7488/era/6800) · 2025-12-05
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
