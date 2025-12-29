@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-28",
+  "date": "2025-12-29",
   "year_from": 2024,
   "items": [
     {
@@ -190,7 +190,7 @@
           "title": "DYCOVE: A Python package for coupling dynamic vegetation processes with hydro-morphodynamic models",
           "date": "2025-12-23",
           "venue": "",
-          "link": "https://doi.org/10.31223/x52j29"
+          "link": "https://eartharxiv.org/repository/object/11241/download/20439/"
         },
         {
           "title": "Longitudinal Wave Power as a Proxy for Coastal Change Detection",

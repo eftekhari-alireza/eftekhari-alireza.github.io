@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2025-12-28** · Showing results since **2024**_
+_Last update: **2025-12-29** · Showing results since **2024**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,7 +59,7 @@ _Last update: **2025-12-28** · Showing results since **2024**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2024&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [DYCOVE: A Python package for coupling dynamic vegetation processes with hydro-morphodynamic models](https://doi.org/10.31223/x52j29) · 2025-12-23
+- [DYCOVE: A Python package for coupling dynamic vegetation processes with hydro-morphodynamic models](https://eartharxiv.org/repository/object/11241/download/20439/) · 2025-12-23
 - [Longitudinal Wave Power as a Proxy for Coastal Change Detection](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5773/egusphere-2025-5773.pdf) · 2025-12-22
 - [NUMERICAL WAVE MODELING AND ANALYSIS OF COASTAL BREAKWATERS FOR THE MITIGATION OF EXTREME EVENT IMPACTS IN SANTOS/SP](https://doi.org/10.5281/zenodo.17856742) · 2025-12-08
 - [NUMERICAL WAVE MODELING AND ANALYSIS OF COASTAL BREAKWATERS FOR THE MITIGATION OF EXTREME EVENT IMPACTS IN SANTOS/SP](https://doi.org/10.5281/zenodo.17856743) · 2025-12-08
