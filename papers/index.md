@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-01-09** · Showing results since **2025**_
+_Last update: **2026-01-10** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-01-09** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord](https://doi.org/10.5194/bg-23-115-2026) · 2026-01-07
 - [High-resolution regional SST AI downscaling based on multi-mode inputs from nested ROMS simulations](https://doi.org/10.1088/2632-2153/ae3054) · 2025-12-22
 - [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
 - [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
 - [Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in Northern South China Sea and Its Response to Typhoon](https://www.mdpi.com/2077-1312/13/9/1646/pdf?version=1756377192) · 2025-08-28
-- [Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in the Northern South China Sea and Its Response to Typhoon](https://www.preprints.org/frontend/manuscript/125344eaae8f2df2920f40e48fd248a8/download_pub) · 2025-08-25
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

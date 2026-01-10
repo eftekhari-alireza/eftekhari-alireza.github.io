@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-09",
+  "date": "2026-01-10",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord",
+          "date": "2026-01-07",
+          "venue": "",
+          "link": "https://doi.org/10.5194/bg-23-115-2026"
+        },
+        {
           "title": "High-resolution regional SST AI downscaling based on multi-mode inputs from nested ROMS simulations",
           "date": "2025-12-22",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2025-08-28",
           "venue": "",
           "link": "https://www.mdpi.com/2077-1312/13/9/1646/pdf?version=1756377192"
-        },
-        {
-          "title": "Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in the Northern South China Sea and Its Response to Typhoon",
-          "date": "2025-08-25",
-          "venue": "",
-          "link": "https://www.preprints.org/frontend/manuscript/125344eaae8f2df2920f40e48fd248a8/download_pub"
         }
       ]
     },
