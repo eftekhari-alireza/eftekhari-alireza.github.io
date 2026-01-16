@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-01-15** · Showing results since **2025**_
+_Last update: **2026-01-16** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -33,7 +33,7 @@ _Last update: **2026-01-15** · Showing results since **2025**_
 - [Extremal-Aware Deep Numerical Reinforcement Learning Fusion for Marine Tidal Prediction](https://www.mdpi.com/2077-1312/13/9/1771/pdf?version=1758081605) · 2025-09-13
 - [Changes in Ocean Current Characteristics Due to Freshwater Discharge from Fjord Regions](http://www.jkscoe.or.kr/upload/pdf/jkscoe-37-4-93.pdf) · 2025-08-29
 - [Extreme wave and storm surge characteristics in the southeastern coastal and offshore regions of China](https://www.nature.com/articles/s41598-025-09737-x.pdf) · 2025-07-24
-- [Analysis of Abnormal Sea Level Rise in Offshore Waters of Bohai Sea in 2024](https://www.mdpi.com/2077-1312/13/6/1134/pdf?version=1749207856) · 2025-06-05
+- [An Ocean Model for Novel Combined Groups of Artificial Reefs With Wind Power Foundation](https://doi.org/10.1115/omae2025-157073) · 2025-06-22
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -49,11 +49,11 @@ _Last update: **2026-01-15** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Modelling the Dispersion of Dredged Material in Marine Environment Using Hydrodynamic and Sediment Transport Simulations in Tho Quang Port, Vietnam](https://js.vnu.edu.vn/EES/article/download/5273/4231) · 2025-05-15
 - [Numerical Investigation of Jet Angle Effects on Thermal Dispersion Characteristics in Coastal Waters](https://www.mdpi.com/2077-1312/13/5/931/pdf?version=1746787085) · 2025-05-09
 - [Wave-resolving Voronoi model of the Rouse number for sediment entrainment](https://os.copernicus.org/articles/21/877/2025/os-21-877-2025.pdf) · 2025-05-05
 - [Wave propagation over a submerged bar: benchmarking of VoF, sigma transformation, and SPH numerical models against physical wave flume tests](https://link.springer.com/content/pdf/10.1007/s42452-025-06651-9.pdf) · 2025-05-03
-- [Evaluation of the Hydrodynamic Impacts of Tidal Turbine Arrays in Jiaozhou Bay](https://www.mdpi.com/2077-1312/13/1/128/pdf?version=1736760491) · 2025-01-13
-- [Modeling nearshore-offshore water exchange in Lake Ontario](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0298702&type=printable) · 2025-01-08
+- [Modelled Water Temperature Patterns and Energy Balance of a Threatened Coastal Lagoon Ecosystem](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hyp.70068) · 2025-02-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Delft3D"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

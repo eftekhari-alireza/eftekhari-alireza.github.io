@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-15",
+  "date": "2026-01-16",
   "year_from": 2025,
   "items": [
     {
@@ -103,10 +103,10 @@
           "link": "https://www.nature.com/articles/s41598-025-09737-x.pdf"
         },
         {
-          "title": "Analysis of Abnormal Sea Level Rise in Offshore Waters of Bohai Sea in 2024",
-          "date": "2025-06-05",
+          "title": "An Ocean Model for Novel Combined Groups of Artificial Reefs With Wind Power Foundation",
+          "date": "2025-06-22",
           "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/13/6/1134/pdf?version=1749207856"
+          "link": "https://doi.org/10.1115/omae2025-157073"
         }
       ]
     },
@@ -151,6 +151,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Modelling the Dispersion of Dredged Material in Marine Environment Using Hydrodynamic and Sediment Transport Simulations in Tho Quang Port, Vietnam",
+          "date": "2025-05-15",
+          "venue": "",
+          "link": "https://js.vnu.edu.vn/EES/article/download/5273/4231"
+        },
+        {
           "title": "Numerical Investigation of Jet Angle Effects on Thermal Dispersion Characteristics in Coastal Waters",
           "date": "2025-05-09",
           "venue": "",
@@ -169,16 +175,10 @@
           "link": "https://link.springer.com/content/pdf/10.1007/s42452-025-06651-9.pdf"
         },
         {
-          "title": "Evaluation of the Hydrodynamic Impacts of Tidal Turbine Arrays in Jiaozhou Bay",
-          "date": "2025-01-13",
+          "title": "Modelled Water Temperature Patterns and Energy Balance of a Threatened Coastal Lagoon Ecosystem",
+          "date": "2025-02-01",
           "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/13/1/128/pdf?version=1736760491"
-        },
-        {
-          "title": "Modeling nearshore-offshore water exchange in Lake Ontario",
-          "date": "2025-01-08",
-          "venue": "",
-          "link": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0298702&type=printable"
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hyp.70068"
         }
       ]
     },
