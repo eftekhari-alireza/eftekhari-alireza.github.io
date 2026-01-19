@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-01-18** · Showing results since **2025**_
+_Last update: **2026-01-19** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-01-18** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [An approach to medium-term coastal morphological modelling](http://resolver.tudelft.nl/uuid:27a1ffa0-580e-4eae-907b-ce6f901e652e) · 2026-01-16
 - [Unraveling bed sediment dynamics and accumulation rates in the Northern Arabian Gulf: a synthesis of modeling, radiometric techniques, and field data](https://public-pages-files-2025.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1749824/pdf) · 2026-01-12
 - [Seasonal variation of currents in the Cam-Nam Trieu estuary (Hai Phong, Vietnam): results from a 3D modelling](https://vjs.ac.vn/jmst/article/download/20339/pdf) · 2025-12-30
 - [DYCOVE: A Python package for coupling dynamic vegetation processes with hydro-morphodynamic models](https://eartharxiv.org/repository/object/11241/download/20439/) · 2025-12-23
 - [Longitudinal Wave Power as a Proxy for Coastal Change Detection](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5773/egusphere-2025-5773.pdf) · 2025-12-22
-- [NUMERICAL WAVE MODELING AND ANALYSIS OF COASTAL BREAKWATERS FOR THE MITIGATION OF EXTREME EVENT IMPACTS IN SANTOS/SP](https://doi.org/10.5281/zenodo.17856742) · 2025-12-08
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
