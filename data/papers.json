@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-20",
+  "date": "2026-01-21",
   "year_from": 2025,
   "items": [
     {
@@ -19,12 +19,6 @@
           "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008"
         },
         {
-          "title": "Deep Canyon\u2010Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans",
-          "date": "2025-11-01",
-          "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008"
-        },
-        {
           "title": "Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.",
           "date": "2025-09-08",
           "venue": "",
@@ -35,6 +29,12 @@
           "date": "2025-08-01",
           "venue": "",
           "link": "https://doi.org/10.1029/2024ms004768"
+        },
+        {
+          "title": "Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf",
+          "date": "2025-04-22",
+          "venue": "",
+          "link": "https://doi.org/10.21203/rs.3.rs-6322401/v1"
         }
       ]
     },
@@ -55,10 +55,10 @@
           "link": "https://doi.org/10.1088/2632-2153/ae3054"
         },
         {
-          "title": "Deep Canyon\u2010Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans",
-          "date": "2025-11-01",
+          "title": "Linking ROMS with watershed models for simulating hydrodynamics and thermohaline dynamics in a coastal lagoon affected by extreme weather events",
+          "date": "2025-12-12",
           "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008"
+          "link": "https://doi.org/10.1016/j.ocemod.2025.102673"
         },
         {
           "title": "Deep Canyon\u2010Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans",
@@ -130,19 +130,19 @@
           "title": "A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications",
           "date": "2025-11-26",
           "venue": "",
-          "link": "https://doi.org/10.48550/arxiv.2511.21856"
-        },
-        {
-          "title": "A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications",
-          "date": "2025-11-26",
-          "venue": "",
           "link": "https://arxiv.org/pdf/2511.21856"
         },
         {
-          "title": "A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications",
-          "date": "2025-11-26",
+          "title": "Physical, Analytical and Numerical Study of Ship-Generated Waves-Induced Hydrodynamics and Associated Sediment Transport",
+          "date": "2025-11-13",
           "venue": "",
-          "link": "https://arxiv.org/pdf/2511.21856"
+          "link": "https://doi.org/10.20381/ruor-31508"
+        },
+        {
+          "title": "Investigation of the Dumping Dredged Material in the Offshore of Dung Quat Seaport, Vietnam",
+          "date": "2025-09-30",
+          "venue": "",
+          "link": "https://doi.org/10.4274/jems.2025.06641"
         }
       ]
     },
@@ -232,18 +232,6 @@
           "title": "A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications",
           "date": "2025-11-26",
           "venue": "",
-          "link": "https://doi.org/10.48550/arxiv.2511.21856"
-        },
-        {
-          "title": "A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications",
-          "date": "2025-11-26",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2511.21856"
-        },
-        {
-          "title": "A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications",
-          "date": "2025-11-26",
-          "venue": "",
           "link": "https://arxiv.org/pdf/2511.21856"
         },
         {
@@ -251,6 +239,18 @@
           "date": "2025-09-30",
           "venue": "",
           "link": "https://doi.org/10.1029/2025jc022391"
+        },
+        {
+          "title": "Sizing the largest ocean waves using the SWOT mission",
+          "date": "2025-09-16",
+          "venue": "",
+          "link": "https://www.pnas.org/doi/pdf/10.1073/pnas.2513381122"
+        },
+        {
+          "title": "Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.",
+          "date": "2025-09-08",
+          "venue": "",
+          "link": "https://doi.org/10.36688/ewtec-2025-845"
         }
       ]
     }

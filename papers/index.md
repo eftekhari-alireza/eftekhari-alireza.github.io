@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-01-20** · Showing results since **2025**_
+_Last update: **2026-01-21** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -11,9 +11,9 @@ _Last update: **2026-01-20** · Showing results since **2025**_
 **Recent items (OpenAlex):**
 - [Run-up Controls on Low-Tide Terrace Beaches Revealed by Non-Hydrostatic Wave Modeling](https://www.researchsquare.com/article/rs-8329028/latest.pdf) · 2025-12-25
 - [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
-- [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
 - [Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.](https://doi.org/10.36688/ewtec-2025-845) · 2025-09-08
 - [Diapycnal Mixing and Tracer Dispersion in a Terrain‐Following Coordinate Model](https://doi.org/10.1029/2024ms004768) · 2025-08-01
+- [Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf](https://doi.org/10.21203/rs.3.rs-6322401/v1) · 2025-04-22
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -21,7 +21,7 @@ _Last update: **2026-01-20** · Showing results since **2025**_
 **Recent items (OpenAlex):**
 - [A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord](https://doi.org/10.5194/bg-23-115-2026) · 2026-01-07
 - [High-resolution regional SST AI downscaling based on multi-mode inputs from nested ROMS simulations](https://doi.org/10.1088/2632-2153/ae3054) · 2025-12-22
-- [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
+- [Linking ROMS with watershed models for simulating hydrodynamics and thermohaline dynamics in a coastal lagoon affected by extreme weather events](https://doi.org/10.1016/j.ocemod.2025.102673) · 2025-12-12
 - [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
 - [Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in Northern South China Sea and Its Response to Typhoon](https://www.mdpi.com/2077-1312/13/9/1646/pdf?version=1756377192) · 2025-08-28
 
@@ -41,9 +41,9 @@ _Last update: **2026-01-20** · Showing results since **2025**_
 **Recent items (OpenAlex):**
 - [Calibration and Verification of a Coupled Model for the Coastal and Estuaries in the Mekong River Delta, Vietnam](https://doi.org/10.3390/jmse14020157) · 2026-01-11
 - [Wind–Wave and Swell Separation and Typhoon Wave Responses on the Dafeng Shelf (Northern Jiangsu)](https://doi.org/10.3390/w18010083) · 2025-12-29
-- [A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications](https://doi.org/10.48550/arxiv.2511.21856) · 2025-11-26
 - [A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications](https://arxiv.org/pdf/2511.21856) · 2025-11-26
-- [A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications](https://arxiv.org/pdf/2511.21856) · 2025-11-26
+- [Physical, Analytical and Numerical Study of Ship-Generated Waves-Induced Hydrodynamics and Associated Sediment Transport](https://doi.org/10.20381/ruor-31508) · 2025-11-13
+- [Investigation of the Dumping Dredged Material in the Offshore of Dung Quat Seaport, Vietnam](https://doi.org/10.4274/jems.2025.06641) · 2025-09-30
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -70,7 +70,7 @@ _Last update: **2026-01-20** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [Data for: Spectral refraction modeling of waves around the steep reef at Palau](https://doi.org/10.5061/dryad.cvdncjtdt) · 2025-12-19
-- [A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications](https://doi.org/10.48550/arxiv.2511.21856) · 2025-11-26
-- [A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications](https://arxiv.org/pdf/2511.21856) · 2025-11-26
 - [A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications](https://arxiv.org/pdf/2511.21856) · 2025-11-26
 - [Spectral Refraction Modeling of Waves Around the Steep Reef at Palau](https://doi.org/10.1029/2025jc022391) · 2025-09-30
+- [Sizing the largest ocean waves using the SWOT mission](https://www.pnas.org/doi/pdf/10.1073/pnas.2513381122) · 2025-09-16
+- [Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.](https://doi.org/10.36688/ewtec-2025-845) · 2025-09-08
