@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-24",
+  "date": "2026-01-25",
   "year_from": 2025,
   "items": [
     {
@@ -199,6 +199,12 @@
           "link": "https://public-pages-files-2025.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1749824/pdf"
         },
         {
+          "title": "Influence of Topographic and Shoreline Changes on Tidal Current Asymmetry in Lingding Bay",
+          "date": "2026-01-01",
+          "venue": "",
+          "link": "https://doi.org/10.11988/ckyyb.20241034"
+        },
+        {
           "title": "Seasonal variation of currents in the Cam-Nam Trieu estuary (Hai Phong, Vietnam): results from a 3D modelling",
           "date": "2025-12-30",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2025-12-23",
           "venue": "",
           "link": "https://eartharxiv.org/repository/object/11241/download/20439/"
-        },
-        {
-          "title": "Longitudinal Wave Power as a Proxy for Coastal Change Detection",
-          "date": "2025-12-22",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5773/egusphere-2025-5773.pdf"
         }
       ]
     },
