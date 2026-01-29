@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-01-28** · Showing results since **2025**_
+_Last update: **2026-01-29** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -29,11 +29,11 @@ _Last update: **2026-01-28** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Development of a next-generation general ocean circulation model for the Great Lakes](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6556/egusphere-2025-6556.pdf) · 2026-01-26
 - [Storm Surge Dynamics and Mechanisms in the Macao Cross Tidal Channel](https://www.mdpi.com/2077-1312/13/11/2087/pdf?version=1762160064) · 2025-11-03
 - [Extremal-Aware Deep Numerical Reinforcement Learning Fusion for Marine Tidal Prediction](https://www.mdpi.com/2077-1312/13/9/1771/pdf?version=1758081605) · 2025-09-13
 - [Changes in Ocean Current Characteristics Due to Freshwater Discharge from Fjord Regions](http://www.jkscoe.or.kr/upload/pdf/jkscoe-37-4-93.pdf) · 2025-08-29
 - [Extreme wave and storm surge characteristics in the southeastern coastal and offshore regions of China](https://www.nature.com/articles/s41598-025-09737-x.pdf) · 2025-07-24
-- [An Ocean Model for Novel Combined Groups of Artificial Reefs With Wind Power Foundation](https://doi.org/10.1115/omae2025-157073) · 2025-06-22
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

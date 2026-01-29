@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-28",
+  "date": "2026-01-29",
   "year_from": 2025,
   "items": [
     {
@@ -79,6 +79,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Development of a next-generation general ocean circulation model for the Great Lakes",
+          "date": "2026-01-26",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6556/egusphere-2025-6556.pdf"
+        },
+        {
           "title": "Storm Surge Dynamics and Mechanisms in the Macao Cross Tidal Channel",
           "date": "2025-11-03",
           "venue": "",
@@ -101,12 +107,6 @@
           "date": "2025-07-24",
           "venue": "",
           "link": "https://www.nature.com/articles/s41598-025-09737-x.pdf"
-        },
-        {
-          "title": "An Ocean Model for Novel Combined Groups of Artificial Reefs With Wind Power Foundation",
-          "date": "2025-06-22",
-          "venue": "",
-          "link": "https://doi.org/10.1115/omae2025-157073"
         }
       ]
     },
