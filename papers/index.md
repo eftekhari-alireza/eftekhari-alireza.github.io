@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-02-11** · Showing results since **2025**_
+_Last update: **2026-02-12** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2026-02-11** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Numerical Simulation of Hydrodynamics and Sediment Transport for Coastal Protection with Artificial Reefs](https://doi.org/10.3390/oceans7010016) · 2026-02-11
 - [Integrated hydrodynamic and environmental assessment of Kuah coastal Area, Langkawi island: A framework for future coastal resilience](https://link.springer.com/content/pdf/10.1007/s11852-026-01194-6.pdf) · 2026-01-28
 - [Calibration and Verification of a Coupled Model for the Coastal and Estuaries in the Mekong River Delta, Vietnam](https://doi.org/10.3390/jmse14020157) · 2026-01-11
+- [Tsunami hazard mapping and wave propagation analysis through numerical model simulations scenario: Case study Labuan Bajo, East Nusa Tenggara](https://doi.org/10.1051/bioconf/202622006003) · 2026-01-01
 - [Wind–Wave and Swell Separation and Typhoon Wave Responses on the Dafeng Shelf (Northern Jiangsu)](https://doi.org/10.3390/w18010083) · 2025-12-29
-- [A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications](https://arxiv.org/pdf/2511.21856) · 2025-11-26
-- [Physical, Analytical and Numerical Study of Ship-Generated Waves-Induced Hydrodynamics and Associated Sediment Transport](https://doi.org/10.20381/ruor-31508) · 2025-11-13
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
