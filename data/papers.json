@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "year_from": 2025,
   "items": [
     {
@@ -31,10 +31,10 @@
           "link": "https://doi.org/10.1029/2024ms004768"
         },
         {
-          "title": "Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf",
-          "date": "2025-04-22",
+          "title": "\u00c9tude de la dynamique abyssale dans l\u2019est du gyre subpolaire via un mod\u00e8le aux \u00e9quations primitives",
+          "date": "2025-07-01",
           "venue": "",
-          "link": "https://doi.org/10.21203/rs.3.rs-6322401/v1"
+          "link": "https://theses.hal.science/tel-05505828"
         }
       ]
     },
@@ -47,6 +47,12 @@
           "date": "2026-01-07",
           "venue": "",
           "link": "https://doi.org/10.5194/bg-23-115-2026"
+        },
+        {
+          "title": "Linking ROMS with watershed models for simulating hydrodynamics and thermohaline dynamics in a coastal lagoon affected by extreme weather events",
+          "date": "2025-12-25",
+          "venue": "",
+          "link": "https://doi.org/10.3929/ethz-c-000790852"
         },
         {
           "title": "High-resolution regional SST AI downscaling based on multi-mode inputs from nested ROMS simulations",
@@ -65,12 +71,6 @@
           "date": "2025-11-01",
           "venue": "",
           "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008"
-        },
-        {
-          "title": "Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in Northern South China Sea and Its Response to Typhoon",
-          "date": "2025-08-28",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/13/9/1646/pdf?version=1756377192"
         }
       ]
     },
@@ -115,10 +115,16 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Tsunami hazard mapping and wave propagation analysis through numerical model simulations scenario: Case study Labuan Bajo, East Nusa Tenggara",
+          "date": "2026-02-11",
+          "venue": "",
+          "link": "https://www.bio-conferences.org/10.1051/bioconf/202622006003/pdf"
+        },
+        {
           "title": "Numerical Simulation of Hydrodynamics and Sediment Transport for Coastal Protection with Artificial Reefs",
           "date": "2026-02-11",
           "venue": "",
-          "link": "https://doi.org/10.3390/oceans7010016"
+          "link": "https://www.mdpi.com/2673-1924/7/1/16/pdf"
         },
         {
           "title": "Integrated hydrodynamic and environmental assessment of Kuah coastal Area, Langkawi island: A framework for future coastal resilience",
@@ -136,13 +142,7 @@
           "title": "Tsunami hazard mapping and wave propagation analysis through numerical model simulations scenario: Case study Labuan Bajo, East Nusa Tenggara",
           "date": "2026-01-01",
           "venue": "",
-          "link": "https://doi.org/10.1051/bioconf/202622006003"
-        },
-        {
-          "title": "Wind\u2013Wave and Swell Separation and Typhoon Wave Responses on the Dafeng Shelf (Northern Jiangsu)",
-          "date": "2025-12-29",
-          "venue": "",
-          "link": "https://doi.org/10.3390/w18010083"
+          "link": "https://www.bio-conferences.org/articles/bioconf/pdf/2026/13/bioconf_icms2026_06003.pdf"
         }
       ]
     },

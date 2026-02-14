@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-02-13** · Showing results since **2025**_
+_Last update: **2026-02-14** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -13,17 +13,17 @@ _Last update: **2026-02-13** · Showing results since **2025**_
 - [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
 - [Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.](https://doi.org/10.36688/ewtec-2025-845) · 2025-09-08
 - [Diapycnal Mixing and Tracer Dispersion in a Terrain‐Following Coordinate Model](https://doi.org/10.1029/2024ms004768) · 2025-08-01
-- [Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf](https://doi.org/10.21203/rs.3.rs-6322401/v1) · 2025-04-22
+- [Étude de la dynamique abyssale dans l’est du gyre subpolaire via un modèle aux équations primitives](https://theses.hal.science/tel-05505828) · 2025-07-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
 - [A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord](https://doi.org/10.5194/bg-23-115-2026) · 2026-01-07
+- [Linking ROMS with watershed models for simulating hydrodynamics and thermohaline dynamics in a coastal lagoon affected by extreme weather events](https://doi.org/10.3929/ethz-c-000790852) · 2025-12-25
 - [High-resolution regional SST AI downscaling based on multi-mode inputs from nested ROMS simulations](https://doi.org/10.1088/2632-2153/ae3054) · 2025-12-22
 - [Linking ROMS with watershed models for simulating hydrodynamics and thermohaline dynamics in a coastal lagoon affected by extreme weather events](https://doi.org/10.1016/j.ocemod.2025.102673) · 2025-12-12
 - [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
-- [Observational and Numerical Study of the Vertical Structure of Anticyclonic Eddy in Northern South China Sea and Its Response to Typhoon](https://www.mdpi.com/2077-1312/13/9/1646/pdf?version=1756377192) · 2025-08-28
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2026-02-13** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [Numerical Simulation of Hydrodynamics and Sediment Transport for Coastal Protection with Artificial Reefs](https://doi.org/10.3390/oceans7010016) · 2026-02-11
+- [Tsunami hazard mapping and wave propagation analysis through numerical model simulations scenario: Case study Labuan Bajo, East Nusa Tenggara](https://www.bio-conferences.org/10.1051/bioconf/202622006003/pdf) · 2026-02-11
+- [Numerical Simulation of Hydrodynamics and Sediment Transport for Coastal Protection with Artificial Reefs](https://www.mdpi.com/2673-1924/7/1/16/pdf) · 2026-02-11
 - [Integrated hydrodynamic and environmental assessment of Kuah coastal Area, Langkawi island: A framework for future coastal resilience](https://link.springer.com/content/pdf/10.1007/s11852-026-01194-6.pdf) · 2026-01-28
 - [Calibration and Verification of a Coupled Model for the Coastal and Estuaries in the Mekong River Delta, Vietnam](https://doi.org/10.3390/jmse14020157) · 2026-01-11
-- [Tsunami hazard mapping and wave propagation analysis through numerical model simulations scenario: Case study Labuan Bajo, East Nusa Tenggara](https://doi.org/10.1051/bioconf/202622006003) · 2026-01-01
-- [Wind–Wave and Swell Separation and Typhoon Wave Responses on the Dafeng Shelf (Northern Jiangsu)](https://doi.org/10.3390/w18010083) · 2025-12-29
+- [Tsunami hazard mapping and wave propagation analysis through numerical model simulations scenario: Case study Labuan Bajo, East Nusa Tenggara](https://www.bio-conferences.org/articles/bioconf/pdf/2026/13/bioconf_icms2026_06003.pdf) · 2026-01-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
