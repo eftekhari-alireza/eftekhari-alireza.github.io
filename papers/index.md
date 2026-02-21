@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-02-20** · Showing results since **2025**_
+_Last update: **2026-02-21** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2026-02-20** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Editorial: Advances in modeling of coastal and estuarine waters: assessing stressors, analyzing extreme events, and addressing current and future risks](https://doi.org/10.3389/fmars.2026.1800346) · 2026-02-19
 - [Tsunami hazard mapping and wave propagation analysis through numerical model simulations scenario: Case study Labuan Bajo, East Nusa Tenggara](https://www.bio-conferences.org/10.1051/bioconf/202622006003/pdf) · 2026-02-11
 - [Numerical Simulation of Hydrodynamics and Sediment Transport for Coastal Protection with Artificial Reefs](https://www.mdpi.com/2673-1924/7/1/16/pdf) · 2026-02-11
 - [Integrated hydrodynamic and environmental assessment of Kuah coastal Area, Langkawi island: A framework for future coastal resilience](https://link.springer.com/content/pdf/10.1007/s11852-026-01194-6.pdf) · 2026-01-28
 - [Calibration and Verification of a Coupled Model for the Coastal and Estuaries in the Mekong River Delta, Vietnam](https://doi.org/10.3390/jmse14020157) · 2026-01-11
-- [Tsunami hazard mapping and wave propagation analysis through numerical model simulations scenario: Case study Labuan Bajo, East Nusa Tenggara](https://www.bio-conferences.org/articles/bioconf/pdf/2026/13/bioconf_icms2026_06003.pdf) · 2026-01-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-02-20** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [The Dynamics of Nearshore Currents Under Extreme Wind Regime: A Case Study in Bangka Regency of the East Bangka Island Region, Indonesia](https://doi.org/10.1007/s12601-026-00264-y) · 2026-02-02
 - [Formation mechanisms of a coastal counter-current system along the west coast of Vietnamese Mekong Delta](https://doi.org/10.5281/zenodo.18427922) · 2026-01-30
 - [Formation mechanisms of a coastal counter-current system along the west coast of Vietnamese Mekong Delta](https://doi.org/10.5281/zenodo.18437368) · 2026-01-30
-- [An approach to medium-term coastal morphological modelling](http://resolver.tudelft.nl/uuid:27a1ffa0-580e-4eae-907b-ce6f901e652e) · 2026-01-16
-- [Unraveling bed sediment dynamics and accumulation rates in the Northern Arabian Gulf: a synthesis of modeling, radiometric techniques, and field data](https://public-pages-files-2025.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1749824/pdf) · 2026-01-12
-- [Influence of Topographic and Shoreline Changes on Tidal Current Asymmetry in Lingding Bay](https://doaj.org/article/c0c2b33979f14cd58f2cad736f00fe21) · 2026-01-01
+- [Comment on egusphere-2025-5773](https://doi.org/10.5194/egusphere-2025-5773-rc3) · 2026-01-22
+- [Comment on egusphere-2025-5773](https://doi.org/10.5194/egusphere-2025-5773-rc2) · 2026-01-18
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
