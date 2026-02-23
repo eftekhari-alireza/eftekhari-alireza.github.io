@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-02-22** · Showing results since **2025**_
+_Last update: **2026-02-23** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -23,7 +23,7 @@ _Last update: **2026-02-22** · Showing results since **2025**_
 - [Linking ROMS with watershed models for simulating hydrodynamics and thermohaline dynamics in a coastal lagoon affected by extreme weather events](https://doi.org/10.3929/ethz-c-000790852) · 2025-12-25
 - [High-resolution regional SST AI downscaling based on multi-mode inputs from nested ROMS simulations](https://doi.org/10.1088/2632-2153/ae3054) · 2025-12-22
 - [Linking ROMS with watershed models for simulating hydrodynamics and thermohaline dynamics in a coastal lagoon affected by extreme weather events](https://doi.org/10.1016/j.ocemod.2025.102673) · 2025-12-12
-- [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
+- [Implementation and evaluation of a new parameterization of submesoscale vertical flux in a mesoscale-resolving model in the North Pacific](https://doi.org/10.1016/j.ocemod.2025.102655) · 2025-11-20
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -31,9 +31,9 @@ _Last update: **2026-02-22** · Showing results since **2025**_
 **Recent items (OpenAlex):**
 - [Comment on egusphere-2025-6556](https://doi.org/10.5194/egusphere-2025-6556-rc1) · 2026-02-19
 - [Development of a next-generation general ocean circulation model for the Great Lakes](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6556/egusphere-2025-6556.pdf) · 2026-01-26
+- [Sea Surface Elevation Retrieval From Synthetic Aperture Radar During Tropical Cyclones](https://doi.org/10.1109/joe.2026.3655999) · 2026-01-01
 - [Storm Surge Dynamics and Mechanisms in the Macao Cross Tidal Channel](https://www.mdpi.com/2077-1312/13/11/2087/pdf?version=1762160064) · 2025-11-03
 - [Extremal-Aware Deep Numerical Reinforcement Learning Fusion for Marine Tidal Prediction](https://www.mdpi.com/2077-1312/13/9/1771/pdf?version=1758081605) · 2025-09-13
-- [Changes in Ocean Current Characteristics Due to Freshwater Discharge from Fjord Regions](http://www.jkscoe.or.kr/upload/pdf/jkscoe-37-4-93.pdf) · 2025-08-29
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

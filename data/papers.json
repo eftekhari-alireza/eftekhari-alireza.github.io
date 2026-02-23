@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-22",
+  "date": "2026-02-23",
   "year_from": 2025,
   "items": [
     {
@@ -67,10 +67,10 @@
           "link": "https://doi.org/10.1016/j.ocemod.2025.102673"
         },
         {
-          "title": "Deep Canyon\u2010Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans",
-          "date": "2025-11-01",
+          "title": "Implementation and evaluation of a new parameterization of submesoscale vertical flux in a mesoscale-resolving model in the North Pacific",
+          "date": "2025-11-20",
           "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008"
+          "link": "https://doi.org/10.1016/j.ocemod.2025.102655"
         }
       ]
     },
@@ -91,6 +91,12 @@
           "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6556/egusphere-2025-6556.pdf"
         },
         {
+          "title": "Sea Surface Elevation Retrieval From Synthetic Aperture Radar During Tropical Cyclones",
+          "date": "2026-01-01",
+          "venue": "",
+          "link": "https://doi.org/10.1109/joe.2026.3655999"
+        },
+        {
           "title": "Storm Surge Dynamics and Mechanisms in the Macao Cross Tidal Channel",
           "date": "2025-11-03",
           "venue": "",
@@ -101,12 +107,6 @@
           "date": "2025-09-13",
           "venue": "",
           "link": "https://www.mdpi.com/2077-1312/13/9/1771/pdf?version=1758081605"
-        },
-        {
-          "title": "Changes in Ocean Current Characteristics Due to Freshwater Discharge from Fjord Regions",
-          "date": "2025-08-29",
-          "venue": "",
-          "link": "http://www.jkscoe.or.kr/upload/pdf/jkscoe-37-4-93.pdf"
         }
       ]
     },
