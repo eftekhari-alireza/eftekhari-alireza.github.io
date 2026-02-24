@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-02-23** · Showing results since **2025**_
+_Last update: **2026-02-24** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -12,8 +12,8 @@ _Last update: **2026-02-23** · Showing results since **2025**_
 - [Run-up Controls on Low-Tide Terrace Beaches Revealed by Non-Hydrostatic Wave Modeling](https://www.researchsquare.com/article/rs-8329028/latest.pdf) · 2025-12-25
 - [Deep Canyon‐Upwellings in the Northwestern Mediterranean Sea in Contrast With Open Oceans](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JC022008) · 2025-11-01
 - [Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.](https://doi.org/10.36688/ewtec-2025-845) · 2025-09-08
+- [The role of driving forces in sediment transport processes in an upwelling-driven continental shelf](http://hdl.handle.net/10261/399275) · 2025-08-21
 - [Diapycnal Mixing and Tracer Dispersion in a Terrain‐Following Coordinate Model](https://doi.org/10.1029/2024ms004768) · 2025-08-01
-- [Étude de la dynamique abyssale dans l’est du gyre subpolaire via un modèle aux équations primitives](https://theses.hal.science/tel-05505828) · 2025-07-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

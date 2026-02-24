@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-23",
+  "date": "2026-02-24",
   "year_from": 2025,
   "items": [
     {
@@ -25,16 +25,16 @@
           "link": "https://doi.org/10.36688/ewtec-2025-845"
         },
         {
+          "title": "The role of driving forces in sediment transport processes in an upwelling-driven continental shelf",
+          "date": "2025-08-21",
+          "venue": "",
+          "link": "http://hdl.handle.net/10261/399275"
+        },
+        {
           "title": "Diapycnal Mixing and Tracer Dispersion in a Terrain\u2010Following Coordinate Model",
           "date": "2025-08-01",
           "venue": "",
           "link": "https://doi.org/10.1029/2024ms004768"
-        },
-        {
-          "title": "\u00c9tude de la dynamique abyssale dans l\u2019est du gyre subpolaire via un mod\u00e8le aux \u00e9quations primitives",
-          "date": "2025-07-01",
-          "venue": "",
-          "link": "https://theses.hal.science/tel-05505828"
         }
       ]
     },
