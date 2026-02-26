@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-25",
+  "date": "2026-02-26",
   "year_from": 2025,
   "items": [
     {
@@ -133,16 +133,16 @@
           "link": "https://www.mdpi.com/2673-1924/7/1/16/pdf"
         },
         {
+          "title": "Numerical Modelling for Hydrodynamic Simulation in Archipelagic Southeast Asia: A Case Study from the Southern Tip of Malaysia using MIKE-21",
+          "date": "2026-02-01",
+          "venue": "",
+          "link": "https://iopscience.iop.org/article/10.1088/1755-1315/1585/1/012057/pdf"
+        },
+        {
           "title": "Integrated hydrodynamic and environmental assessment of Kuah coastal Area, Langkawi island: A framework for future coastal resilience",
           "date": "2026-01-28",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s11852-026-01194-6.pdf"
-        },
-        {
-          "title": "Calibration and Verification of a Coupled Model for the Coastal and Estuaries in the Mekong River Delta, Vietnam",
-          "date": "2026-01-11",
-          "venue": "",
-          "link": "https://doi.org/10.3390/jmse14020157"
         }
       ]
     },
