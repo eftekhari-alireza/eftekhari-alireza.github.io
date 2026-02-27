@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-02-26** · Showing results since **2025**_
+_Last update: **2026-02-27** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-02-26** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [The Dynamics of Nearshore Currents Under Extreme Wind Regime: A Case Study in Bangka Regency of the East Bangka Island Region, Indonesia](https://doi.org/10.1007/s12601-026-00264-y) · 2026-02-02
-- [Formation mechanisms of a coastal counter-current system along the west coast of Vietnamese Mekong Delta](https://doi.org/10.5281/zenodo.18427922) · 2026-01-30
-- [Formation mechanisms of a coastal counter-current system along the west coast of Vietnamese Mekong Delta](https://doi.org/10.5281/zenodo.18437368) · 2026-01-30
-- [Comment on egusphere-2025-5773](https://doi.org/10.5194/egusphere-2025-5773-rc3) · 2026-01-22
-- [Comment on egusphere-2025-5773](https://doi.org/10.5194/egusphere-2025-5773-rc2) · 2026-01-18
+- [An operational real-time forecasting system for estuarine hydrodynamics: the guadalquivir estuary (SW Iberian Peninsula)](https://link.springer.com/content/pdf/10.1007/s10236-026-01778-8.pdf) · 2026-02-25
+- [Reply on RC2](https://doi.org/10.5194/egusphere-2025-5773-ac3) · 2026-02-25
+- [Reply on RC3](https://doi.org/10.5194/egusphere-2025-5773-ac4) · 2026-02-25
+- [Reply on RC1](https://doi.org/10.5194/egusphere-2025-5773-ac1) · 2026-02-25
+- [Reply on RC2](https://doi.org/10.5194/egusphere-2025-5773-ac2) · 2026-02-25
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
