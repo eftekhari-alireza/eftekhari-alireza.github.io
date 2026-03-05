@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-03-04** · Showing results since **2025**_
+_Last update: **2026-03-05** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -29,11 +29,11 @@ _Last update: **2026-03-04** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Comment on egusphere-2025-6556](https://doi.org/10.5194/egusphere-2025-6556-rc2) · 2026-03-02
 - [Comment on egusphere-2025-6556](https://doi.org/10.5194/egusphere-2025-6556-rc1) · 2026-02-19
 - [Development of a next-generation general ocean circulation model for the Great Lakes](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6556/egusphere-2025-6556.pdf) · 2026-01-26
 - [Sea Surface Elevation Retrieval From Synthetic Aperture Radar During Tropical Cyclones](https://doi.org/10.1109/joe.2026.3655999) · 2026-01-01
 - [Storm Surge Dynamics and Mechanisms in the Macao Cross Tidal Channel](https://www.mdpi.com/2077-1312/13/11/2087/pdf?version=1762160064) · 2025-11-03
-- [Extremal-Aware Deep Numerical Reinforcement Learning Fusion for Marine Tidal Prediction](https://www.mdpi.com/2077-1312/13/9/1771/pdf?version=1758081605) · 2025-09-13
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
