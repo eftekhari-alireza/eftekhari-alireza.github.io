@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-03-06** · Showing results since **2025**_
+_Last update: **2026-03-07** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,7 +59,7 @@ _Last update: **2026-03-06** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [Impact assessment of new expansion plan on coastal lakes: case study-LakeMariout](https://doi.org/10.1007/s44533-026-00016-w) · 2026-03-04
+- [Impact assessment of new expansion plan on coastal lakes: case study-LakeMariout](https://link.springer.com/content/pdf/10.1007/s44533-026-00016-w.pdf) · 2026-03-04
 - [An operational real-time forecasting system for estuarine hydrodynamics: the guadalquivir estuary (SW Iberian Peninsula)](https://link.springer.com/content/pdf/10.1007/s10236-026-01778-8.pdf) · 2026-02-25
 - [Reply on RC2](https://doi.org/10.5194/egusphere-2025-5773-ac3) · 2026-02-25
 - [Reply on RC3](https://doi.org/10.5194/egusphere-2025-5773-ac4) · 2026-02-25
