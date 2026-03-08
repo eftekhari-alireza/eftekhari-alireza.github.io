@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-07",
+  "date": "2026-03-08",
   "year_from": 2025,
   "items": [
     {
@@ -127,6 +127,12 @@
           "link": "https://public-pages-files-2025.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1800346/pdf"
         },
         {
+          "title": "Numerical Modelling of Potential Sea Level Rise Impacts on Eti-Osa and Ibeju-Lekki Coast, Lagos, Nigeria",
+          "date": "2026-02-13",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-8751586/latest.pdf"
+        },
+        {
           "title": "Tsunami hazard mapping and wave propagation analysis through numerical model simulations scenario: Case study Labuan Bajo, East Nusa Tenggara",
           "date": "2026-02-11",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-02-11",
           "venue": "",
           "link": "https://www.mdpi.com/2673-1924/7/1/16/pdf"
-        },
-        {
-          "title": "Numerical Modelling for Hydrodynamic Simulation in Archipelagic Southeast Asia: A Case Study from the Southern Tip of Malaysia using MIKE-21",
-          "date": "2026-02-01",
-          "venue": "",
-          "link": "https://iopscience.iop.org/article/10.1088/1755-1315/1585/1/012057/pdf"
         }
       ]
     },
@@ -223,6 +223,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Preliminary assessment of nearshore wave energy in Morotai for remote electrification in Indonesia",
+          "date": "2026-01-01",
+          "venue": "",
+          "link": "https://doi.org/10.6703/ijase.202603_23(1).004"
+        },
+        {
           "title": "Data for: Spectral refraction modeling of waves around the steep reef at Palau",
           "date": "2025-12-19",
           "venue": "",
@@ -235,22 +241,16 @@
           "link": "https://arxiv.org/pdf/2511.21856"
         },
         {
+          "title": "Conceptual Analysis of Vortex Contributions to Rogue Wave Formation in the Agulhas Current",
+          "date": "2025-09-30",
+          "venue": "",
+          "link": "https://www.mdpi.com/2077-1312/13/10/1875/pdf?version=1759229351"
+        },
+        {
           "title": "Spectral Refraction Modeling of Waves Around the Steep Reef at Palau",
           "date": "2025-09-30",
           "venue": "",
           "link": "https://doi.org/10.1029/2025jc022391"
-        },
-        {
-          "title": "Sizing the largest ocean waves using the SWOT mission",
-          "date": "2025-09-16",
-          "venue": "",
-          "link": "https://www.pnas.org/doi/pdf/10.1073/pnas.2513381122"
-        },
-        {
-          "title": "Towards parametrized modeling of the current vertical structure during extreme events: application to Alderney Race.",
-          "date": "2025-09-08",
-          "venue": "",
-          "link": "https://doi.org/10.36688/ewtec-2025-845"
         }
       ]
     }
