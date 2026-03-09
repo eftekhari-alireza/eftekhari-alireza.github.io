@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-08",
+  "date": "2026-03-09",
   "year_from": 2025,
   "items": [
     {
@@ -43,10 +43,22 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Improvement of reduced-order model for two-dimensional cylinder flow based on global proper orthogonal decomposition in terms of robustness and computational speed",
+          "date": "2026-02-24",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2602.20619"
+        },
+        {
           "title": "A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord",
           "date": "2026-01-07",
           "venue": "",
           "link": "https://doi.org/10.5194/bg-23-115-2026"
+        },
+        {
+          "title": "A Numerical Modeling Analysis of the Role of Rivers, Local Resuspension, and Regional Advection on Open Water Suspended Sediment Concentrations on the Alaskan Beaufort Sea Shelf",
+          "date": "2026-01-01",
+          "venue": "",
+          "link": "https://doi.org/10.2139/ssrn.6360141"
         },
         {
           "title": "Linking ROMS with watershed models for simulating hydrodynamics and thermohaline dynamics in a coastal lagoon affected by extreme weather events",
@@ -59,18 +71,6 @@
           "date": "2025-12-22",
           "venue": "",
           "link": "https://doi.org/10.1088/2632-2153/ae3054"
-        },
-        {
-          "title": "Linking ROMS with watershed models for simulating hydrodynamics and thermohaline dynamics in a coastal lagoon affected by extreme weather events",
-          "date": "2025-12-12",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.ocemod.2025.102673"
-        },
-        {
-          "title": "Implementation and evaluation of a new parameterization of submesoscale vertical flux in a mesoscale-resolving model in the North Pacific",
-          "date": "2025-11-20",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.ocemod.2025.102655"
         }
       ]
     },
@@ -97,16 +97,16 @@
           "link": "https://doi.org/10.5194/egusphere-2025-6556-rc1"
         },
         {
+          "title": "Hydrodynamic coupling between ground, pipe, river and sea: critical review and future directions",
+          "date": "2026-02-01",
+          "venue": "",
+          "link": "https://iwaponline.com/aqua/article-pdf/doi/10.2166/aqua.2026.061/1607498/jws2026061.pdf"
+        },
+        {
           "title": "Development of a next-generation general ocean circulation model for the Great Lakes",
           "date": "2026-01-26",
           "venue": "",
           "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6556/egusphere-2025-6556.pdf"
-        },
-        {
-          "title": "Sea Surface Elevation Retrieval From Synthetic Aperture Radar During Tropical Cyclones",
-          "date": "2026-01-01",
-          "venue": "",
-          "link": "https://doi.org/10.1109/joe.2026.3655999"
         }
       ]
     },
@@ -226,7 +226,7 @@
           "title": "Preliminary assessment of nearshore wave energy in Morotai for remote electrification in Indonesia",
           "date": "2026-01-01",
           "venue": "",
-          "link": "https://doi.org/10.6703/ijase.202603_23(1).004"
+          "link": "https://gigvvy.com/journals/ijase/articles/ijase-202603-23-1-004.pdf"
         },
         {
           "title": "Data for: Spectral refraction modeling of waves around the steep reef at Palau",

@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-03-08** · Showing results since **2025**_
+_Last update: **2026-03-09** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-03-08** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Improvement of reduced-order model for two-dimensional cylinder flow based on global proper orthogonal decomposition in terms of robustness and computational speed](https://arxiv.org/pdf/2602.20619) · 2026-02-24
 - [A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord](https://doi.org/10.5194/bg-23-115-2026) · 2026-01-07
+- [A Numerical Modeling Analysis of the Role of Rivers, Local Resuspension, and Regional Advection on Open Water Suspended Sediment Concentrations on the Alaskan Beaufort Sea Shelf](https://doi.org/10.2139/ssrn.6360141) · 2026-01-01
 - [Linking ROMS with watershed models for simulating hydrodynamics and thermohaline dynamics in a coastal lagoon affected by extreme weather events](https://doi.org/10.3929/ethz-c-000790852) · 2025-12-25
 - [High-resolution regional SST AI downscaling based on multi-mode inputs from nested ROMS simulations](https://doi.org/10.1088/2632-2153/ae3054) · 2025-12-22
-- [Linking ROMS with watershed models for simulating hydrodynamics and thermohaline dynamics in a coastal lagoon affected by extreme weather events](https://doi.org/10.1016/j.ocemod.2025.102673) · 2025-12-12
-- [Implementation and evaluation of a new parameterization of submesoscale vertical flux in a mesoscale-resolving model in the North Pacific](https://doi.org/10.1016/j.ocemod.2025.102655) · 2025-11-20
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -32,8 +32,8 @@ _Last update: **2026-03-08** · Showing results since **2025**_
 - [Comment on egusphere-2025-6556](https://doi.org/10.5194/egusphere-2025-6556-rc2) · 2026-03-02
 - [Parameterization of Bottom Friction Coefficient Depending on Sediment Types and Its Application in Tide Simulation in the Eastern China Marginal Seas](https://doi.org/10.1016/j.ocemod.2026.102721) · 2026-03-01
 - [Comment on egusphere-2025-6556](https://doi.org/10.5194/egusphere-2025-6556-rc1) · 2026-02-19
+- [Hydrodynamic coupling between ground, pipe, river and sea: critical review and future directions](https://iwaponline.com/aqua/article-pdf/doi/10.2166/aqua.2026.061/1607498/jws2026061.pdf) · 2026-02-01
 - [Development of a next-generation general ocean circulation model for the Great Lakes](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6556/egusphere-2025-6556.pdf) · 2026-01-26
-- [Sea Surface Elevation Retrieval From Synthetic Aperture Radar During Tropical Cyclones](https://doi.org/10.1109/joe.2026.3655999) · 2026-01-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -69,7 +69,7 @@ _Last update: **2026-03-08** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [Preliminary assessment of nearshore wave energy in Morotai for remote electrification in Indonesia](https://doi.org/10.6703/ijase.202603_23(1).004) · 2026-01-01
+- [Preliminary assessment of nearshore wave energy in Morotai for remote electrification in Indonesia](https://gigvvy.com/journals/ijase/articles/ijase-202603-23-1-004.pdf) · 2026-01-01
 - [Data for: Spectral refraction modeling of waves around the steep reef at Palau](https://doi.org/10.5061/dryad.cvdncjtdt) · 2025-12-19
 - [A Comprehensive Review of Phase-Averaged and Phase-Resolving Wave Models for Coastal Modeling Applications](https://arxiv.org/pdf/2511.21856) · 2025-11-26
 - [Conceptual Analysis of Vortex Contributions to Rogue Wave Formation in the Agulhas Current](https://www.mdpi.com/2077-1312/13/10/1875/pdf?version=1759229351) · 2025-09-30
