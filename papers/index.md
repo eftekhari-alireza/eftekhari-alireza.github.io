@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-03-09** · Showing results since **2025**_
+_Last update: **2026-03-10** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-03-09** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Experiment Tests and Numerical Simulations of Leakage from Double-Hull Oil Tanks in a Fixed State](https://www.mdpi.com/2077-1312/14/5/412/pdf) · 2026-02-24
 - [Improvement of reduced-order model for two-dimensional cylinder flow based on global proper orthogonal decomposition in terms of robustness and computational speed](https://arxiv.org/pdf/2602.20619) · 2026-02-24
+- [Impact of wind stress formulation on Gulf Stream pathway and variability](https://public-pages-files-2025.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1739630/pdf) · 2026-01-13
 - [A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord](https://doi.org/10.5194/bg-23-115-2026) · 2026-01-07
 - [A Numerical Modeling Analysis of the Role of Rivers, Local Resuspension, and Regional Advection on Open Water Suspended Sediment Concentrations on the Alaskan Beaufort Sea Shelf](https://doi.org/10.2139/ssrn.6360141) · 2026-01-01
-- [Linking ROMS with watershed models for simulating hydrodynamics and thermohaline dynamics in a coastal lagoon affected by extreme weather events](https://doi.org/10.3929/ethz-c-000790852) · 2025-12-25
-- [High-resolution regional SST AI downscaling based on multi-mode inputs from nested ROMS simulations](https://doi.org/10.1088/2632-2153/ae3054) · 2025-12-22
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -53,17 +53,17 @@ _Last update: **2026-03-09** · Showing results since **2025**_
 - [Numerical Investigation of Jet Angle Effects on Thermal Dispersion Characteristics in Coastal Waters](https://www.mdpi.com/2077-1312/13/5/931/pdf?version=1746787085) · 2025-05-09
 - [Wave-resolving Voronoi model of the Rouse number for sediment entrainment](https://os.copernicus.org/articles/21/877/2025/os-21-877-2025.pdf) · 2025-05-05
 - [Wave propagation over a submerged bar: benchmarking of VoF, sigma transformation, and SPH numerical models against physical wave flume tests](https://link.springer.com/content/pdf/10.1007/s42452-025-06651-9.pdf) · 2025-05-03
-- [Modelled Water Temperature Patterns and Energy Balance of a Threatened Coastal Lagoon Ecosystem](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hyp.70068) · 2025-02-01
+- [Numerical Study of Barotropic Circulation in the Gulfs of Patras and Corinth System](https://www.mdpi.com/2673-1924/6/1/10/pdf) · 2025-02-11
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Delft3D"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
 - [Impact assessment of new expansion plan on coastal lakes: case study-LakeMariout](https://link.springer.com/content/pdf/10.1007/s44533-026-00016-w.pdf) · 2026-03-04
-- [An operational real-time forecasting system for estuarine hydrodynamics: the guadalquivir estuary (SW Iberian Peninsula)](https://link.springer.com/content/pdf/10.1007/s10236-026-01778-8.pdf) · 2026-02-25
+- [A multi-objective optimization framework for wave farm design: Balancing coastal protection and energy output](https://doi.org/10.1016/j.ref.2026.100831) · 2026-03-01
+- [An operational real-time forecasting system for estuarine hydrodynamics: the Guadalquivir Estuary (SW Iberian Peninsula)](https://link.springer.com/content/pdf/10.1007/s10236-026-01778-8.pdf) · 2026-02-25
 - [Reply on RC2](https://doi.org/10.5194/egusphere-2025-5773-ac3) · 2026-02-25
 - [Reply on RC3](https://doi.org/10.5194/egusphere-2025-5773-ac4) · 2026-02-25
-- [Reply on RC1](https://doi.org/10.5194/egusphere-2025-5773-ac1) · 2026-02-25
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
