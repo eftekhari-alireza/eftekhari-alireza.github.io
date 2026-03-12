@@ -1,41 +1,258 @@
 {
-  "date": "2026-03-11",
+  "date": "2026-03-12",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": []
+      "openalex": [
+        {
+          "title": "Mechanisms driving mesoscale latent heat flux variations and mixed layer heat content evaluation in the Northwest Tropical Atlantic",
+          "date": "2026-02-18",
+          "venue": "",
+          "link": "https://doi.org/10.5194/os-22-699-2026"
+        },
+        {
+          "title": "Simulated ocean dynamics and lagrangian trajectory analysis in the Andaman Sea",
+          "date": "2026-02-11",
+          "venue": "",
+          "link": "https://www.bio-conferences.org/10.1051/bioconf/202622006004/pdf"
+        },
+        {
+          "title": "Interactions between Internal Wave Modes and the California Current System: Differences between Internal Tides and Near-Inertial Waves",
+          "date": "2026-02-06",
+          "venue": "",
+          "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.177039551.16178519"
+        },
+        {
+          "title": "Development trends and implications of muti-objective marine environmental forecasting technology",
+          "date": "2026-01-01",
+          "venue": "",
+          "link": "https://www.sciengine.com/doi/pdf/95B033CA03F544D998D73E3BA1C9FC7A"
+        },
+        {
+          "title": "A Direct Assessment of Langmuir Turbulence Parameterizations in Idealized Coastal Merging Boundary Layers",
+          "date": "2026-01-01",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025MS004993"
+        }
+      ]
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": []
+      "openalex": [
+        {
+          "title": "Near\u2010Inertial Wave Trapping Inside a Fine\u2010Scale Anticyclonic Eddy During the BioSWOT\u2010Med 2023 Cruise: Turbulence and Energy Flux",
+          "date": "2026-03-01",
+          "venue": "",
+          "link": "https://doi.org/10.1029/2025jc022984"
+        },
+        {
+          "title": "High-resolution simulations of coastal dispersion of Tubastraea spp. larvae from a large estuary in northeast Brazil",
+          "date": "2026-02-28",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s00338-026-02817-y.pdf"
+        },
+        {
+          "title": "Implicit and Explicit Treatments of Model Error in Numerical Simulation",
+          "date": "2026-02-25",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s11831-026-10522-w.pdf"
+        },
+        {
+          "title": "Experiment Tests and Numerical Simulations of Leakage from Double-Hull Oil Tanks in a Fixed State",
+          "date": "2026-02-24",
+          "venue": "",
+          "link": "https://www.mdpi.com/2077-1312/14/5/412/pdf?version=1771954290"
+        },
+        {
+          "title": "Improvement of reduced-order model for two-dimensional cylinder flow based on global proper orthogonal decomposition in terms of robustness and computational speed",
+          "date": "2026-02-24",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2602.20619"
+        }
+      ]
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": []
+      "openalex": [
+        {
+          "title": "Assessing shellfish water exposure to fecal bacteria pollution in Salish Sea: three-dimensional modeling and implications for monitoring",
+          "date": "2026-03-06",
+          "venue": "",
+          "link": "https://public-pages-files-2025.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1738321/pdf"
+        },
+        {
+          "title": "Long-Term Hydrodynamic Evolution and Extreme Parameter Estimation in the Mekong River Estuary",
+          "date": "2026-03-05",
+          "venue": "",
+          "link": "https://www.mdpi.com/2073-4441/18/5/620/pdf?version=1772700804"
+        },
+        {
+          "title": "High-Frequency Water-Level Oscillations in a Semi-Enclosed Embayment",
+          "date": "2026-03-04",
+          "venue": "",
+          "link": "https://www.mdpi.com/2073-4441/18/5/611/pdf?version=1772619655"
+        },
+        {
+          "title": "Comment on egusphere-2025-6556",
+          "date": "2026-03-02",
+          "venue": "",
+          "link": "https://doi.org/10.5194/egusphere-2025-6556-rc2"
+        },
+        {
+          "title": "Bias Correction of Sea Temperature in Shandong Coastal Waters Using LSTM-FVCOM and GRU-DF-FVCOM Hybrid Models",
+          "date": "2026-03-01",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.ecss.2026.109813"
+        }
+      ]
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": []
+      "openalex": [
+        {
+          "title": "Tracking marine debris in Northwest Spain: assessing wind influence with a Lagrangian transport model",
+          "date": "2026-03-06",
+          "venue": "",
+          "link": "https://os.copernicus.org/articles/22/777/2026/os-22-777-2026.pdf"
+        },
+        {
+          "title": "Source identification of sudden water pollution events in the Dongliao River using a hybrid machine learning framework",
+          "date": "2026-03-04",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41598-026-41724-8_reference.pdf"
+        },
+        {
+          "title": "Parameterization of Bottom Friction Coefficient Depending on Sediment Types and Its Application in Tide Simulation in the Eastern China Marginal Seas",
+          "date": "2026-03-01",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.ocemod.2026.102721"
+        },
+        {
+          "title": "Optimising Harbour Construction Projects for Environmental Sustainability: A Hybrid Artificial Intelligence Approach",
+          "date": "2026-02-24",
+          "venue": "",
+          "link": "https://www.mdpi.com/2071-1050/18/5/2162/pdf?version=1771923323"
+        },
+        {
+          "title": "Study on the Joint Probability Distribution of Hydrodynamic Conditions in Xiamen Bay Based on Copula Functions",
+          "date": "2026-02-23",
+          "venue": "",
+          "link": "https://www.mdpi.com/2077-1312/14/4/404/pdf?version=1771844814"
+        }
+      ]
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 3\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": []
+      "openalex": [
+        {
+          "title": "Propeller-Induced Seabed Scour: A Review of Hydrodynamic Mechanisms, CFD Modeling, and Coastal Engineering Implications",
+          "date": "2026-01-01",
+          "venue": "",
+          "link": "https://www.scirp.org/pdf/ojms_1470710.pdf"
+        },
+        {
+          "title": "Characterization of spatial and temporal evolution of saltwater intrusion in the Qingnian reservoir of Pinglu Canal",
+          "date": "2025-12-30",
+          "venue": "",
+          "link": "https://www.jceclink.com/web/index.php/jcec/article/download/262/209"
+        },
+        {
+          "title": "INTEGRATING FIELD DATA AND NUMERICAL MODELING TO ASSESS MICROPLASTIC DISTRIBUTION IN THE AQUATIC ENVIRONMENT OF HA LONG BAY, VIETNAM",
+          "date": "2025-11-19",
+          "venue": "",
+          "link": "https://geomatejournal.com/geomate/article/download/5133/3757/10130"
+        },
+        {
+          "title": "Beneath the Surface: How Climate Change Intensifies Erosion and Suspended Sediment Loads",
+          "date": "2025-10-18",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s41748-025-00871-0.pdf"
+        },
+        {
+          "title": "Assessment of the Impact of Thermal and Chemical Loading on the Koporye Bay of the Gulf of Finland with the Full Commissioning of the Leningrad Nuclear Power Plant-2",
+          "date": "2025-09-09",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s10666-025-10062-w.pdf"
+        }
+      ]
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Delft3D\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": []
+      "openalex": [
+        {
+          "title": "A multi-objective optimization framework for wave farm design: Balancing coastal protection and energy output",
+          "date": "2026-03-07",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.ref.2026.100831"
+        },
+        {
+          "title": "A Systematic Review of Terrestrial Laser Scanning (TLS) Applications in Sediment Management",
+          "date": "2026-03-06",
+          "venue": "",
+          "link": "https://www.mdpi.com/2813-477X/4/1/10/pdf?version=1772777712"
+        },
+        {
+          "title": "Alluvial river-channel width: transient adjustment and dynamic equilibrium",
+          "date": "2026-03-06",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1018/egusphere-2026-1018.pdf"
+        },
+        {
+          "title": "Impact assessment of new expansion plan on coastal lakes: case study-LakeMariout",
+          "date": "2026-03-04",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s44533-026-00016-w.pdf"
+        },
+        {
+          "title": "Estimating net sediment fluxes in tidal systems using sporadic datasets: Implications for using remote sensing to assess saltmarsh resilience",
+          "date": "2026-03-02",
+          "venue": "",
+          "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.177248717.79953014"
+        }
+      ]
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": []
+      "openalex": [
+        {
+          "title": "A Study on Enhancing the Accuracy of Wave Prediction Models Through SWAN (Simulating WAves Nearshore) Model Sensitivity Experiments: Focusing on Wind Input and Whitecapping Dissipation",
+          "date": "2026-02-26",
+          "venue": "",
+          "link": "https://www.mdpi.com/2077-1312/14/5/435/pdf?version=1772358597"
+        },
+        {
+          "title": "Copernicus Data for Offshore Wind Energy: Capabilities, Applications and Emerging Trends",
+          "date": "2026-02-13",
+          "venue": "",
+          "link": "https://www.mdpi.com/2071-1050/18/4/1949/pdf?version=1770994292"
+        },
+        {
+          "title": "Spatial Variability of Sea State in the German Bight and Influence of Offshore Wind Farms",
+          "date": "2026-02-13",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/we.70101"
+        },
+        {
+          "title": "Estimation and Analysis of Stokes Drift Based on CFOSAT Wave Spectrum Data",
+          "date": "2026-02-12",
+          "venue": "",
+          "link": "https://www.mdpi.com/2072-4292/18/4/574/pdf"
+        },
+        {
+          "title": "Uncertainty analysis of a machine learning-aided ensemble forecast for coastal flood maps",
+          "date": "2026-02-11",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-8758359/latest.pdf"
+        }
+      ]
     }
   ]
 }
