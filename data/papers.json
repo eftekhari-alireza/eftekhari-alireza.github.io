@@ -1,11 +1,17 @@
 {
-  "date": "2026-03-13",
+  "date": "2026-03-14",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "The Maintenance of the Eastern Mediterranean Boundary Current",
+          "date": "2026-02-19",
+          "venue": "",
+          "link": "https://www.authorea.com/doi/pdf/10.22541/au.177153450.04237179"
+        },
         {
           "title": "Mechanisms driving mesoscale latent heat flux variations and mixed layer heat content evaluation in the Northwest Tropical Atlantic",
           "date": "2026-02-18",
@@ -25,16 +31,10 @@
           "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.177039551.16178519"
         },
         {
-          "title": "Development trends and implications of muti-objective marine environmental forecasting technology",
+          "title": "Simulated ocean dynamics and lagrangian trajectory analysis in the Andaman Sea",
           "date": "2026-01-01",
           "venue": "",
-          "link": "https://www.sciengine.com/doi/pdf/95B033CA03F544D998D73E3BA1C9FC7A"
-        },
-        {
-          "title": "A Direct Assessment of Langmuir Turbulence Parameterizations in Idealized Coastal Merging Boundary Layers",
-          "date": "2026-01-01",
-          "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025MS004993"
+          "link": "https://www.bio-conferences.org/articles/bioconf/pdf/2026/13/bioconf_icms2026_06004.pdf"
         }
       ]
     },
@@ -42,6 +42,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "GPU-accelerated city-scale urban flood forecasting for real-time decision-making",
+          "date": "2026-03-10",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s44304-026-00190-y.pdf"
+        },
         {
           "title": "Near\u2010Inertial Wave Trapping Inside a Fine\u2010Scale Anticyclonic Eddy During the BioSWOT\u2010Med 2023 Cruise: Turbulence and Energy Flux",
           "date": "2026-03-01",
@@ -65,12 +71,6 @@
           "date": "2026-02-24",
           "venue": "",
           "link": "https://www.mdpi.com/2077-1312/14/5/412/pdf?version=1771954290"
-        },
-        {
-          "title": "Improvement of reduced-order model for two-dimensional cylinder flow based on global proper orthogonal decomposition in terms of robustness and computational speed",
-          "date": "2026-02-24",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2602.20619"
         }
       ]
     },
@@ -83,6 +83,12 @@
           "date": "2026-03-09",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-8767329/latest.pdf"
+        },
+        {
+          "title": "Numerical Simulation of Hydrodynamic Processes for East Shantou Reclamation Engineering",
+          "date": "2026-03-09",
+          "venue": "",
+          "link": "https://www.preprints.org/frontend/manuscript/b04a3af3a57eea60c389f1947f664a52/download_pub"
         },
         {
           "title": "Assessing shellfish water exposure to fecal bacteria pollution in Salish Sea: three-dimensional modeling and implications for monitoring",
@@ -101,12 +107,6 @@
           "date": "2026-03-04",
           "venue": "",
           "link": "https://www.mdpi.com/2073-4441/18/5/611/pdf"
-        },
-        {
-          "title": "Parameterization of bottom friction coefficient depending on sediment types and its application in tide simulation in the Eastern China Marginal Seas",
-          "date": "2026-03-03",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.ocemod.2026.102721"
         }
       ]
     },
@@ -114,6 +114,24 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Why do offshore breakwaters trap low levels of fine-grained sediments? Insights from Vietnam",
+          "date": "2026-03-11",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s44218-026-00129-w.pdf"
+        },
+        {
+          "title": "Review of multi-sectoral water management simulation\u2013optimization approaches",
+          "date": "2026-03-11",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s40899-026-01334-8.pdf"
+        },
+        {
+          "title": "Numerical Simulation of Hydrodynamic Processes for East Shantou Reclamation Engineering",
+          "date": "2026-03-09",
+          "venue": "",
+          "link": "https://www.preprints.org/frontend/manuscript/b04a3af3a57eea60c389f1947f664a52/download_pub"
+        },
         {
           "title": "Tracking marine debris in Northwest Spain: assessing wind influence with a Lagrangian transport model",
           "date": "2026-03-06",
@@ -125,24 +143,6 @@
           "date": "2026-03-04",
           "venue": "",
           "link": "https://www.nature.com/articles/s41598-026-41724-8_reference.pdf"
-        },
-        {
-          "title": "Parameterization of bottom friction coefficient depending on sediment types and its application in tide simulation in the Eastern China Marginal Seas",
-          "date": "2026-03-03",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.ocemod.2026.102721"
-        },
-        {
-          "title": "Optimising Harbour Construction Projects for Environmental Sustainability: A Hybrid Artificial Intelligence Approach",
-          "date": "2026-02-24",
-          "venue": "",
-          "link": "https://www.mdpi.com/2071-1050/18/5/2162/pdf?version=1771923323"
-        },
-        {
-          "title": "Study on the Joint Probability Distribution of Hydrodynamic Conditions in Xiamen Bay Based on Copula Functions",
-          "date": "2026-02-23",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/4/404/pdf?version=1771844814"
         }
       ]
     },
@@ -169,16 +169,16 @@
           "link": "https://geomatejournal.com/geomate/article/download/5133/3757/10130"
         },
         {
+          "title": "Development of One-Way Coupling Between MIKE 3 Wave FM Model and WRF-LES for the Evaluation of a Storm Simulation",
+          "date": "2025-11-10",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s10546-025-00942-9.pdf"
+        },
+        {
           "title": "Beneath the Surface: How Climate Change Intensifies Erosion and Suspended Sediment Loads",
           "date": "2025-10-18",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s41748-025-00871-0.pdf"
-        },
-        {
-          "title": "Assessment of the Impact of Thermal and Chemical Loading on the Koporye Bay of the Gulf of Finland with the Full Commissioning of the Leningrad Nuclear Power Plant-2",
-          "date": "2025-09-09",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s10666-025-10062-w.pdf"
         }
       ]
     },
@@ -187,10 +187,22 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Review of multi-sectoral water management simulation\u2013optimization approaches",
+          "date": "2026-03-11",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s40899-026-01334-8.pdf"
+        },
+        {
           "title": "Macroplastic fate and transport in an Amazonian Estuarine System: A Lagrangian Modelling Approach",
           "date": "2026-03-09",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-8767329/latest.pdf"
+        },
+        {
+          "title": "Numerical Simulation of Hydrodynamic Processes for East Shantou Reclamation Engineering",
+          "date": "2026-03-09",
+          "venue": "",
+          "link": "https://www.preprints.org/frontend/manuscript/b04a3af3a57eea60c389f1947f664a52/download_pub"
         },
         {
           "title": "A multi-objective optimization framework for wave farm design: Balancing coastal protection and energy output",
@@ -203,18 +215,6 @@
           "date": "2026-03-06",
           "venue": "",
           "link": "https://www.mdpi.com/2813-477X/4/1/10/pdf?version=1772777712"
-        },
-        {
-          "title": "Alluvial river-channel width: transient adjustment and dynamic equilibrium",
-          "date": "2026-03-06",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1018/egusphere-2026-1018.pdf"
-        },
-        {
-          "title": "Impact assessment of new expansion plan on coastal lakes: case study-LakeMariout",
-          "date": "2026-03-04",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s44533-026-00016-w.pdf"
         }
       ]
     },
