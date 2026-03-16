@@ -3,17 +3,17 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-03-15** · Showing results since **2025**_
+_Last update: **2026-03-16** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Regional Validation of Satellite-Derived Beach Width and Slope in Microtidal Environments: The Role of Water Level Forcing and Classifier Training](https://www.mdpi.com/2673-964X/6/1/11/pdf?version=1773408425) · 2026-03-13
 - [The Maintenance of the Eastern Mediterranean Boundary Current](https://www.authorea.com/doi/pdf/10.22541/au.177153450.04237179) · 2026-02-19
 - [Mechanisms driving mesoscale latent heat flux variations and mixed layer heat content evaluation in the Northwest Tropical Atlantic](https://doi.org/10.5194/os-22-699-2026) · 2026-02-18
 - [Simulated ocean dynamics and lagrangian trajectory analysis in the Andaman Sea](https://www.bio-conferences.org/10.1051/bioconf/202622006004/pdf) · 2026-02-11
 - [Interactions between Internal Wave Modes and the California Current System: Differences between Internal Tides and Near-Inertial Waves](https://essopenarchive.org/doi/pdf/10.22541/essoar.177039551.16178519) · 2026-02-06
-- [Simulated ocean dynamics and lagrangian trajectory analysis in the Andaman Sea](https://www.bio-conferences.org/articles/bioconf/pdf/2026/13/bioconf_icms2026_06004.pdf) · 2026-01-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -29,11 +29,11 @@ _Last update: **2026-03-15** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Improving long-term monitoring around the Shetland and Orkney archipelagos with high resolution modelling and data science. ](https://doi.org/10.5194/egusphere-egu26-20285) · 2026-03-14
 - [Macroplastic fate and transport in an Amazonian Estuarine System: A Lagrangian Modelling Approach](https://www.researchsquare.com/article/rs-8767329/latest.pdf) · 2026-03-09
+- [Bias correction of sea temperature in Shandong coastal waters using LSTM-FVCOM and GRU-DF-FVCOM hybrid models](https://doi.org/10.1016/j.ecss.2026.109813) · 2026-03-09
 - [Numerical Simulation of Hydrodynamic Processes for East Shantou Reclamation Engineering](https://www.preprints.org/frontend/manuscript/b04a3af3a57eea60c389f1947f664a52/download_pub) · 2026-03-09
 - [Assessing shellfish water exposure to fecal bacteria pollution in Salish Sea: three-dimensional modeling and implications for monitoring](https://public-pages-files-2025.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1738321/pdf) · 2026-03-06
-- [Long-Term Hydrodynamic Evolution and Extreme Parameter Estimation in the Mekong River Estuary](https://www.mdpi.com/2073-4441/18/5/620/pdf?version=1772700804) · 2026-03-05
-- [High-Frequency Water-Level Oscillations in a Semi-Enclosed Embayment](https://www.mdpi.com/2073-4441/18/5/611/pdf) · 2026-03-04
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
