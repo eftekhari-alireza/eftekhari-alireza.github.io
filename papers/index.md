@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-03-16** · Showing results since **2025**_
+_Last update: **2026-03-17** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -69,8 +69,8 @@ _Last update: **2026-03-16** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Wave spectrum Reconstruction Parameters for nested wave modeling in the China-adjacent seas from 2000 to 2024](https://www.nature.com/articles/s41597-026-07017-5_reference.pdf) · 2026-03-14
 - [Relationship between marine and coastal hazard parameters of Mediterranean cyclones](https://doi.org/10.5194/egusphere-egu26-12209) · 2026-03-14
 - [AI-based Emulation for Assessing the Impact of Nature-based Solutions on Waves and Currents for Coastal Protection and Resilience](https://doi.org/10.5194/egusphere-egu26-17449) · 2026-03-14
 - [A Digital Twin enabled satellite workflow for automated oil spill detection and forecasting](https://doi.org/10.5194/egusphere-egu26-7033) · 2026-03-13
 - [Quantifying Wave Setup Climatology along the U.S. East and Gulf Coasts using a Coupled Hydrodynamic-Wave Model](https://eartharxiv.org/repository/object/11979/download/21502/) · 2026-02-28
-- [A Study on Enhancing the Accuracy of Wave Prediction Models Through SWAN (Simulating WAves Nearshore) Model Sensitivity Experiments: Focusing on Wind Input and Whitecapping Dissipation](https://www.mdpi.com/2077-1312/14/5/435/pdf?version=1772112832) · 2026-02-26
