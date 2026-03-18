@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-17",
+  "date": "2026-03-18",
   "year_from": 2025,
   "items": [
     {
@@ -79,6 +79,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Microplastic Dispersal in Lake Ontario Driven by Lagrangian Coherent Structures",
+          "date": "2026-03-16",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-8959608/latest.pdf"
+        },
+        {
           "title": "Improving long-term monitoring around the Shetland and Orkney archipelagos with high resolution modelling and data science.\u00a0",
           "date": "2026-03-14",
           "venue": "",
@@ -101,12 +107,6 @@
           "date": "2026-03-09",
           "venue": "",
           "link": "https://www.preprints.org/frontend/manuscript/b04a3af3a57eea60c389f1947f664a52/download_pub"
-        },
-        {
-          "title": "Assessing shellfish water exposure to fecal bacteria pollution in Salish Sea: three-dimensional modeling and implications for monitoring",
-          "date": "2026-03-06",
-          "venue": "",
-          "link": "https://public-pages-files-2025.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1738321/pdf"
         }
       ]
     },
@@ -114,6 +114,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Assessing future flood hazards with high-resolution climate model projections: a case study in northeastern Sicily, Italy",
+          "date": "2026-03-16",
+          "venue": "",
+          "link": "https://doi.org/10.3389/frwa.2026.1699802"
+        },
         {
           "title": "Graph Neural Networks versus Reduced-Order Models for Surrogate-Based Coastal Forecasting on Unstructured Meshes",
           "date": "2026-03-14",
@@ -127,22 +133,16 @@
           "link": "https://link.springer.com/content/pdf/10.1007/s44218-026-00129-w.pdf"
         },
         {
+          "title": "Quantification of Salt Intrusion caused by Navigation Locks and their Operation for Policy Analysis, Water Management or Salt Dispersion Modelling",
+          "date": "2026-03-11",
+          "venue": "",
+          "link": "https://journals.open.tudelft.nl/jchs/article/download/8271/6516"
+        },
+        {
           "title": "Review of multi-sectoral water management simulation\u2013optimization approaches",
           "date": "2026-03-11",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s40899-026-01334-8.pdf"
-        },
-        {
-          "title": "Numerical Simulation of Hydrodynamic Processes for East Shantou Reclamation Engineering",
-          "date": "2026-03-09",
-          "venue": "",
-          "link": "https://www.preprints.org/frontend/manuscript/b04a3af3a57eea60c389f1947f664a52/download_pub"
-        },
-        {
-          "title": "Tracking marine debris in Northwest Spain: assessing wind influence with a Lagrangian transport model",
-          "date": "2026-03-06",
-          "venue": "",
-          "link": "https://os.copernicus.org/articles/22/777/2026/os-22-777-2026.pdf"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Assessing future flood hazards with high-resolution climate model projections: a case study in northeastern Sicily, Italy",
+          "date": "2026-03-16",
+          "venue": "",
+          "link": "https://doi.org/10.3389/frwa.2026.1699802"
+        },
+        {
           "title": "Mixing Processes at the Mangrove Forest Edge under Coastal Squeeze: Insights from PIV and 2DH Modelling for Nature-Based Restoration\u00a0",
           "date": "2026-03-13",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-03-09",
           "venue": "",
           "link": "https://www.preprints.org/frontend/manuscript/b04a3af3a57eea60c389f1947f664a52/download_pub"
-        },
-        {
-          "title": "A multi-objective optimization framework for wave farm design: Balancing coastal protection and energy output",
-          "date": "2026-03-07",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.ref.2026.100831"
         }
       ]
     },
