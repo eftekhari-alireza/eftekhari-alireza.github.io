@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-18",
+  "date": "2026-03-19",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Towards a typology for hybrid compound flood modeling",
+          "date": "2026-03-17",
+          "venue": "",
+          "link": "https://doi.org/10.5194/hess-30-1397-2026"
+        },
+        {
+          "title": "Review on tsunami research and risk mitigation: from prediction models to resilient coastal communities",
+          "date": "2026-03-16",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s44304-026-00195-7.pdf"
+        },
+        {
           "title": "Graph Neural Networks versus Reduced-Order Models for Surrogate-Based Coastal Forecasting on Unstructured Meshes",
           "date": "2026-03-14",
           "venue": "",
@@ -59,18 +71,6 @@
           "date": "2026-03-10",
           "venue": "",
           "link": "https://www.nature.com/articles/s44304-026-00190-y.pdf"
-        },
-        {
-          "title": "Near\u2010Inertial Wave Trapping Inside a Fine\u2010Scale Anticyclonic Eddy During the BioSWOT\u2010Med 2023 Cruise: Turbulence and Energy Flux",
-          "date": "2026-03-01",
-          "venue": "",
-          "link": "https://doi.org/10.1029/2025jc022984"
-        },
-        {
-          "title": "High-resolution simulations of coastal dispersion of Tubastraea spp. larvae from a large estuary in northeast Brazil",
-          "date": "2026-02-28",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s00338-026-02817-y.pdf"
         }
       ]
     },
@@ -78,6 +78,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Reply on RC1",
+          "date": "2026-03-17",
+          "venue": "",
+          "link": "https://doi.org/10.5194/egusphere-2025-6556-ac1"
+        },
         {
           "title": "Microplastic Dispersal in Lake Ontario Driven by Lagrangian Coherent Structures",
           "date": "2026-03-16",
@@ -101,12 +107,6 @@
           "date": "2026-03-09",
           "venue": "",
           "link": "https://doi.org/10.1016/j.ecss.2026.109813"
-        },
-        {
-          "title": "Numerical Simulation of Hydrodynamic Processes for East Shantou Reclamation Engineering",
-          "date": "2026-03-09",
-          "venue": "",
-          "link": "https://www.preprints.org/frontend/manuscript/b04a3af3a57eea60c389f1947f664a52/download_pub"
         }
       ]
     },
@@ -118,13 +118,19 @@
           "title": "Assessing future flood hazards with high-resolution climate model projections: a case study in northeastern Sicily, Italy",
           "date": "2026-03-16",
           "venue": "",
-          "link": "https://doi.org/10.3389/frwa.2026.1699802"
+          "link": "https://public-pages-files-2025.frontiersin.org/journals/water/articles/10.3389/frwa.2026.1699802/pdf"
         },
         {
           "title": "Graph Neural Networks versus Reduced-Order Models for Surrogate-Based Coastal Forecasting on Unstructured Meshes",
           "date": "2026-03-14",
           "venue": "",
           "link": "https://doi.org/10.5194/egusphere-egu26-12542"
+        },
+        {
+          "title": "Numerical Simulation of Extreme Waves at Chancay Port",
+          "date": "2026-03-14",
+          "venue": "",
+          "link": "https://www.mdpi.com/2076-3417/16/6/2804/pdf?version=1773649866"
         },
         {
           "title": "Why do offshore breakwaters trap low levels of fine-grained sediments? Insights from Vietnam",
@@ -137,12 +143,6 @@
           "date": "2026-03-11",
           "venue": "",
           "link": "https://journals.open.tudelft.nl/jchs/article/download/8271/6516"
-        },
-        {
-          "title": "Review of multi-sectoral water management simulation\u2013optimization approaches",
-          "date": "2026-03-11",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s40899-026-01334-8.pdf"
         }
       ]
     },
@@ -187,10 +187,16 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Towards a typology for hybrid compound flood modeling",
+          "date": "2026-03-17",
+          "venue": "",
+          "link": "https://doi.org/10.5194/hess-30-1397-2026"
+        },
+        {
           "title": "Assessing future flood hazards with high-resolution climate model projections: a case study in northeastern Sicily, Italy",
           "date": "2026-03-16",
           "venue": "",
-          "link": "https://doi.org/10.3389/frwa.2026.1699802"
+          "link": "https://public-pages-files-2025.frontiersin.org/journals/water/articles/10.3389/frwa.2026.1699802/pdf"
         },
         {
           "title": "Mixing Processes at the Mangrove Forest Edge under Coastal Squeeze: Insights from PIV and 2DH Modelling for Nature-Based Restoration\u00a0",
@@ -209,12 +215,6 @@
           "date": "2026-03-09",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-8767329/latest.pdf"
-        },
-        {
-          "title": "Numerical Simulation of Hydrodynamic Processes for East Shantou Reclamation Engineering",
-          "date": "2026-03-09",
-          "venue": "",
-          "link": "https://www.preprints.org/frontend/manuscript/b04a3af3a57eea60c389f1947f664a52/download_pub"
         }
       ]
     },
@@ -222,6 +222,24 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "HIDRA-D: deep-learning model for dense sea level forecasting using sparse altimetry and tide gauge data",
+          "date": "2026-03-17",
+          "venue": "",
+          "link": "https://gmd.copernicus.org/articles/19/2177/2026/gmd-19-2177-2026.pdf"
+        },
+        {
+          "title": "Numerical Simulation of Extreme Waves at Chancay Port",
+          "date": "2026-03-14",
+          "venue": "",
+          "link": "https://www.mdpi.com/2076-3417/16/6/2804/pdf?version=1773649866"
+        },
+        {
+          "title": "Wave Climate Dynamics of a Morphologically Complex Coast: A Hybrid Downscaling Study of Manzanillo, Mexico",
+          "date": "2026-03-14",
+          "venue": "",
+          "link": "https://www.mdpi.com/2077-1312/14/6/544/pdf?version=1773481650"
+        },
         {
           "title": "Wave spectrum Reconstruction Parameters for nested wave modeling in the China-adjacent seas from 2000 to 2024",
           "date": "2026-03-14",
@@ -233,24 +251,6 @@
           "date": "2026-03-14",
           "venue": "",
           "link": "https://doi.org/10.5194/egusphere-egu26-12209"
-        },
-        {
-          "title": "AI-based Emulation for Assessing the Impact of Nature-based Solutions on Waves and Currents for Coastal Protection and Resilience",
-          "date": "2026-03-14",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu26-17449"
-        },
-        {
-          "title": "A Digital Twin enabled satellite workflow for automated oil spill detection and forecasting",
-          "date": "2026-03-13",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu26-7033"
-        },
-        {
-          "title": "Quantifying Wave Setup Climatology along the U.S. East and Gulf Coasts using a Coupled Hydrodynamic-Wave Model",
-          "date": "2026-02-28",
-          "venue": "",
-          "link": "https://eartharxiv.org/repository/object/11979/download/21502/"
         }
       ]
     }
