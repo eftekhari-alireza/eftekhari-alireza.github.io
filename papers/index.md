@@ -3,27 +3,27 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-03-20** · Showing results since **2025**_
+_Last update: **2026-03-21** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf](https://doi.org/10.1007/s10236-026-01792-w) · 2026-03-20
 - [Regional Validation of Satellite-Derived Beach Width and Slope in Microtidal Environments: The Role of Water Level Forcing and Classifier Training](https://www.mdpi.com/2673-964X/6/1/11/pdf?version=1773408425) · 2026-03-13
 - [The Maintenance of the Eastern Mediterranean Boundary Current](https://www.authorea.com/doi/pdf/10.22541/au.177153450.04237179) · 2026-02-19
 - [Mechanisms driving mesoscale latent heat flux variations and mixed layer heat content evaluation in the Northwest Tropical Atlantic](https://doi.org/10.5194/os-22-699-2026) · 2026-02-18
 - [Simulated ocean dynamics and lagrangian trajectory analysis in the Andaman Sea](https://www.bio-conferences.org/10.1051/bioconf/202622006004/pdf) · 2026-02-11
-- [Interactions between Internal Wave Modes and the California Current System: Differences between Internal Tides and Near-Inertial Waves](https://essopenarchive.org/doi/pdf/10.22541/essoar.177039551.16178519) · 2026-02-06
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [Towards a typology for hybrid compound flood modeling](https://doi.org/10.5194/hess-30-1397-2026) · 2026-03-17
-- [Review on tsunami research and risk mitigation: from prediction models to resilient coastal communities](https://www.nature.com/articles/s44304-026-00195-7.pdf) · 2026-03-16
-- [Graph Neural Networks versus Reduced-Order Models for Surrogate-Based Coastal Forecasting on Unstructured Meshes](https://doi.org/10.5194/egusphere-egu26-12542) · 2026-03-14
-- [Physical controls on alkalinity variability in Halifax Harbour: The roles of wind and tides](https://doi.org/10.5194/egusphere-egu26-15404) · 2026-03-14
-- [GPU-accelerated city-scale urban flood forecasting for real-time decision-making](https://www.nature.com/articles/s44304-026-00190-y.pdf) · 2026-03-10
+- [Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf](https://doi.org/10.1007/s10236-026-01792-w) · 2026-03-20
+- [A winter-season meteotsunami in the Balearics: the 22 January 2021 squall-line driven event](https://link.springer.com/content/pdf/10.1007/s11069-026-08048-2.pdf) · 2026-03-18
+- [Stability Analysis of the Dual-Fan Flow and Reconstruction Mechanism of Vortex System Based on POD-DMD and Nonlinear Dynamics](https://www.mdpi.com/2076-3417/16/6/2910/pdf) · 2026-03-18
+- [The ISLAS2020 field campaign: studying the near-surface exchange process of stable water isotopes during the arctic wintertime](https://essd.copernicus.org/articles/18/1969/2026/essd-18-1969-2026.pdf) · 2026-03-17
+- [Towards a typology for hybrid compound flood modeling](https://hess.copernicus.org/articles/30/1397/2026/hess-30-1397-2026.pdf) · 2026-03-17
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-03-20** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [Towards a typology for hybrid compound flood modeling](https://doi.org/10.5194/hess-30-1397-2026) · 2026-03-17
+- [Modeling Seasonal Salinity Dynamics in the Navío Quebrado Coastal Lagoon, Colombia](https://www.mdpi.com/2077-1312/14/6/564/pdf?version=1773830181) · 2026-03-18
+- [Riverbank erosion in the Ganges reach of Bangladesh: influence of geotechnical factors and seasonal water level fluctuations](https://link.springer.com/content/pdf/10.1007/s12665-026-12893-6.pdf) · 2026-03-17
+- [Towards a typology for hybrid compound flood modeling](https://hess.copernicus.org/articles/30/1397/2026/hess-30-1397-2026.pdf) · 2026-03-17
 - [Assessing future flood hazards with high-resolution climate model projections: a case study in northeastern Sicily, Italy](https://public-pages-files-2025.frontiersin.org/journals/water/articles/10.3389/frwa.2026.1699802/pdf) · 2026-03-16
 - [Mixing Processes at the Mangrove Forest Edge under Coastal Squeeze: Insights from PIV and 2DH Modelling for Nature-Based Restoration ](https://doi.org/10.5194/egusphere-egu26-8780) · 2026-03-13
-- [Review of multi-sectoral water management simulation–optimization approaches](https://link.springer.com/content/pdf/10.1007/s40899-026-01334-8.pdf) · 2026-03-11
-- [Macroplastic fate and transport in an Amazonian Estuarine System: A Lagrangian Modelling Approach](https://www.researchsquare.com/article/rs-8767329/latest.pdf) · 2026-03-09
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
