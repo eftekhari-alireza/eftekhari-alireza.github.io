@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-03-21** · Showing results since **2025**_
+_Last update: **2026-03-22** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -29,11 +29,11 @@ _Last update: **2026-03-21** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Develop an Approach for Mapping an Accurate and Appropriate Flood Susceptibility for Quang Binh Province, Vietnam, Using Machine Learning Algorithms and Remote Sensing](https://reference-global.com/download/article/10.2478/cee-2026-0089.pdf) · 2026-03-19
 - [Reply on RC1](https://doi.org/10.5194/egusphere-2025-6556-ac1) · 2026-03-17
 - [Microplastic Dispersal in Lake Ontario Driven by Lagrangian Coherent Structures](https://www.researchsquare.com/article/rs-8959608/latest.pdf) · 2026-03-16
 - [Improving long-term monitoring around the Shetland and Orkney archipelagos with high resolution modelling and data science. ](https://doi.org/10.5194/egusphere-egu26-20285) · 2026-03-14
 - [Macroplastic fate and transport in an Amazonian Estuarine System: A Lagrangian Modelling Approach](https://www.researchsquare.com/article/rs-8767329/latest.pdf) · 2026-03-09
-- [Bias correction of sea temperature in Shandong coastal waters using LSTM-FVCOM and GRU-DF-FVCOM hybrid models](https://doi.org/10.1016/j.ecss.2026.109813) · 2026-03-09
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
