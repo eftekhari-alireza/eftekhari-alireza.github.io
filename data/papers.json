@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-22",
+  "date": "2026-03-23",
   "year_from": 2025,
   "items": [
     {
@@ -151,6 +151,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "A Finite Volume Shallow Water Hydrodynamic Model and Its Validation",
+          "date": "2026-03-20",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-8922661/latest.pdf"
+        },
+        {
           "title": "Propeller-Induced Seabed Scour: A Review of Hydrodynamic Mechanisms, CFD Modeling, and Coastal Engineering Implications",
           "date": "2026-01-01",
           "venue": "",
@@ -173,12 +179,6 @@
           "date": "2025-11-19",
           "venue": "",
           "link": "https://geomatejournal.com/geomate/article/download/5133/3757/10130"
-        },
-        {
-          "title": "Development of One-Way Coupling Between MIKE 3 Wave FM Model and WRF-LES for the Evaluation of a Storm Simulation",
-          "date": "2025-11-10",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s10546-025-00942-9.pdf"
         }
       ]
     },

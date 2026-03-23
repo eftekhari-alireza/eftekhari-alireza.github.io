@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-03-22** · Showing results since **2025**_
+_Last update: **2026-03-23** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -49,11 +49,11 @@ _Last update: **2026-03-22** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [A Finite Volume Shallow Water Hydrodynamic Model and Its Validation](https://www.researchsquare.com/article/rs-8922661/latest.pdf) · 2026-03-20
 - [Propeller-Induced Seabed Scour: A Review of Hydrodynamic Mechanisms, CFD Modeling, and Coastal Engineering Implications](https://www.scirp.org/pdf/ojms_1470710.pdf) · 2026-01-01
 - [Assessment of the impact of sediment dispersion on coral reef ecosystems caused by submarine cable installation in the Con Dao Archipelago, Vietnam](https://vjs.ac.vn/jmst/article/download/23078/pdf) · 2025-12-30
 - [Characterization of spatial and temporal evolution of saltwater intrusion in the Qingnian reservoir of Pinglu Canal](https://www.jceclink.com/web/index.php/jcec/article/download/262/209) · 2025-12-30
 - [INTEGRATING FIELD DATA AND NUMERICAL MODELING TO ASSESS MICROPLASTIC DISTRIBUTION IN THE AQUATIC ENVIRONMENT OF HA LONG BAY, VIETNAM](https://geomatejournal.com/geomate/article/download/5133/3757/10130) · 2025-11-19
-- [Development of One-Way Coupling Between MIKE 3 Wave FM Model and WRF-LES for the Evaluation of a Storm Simulation](https://link.springer.com/content/pdf/10.1007/s10546-025-00942-9.pdf) · 2025-11-10
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Delft3D"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
