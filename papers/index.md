@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-03-25** · Showing results since **2025**_
+_Last update: **2026-03-26** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,21 +19,21 @@ _Last update: **2026-03-25** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Biogeochemical Processes Including Oxygen Dynamics in a Deep Lake During the Spring Thermal Bar: A Numerical Experiment](https://doi.org/10.3390/environments13040178) · 2026-03-24
+- [A Comparative Ablation Study of CNN-LSTM-GRU and MAformer Architectures for Operational Multi-regime Salinity Forecasting in the Outer Shannon Estuary](https://www.researchsquare.com/article/rs-9178680/latest.pdf) · 2026-03-23
 - [Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf](https://doi.org/10.1007/s10236-026-01792-w) · 2026-03-20
 - [A winter-season meteotsunami in the Balearics: the 22 January 2021 squall-line driven event](https://link.springer.com/content/pdf/10.1007/s11069-026-08048-2.pdf) · 2026-03-18
 - [Stability Analysis of the Dual-Fan Flow and Reconstruction Mechanism of Vortex System Based on POD-DMD and Nonlinear Dynamics](https://www.mdpi.com/2076-3417/16/6/2910/pdf) · 2026-03-18
-- [The ISLAS2020 field campaign: studying the near-surface exchange process of stable water isotopes during the arctic wintertime](https://essd.copernicus.org/articles/18/1969/2026/essd-18-1969-2026.pdf) · 2026-03-17
-- [Towards a typology for hybrid compound flood modeling](https://hess.copernicus.org/articles/30/1397/2026/hess-30-1397-2026.pdf) · 2026-03-17
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [A Comparative Ablation Study of CNN-LSTM-GRU and MAformer Architectures for Operational Multi-regime Salinity Forecasting in the Outer Shannon Estuary](https://www.researchsquare.com/article/rs-9178680/latest.pdf) · 2026-03-23
 - [Develop an Approach for Mapping an Accurate and Appropriate Flood Susceptibility for Quang Binh Province, Vietnam, Using Machine Learning Algorithms and Remote Sensing](https://reference-global.com/download/article/10.2478/cee-2026-0089.pdf) · 2026-03-19
 - [Reply on RC1](https://doi.org/10.5194/egusphere-2025-6556-ac1) · 2026-03-17
 - [Microplastic Dispersal in Lake Ontario Driven by Lagrangian Coherent Structures](https://www.researchsquare.com/article/rs-8959608/latest.pdf) · 2026-03-16
 - [Improving long-term monitoring around the Shetland and Orkney archipelagos with high resolution modelling and data science. ](https://doi.org/10.5194/egusphere-egu26-20285) · 2026-03-14
-- [Macroplastic fate and transport in an Amazonian Estuarine System: A Lagrangian Modelling Approach](https://www.researchsquare.com/article/rs-8767329/latest.pdf) · 2026-03-09
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
