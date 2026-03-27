@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-03-26** · Showing results since **2025**_
+_Last update: **2026-03-27** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-03-26** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [Biogeochemical Processes Including Oxygen Dynamics in a Deep Lake During the Spring Thermal Bar: A Numerical Experiment](https://doi.org/10.3390/environments13040178) · 2026-03-24
+- [Biogeochemical Processes Including Oxygen Dynamics in a Deep Lake During the Spring Thermal Bar: A Numerical Experiment](https://www.mdpi.com/2076-3298/13/4/178/pdf?version=1774344158) · 2026-03-24
 - [A Comparative Ablation Study of CNN-LSTM-GRU and MAformer Architectures for Operational Multi-regime Salinity Forecasting in the Outer Shannon Estuary](https://www.researchsquare.com/article/rs-9178680/latest.pdf) · 2026-03-23
 - [Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf](https://doi.org/10.1007/s10236-026-01792-w) · 2026-03-20
+- [Mechanism of formation of seasonal sea surface temperature fronts in the northeastern Arabian Sea](https://doi.org/10.1016/j.jmarsys.2026.104211) · 2026-03-20
 - [A winter-season meteotsunami in the Balearics: the 22 January 2021 squall-line driven event](https://link.springer.com/content/pdf/10.1007/s11069-026-08048-2.pdf) · 2026-03-18
-- [Stability Analysis of the Dual-Fan Flow and Reconstruction Mechanism of Vortex System Based on POD-DMD and Nonlinear Dynamics](https://www.mdpi.com/2076-3417/16/6/2910/pdf) · 2026-03-18
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

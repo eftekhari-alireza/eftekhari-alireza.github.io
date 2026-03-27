@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-26",
+  "date": "2026-03-27",
   "year_from": 2025,
   "items": [
     {
@@ -46,7 +46,7 @@
           "title": "Biogeochemical Processes Including Oxygen Dynamics in a Deep Lake During the Spring Thermal Bar: A Numerical Experiment",
           "date": "2026-03-24",
           "venue": "",
-          "link": "https://doi.org/10.3390/environments13040178"
+          "link": "https://www.mdpi.com/2076-3298/13/4/178/pdf?version=1774344158"
         },
         {
           "title": "A Comparative Ablation Study of CNN-LSTM-GRU and MAformer Architectures for Operational Multi-regime Salinity Forecasting in the Outer Shannon Estuary",
@@ -61,16 +61,16 @@
           "link": "https://doi.org/10.1007/s10236-026-01792-w"
         },
         {
+          "title": "Mechanism of formation of seasonal sea surface temperature fronts in the northeastern Arabian Sea",
+          "date": "2026-03-20",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.jmarsys.2026.104211"
+        },
+        {
           "title": "A winter-season meteotsunami in the Balearics: the 22 January 2021 squall-line driven event",
           "date": "2026-03-18",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08048-2.pdf"
-        },
-        {
-          "title": "Stability Analysis of the Dual-Fan Flow and Reconstruction Mechanism of Vortex System Based on POD-DMD and Nonlinear Dynamics",
-          "date": "2026-03-18",
-          "venue": "",
-          "link": "https://www.mdpi.com/2076-3417/16/6/2910/pdf"
         }
       ]
     },
