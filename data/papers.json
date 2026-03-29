@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-28",
+  "date": "2026-03-29",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "New global mean dynamic topography CNES-CLS-22 combining drifters, hydrography profiles and high frequency radar data",
+          "date": "2026-03-27",
+          "venue": "",
+          "link": "https://essd.copernicus.org/articles/18/2285/2026/essd-18-2285-2026.pdf"
+        },
+        {
           "title": "An Assessment of the Moana Operational Forecast System Assimilating Innovative Mang\u014dpare Fishing Vessel Observations in Aotearoa, New Zealand",
           "date": "2026-03-24",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-03-20",
           "venue": "",
           "link": "https://doi.org/10.1007/s10236-026-01792-w"
-        },
-        {
-          "title": "Mechanism of formation of seasonal sea surface temperature fronts in the northeastern Arabian Sea",
-          "date": "2026-03-20",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.jmarsys.2026.104211"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Pemodelan Dampak Perubahan Iklim terhadap Pergerakan dan Dinamika Garis Pantai di Susoh, Aceh",
+          "date": "2026-03-24",
+          "venue": "",
+          "link": "https://www.teras.unimal.ac.id/teras/article/download/1357/637"
+        },
+        {
           "title": "Modeling Seasonal Salinity Dynamics in the Nav\u00edo Quebrado Coastal Lagoon, Colombia",
           "date": "2026-03-18",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-03-16",
           "venue": "",
           "link": "https://public-pages-files-2025.frontiersin.org/journals/water/articles/10.3389/frwa.2026.1699802/pdf"
-        },
-        {
-          "title": "Mixing Processes at the Mangrove Forest Edge under Coastal Squeeze: Insights from PIV and 2DH Modelling for Nature-Based Restoration\u00a0",
-          "date": "2026-03-13",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu26-8780"
         }
       ]
     },

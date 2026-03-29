@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-03-28** · Showing results since **2025**_
+_Last update: **2026-03-29** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-03-28** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [New global mean dynamic topography CNES-CLS-22 combining drifters, hydrography profiles and high frequency radar data](https://essd.copernicus.org/articles/18/2285/2026/essd-18-2285-2026.pdf) · 2026-03-27
 - [An Assessment of the Moana Operational Forecast System Assimilating Innovative Mangōpare Fishing Vessel Observations in Aotearoa, New Zealand](https://www.mdpi.com/2077-1312/14/7/591/pdf?version=1774342530) · 2026-03-24
 - [Biogeochemical Processes Including Oxygen Dynamics in a Deep Lake During the Spring Thermal Bar: A Numerical Experiment](https://www.mdpi.com/2076-3298/13/4/178/pdf?version=1774344158) · 2026-03-24
 - [A Comparative Ablation Study of CNN-LSTM-GRU and MAformer Architectures for Operational Multi-regime Salinity Forecasting in the Outer Shannon Estuary](https://www.researchsquare.com/article/rs-9178680/latest.pdf) · 2026-03-23
 - [Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf](https://doi.org/10.1007/s10236-026-01792-w) · 2026-03-20
-- [Mechanism of formation of seasonal sea surface temperature fronts in the northeastern Arabian Sea](https://doi.org/10.1016/j.jmarsys.2026.104211) · 2026-03-20
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-03-28** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Pemodelan Dampak Perubahan Iklim terhadap Pergerakan dan Dinamika Garis Pantai di Susoh, Aceh](https://www.teras.unimal.ac.id/teras/article/download/1357/637) · 2026-03-24
 - [Modeling Seasonal Salinity Dynamics in the Navío Quebrado Coastal Lagoon, Colombia](https://www.mdpi.com/2077-1312/14/6/564/pdf?version=1773830181) · 2026-03-18
 - [Riverbank erosion in the Ganges reach of Bangladesh: influence of geotechnical factors and seasonal water level fluctuations](https://link.springer.com/content/pdf/10.1007/s12665-026-12893-6.pdf) · 2026-03-17
 - [Towards a typology for hybrid compound flood modeling](https://hess.copernicus.org/articles/30/1397/2026/hess-30-1397-2026.pdf) · 2026-03-17
 - [Assessing future flood hazards with high-resolution climate model projections: a case study in northeastern Sicily, Italy](https://public-pages-files-2025.frontiersin.org/journals/water/articles/10.3389/frwa.2026.1699802/pdf) · 2026-03-16
-- [Mixing Processes at the Mangrove Forest Edge under Coastal Squeeze: Insights from PIV and 2DH Modelling for Nature-Based Restoration ](https://doi.org/10.5194/egusphere-egu26-8780) · 2026-03-13
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
