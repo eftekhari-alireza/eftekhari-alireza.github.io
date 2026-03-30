@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-03-29** · Showing results since **2025**_
+_Last update: **2026-03-30** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-03-29** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Data-Driven Prediction of Wave Energy Potential in the Black Sea Using Ensemble Learning and Real-Time Buoy Observations](https://link.springer.com/content/pdf/10.1007/s13369-026-11224-y.pdf) · 2026-03-27
 - [New global mean dynamic topography CNES-CLS-22 combining drifters, hydrography profiles and high frequency radar data](https://essd.copernicus.org/articles/18/2285/2026/essd-18-2285-2026.pdf) · 2026-03-27
 - [An Assessment of the Moana Operational Forecast System Assimilating Innovative Mangōpare Fishing Vessel Observations in Aotearoa, New Zealand](https://www.mdpi.com/2077-1312/14/7/591/pdf?version=1774342530) · 2026-03-24
 - [Biogeochemical Processes Including Oxygen Dynamics in a Deep Lake During the Spring Thermal Bar: A Numerical Experiment](https://www.mdpi.com/2076-3298/13/4/178/pdf?version=1774344158) · 2026-03-24
 - [A Comparative Ablation Study of CNN-LSTM-GRU and MAformer Architectures for Operational Multi-regime Salinity Forecasting in the Outer Shannon Estuary](https://www.researchsquare.com/article/rs-9178680/latest.pdf) · 2026-03-23
-- [Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf](https://doi.org/10.1007/s10236-026-01792-w) · 2026-03-20
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -69,8 +69,8 @@ _Last update: **2026-03-29** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Data-Driven Prediction of Wave Energy Potential in the Black Sea Using Ensemble Learning and Real-Time Buoy Observations](https://link.springer.com/content/pdf/10.1007/s13369-026-11224-y.pdf) · 2026-03-27
 - [WaveUformer: a bias correction model for GWSM4C Wave Forecasting](https://public-pages-files-2025.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1732870/pdf) · 2026-03-23
 - [HIDRA-D: deep-learning model for dense sea level forecasting using sparse altimetry and tide gauge data](https://gmd.copernicus.org/articles/19/2177/2026/gmd-19-2177-2026.pdf) · 2026-03-17
 - [Numerical Simulation of Extreme Waves at Chancay Port](https://www.mdpi.com/2076-3417/16/6/2804/pdf?version=1773649866) · 2026-03-14
 - [Wave Climate Dynamics of a Morphologically Complex Coast: A Hybrid Downscaling Study of Manzanillo, Mexico](https://www.mdpi.com/2077-1312/14/6/544/pdf?version=1773481650) · 2026-03-14
-- [Wave spectrum Reconstruction Parameters for nested wave modeling in the China-adjacent seas from 2000 to 2024](https://www.nature.com/articles/s41597-026-07017-5_reference.pdf) · 2026-03-14
