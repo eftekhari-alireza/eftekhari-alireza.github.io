@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "year_from": 2025,
   "items": [
     {
@@ -187,6 +187,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Short-Term Effect of Dumping Dredged Materials at the Coastal Marine Environment of El Oro Province-Ecuador",
+          "date": "2026-03-30",
+          "venue": "",
+          "link": "https://doi.org/10.20481/kscdp.2026.13.1.1"
+        },
+        {
+          "title": "Karst rock reading",
+          "date": "2026-03-26",
+          "venue": "",
+          "link": "https://dirros.openscience.si/IzpisGradiva.php?id=28650"
+        },
+        {
           "title": "Pemodelan Dampak Perubahan Iklim terhadap Pergerakan dan Dinamika Garis Pantai di Susoh, Aceh",
           "date": "2026-03-24",
           "venue": "",
@@ -203,18 +215,6 @@
           "date": "2026-03-17",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s12665-026-12893-6.pdf"
-        },
-        {
-          "title": "Towards a typology for hybrid compound flood modeling",
-          "date": "2026-03-17",
-          "venue": "",
-          "link": "https://hess.copernicus.org/articles/30/1397/2026/hess-30-1397-2026.pdf"
-        },
-        {
-          "title": "Assessing future flood hazards with high-resolution climate model projections: a case study in northeastern Sicily, Italy",
-          "date": "2026-03-16",
-          "venue": "",
-          "link": "https://public-pages-files-2025.frontiersin.org/journals/water/articles/10.3389/frwa.2026.1699802/pdf"
         }
       ]
     },
