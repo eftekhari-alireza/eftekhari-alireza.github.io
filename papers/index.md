@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-03-31** · Showing results since **2025**_
+_Last update: **2026-04-01** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-03-31** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Replication Data for: Dynamics of the Kuroshio separation, instability, and associated eddy formation off southern Japan](https://doi.org/10.5281/zenodo.19318235) · 2026-03-29
+- [Replication Data for: Dynamics of the Kuroshio separation, instability, and associated eddy formation off southern Japan](https://doi.org/10.5281/zenodo.19318236) · 2026-03-29
 - [Data-Driven Prediction of Wave Energy Potential in the Black Sea Using Ensemble Learning and Real-Time Buoy Observations](https://link.springer.com/content/pdf/10.1007/s13369-026-11224-y.pdf) · 2026-03-27
 - [New global mean dynamic topography CNES-CLS-22 combining drifters, hydrography profiles and high frequency radar data](https://essd.copernicus.org/articles/18/2285/2026/essd-18-2285-2026.pdf) · 2026-03-27
 - [An Assessment of the Moana Operational Forecast System Assimilating Innovative Mangōpare Fishing Vessel Observations in Aotearoa, New Zealand](https://www.mdpi.com/2077-1312/14/7/591/pdf?version=1774342530) · 2026-03-24
-- [Biogeochemical Processes Including Oxygen Dynamics in a Deep Lake During the Spring Thermal Bar: A Numerical Experiment](https://www.mdpi.com/2076-3298/13/4/178/pdf?version=1774344158) · 2026-03-24
-- [A Comparative Ablation Study of CNN-LSTM-GRU and MAformer Architectures for Operational Multi-regime Salinity Forecasting in the Outer Shannon Estuary](https://www.researchsquare.com/article/rs-9178680/latest.pdf) · 2026-03-23
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2026-03-31** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Towards improved flood prediction: a review of deterministic hydrologic-hydraulic model coupling](https://link.springer.com/content/pdf/10.1007/s11069-026-07992-3.pdf) · 2026-03-30
 - [Assessing future flood hazards with high-resolution climate model projections: a case study in northeastern Sicily, Italy](https://public-pages-files-2025.frontiersin.org/journals/water/articles/10.3389/frwa.2026.1699802/pdf) · 2026-03-16
 - [Graph Neural Networks versus Reduced-Order Models for Surrogate-Based Coastal Forecasting on Unstructured Meshes](https://doi.org/10.5194/egusphere-egu26-12542) · 2026-03-14
 - [Numerical Simulation of Extreme Waves at Chancay Port](https://www.mdpi.com/2076-3417/16/6/2804/pdf?version=1773649866) · 2026-03-14
 - [Why do offshore breakwaters trap low levels of fine-grained sediments? Insights from Vietnam](https://link.springer.com/content/pdf/10.1007/s44218-026-00129-w.pdf) · 2026-03-11
-- [Quantification of Salt Intrusion caused by Navigation Locks and their Operation for Policy Analysis, Water Management or Salt Dispersion Modelling](https://journals.open.tudelft.nl/jchs/article/download/8271/6516) · 2026-03-11
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,7 +59,7 @@ _Last update: **2026-03-31** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [Short-Term Effect of Dumping Dredged Materials at the Coastal Marine Environment of El Oro Province-Ecuador](https://doi.org/10.20481/kscdp.2026.13.1.1) · 2026-03-30
+- [Short-Term Effect of Dumping Dredged Materials at the Coastal Marine Environment of El Oro Province-Ecuador](https://www.jcdp.or.kr/upload/pdf/kscdp-2026-13-1-1.pdf) · 2026-03-30
 - [Karst rock reading](https://dirros.openscience.si/IzpisGradiva.php?id=28650) · 2026-03-26
 - [Pemodelan Dampak Perubahan Iklim terhadap Pergerakan dan Dinamika Garis Pantai di Susoh, Aceh](https://www.teras.unimal.ac.id/teras/article/download/1357/637) · 2026-03-24
 - [Modeling Seasonal Salinity Dynamics in the Navío Quebrado Coastal Lagoon, Colombia](https://www.mdpi.com/2077-1312/14/6/564/pdf?version=1773830181) · 2026-03-18
