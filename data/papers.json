@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-02",
   "year_from": 2025,
   "items": [
     {
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "A Study on the Safe Navigation of Ships in Channel Intersections During Flood Seasons",
+          "date": "2026-03-30",
+          "venue": "",
+          "link": "https://www.mdpi.com/2073-4441/18/7/819/pdf?version=1774868453"
+        },
+        {
           "title": "Short-Term Effect of Dumping Dredged Materials at the Coastal Marine Environment of El Oro Province-Ecuador",
           "date": "2026-03-30",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-03-18",
           "venue": "",
           "link": "https://www.mdpi.com/2077-1312/14/6/564/pdf?version=1773830181"
-        },
-        {
-          "title": "Riverbank erosion in the Ganges reach of Bangladesh: influence of geotechnical factors and seasonal water level fluctuations",
-          "date": "2026-03-17",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s12665-026-12893-6.pdf"
         }
       ]
     },

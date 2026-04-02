@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-04-01** · Showing results since **2025**_
+_Last update: **2026-04-02** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-04-01** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [A Study on the Safe Navigation of Ships in Channel Intersections During Flood Seasons](https://www.mdpi.com/2073-4441/18/7/819/pdf?version=1774868453) · 2026-03-30
 - [Short-Term Effect of Dumping Dredged Materials at the Coastal Marine Environment of El Oro Province-Ecuador](https://www.jcdp.or.kr/upload/pdf/kscdp-2026-13-1-1.pdf) · 2026-03-30
 - [Karst rock reading](https://dirros.openscience.si/IzpisGradiva.php?id=28650) · 2026-03-26
 - [Pemodelan Dampak Perubahan Iklim terhadap Pergerakan dan Dinamika Garis Pantai di Susoh, Aceh](https://www.teras.unimal.ac.id/teras/article/download/1357/637) · 2026-03-24
 - [Modeling Seasonal Salinity Dynamics in the Navío Quebrado Coastal Lagoon, Colombia](https://www.mdpi.com/2077-1312/14/6/564/pdf?version=1773830181) · 2026-03-18
-- [Riverbank erosion in the Ganges reach of Bangladesh: influence of geotechnical factors and seasonal water level fluctuations](https://link.springer.com/content/pdf/10.1007/s12665-026-12893-6.pdf) · 2026-03-17
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
