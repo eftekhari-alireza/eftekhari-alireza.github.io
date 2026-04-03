@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-02",
+  "date": "2026-04-03",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Machine Learning and Deep Learning Approaches in Thermal Remote Sensing: A Systematic Review (2018\u20132026)",
+          "date": "2026-03-31",
+          "venue": "",
+          "link": "https://www.preprints.org/frontend/manuscript/78381f87d00a298fadb30c88c1bf79c8/download_pub"
+        },
+        {
           "title": "Replication Data for: Dynamics of the Kuroshio separation, instability, and associated eddy formation off southern Japan",
           "date": "2026-03-29",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-03-27",
           "venue": "",
           "link": "https://essd.copernicus.org/articles/18/2285/2026/essd-18-2285-2026.pdf"
-        },
-        {
-          "title": "An Assessment of the Moana Operational Forecast System Assimilating Innovative Mang\u014dpare Fishing Vessel Observations in Aotearoa, New Zealand",
-          "date": "2026-03-24",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/7/591/pdf?version=1774342530"
         }
       ]
     },
@@ -78,6 +78,18 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Advances in Coastal Hydrodynamic and Morphodynamic Processes Under a Changing Climate",
+          "date": "2026-03-31",
+          "venue": "",
+          "link": "https://www.mdpi.com/2077-1312/14/7/641/pdf?version=1774931380"
+        },
+        {
+          "title": "Machine Learning and Deep Learning Approaches in Thermal Remote Sensing: A Systematic Review (2018\u20132026)",
+          "date": "2026-03-31",
+          "venue": "",
+          "link": "https://www.preprints.org/frontend/manuscript/78381f87d00a298fadb30c88c1bf79c8/download_pub"
+        },
         {
           "title": "A Comparative Ablation Study of CNN-LSTM-GRU and MAformer Architectures for Operational Multi-regime Salinity Forecasting in the Outer Shannon Estuary",
           "date": "2026-03-23",
@@ -95,18 +107,6 @@
           "date": "2026-03-17",
           "venue": "",
           "link": "https://doi.org/10.5194/egusphere-2025-6556-ac1"
-        },
-        {
-          "title": "Microplastic Dispersal in Lake Ontario Driven by Lagrangian Coherent Structures",
-          "date": "2026-03-16",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-8959608/latest.pdf"
-        },
-        {
-          "title": "Improving long-term monitoring around the Shetland and Orkney archipelagos with high resolution modelling and data science.\u00a0",
-          "date": "2026-03-14",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu26-20285"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Advances in Coastal Hydrodynamic and Morphodynamic Processes Under a Changing Climate",
+          "date": "2026-03-31",
+          "venue": "",
+          "link": "https://www.mdpi.com/2077-1312/14/7/641/pdf?version=1774931380"
+        },
+        {
           "title": "A Study on the Safe Navigation of Ships in Channel Intersections During Flood Seasons",
           "date": "2026-03-30",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-03-24",
           "venue": "",
           "link": "https://www.teras.unimal.ac.id/teras/article/download/1357/637"
-        },
-        {
-          "title": "Modeling Seasonal Salinity Dynamics in the Nav\u00edo Quebrado Coastal Lagoon, Colombia",
-          "date": "2026-03-18",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/6/564/pdf?version=1773830181"
         }
       ]
     },
@@ -222,6 +222,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Wave-driven shoreline retreat in Potter Cove, Western Antarctic Peninsula",
+          "date": "2026-03-31",
+          "venue": "",
+          "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AB7BA4FD2E406E982740DAF4FC5E0C3F/S0954102026100595a.pdf/div-class-title-wave-driven-shoreline-retreat-in-potter-cove-western-antarctic-peninsula-div.pdf"
+        },
         {
           "title": "Data-Driven Prediction of Wave Energy Potential in the Black Sea Using Ensemble Learning and Real-Time Buoy Observations",
           "date": "2026-03-27",
@@ -245,12 +251,6 @@
           "date": "2026-03-14",
           "venue": "",
           "link": "https://www.mdpi.com/2076-3417/16/6/2804/pdf?version=1773649866"
-        },
-        {
-          "title": "Wave Climate Dynamics of a Morphologically Complex Coast: A Hybrid Downscaling Study of Manzanillo, Mexico",
-          "date": "2026-03-14",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/6/544/pdf?version=1773481650"
         }
       ]
     }
