@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-03",
+  "date": "2026-04-04",
   "year_from": 2025,
   "items": [
     {
@@ -79,6 +79,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Impact of land surface characteristics on coastal compound flooding using a coupled hydrodynamic-hydraulic modelling framework",
+          "date": "2026-04-01",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41598-026-46242-1_reference.pdf"
+        },
+        {
           "title": "Advances in Coastal Hydrodynamic and Morphodynamic Processes Under a Changing Climate",
           "date": "2026-03-31",
           "venue": "",
@@ -101,12 +107,6 @@
           "date": "2026-03-19",
           "venue": "",
           "link": "https://reference-global.com/download/article/10.2478/cee-2026-0089.pdf"
-        },
-        {
-          "title": "Reply on RC1",
-          "date": "2026-03-17",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-2025-6556-ac1"
         }
       ]
     },
@@ -114,6 +114,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "\u041f\u041e\u0420\u0406\u0412\u041d\u042f\u041b\u042c\u041d\u0418\u0419 \u0410\u041d\u0410\u041b\u0406\u0417 \u0415\u041c\u041f\u0406\u0420\u0418\u0427\u041d\u0418\u0425 \u041c\u0415\u0422\u041e\u0414\u0406\u0412 \u041f\u0420\u041e\u0413\u041d\u041e\u0417\u0423\u0412\u0410\u041d\u041d\u042f \u041f\u0410\u0420\u0410\u041c\u0415\u0422\u0420\u0406\u0412 \u0412\u0406\u0422\u0420\u041e\u0412\u0418\u0425 \u0425\u0412\u0418\u041b\u042c \u041d\u0410 \u041f\u0420\u0418\u041a\u041b\u0410\u0414\u0406 \u041c\u0410\u041b\u041e\u0413\u041e \u0413\u0406\u0420\u0421\u042c\u041a\u041e\u0413\u041e \u0412\u041e\u0414\u041e\u0421\u0425\u041e\u0412\u0418\u0429\u0410",
+          "date": "2026-03-31",
+          "venue": "",
+          "link": "https://wateruse.org.ua/article/view/355960"
+        },
         {
           "title": "Towards improved flood prediction: a review of deterministic hydrologic-hydraulic model coupling",
           "date": "2026-03-30",
@@ -137,12 +143,6 @@
           "date": "2026-03-14",
           "venue": "",
           "link": "https://www.mdpi.com/2076-3417/16/6/2804/pdf?version=1773649866"
-        },
-        {
-          "title": "Why do offshore breakwaters trap low levels of fine-grained sediments? Insights from Vietnam",
-          "date": "2026-03-11",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s44218-026-00129-w.pdf"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Hybrid methods in flood inundation modeling: a systematic review",
+          "date": "2026-04-01",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08078-w.pdf"
+        },
+        {
           "title": "Advances in Coastal Hydrodynamic and Morphodynamic Processes Under a Changing Climate",
           "date": "2026-03-31",
           "venue": "",
@@ -199,22 +205,16 @@
           "link": "https://www.mdpi.com/2073-4441/18/7/819/pdf?version=1774868453"
         },
         {
+          "title": "Modeling of non-radioactive contamination of cooling ponds by NPP discharge waters in research of the last decade",
+          "date": "2026-03-30",
+          "venue": "",
+          "link": "https://doi.org/10.59887/2073-6673.2025.19(1)-7"
+        },
+        {
           "title": "Short-Term Effect of Dumping Dredged Materials at the Coastal Marine Environment of El Oro Province-Ecuador",
           "date": "2026-03-30",
           "venue": "",
           "link": "https://www.jcdp.or.kr/upload/pdf/kscdp-2026-13-1-1.pdf"
-        },
-        {
-          "title": "Karst rock reading",
-          "date": "2026-03-26",
-          "venue": "",
-          "link": "https://dirros.openscience.si/IzpisGradiva.php?id=28650"
-        },
-        {
-          "title": "Pemodelan Dampak Perubahan Iklim terhadap Pergerakan dan Dinamika Garis Pantai di Susoh, Aceh",
-          "date": "2026-03-24",
-          "venue": "",
-          "link": "https://www.teras.unimal.ac.id/teras/article/download/1357/637"
         }
       ]
     },
