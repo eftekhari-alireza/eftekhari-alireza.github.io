@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-04-05** · Showing results since **2025**_
+_Last update: **2026-04-06** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -20,10 +20,10 @@ _Last update: **2026-04-05** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [Machine Learning and Deep Learning Approaches in Thermal Remote Sensing: A Systematic Review (2018–2026)](https://www.preprints.org/frontend/manuscript/78381f87d00a298fadb30c88c1bf79c8/download_pub) · 2026-03-31
+- [Model evidence for distinct origins of glacial–interglacial and millennial signals in Greenland dust](https://doi.org/10.1073/pnas.2531908123) · 2026-03-30
 - [Replication Data for: Dynamics of the Kuroshio separation, instability, and associated eddy formation off southern Japan](https://doi.org/10.5281/zenodo.19318235) · 2026-03-29
 - [Replication Data for: Dynamics of the Kuroshio separation, instability, and associated eddy formation off southern Japan](https://doi.org/10.5281/zenodo.19318236) · 2026-03-29
 - [Data-Driven Prediction of Wave Energy Potential in the Black Sea Using Ensemble Learning and Real-Time Buoy Observations](https://link.springer.com/content/pdf/10.1007/s13369-026-11224-y.pdf) · 2026-03-27
-- [New global mean dynamic topography CNES-CLS-22 combining drifters, hydrography profiles and high frequency radar data](https://essd.copernicus.org/articles/18/2285/2026/essd-18-2285-2026.pdf) · 2026-03-27
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

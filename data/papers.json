@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-05",
+  "date": "2026-04-06",
   "year_from": 2025,
   "items": [
     {
@@ -49,6 +49,12 @@
           "link": "https://www.preprints.org/frontend/manuscript/78381f87d00a298fadb30c88c1bf79c8/download_pub"
         },
         {
+          "title": "Model evidence for distinct origins of glacial\u2013interglacial and millennial signals in Greenland dust",
+          "date": "2026-03-30",
+          "venue": "",
+          "link": "https://doi.org/10.1073/pnas.2531908123"
+        },
+        {
           "title": "Replication Data for: Dynamics of the Kuroshio separation, instability, and associated eddy formation off southern Japan",
           "date": "2026-03-29",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-03-27",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s13369-026-11224-y.pdf"
-        },
-        {
-          "title": "New global mean dynamic topography CNES-CLS-22 combining drifters, hydrography profiles and high frequency radar data",
-          "date": "2026-03-27",
-          "venue": "",
-          "link": "https://essd.copernicus.org/articles/18/2285/2026/essd-18-2285-2026.pdf"
         }
       ]
     },
