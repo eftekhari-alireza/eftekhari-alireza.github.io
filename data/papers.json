@@ -1,11 +1,17 @@
 {
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Multi-site assessment of microtidal wave-dominated active beach state and morpho-sedimentary parameters using optical satellite imagery",
+          "date": "2026-03-27",
+          "venue": "",
+          "link": "https://doi.org/10.1038/s41598-026-45638-3"
+        },
         {
           "title": "Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf",
           "date": "2026-03-20",
@@ -29,12 +35,6 @@
           "date": "2026-02-18",
           "venue": "",
           "link": "https://doi.org/10.5194/os-22-699-2026"
-        },
-        {
-          "title": "Simulated ocean dynamics and lagrangian trajectory analysis in the Andaman Sea",
-          "date": "2026-02-11",
-          "venue": "",
-          "link": "https://www.bio-conferences.org/10.1051/bioconf/202622006004/pdf"
         }
       ]
     },

@@ -3,17 +3,17 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-04-06** · Showing results since **2025**_
+_Last update: **2026-04-07** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Multi-site assessment of microtidal wave-dominated active beach state and morpho-sedimentary parameters using optical satellite imagery](https://doi.org/10.1038/s41598-026-45638-3) · 2026-03-27
 - [Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf](https://doi.org/10.1007/s10236-026-01792-w) · 2026-03-20
 - [Regional Validation of Satellite-Derived Beach Width and Slope in Microtidal Environments: The Role of Water Level Forcing and Classifier Training](https://www.mdpi.com/2673-964X/6/1/11/pdf?version=1773408425) · 2026-03-13
 - [The Maintenance of the Eastern Mediterranean Boundary Current](https://www.authorea.com/doi/pdf/10.22541/au.177153450.04237179) · 2026-02-19
 - [Mechanisms driving mesoscale latent heat flux variations and mixed layer heat content evaluation in the Northwest Tropical Atlantic](https://doi.org/10.5194/os-22-699-2026) · 2026-02-18
-- [Simulated ocean dynamics and lagrangian trajectory analysis in the Andaman Sea](https://www.bio-conferences.org/10.1051/bioconf/202622006004/pdf) · 2026-02-11
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
