@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-04-07** · Showing results since **2025**_
+_Last update: **2026-04-08** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2026-04-07** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Shoreline Change and Sea Level Rise Impacts Along Damietta Coast, Egypt: Planning Strategies for Sediment Management and Coastal Planning](https://doi.org/10.1002/wwp2.70077) · 2026-04-06
 - [ПОРІВНЯЛЬНИЙ АНАЛІЗ ЕМПІРИЧНИХ МЕТОДІВ ПРОГНОЗУВАННЯ ПАРАМЕТРІВ ВІТРОВИХ ХВИЛЬ НА ПРИКЛАДІ МАЛОГО ГІРСЬКОГО ВОДОСХОВИЩА](https://wateruse.org.ua/article/download/355960/342088) · 2026-03-31
 - [Towards improved flood prediction: a review of deterministic hydrologic-hydraulic model coupling](https://link.springer.com/content/pdf/10.1007/s11069-026-07992-3.pdf) · 2026-03-30
 - [Assessing future flood hazards with high-resolution climate model projections: a case study in northeastern Sicily, Italy](https://public-pages-files-2025.frontiersin.org/journals/water/articles/10.3389/frwa.2026.1699802/pdf) · 2026-03-16
 - [Graph Neural Networks versus Reduced-Order Models for Surrogate-Based Coastal Forecasting on Unstructured Meshes](https://doi.org/10.5194/egusphere-egu26-12542) · 2026-03-14
-- [Numerical Simulation of Extreme Waves at Chancay Port](https://www.mdpi.com/2076-3417/16/6/2804/pdf?version=1773649866) · 2026-03-14
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-04-07** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Shoreline Change and Sea Level Rise Impacts Along Damietta Coast, Egypt: Planning Strategies for Sediment Management and Coastal Planning](https://doi.org/10.1002/wwp2.70077) · 2026-04-06
 - [Hybrid methods in flood inundation modeling: a systematic review](https://link.springer.com/content/pdf/10.1007/s11069-026-08078-w.pdf) · 2026-04-01
 - [Advances in Coastal Hydrodynamic and Morphodynamic Processes Under a Changing Climate](https://www.mdpi.com/2077-1312/14/7/641/pdf?version=1774931380) · 2026-03-31
 - [A Study on the Safe Navigation of Ships in Channel Intersections During Flood Seasons](https://www.mdpi.com/2073-4441/18/7/819/pdf?version=1774868453) · 2026-03-30
 - [Modeling of non-radioactive contamination of cooling ponds by NPP discharge waters in research of the last decade](https://hydrophysics.spbrc.ru/jour/article/download/1519/792) · 2026-03-30
-- [Short-Term Effect of Dumping Dredged Materials at the Coastal Marine Environment of El Oro Province-Ecuador](https://www.jcdp.or.kr/upload/pdf/kscdp-2026-13-1-1.pdf) · 2026-03-30
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
