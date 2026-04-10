@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-04-09** · Showing results since **2025**_
+_Last update: **2026-04-10** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-04-09** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [From lab to ocean: bridging swimming energetics and wild movements to understand red drum (Sciaenops ocellatus) behavior in a tidal estuary](https://www.biorxiv.org/content/biorxiv/early/2026/04/07/2026.04.03.716345.full.pdf) · 2026-04-07
 - [Shoreline Change and Sea Level Rise Impacts Along Damietta Coast, Egypt: Planning Strategies for Sediment Management and Coastal Planning](https://doi.org/10.1002/wwp2.70077) · 2026-04-06
 - [Hybrid methods in flood inundation modeling: a systematic review](https://link.springer.com/content/pdf/10.1007/s11069-026-08078-w.pdf) · 2026-04-01
 - [Advances in Coastal Hydrodynamic and Morphodynamic Processes Under a Changing Climate](https://www.mdpi.com/2077-1312/14/7/641/pdf?version=1774931380) · 2026-03-31
 - [A Study on the Safe Navigation of Ships in Channel Intersections During Flood Seasons](https://www.mdpi.com/2073-4441/18/7/819/pdf?version=1774868453) · 2026-03-30
-- [Modeling of non-radioactive contamination of cooling ponds by NPP discharge waters in research of the last decade](https://hydrophysics.spbrc.ru/jour/article/download/1519/792) · 2026-03-30
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
