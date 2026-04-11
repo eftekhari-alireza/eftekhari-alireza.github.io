@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-04-10** · Showing results since **2025**_
+_Last update: **2026-04-11** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-04-10** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Simulation of Groundwater Flow To Evaluate Hydrogeologic Controls on a PFAS Plume, Coakley Landfill Superfund Site, Rockingham County, New Hampshire](https://eartharxiv.org/repository/object/12287/download/22314/) · 2026-04-09
 - [Machine Learning and Deep Learning Approaches in Thermal Remote Sensing: A Systematic Review (2018–2026)](https://www.preprints.org/frontend/manuscript/78381f87d00a298fadb30c88c1bf79c8/download_pub) · 2026-03-31
 - [Model evidence for distinct origins of glacial–interglacial and millennial signals in Greenland dust](https://doi.org/10.1073/pnas.2531908123) · 2026-03-30
 - [Replication Data for: Dynamics of the Kuroshio separation, instability, and associated eddy formation off southern Japan](https://doi.org/10.5281/zenodo.19318235) · 2026-03-29
 - [Replication Data for: Dynamics of the Kuroshio separation, instability, and associated eddy formation off southern Japan](https://doi.org/10.5281/zenodo.19318236) · 2026-03-29
-- [Data-Driven Prediction of Wave Energy Potential in the Black Sea Using Ensemble Learning and Real-Time Buoy Observations](https://link.springer.com/content/pdf/10.1007/s13369-026-11224-y.pdf) · 2026-03-27
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,18 +59,18 @@ _Last update: **2026-04-10** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [From lab to ocean: bridging swimming energetics and wild movements to understand red drum (Sciaenops ocellatus) behavior in a tidal estuary](https://www.biorxiv.org/content/biorxiv/early/2026/04/07/2026.04.03.716345.full.pdf) · 2026-04-07
+- [From lab to ocean: bridging swimming energetics and wild movements to understand red drum ( <i>Sciaenops ocellatus</i> ) behavior in a tidal estuary](https://www.biorxiv.org/content/biorxiv/early/2026/04/07/2026.04.03.716345.full.pdf) · 2026-04-07
+- [Evolution of Flood Forecasting: A Comprehensive Review of Traditional and Sophisticated Approaches](https://doi.org/10.46488/nept.2026.v25i02.b4368) · 2026-04-06
 - [Shoreline Change and Sea Level Rise Impacts Along Damietta Coast, Egypt: Planning Strategies for Sediment Management and Coastal Planning](https://doi.org/10.1002/wwp2.70077) · 2026-04-06
 - [Hybrid methods in flood inundation modeling: a systematic review](https://link.springer.com/content/pdf/10.1007/s11069-026-08078-w.pdf) · 2026-04-01
 - [Advances in Coastal Hydrodynamic and Morphodynamic Processes Under a Changing Climate](https://www.mdpi.com/2077-1312/14/7/641/pdf?version=1774931380) · 2026-03-31
-- [A Study on the Safe Navigation of Ships in Channel Intersections During Flood Seasons](https://www.mdpi.com/2073-4441/18/7/819/pdf?version=1774868453) · 2026-03-30
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Swell-driven bursts of 26 s and 16 s seismic spectral peaks in the Gulf of Guinea](https://www.nature.com/articles/s41467-026-71541-6_reference.pdf) · 2026-04-08
 - [Wave-driven shoreline retreat in Potter Cove, Western Antarctic Peninsula](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AB7BA4FD2E406E982740DAF4FC5E0C3F/S0954102026100595a.pdf/div-class-title-wave-driven-shoreline-retreat-in-potter-cove-western-antarctic-peninsula-div.pdf) · 2026-03-31
 - [Data-Driven Prediction of Wave Energy Potential in the Black Sea Using Ensemble Learning and Real-Time Buoy Observations](https://link.springer.com/content/pdf/10.1007/s13369-026-11224-y.pdf) · 2026-03-27
 - [WaveUformer: a bias correction model for GWSM4C Wave Forecasting](https://public-pages-files-2025.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1732870/pdf) · 2026-03-23
 - [HIDRA-D: deep-learning model for dense sea level forecasting using sparse altimetry and tide gauge data](https://gmd.copernicus.org/articles/19/2177/2026/gmd-19-2177-2026.pdf) · 2026-03-17
-- [Numerical Simulation of Extreme Waves at Chancay Port](https://www.mdpi.com/2076-3417/16/6/2804/pdf?version=1773649866) · 2026-03-14
