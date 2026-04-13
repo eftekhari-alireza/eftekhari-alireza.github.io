@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-12",
+  "date": "2026-04-13",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Learning-Based Methods and the Future of Numerical Ocean and Sea Ice Modeling",
+          "date": "2026-04-11",
+          "venue": "",
+          "link": "https://eartharxiv.org/repository/object/12581/download/22410/"
+        },
+        {
           "title": "Simulation of Groundwater Flow To Evaluate Hydrogeologic Controls on a PFAS Plume, Coakley Landfill Superfund Site, Rockingham County, New Hampshire",
           "date": "2026-04-09",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-03-29",
           "venue": "",
           "link": "https://doi.org/10.5281/zenodo.19318235"
-        },
-        {
-          "title": "Replication Data for: Dynamics of the Kuroshio separation, instability, and associated eddy formation off southern Japan",
-          "date": "2026-03-29",
-          "venue": "",
-          "link": "https://doi.org/10.5281/zenodo.19318236"
         }
       ]
     },
@@ -229,6 +229,12 @@
           "link": "https://www.nature.com/articles/s41467-026-71541-6_reference.pdf"
         },
         {
+          "title": "Operator Learning for Surrogate Modeling of Wave-Induced Forces from Sea Surface Waves",
+          "date": "2026-04-07",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2604.06433"
+        },
+        {
           "title": "Wave-driven shoreline retreat in Potter Cove, Western Antarctic Peninsula",
           "date": "2026-03-31",
           "venue": "",
@@ -245,12 +251,6 @@
           "date": "2026-03-23",
           "venue": "",
           "link": "https://public-pages-files-2025.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1732870/pdf"
-        },
-        {
-          "title": "HIDRA-D: deep-learning model for dense sea level forecasting using sparse altimetry and tide gauge data",
-          "date": "2026-03-17",
-          "venue": "",
-          "link": "https://gmd.copernicus.org/articles/19/2177/2026/gmd-19-2177-2026.pdf"
         }
       ]
     }
