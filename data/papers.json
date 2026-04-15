@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-14",
+  "date": "2026-04-15",
   "year_from": 2025,
   "items": [
     {
@@ -55,6 +55,12 @@
           "link": "https://eartharxiv.org/repository/object/12287/download/22314/"
         },
         {
+          "title": "Numerical study on the 6-DOF motions of ship turning in waves",
+          "date": "2026-04-07",
+          "venue": "",
+          "link": "https://doi.org/10.1038/s41598-026-46427-8"
+        },
+        {
           "title": "Machine Learning and Deep Learning Approaches in Thermal Remote Sensing: A Systematic Review (2018\u20132026)",
           "date": "2026-03-31",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-03-30",
           "venue": "",
           "link": "https://doi.org/10.1073/pnas.2531908123"
-        },
-        {
-          "title": "Replication Data for: Dynamics of the Kuroshio separation, instability, and associated eddy formation off southern Japan",
-          "date": "2026-03-29",
-          "venue": "",
-          "link": "https://doi.org/10.5281/zenodo.19318235"
         }
       ]
     },
@@ -78,6 +78,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Reply on RC2",
+          "date": "2026-04-12",
+          "venue": "",
+          "link": "https://doi.org/10.5194/egusphere-2025-6556-ac2"
+        },
         {
           "title": "Impact of land surface characteristics on coastal compound flooding using a coupled hydrodynamic-hydraulic modelling framework",
           "date": "2026-04-01",
@@ -101,12 +107,6 @@
           "date": "2026-03-23",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-9178680/latest.pdf"
-        },
-        {
-          "title": "Develop an Approach for Mapping an Accurate and Appropriate Flood Susceptibility for Quang Binh Province, Vietnam, Using Machine Learning Algorithms and Remote Sensing",
-          "date": "2026-03-19",
-          "venue": "",
-          "link": "https://reference-global.com/download/article/10.2478/cee-2026-0089.pdf"
         }
       ]
     },

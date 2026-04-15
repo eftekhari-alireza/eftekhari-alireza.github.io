@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-04-14** · Showing results since **2025**_
+_Last update: **2026-04-15** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -21,19 +21,19 @@ _Last update: **2026-04-14** · Showing results since **2025**_
 **Recent items (OpenAlex):**
 - [Learning-Based Methods and the Future of Numerical Ocean and Sea Ice Modeling](https://eartharxiv.org/repository/object/12581/download/22410/) · 2026-04-11
 - [Simulation of Groundwater Flow To Evaluate Hydrogeologic Controls on a PFAS Plume, Coakley Landfill Superfund Site, Rockingham County, New Hampshire](https://eartharxiv.org/repository/object/12287/download/22314/) · 2026-04-09
+- [Numerical study on the 6-DOF motions of ship turning in waves](https://doi.org/10.1038/s41598-026-46427-8) · 2026-04-07
 - [Machine Learning and Deep Learning Approaches in Thermal Remote Sensing: A Systematic Review (2018–2026)](https://www.preprints.org/frontend/manuscript/78381f87d00a298fadb30c88c1bf79c8/download_pub) · 2026-03-31
 - [Model evidence for distinct origins of glacial–interglacial and millennial signals in Greenland dust](https://doi.org/10.1073/pnas.2531908123) · 2026-03-30
-- [Replication Data for: Dynamics of the Kuroshio separation, instability, and associated eddy formation off southern Japan](https://doi.org/10.5281/zenodo.19318235) · 2026-03-29
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Reply on RC2](https://doi.org/10.5194/egusphere-2025-6556-ac2) · 2026-04-12
 - [Impact of land surface characteristics on coastal compound flooding using a coupled hydrodynamic-hydraulic modelling framework](https://www.nature.com/articles/s41598-026-46242-1_reference.pdf) · 2026-04-01
 - [Advances in Coastal Hydrodynamic and Morphodynamic Processes Under a Changing Climate](https://www.mdpi.com/2077-1312/14/7/641/pdf?version=1774931380) · 2026-03-31
 - [Machine Learning and Deep Learning Approaches in Thermal Remote Sensing: A Systematic Review (2018–2026)](https://www.preprints.org/frontend/manuscript/78381f87d00a298fadb30c88c1bf79c8/download_pub) · 2026-03-31
 - [A Comparative Ablation Study of CNN-LSTM-GRU and MAformer Architectures for Operational Multi-regime Salinity Forecasting in the Outer Shannon Estuary](https://www.researchsquare.com/article/rs-9178680/latest.pdf) · 2026-03-23
-- [Develop an Approach for Mapping an Accurate and Appropriate Flood Susceptibility for Quang Binh Province, Vietnam, Using Machine Learning Algorithms and Remote Sensing](https://reference-global.com/download/article/10.2478/cee-2026-0089.pdf) · 2026-03-19
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
