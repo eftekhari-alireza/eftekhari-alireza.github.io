@@ -1,11 +1,17 @@
 {
-  "date": "2026-04-15",
+  "date": "2026-04-16",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Year-round characterization of upwelling along the Uruguayan coast using a high-resolution regional ocean model",
+          "date": "2026-04-14",
+          "venue": "",
+          "link": "https://os.copernicus.org/articles/22/1169/2026/os-22-1169-2026.pdf"
+        },
         {
           "title": "Multi-site assessment of microtidal wave-dominated active beach state and morpho-sedimentary parameters using optical satellite imagery",
           "date": "2026-03-27",
@@ -29,12 +35,6 @@
           "date": "2026-02-19",
           "venue": "",
           "link": "https://www.authorea.com/doi/pdf/10.22541/au.177153450.04237179"
-        },
-        {
-          "title": "Mechanisms driving mesoscale latent heat flux variations and mixed layer heat content evaluation in the Northwest Tropical Atlantic",
-          "date": "2026-02-18",
-          "venue": "",
-          "link": "https://doi.org/10.5194/os-22-699-2026"
         }
       ]
     },
@@ -42,6 +42,18 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Year-round characterization of upwelling along the Uruguayan coast using a high-resolution regional ocean model",
+          "date": "2026-04-14",
+          "venue": "",
+          "link": "https://os.copernicus.org/articles/22/1169/2026/os-22-1169-2026.pdf"
+        },
+        {
+          "title": "ShyBFM v1.0: unstructured grid advection-diffusion-reaction modelling for coastal biogeochemical processes",
+          "date": "2026-04-13",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1119/egusphere-2026-1119.pdf"
+        },
         {
           "title": "Learning-Based Methods and the Future of Numerical Ocean and Sea Ice Modeling",
           "date": "2026-04-11",
@@ -59,18 +71,6 @@
           "date": "2026-04-07",
           "venue": "",
           "link": "https://doi.org/10.1038/s41598-026-46427-8"
-        },
-        {
-          "title": "Machine Learning and Deep Learning Approaches in Thermal Remote Sensing: A Systematic Review (2018\u20132026)",
-          "date": "2026-03-31",
-          "venue": "",
-          "link": "https://www.preprints.org/frontend/manuscript/78381f87d00a298fadb30c88c1bf79c8/download_pub"
-        },
-        {
-          "title": "Model evidence for distinct origins of glacial\u2013interglacial and millennial signals in Greenland dust",
-          "date": "2026-03-30",
-          "venue": "",
-          "link": "https://doi.org/10.1073/pnas.2531908123"
         }
       ]
     },
