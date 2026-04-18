@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-17",
+  "date": "2026-04-18",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "A multiresolution weather dataset for the Southwestern South Atlantic (2017\u20132018)",
+          "date": "2026-04-15",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41597-026-07230-2_reference.pdf"
+        },
+        {
           "title": "Year-round characterization of upwelling along the Uruguayan coast using a high-resolution regional ocean model",
           "date": "2026-04-14",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-04-09",
           "venue": "",
           "link": "https://eartharxiv.org/repository/object/12287/download/22314/"
-        },
-        {
-          "title": "Numerical study on the 6-DOF motions of ship turning in waves",
-          "date": "2026-04-07",
-          "venue": "",
-          "link": "https://doi.org/10.1038/s41598-026-46427-8"
         }
       ]
     },

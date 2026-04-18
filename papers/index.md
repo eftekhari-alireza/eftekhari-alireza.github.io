@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-04-17** · Showing results since **2025**_
+_Last update: **2026-04-18** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-04-17** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [A multiresolution weather dataset for the Southwestern South Atlantic (2017–2018)](https://www.nature.com/articles/s41597-026-07230-2_reference.pdf) · 2026-04-15
 - [Year-round characterization of upwelling along the Uruguayan coast using a high-resolution regional ocean model](https://os.copernicus.org/articles/22/1169/2026/os-22-1169-2026.pdf) · 2026-04-14
 - [ShyBFM v1.0: unstructured grid advection-diffusion-reaction modelling for coastal biogeochemical processes](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1119/egusphere-2026-1119.pdf) · 2026-04-13
 - [Learning-Based Methods and the Future of Numerical Ocean and Sea Ice Modeling](https://eartharxiv.org/repository/object/12581/download/22410/) · 2026-04-11
 - [Simulation of Groundwater Flow To Evaluate Hydrogeologic Controls on a PFAS Plume, Coakley Landfill Superfund Site, Rockingham County, New Hampshire](https://eartharxiv.org/repository/object/12287/download/22314/) · 2026-04-09
-- [Numerical study on the 6-DOF motions of ship turning in waves](https://doi.org/10.1038/s41598-026-46427-8) · 2026-04-07
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
