@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-18",
+  "date": "2026-04-19",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "The impact of fronts and submesoscale eddies under various melt conditions on Antarctic ice shelves",
+          "date": "2026-04-16",
+          "venue": "",
+          "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15002095/v1"
+        },
+        {
+          "title": "LSTM-Based Reduced-Order Modeling of Secondary Loop of Nuclear-Powered Propulsion Actuation System",
+          "date": "2026-04-16",
+          "venue": "",
+          "link": "https://www.mdpi.com/2076-0825/15/4/225/pdf?version=1776347001"
+        },
+        {
           "title": "A multiresolution weather dataset for the Southwestern South Atlantic (2017\u20132018)",
           "date": "2026-04-15",
           "venue": "",
@@ -59,18 +71,6 @@
           "date": "2026-04-13",
           "venue": "",
           "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1119/egusphere-2026-1119.pdf"
-        },
-        {
-          "title": "Learning-Based Methods and the Future of Numerical Ocean and Sea Ice Modeling",
-          "date": "2026-04-11",
-          "venue": "",
-          "link": "https://eartharxiv.org/repository/object/12581/download/22410/"
-        },
-        {
-          "title": "Simulation of Groundwater Flow To Evaluate Hydrogeologic Controls on a PFAS Plume, Coakley Landfill Superfund Site, Rockingham County, New Hampshire",
-          "date": "2026-04-09",
-          "venue": "",
-          "link": "https://eartharxiv.org/repository/object/12287/download/22314/"
         }
       ]
     },
@@ -78,6 +78,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "The Effect of Seawater Spatial density heterogeneity on Storm Surges \u2014 A Case Study of Typhoon \"In-Fa\" and Hangzhou Bay and Its Adjacent Waters",
+          "date": "2026-04-17",
+          "venue": "",
+          "link": "https://doi.org/10.5194/egusphere-2026-1581-v1"
+        },
         {
           "title": "Reply on RC2",
           "date": "2026-04-12",
@@ -101,12 +107,6 @@
           "date": "2026-03-31",
           "venue": "",
           "link": "https://www.preprints.org/frontend/manuscript/78381f87d00a298fadb30c88c1bf79c8/download_pub"
-        },
-        {
-          "title": "A Comparative Ablation Study of CNN-LSTM-GRU and MAformer Architectures for Operational Multi-regime Salinity Forecasting in the Outer Shannon Estuary",
-          "date": "2026-03-23",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-9178680/latest.pdf"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Abstracts of the 9th International Electronic Conference on Water Science",
+          "date": "2026-04-15",
+          "venue": "",
+          "link": "https://www.mdpi.com/3042-5743/40/1/13/pdf?version=1776333234"
+        },
+        {
           "title": "From lab to ocean: bridging swimming energetics and wild movements to understand red drum ( <i>Sciaenops ocellatus</i> ) behavior in a tidal estuary",
           "date": "2026-04-07",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-04-01",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08078-w.pdf"
-        },
-        {
-          "title": "Advances in Coastal Hydrodynamic and Morphodynamic Processes Under a Changing Climate",
-          "date": "2026-03-31",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/7/641/pdf?version=1774931380"
         }
       ]
     },
@@ -222,6 +222,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Climate change affects future sea-bed mobility via storms and sea level rise",
+          "date": "2026-04-16",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s43247-026-03500-4_reference.pdf"
+        },
         {
           "title": "Swell-driven bursts of 26\u2009s and 16\u2009s seismic spectral peaks in the Gulf of Guinea",
           "date": "2026-04-08",
@@ -245,12 +251,6 @@
           "date": "2026-03-27",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s13369-026-11224-y.pdf"
-        },
-        {
-          "title": "WaveUformer: a bias correction model for GWSM4C Wave Forecasting",
-          "date": "2026-03-23",
-          "venue": "",
-          "link": "https://public-pages-files-2025.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1732870/pdf"
         }
       ]
     }
