@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-04-19** · Showing results since **2025**_
+_Last update: **2026-04-20** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,21 +19,21 @@ _Last update: **2026-04-19** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Computational fluid dynamics and digital twins for wind turbines: A review](https://doi.org/10.1016/j.apenergy.2026.127890) · 2026-04-16
 - [The impact of fronts and submesoscale eddies under various melt conditions on Antarctic ice shelves](https://essopenarchive.org/doi/pdf/10.22541/essoar.15002095/v1) · 2026-04-16
 - [LSTM-Based Reduced-Order Modeling of Secondary Loop of Nuclear-Powered Propulsion Actuation System](https://www.mdpi.com/2076-0825/15/4/225/pdf?version=1776347001) · 2026-04-16
 - [A multiresolution weather dataset for the Southwestern South Atlantic (2017–2018)](https://www.nature.com/articles/s41597-026-07230-2_reference.pdf) · 2026-04-15
 - [Year-round characterization of upwelling along the Uruguayan coast using a high-resolution regional ocean model](https://os.copernicus.org/articles/22/1169/2026/os-22-1169-2026.pdf) · 2026-04-14
-- [ShyBFM v1.0: unstructured grid advection-diffusion-reaction modelling for coastal biogeochemical processes](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1119/egusphere-2026-1119.pdf) · 2026-04-13
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
 - [The Effect of Seawater Spatial density heterogeneity on Storm Surges — A Case Study of Typhoon "In-Fa" and Hangzhou Bay and Its Adjacent Waters](https://doi.org/10.5194/egusphere-2026-1581-v1) · 2026-04-17
+- [The Effect of Seawater Spatial density heterogeneity on Storm Surges — A Case Study of Typhoon "In-Fa" and Hangzhou Bay and Its Adjacent Waters](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1581/egusphere-2026-1581.pdf) · 2026-04-17
 - [Reply on RC2](https://doi.org/10.5194/egusphere-2025-6556-ac2) · 2026-04-12
 - [Impact of land surface characteristics on coastal compound flooding using a coupled hydrodynamic-hydraulic modelling framework](https://www.nature.com/articles/s41598-026-46242-1_reference.pdf) · 2026-04-01
 - [Advances in Coastal Hydrodynamic and Morphodynamic Processes Under a Changing Climate](https://www.mdpi.com/2077-1312/14/7/641/pdf?version=1774931380) · 2026-03-31
-- [Machine Learning and Deep Learning Approaches in Thermal Remote Sensing: A Systematic Review (2018–2026)](https://www.preprints.org/frontend/manuscript/78381f87d00a298fadb30c88c1bf79c8/download_pub) · 2026-03-31
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

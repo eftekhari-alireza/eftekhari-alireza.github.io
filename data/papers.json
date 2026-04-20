@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Computational fluid dynamics and digital twins for wind turbines: A review",
+          "date": "2026-04-16",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.apenergy.2026.127890"
+        },
+        {
           "title": "The impact of fronts and submesoscale eddies under various melt conditions on Antarctic ice shelves",
           "date": "2026-04-16",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-04-14",
           "venue": "",
           "link": "https://os.copernicus.org/articles/22/1169/2026/os-22-1169-2026.pdf"
-        },
-        {
-          "title": "ShyBFM v1.0: unstructured grid advection-diffusion-reaction modelling for coastal biogeochemical processes",
-          "date": "2026-04-13",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1119/egusphere-2026-1119.pdf"
         }
       ]
     },
@@ -83,6 +83,12 @@
           "date": "2026-04-17",
           "venue": "",
           "link": "https://doi.org/10.5194/egusphere-2026-1581-v1"
+        },
+        {
+          "title": "The Effect of Seawater Spatial density heterogeneity on Storm Surges \u2014 A Case Study of Typhoon \"In-Fa\" and Hangzhou Bay and Its Adjacent Waters",
+          "date": "2026-04-17",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1581/egusphere-2026-1581.pdf"
         },
         {
           "title": "Reply on RC2",
@@ -101,12 +107,6 @@
           "date": "2026-03-31",
           "venue": "",
           "link": "https://www.mdpi.com/2077-1312/14/7/641/pdf?version=1774931380"
-        },
-        {
-          "title": "Machine Learning and Deep Learning Approaches in Thermal Remote Sensing: A Systematic Review (2018\u20132026)",
-          "date": "2026-03-31",
-          "venue": "",
-          "link": "https://www.preprints.org/frontend/manuscript/78381f87d00a298fadb30c88c1bf79c8/download_pub"
         }
       ]
     },
