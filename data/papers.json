@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Anthropogenic, climate, and meso and submesoscale influences on diatom productivity in the Southern California Bight, with implications for domoic acid producing harmful algal blooms",
+          "date": "2026-04-20",
+          "venue": "",
+          "link": "https://public-pages-files-2025.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1729816/pdf"
+        },
+        {
           "title": "Computational fluid dynamics and digital twins for wind turbines: A review",
           "date": "2026-04-16",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-04-15",
           "venue": "",
           "link": "https://www.nature.com/articles/s41597-026-07230-2_reference.pdf"
-        },
-        {
-          "title": "Year-round characterization of upwelling along the Uruguayan coast using a high-resolution regional ocean model",
-          "date": "2026-04-14",
-          "venue": "",
-          "link": "https://os.copernicus.org/articles/22/1169/2026/os-22-1169-2026.pdf"
         }
       ]
     },
