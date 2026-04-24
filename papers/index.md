@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-04-23** · Showing results since **2025**_
+_Last update: **2026-04-24** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-04-23** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Review of computational fluid dynamics capabilities to analyze the behavior of amphibious vessels during surf-zone transit](https://erdc-library.erdc.dren.mil/bitstreams/e4291e45-ad6f-49cb-8cae-9aa0cc9430eb/download) · 2026-04-21
 - [Anthropogenic, climate, and meso and submesoscale influences on diatom productivity in the Southern California Bight, with implications for domoic acid producing harmful algal blooms](https://public-pages-files-2025.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1729816/pdf) · 2026-04-20
 - [Computational fluid dynamics and digital twins for wind turbines: A review](https://doi.org/10.1016/j.apenergy.2026.127890) · 2026-04-16
 - [The impact of fronts and submesoscale eddies under various melt conditions on Antarctic ice shelves](https://essopenarchive.org/doi/pdf/10.22541/essoar.15002095/v1) · 2026-04-16
 - [LSTM-Based Reduced-Order Modeling of Secondary Loop of Nuclear-Powered Propulsion Actuation System](https://www.mdpi.com/2076-0825/15/4/225/pdf?version=1776347001) · 2026-04-16
-- [A multiresolution weather dataset for the Southwestern South Atlantic (2017–2018)](https://www.nature.com/articles/s41597-026-07230-2_reference.pdf) · 2026-04-15
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
