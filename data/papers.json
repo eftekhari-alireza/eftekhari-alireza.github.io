@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-24",
+  "date": "2026-04-25",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Impact Assessment of Coastal Defense Strategies on Critical Infrastructures and Beaches: Application of Coastal Degradation Calculator (CoDeC) to San Lucido, Italy",
+          "date": "2026-04-22",
+          "venue": "",
+          "link": "https://www.mdpi.com/2073-445X/15/5/696/pdf?version=1776862712"
+        },
+        {
+          "title": "Seismic Energy Dissipation in Bridges for Performance Enhancement",
+          "date": "2026-04-22",
+          "venue": "",
+          "link": "https://www.mdpi.com/2076-3417/16/9/4096/pdf?version=1776866545"
+        },
+        {
           "title": "Review of computational fluid dynamics capabilities to analyze the behavior of amphibious vessels during surf-zone transit",
           "date": "2026-04-21",
           "venue": "",
@@ -59,18 +71,6 @@
           "date": "2026-04-16",
           "venue": "",
           "link": "https://doi.org/10.1016/j.apenergy.2026.127890"
-        },
-        {
-          "title": "The impact of fronts and submesoscale eddies under various melt conditions on Antarctic ice shelves",
-          "date": "2026-04-16",
-          "venue": "",
-          "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15002095/v1"
-        },
-        {
-          "title": "LSTM-Based Reduced-Order Modeling of Secondary Loop of Nuclear-Powered Propulsion Actuation System",
-          "date": "2026-04-16",
-          "venue": "",
-          "link": "https://www.mdpi.com/2076-0825/15/4/225/pdf?version=1776347001"
         }
       ]
     },
@@ -115,6 +115,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Monitoring and simulation of Chennai floods through a high-resolution topographic datasets",
+          "date": "2026-04-22",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s44327-026-00238-8.pdf"
+        },
+        {
           "title": "Shoreline Change and Sea Level Rise Impacts Along Damietta Coast, Egypt: Planning Strategies for Sediment Management and Coastal Planning",
           "date": "2026-04-06",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-03-16",
           "venue": "",
           "link": "https://public-pages-files-2025.frontiersin.org/journals/water/articles/10.3389/frwa.2026.1699802/pdf"
-        },
-        {
-          "title": "Graph Neural Networks versus Reduced-Order Models for Surrogate-Based Coastal Forecasting on Unstructured Meshes",
-          "date": "2026-03-14",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-egu26-12542"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Seasonal assessment of tidal current energy potential in a macrotidal ria estuary of the Eastern Amazon, Brazil",
+          "date": "2026-04-22",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-9348929/latest.pdf"
+        },
+        {
           "title": "Abstracts of the 9th International Electronic Conference on Water Science",
           "date": "2026-04-15",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-04-06",
           "venue": "",
           "link": "https://doi.org/10.1002/wwp2.70077"
-        },
-        {
-          "title": "Hybrid methods in flood inundation modeling: a systematic review",
-          "date": "2026-04-01",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08078-w.pdf"
         }
       ]
     },
@@ -222,6 +222,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Feasibility of Wave Energy Converters in the Azores Under Climate Change Scenarios",
+          "date": "2026-04-21",
+          "venue": "",
+          "link": "https://www.mdpi.com/2077-1312/14/8/760/pdf?version=1776775141"
+        },
         {
           "title": "Climate change affects future sea-bed mobility via storms and sea level rise",
           "date": "2026-04-16",
@@ -245,12 +251,6 @@
           "date": "2026-03-31",
           "venue": "",
           "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AB7BA4FD2E406E982740DAF4FC5E0C3F/S0954102026100595a.pdf/div-class-title-wave-driven-shoreline-retreat-in-potter-cove-western-antarctic-peninsula-div.pdf"
-        },
-        {
-          "title": "Data-Driven Prediction of Wave Energy Potential in the Black Sea Using Ensemble Learning and Real-Time Buoy Observations",
-          "date": "2026-03-27",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s13369-026-11224-y.pdf"
         }
       ]
     }
