@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-04-25** · Showing results since **2025**_
+_Last update: **2026-04-26** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -69,8 +69,8 @@ _Last update: **2026-04-25** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [A Generalized Framework for Multi-Parameter Optimization of Numerical Wind–Wave Model: Application to Typhoon Waves near Taiwan Island](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-895/egusphere-2026-895.pdf) · 2026-04-23
 - [Feasibility of Wave Energy Converters in the Azores Under Climate Change Scenarios](https://www.mdpi.com/2077-1312/14/8/760/pdf?version=1776775141) · 2026-04-21
+- [HIDRA-D](https://repozitorij.uni-lj.si/Dokument.php?id=232719&dn=) · 2026-04-20
 - [Climate change affects future sea-bed mobility via storms and sea level rise](https://www.nature.com/articles/s43247-026-03500-4_reference.pdf) · 2026-04-16
 - [Swell-driven bursts of 26 s and 16 s seismic spectral peaks in the Gulf of Guinea](https://www.nature.com/articles/s41467-026-71541-6_reference.pdf) · 2026-04-08
-- [Operator Learning for Surrogate Modeling of Wave-Induced Forces from Sea Surface Waves](https://arxiv.org/pdf/2604.06433) · 2026-04-07
-- [Wave-driven shoreline retreat in Potter Cove, Western Antarctic Peninsula](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AB7BA4FD2E406E982740DAF4FC5E0C3F/S0954102026100595a.pdf/div-class-title-wave-driven-shoreline-retreat-in-potter-cove-western-antarctic-peninsula-div.pdf) · 2026-03-31
