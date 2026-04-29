@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Estimating the source of a 3500\u20134500\u00a0year old tsunami in the South Pacific region based upon boulder transport modelling",
+          "date": "2026-04-27",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08163-0.pdf"
+        },
+        {
           "title": "Hybrid Modular Mining Structures: A Review of Design Actions and Prefabricated Connection Solutions",
           "date": "2026-04-24",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-04-22",
           "venue": "",
           "link": "https://www.mdpi.com/2076-3417/16/9/4096/pdf?version=1776866545"
-        },
-        {
-          "title": "Review of computational fluid dynamics capabilities to analyze the behavior of amphibious vessels during surf-zone transit",
-          "date": "2026-04-21",
-          "venue": "",
-          "link": "https://erdc-library.erdc.dren.mil/bitstreams/e4291e45-ad6f-49cb-8cae-9aa0cc9430eb/download"
         }
       ]
     },
