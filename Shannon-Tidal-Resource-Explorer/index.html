@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shannon Tidal Resource Explorer — Alireza Eftekhari</title>
+  <meta name="description" content="Interactive web app exploring the Shannon Estuary tidal-current energy resource using DIVAST 2D model output across 13 turbine configurations.">
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+      line-height: 1.55;
+      color: #222;
+      background: #fafafa;
+    }
+    h1 { font-size: 1.8rem; margin-bottom: 0.4rem; }
+    .subtitle { color: #666; margin-bottom: 1.5rem; font-size: 1.05rem; }
+    .actions { margin: 1rem 0 1.5rem; }
+    .actions a {
+      display: inline-block;
+      margin-right: 0.6rem;
+      padding: 0.45rem 0.9rem;
+      background: #1565A0;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-size: 0.95rem;
+    }
+    .actions a.secondary {
+      background: white;
+      color: #1565A0;
+      border: 1px solid #1565A0;
+    }
+    .actions a:hover { opacity: 0.85; }
+    .iframe-wrap {
+      position: relative;
+      background: white;
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    }
+    iframe {
+      width: 100%;
+      height: 1100px;
+      border: 0;
+      display: block;
+    }
+    .stack {
+      margin-top: 1.5rem;
+      color: #666;
+      font-size: 0.92rem;
+    }
+    .back { margin-top: 2rem; }
+    .back a { color: #1565A0; text-decoration: none; }
+    .back a:hover { text-decoration: underline; }
+    @media (max-width: 700px) {
+      iframe { height: 1400px; }
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Shannon Tidal Resource Explorer</h1>
+  <p class="subtitle">
+    Interactive web app for exploring the Shannon Estuary's tidal-current
+    energy resource. Pick one of 13 turbine configurations, drag a threshold
+    slider, click any cell to see its stats across every config, and download
+    the underlying data — all in your browser.
+  </p>
+
+  <div class="actions">
+    <a href="https://shannon-tidal-explorer.streamlit.app" target="_blank" rel="noopener">
+      Open in full screen ↗
+    </a>
+    <a href="https://github.com/eftekhari-alireza/shannon-tidal-explorer"
+       target="_blank" rel="noopener" class="secondary">
+      Source code on GitHub
+    </a>
+  </div>
+
+  <div class="iframe-wrap">
+    <iframe
+      src="https://shannon-tidal-explorer.streamlit.app/?embed=true"
+      title="Shannon Tidal Resource Explorer (live app)"
+      allow="fullscreen"
+      loading="lazy">
+    </iframe>
+  </div>
+
+  <p class="stack">
+    <strong>Stack:</strong> Python · Streamlit · Plotly · DIVAST 2D ·
+    Lewis et al. 2021 standardised power curve. Built as the companion to
+    the Shannon Estuary tidal-energy paper (University of Galway, 2026).
+  </p>
+
+  <p class="back">
+    ← <a href="../index.html">Back to portfolio</a>
+  </p>
+
+</body>
+</html>
