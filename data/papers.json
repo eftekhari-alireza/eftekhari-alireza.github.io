@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "An Instrumented Earth\u2013Air Heat Exchanger with Embedded Electronic Monitoring for Real-Time Passive Cooling Applications",
+          "date": "2026-04-28",
+          "venue": "",
+          "link": "https://www.mdpi.com/2673-4117/7/5/203/pdf?version=1777367857"
+        },
+        {
           "title": "Estimating the source of a 3500\u20134500\u00a0year old tsunami in the South Pacific region based upon boulder transport modelling",
           "date": "2026-04-27",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-04-22",
           "venue": "",
           "link": "https://www.mdpi.com/2073-445X/15/5/696/pdf?version=1776862712"
-        },
-        {
-          "title": "Seismic Energy Dissipation in Bridges for Performance Enhancement",
-          "date": "2026-04-22",
-          "venue": "",
-          "link": "https://www.mdpi.com/2076-3417/16/9/4096/pdf?version=1776866545"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Improving Coastal Bottom Dissolved Oxygen Forecasting Using Tide-Derived Features with an LSTM-Based Model",
+          "date": "2026-04-28",
+          "venue": "",
+          "link": "https://www.mdpi.com/2073-4441/18/9/1045/pdf?version=1777371553"
+        },
+        {
           "title": "Seasonal assessment of tidal current energy potential in a macrotidal ria estuary of the Eastern Amazon, Brazil",
           "date": "2026-04-22",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-04-06",
           "venue": "",
           "link": "https://doi.org/10.46488/nept.2026.v25i02.b4368"
-        },
-        {
-          "title": "Shoreline Change and Sea Level Rise Impacts Along Damietta Coast, Egypt: Planning Strategies for Sediment Management and Coastal Planning",
-          "date": "2026-04-06",
-          "venue": "",
-          "link": "https://doi.org/10.1002/wwp2.70077"
         }
       ]
     },

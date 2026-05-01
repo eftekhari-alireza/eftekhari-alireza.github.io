@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-04-30** · Showing results since **2025**_
+_Last update: **2026-05-01** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-04-30** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [An Instrumented Earth–Air Heat Exchanger with Embedded Electronic Monitoring for Real-Time Passive Cooling Applications](https://www.mdpi.com/2673-4117/7/5/203/pdf?version=1777367857) · 2026-04-28
 - [Estimating the source of a 3500–4500 year old tsunami in the South Pacific region based upon boulder transport modelling](https://link.springer.com/content/pdf/10.1007/s11069-026-08163-0.pdf) · 2026-04-27
 - [Hybrid Modular Mining Structures: A Review of Design Actions and Prefabricated Connection Solutions](https://www.mdpi.com/2075-5309/16/9/1675/pdf?version=1777030240) · 2026-04-24
 - [Forecasting Sea Surface Cooling During Typhoons Based on Machine Learning](https://www.mdpi.com/2072-4292/18/9/1296/pdf?version=1777027977) · 2026-04-24
 - [Impact Assessment of Coastal Defense Strategies on Critical Infrastructures and Beaches: Application of Coastal Degradation Calculator (CoDeC) to San Lucido, Italy](https://www.mdpi.com/2073-445X/15/5/696/pdf?version=1776862712) · 2026-04-22
-- [Seismic Energy Dissipation in Bridges for Performance Enhancement](https://www.mdpi.com/2076-3417/16/9/4096/pdf?version=1776866545) · 2026-04-22
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-04-30** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Improving Coastal Bottom Dissolved Oxygen Forecasting Using Tide-Derived Features with an LSTM-Based Model](https://www.mdpi.com/2073-4441/18/9/1045/pdf?version=1777371553) · 2026-04-28
 - [Seasonal assessment of tidal current energy potential in a macrotidal ria estuary of the Eastern Amazon, Brazil](https://www.researchsquare.com/article/rs-9348929/latest.pdf) · 2026-04-22
 - [Abstracts of the 9th International Electronic Conference on Water Science](https://www.mdpi.com/3042-5743/40/1/13/pdf?version=1776333234) · 2026-04-15
 - [From lab to ocean: bridging swimming energetics and wild movements to understand red drum ( <i>Sciaenops ocellatus</i> ) behavior in a tidal estuary](https://www.biorxiv.org/content/biorxiv/early/2026/04/07/2026.04.03.716345.full.pdf) · 2026-04-07
 - [Evolution of Flood Forecasting: A Comprehensive Review of Traditional and Sophisticated Approaches](https://doi.org/10.46488/nept.2026.v25i02.b4368) · 2026-04-06
-- [Shoreline Change and Sea Level Rise Impacts Along Damietta Coast, Egypt: Planning Strategies for Sediment Management and Coastal Planning](https://doi.org/10.1002/wwp2.70077) · 2026-04-06
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
