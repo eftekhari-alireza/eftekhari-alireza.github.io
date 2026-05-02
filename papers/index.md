@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-05-01** · Showing results since **2025**_
+_Last update: **2026-05-02** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -60,10 +60,10 @@ _Last update: **2026-05-01** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [Improving Coastal Bottom Dissolved Oxygen Forecasting Using Tide-Derived Features with an LSTM-Based Model](https://www.mdpi.com/2073-4441/18/9/1045/pdf?version=1777371553) · 2026-04-28
+- [Assessment of riverbed evolution in the Vam Nao River under the influence of sand mining using a numerical model](https://eartharxiv.org/repository/object/12812/download/22750/) · 2026-04-28
 - [Seasonal assessment of tidal current energy potential in a macrotidal ria estuary of the Eastern Amazon, Brazil](https://www.researchsquare.com/article/rs-9348929/latest.pdf) · 2026-04-22
 - [Abstracts of the 9th International Electronic Conference on Water Science](https://www.mdpi.com/3042-5743/40/1/13/pdf?version=1776333234) · 2026-04-15
 - [From lab to ocean: bridging swimming energetics and wild movements to understand red drum ( <i>Sciaenops ocellatus</i> ) behavior in a tidal estuary](https://www.biorxiv.org/content/biorxiv/early/2026/04/07/2026.04.03.716345.full.pdf) · 2026-04-07
-- [Evolution of Flood Forecasting: A Comprehensive Review of Traditional and Sophisticated Approaches](https://doi.org/10.46488/nept.2026.v25i02.b4368) · 2026-04-06
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
