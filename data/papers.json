@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-02",
+  "date": "2026-05-03",
   "year_from": 2025,
   "items": [
     {
@@ -49,6 +49,12 @@
           "link": "https://www.mdpi.com/2673-4117/7/5/203/pdf?version=1777367857"
         },
         {
+          "title": "Digital Twins in Coronary Artery Disease: A Mathematical Roadmap",
+          "date": "2026-04-27",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2604.24910"
+        },
+        {
           "title": "Estimating the source of a 3500\u20134500\u00a0year old tsunami in the South Pacific region based upon boulder transport modelling",
           "date": "2026-04-27",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-04-24",
           "venue": "",
           "link": "https://www.mdpi.com/2072-4292/18/9/1296/pdf?version=1777027977"
-        },
-        {
-          "title": "Impact Assessment of Coastal Defense Strategies on Critical Infrastructures and Beaches: Application of Coastal Degradation Calculator (CoDeC) to San Lucido, Italy",
-          "date": "2026-04-22",
-          "venue": "",
-          "link": "https://www.mdpi.com/2073-445X/15/5/696/pdf?version=1776862712"
         }
       ]
     },

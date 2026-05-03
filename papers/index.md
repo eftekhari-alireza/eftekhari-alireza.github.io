@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-05-02** · Showing results since **2025**_
+_Last update: **2026-05-03** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -20,10 +20,10 @@ _Last update: **2026-05-02** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [An Instrumented Earth–Air Heat Exchanger with Embedded Electronic Monitoring for Real-Time Passive Cooling Applications](https://www.mdpi.com/2673-4117/7/5/203/pdf?version=1777367857) · 2026-04-28
+- [Digital Twins in Coronary Artery Disease: A Mathematical Roadmap](https://arxiv.org/pdf/2604.24910) · 2026-04-27
 - [Estimating the source of a 3500–4500 year old tsunami in the South Pacific region based upon boulder transport modelling](https://link.springer.com/content/pdf/10.1007/s11069-026-08163-0.pdf) · 2026-04-27
 - [Hybrid Modular Mining Structures: A Review of Design Actions and Prefabricated Connection Solutions](https://www.mdpi.com/2075-5309/16/9/1675/pdf?version=1777030240) · 2026-04-24
 - [Forecasting Sea Surface Cooling During Typhoons Based on Machine Learning](https://www.mdpi.com/2072-4292/18/9/1296/pdf?version=1777027977) · 2026-04-24
-- [Impact Assessment of Coastal Defense Strategies on Critical Infrastructures and Beaches: Application of Coastal Degradation Calculator (CoDeC) to San Lucido, Italy](https://www.mdpi.com/2073-445X/15/5/696/pdf?version=1776862712) · 2026-04-22
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
