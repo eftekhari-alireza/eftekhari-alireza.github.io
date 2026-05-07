@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-06",
+  "date": "2026-05-07",
   "year_from": 2025,
   "items": [
     {
@@ -79,6 +79,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Research on radionuclide transport and diffusion in coastal waters using improved Lagrangian and Eulerian models",
+          "date": "2026-05-05",
+          "venue": "",
+          "link": "https://doi.org/10.1007/s10967-026-10834-y"
+        },
+        {
           "title": "The Effect of Seawater Spatial density heterogeneity on Storm Surges \u2014 A Case Study of Typhoon \"In-Fa\" and Hangzhou Bay and Its Adjacent Waters",
           "date": "2026-04-17",
           "venue": "",
@@ -101,12 +107,6 @@
           "date": "2026-04-01",
           "venue": "",
           "link": "https://www.nature.com/articles/s41598-026-46242-1_reference.pdf"
-        },
-        {
-          "title": "Advances in Coastal Hydrodynamic and Morphodynamic Processes Under a Changing Climate",
-          "date": "2026-03-31",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/7/641/pdf?version=1774931380"
         }
       ]
     },
@@ -114,6 +114,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Compound flooding risks in coastal cities: a review of causes, mechanisms, and assessment methodologies",
+          "date": "2026-05-01",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf"
+        },
         {
           "title": "Monitoring and simulation of Chennai floods through a high-resolution topographic datasets",
           "date": "2026-04-22",
@@ -137,12 +143,6 @@
           "date": "2026-03-30",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-07992-3.pdf"
-        },
-        {
-          "title": "Assessing future flood hazards with high-resolution climate model projections: a case study in northeastern Sicily, Italy",
-          "date": "2026-03-16",
-          "venue": "",
-          "link": "https://public-pages-files-2025.frontiersin.org/journals/water/articles/10.3389/frwa.2026.1699802/pdf"
         }
       ]
     },
@@ -187,6 +187,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Technologies and Applications of Geocomputational Tangible User Interfaces",
+          "date": "2026-05-02",
+          "venue": "",
+          "link": "https://www.mdpi.com/2220-9964/15/5/198/pdf?version=1777711510"
+        },
+        {
+          "title": "Compound flooding risks in coastal cities: a review of causes, mechanisms, and assessment methodologies",
+          "date": "2026-05-01",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf"
+        },
+        {
           "title": "Improving Coastal Bottom Dissolved Oxygen Forecasting Using Tide-Derived Features with an LSTM-Based Model",
           "date": "2026-04-28",
           "venue": "",
@@ -203,18 +215,6 @@
           "date": "2026-04-22",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-9348929/latest.pdf"
-        },
-        {
-          "title": "Abstracts of the 9th International Electronic Conference on Water Science",
-          "date": "2026-04-15",
-          "venue": "",
-          "link": "https://www.mdpi.com/3042-5743/40/1/13/pdf?version=1776333234"
-        },
-        {
-          "title": "From lab to ocean: bridging swimming energetics and wild movements to understand red drum ( <i>Sciaenops ocellatus</i> ) behavior in a tidal estuary",
-          "date": "2026-04-07",
-          "venue": "",
-          "link": "https://www.biorxiv.org/content/biorxiv/early/2026/04/07/2026.04.03.716345.full.pdf"
         }
       ]
     },

@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-05-06** · Showing results since **2025**_
+_Last update: **2026-05-07** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -29,21 +29,21 @@ _Last update: **2026-05-06** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Research on radionuclide transport and diffusion in coastal waters using improved Lagrangian and Eulerian models](https://doi.org/10.1007/s10967-026-10834-y) · 2026-05-05
 - [The Effect of Seawater Spatial density heterogeneity on Storm Surges — A Case Study of Typhoon "In-Fa" and Hangzhou Bay and Its Adjacent Waters](https://doi.org/10.5194/egusphere-2026-1581-v1) · 2026-04-17
 - [The Effect of Seawater Spatial density heterogeneity on Storm Surges — A Case Study of Typhoon "In-Fa" and Hangzhou Bay and Its Adjacent Waters](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1581/egusphere-2026-1581.pdf) · 2026-04-17
 - [Reply on RC2](https://doi.org/10.5194/egusphere-2025-6556-ac2) · 2026-04-12
 - [Impact of land surface characteristics on coastal compound flooding using a coupled hydrodynamic-hydraulic modelling framework](https://www.nature.com/articles/s41598-026-46242-1_reference.pdf) · 2026-04-01
-- [Advances in Coastal Hydrodynamic and Morphodynamic Processes Under a Changing Climate](https://www.mdpi.com/2077-1312/14/7/641/pdf?version=1774931380) · 2026-03-31
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Compound flooding risks in coastal cities: a review of causes, mechanisms, and assessment methodologies](https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf) · 2026-05-01
 - [Monitoring and simulation of Chennai floods through a high-resolution topographic datasets](https://link.springer.com/content/pdf/10.1007/s44327-026-00238-8.pdf) · 2026-04-22
 - [Shoreline Change and Sea Level Rise Impacts Along Damietta Coast, Egypt: Planning Strategies for Sediment Management and Coastal Planning](https://doi.org/10.1002/wwp2.70077) · 2026-04-06
 - [ПОРІВНЯЛЬНИЙ АНАЛІЗ ЕМПІРИЧНИХ МЕТОДІВ ПРОГНОЗУВАННЯ ПАРАМЕТРІВ ВІТРОВИХ ХВИЛЬ НА ПРИКЛАДІ МАЛОГО ГІРСЬКОГО ВОДОСХОВИЩА](https://wateruse.org.ua/article/download/355960/342088) · 2026-03-31
 - [Towards improved flood prediction: a review of deterministic hydrologic-hydraulic model coupling](https://link.springer.com/content/pdf/10.1007/s11069-026-07992-3.pdf) · 2026-03-30
-- [Assessing future flood hazards with high-resolution climate model projections: a case study in northeastern Sicily, Italy](https://public-pages-files-2025.frontiersin.org/journals/water/articles/10.3389/frwa.2026.1699802/pdf) · 2026-03-16
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-05-06** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Technologies and Applications of Geocomputational Tangible User Interfaces](https://www.mdpi.com/2220-9964/15/5/198/pdf?version=1777711510) · 2026-05-02
+- [Compound flooding risks in coastal cities: a review of causes, mechanisms, and assessment methodologies](https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf) · 2026-05-01
 - [Improving Coastal Bottom Dissolved Oxygen Forecasting Using Tide-Derived Features with an LSTM-Based Model](https://www.mdpi.com/2073-4441/18/9/1045/pdf?version=1777371553) · 2026-04-28
 - [Assessment of riverbed evolution in the Vam Nao River under the influence of sand mining using a numerical model](https://eartharxiv.org/repository/object/12812/download/22750/) · 2026-04-28
 - [Seasonal assessment of tidal current energy potential in a macrotidal ria estuary of the Eastern Amazon, Brazil](https://www.researchsquare.com/article/rs-9348929/latest.pdf) · 2026-04-22
-- [Abstracts of the 9th International Electronic Conference on Water Science](https://www.mdpi.com/3042-5743/40/1/13/pdf?version=1776333234) · 2026-04-15
-- [From lab to ocean: bridging swimming energetics and wild movements to understand red drum ( <i>Sciaenops ocellatus</i> ) behavior in a tidal estuary](https://www.biorxiv.org/content/biorxiv/early/2026/04/07/2026.04.03.716345.full.pdf) · 2026-04-07
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
