@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "year_from": 2025,
   "items": [
     {
@@ -79,6 +79,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Collision dynamics of dual tidal bores in the Qiantang River Estuary, China",
+          "date": "2026-05-06",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-9450578/latest.pdf"
+        },
+        {
           "title": "Research on radionuclide transport and diffusion in coastal waters using improved Lagrangian and Eulerian models",
           "date": "2026-05-05",
           "venue": "",
@@ -101,12 +107,6 @@
           "date": "2026-04-12",
           "venue": "",
           "link": "https://doi.org/10.5194/egusphere-2025-6556-ac2"
-        },
-        {
-          "title": "Impact of land surface characteristics on coastal compound flooding using a coupled hydrodynamic-hydraulic modelling framework",
-          "date": "2026-04-01",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s41598-026-46242-1_reference.pdf"
         }
       ]
     },

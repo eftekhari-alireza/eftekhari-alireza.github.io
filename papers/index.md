@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-05-08** · Showing results since **2025**_
+_Last update: **2026-05-09** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -29,11 +29,11 @@ _Last update: **2026-05-08** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Collision dynamics of dual tidal bores in the Qiantang River Estuary, China](https://www.researchsquare.com/article/rs-9450578/latest.pdf) · 2026-05-06
 - [Research on radionuclide transport and diffusion in coastal waters using improved Lagrangian and Eulerian models](https://doi.org/10.1007/s10967-026-10834-y) · 2026-05-05
 - [The Effect of Seawater Spatial density heterogeneity on Storm Surges — A Case Study of Typhoon "In-Fa" and Hangzhou Bay and Its Adjacent Waters](https://doi.org/10.5194/egusphere-2026-1581-v1) · 2026-04-17
 - [The Effect of Seawater Spatial density heterogeneity on Storm Surges — A Case Study of Typhoon "In-Fa" and Hangzhou Bay and Its Adjacent Waters](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1581/egusphere-2026-1581.pdf) · 2026-04-17
 - [Reply on RC2](https://doi.org/10.5194/egusphere-2025-6556-ac2) · 2026-04-12
-- [Impact of land surface characteristics on coastal compound flooding using a coupled hydrodynamic-hydraulic modelling framework](https://www.nature.com/articles/s41598-026-46242-1_reference.pdf) · 2026-04-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
