@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-09",
+  "date": "2026-05-10",
   "year_from": 2025,
   "items": [
     {
@@ -115,6 +115,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "New Advances in Long-Term Coastal Evolution and Morphodynamics: Ecosystem Protection and Coastal Safety",
+          "date": "2026-05-07",
+          "venue": "",
+          "link": "https://www.mdpi.com/2073-4441/18/10/1113/pdf?version=1778144501"
+        },
+        {
           "title": "Compound flooding risks in coastal cities: a review of causes, mechanisms, and assessment methodologies",
           "date": "2026-05-01",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-03-31",
           "venue": "",
           "link": "https://wateruse.org.ua/article/download/355960/342088"
-        },
-        {
-          "title": "Towards improved flood prediction: a review of deterministic hydrologic-hydraulic model coupling",
-          "date": "2026-03-30",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-07992-3.pdf"
         }
       ]
     },
@@ -187,6 +187,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Longitudinal wave power as a proxy for coastal change detection",
+          "date": "2026-05-08",
+          "venue": "",
+          "link": "https://doi.org/10.5194/nhess-26-2065-2026"
+        },
+        {
+          "title": "Hydrodynamics and Water Quality in Coastal Systems: Numerical Modelling and Observations",
+          "date": "2026-05-07",
+          "venue": "",
+          "link": "https://www.mdpi.com/2077-1312/14/10/868/pdf?version=1778141311"
+        },
+        {
           "title": "Technologies and Applications of Geocomputational Tangible User Interfaces",
           "date": "2026-05-02",
           "venue": "",
@@ -203,18 +215,6 @@
           "date": "2026-04-28",
           "venue": "",
           "link": "https://www.mdpi.com/2073-4441/18/9/1045/pdf?version=1777371553"
-        },
-        {
-          "title": "Assessment of riverbed evolution in the Vam Nao River under the influence of sand mining using a numerical model",
-          "date": "2026-04-28",
-          "venue": "",
-          "link": "https://eartharxiv.org/repository/object/12812/download/22750/"
-        },
-        {
-          "title": "Seasonal assessment of tidal current energy potential in a macrotidal ria estuary of the Eastern Amazon, Brazil",
-          "date": "2026-04-22",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-9348929/latest.pdf"
         }
       ]
     },

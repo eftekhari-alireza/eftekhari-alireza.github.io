@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-05-09** · Showing results since **2025**_
+_Last update: **2026-05-10** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2026-05-09** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [New Advances in Long-Term Coastal Evolution and Morphodynamics: Ecosystem Protection and Coastal Safety](https://www.mdpi.com/2073-4441/18/10/1113/pdf?version=1778144501) · 2026-05-07
 - [Compound flooding risks in coastal cities: a review of causes, mechanisms, and assessment methodologies](https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf) · 2026-05-01
 - [Monitoring and simulation of Chennai floods through a high-resolution topographic datasets](https://link.springer.com/content/pdf/10.1007/s44327-026-00238-8.pdf) · 2026-04-22
 - [Shoreline Change and Sea Level Rise Impacts Along Damietta Coast, Egypt: Planning Strategies for Sediment Management and Coastal Planning](https://doi.org/10.1002/wwp2.70077) · 2026-04-06
 - [ПОРІВНЯЛЬНИЙ АНАЛІЗ ЕМПІРИЧНИХ МЕТОДІВ ПРОГНОЗУВАННЯ ПАРАМЕТРІВ ВІТРОВИХ ХВИЛЬ НА ПРИКЛАДІ МАЛОГО ГІРСЬКОГО ВОДОСХОВИЩА](https://wateruse.org.ua/article/download/355960/342088) · 2026-03-31
-- [Towards improved flood prediction: a review of deterministic hydrologic-hydraulic model coupling](https://link.springer.com/content/pdf/10.1007/s11069-026-07992-3.pdf) · 2026-03-30
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-05-09** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Longitudinal wave power as a proxy for coastal change detection](https://doi.org/10.5194/nhess-26-2065-2026) · 2026-05-08
+- [Hydrodynamics and Water Quality in Coastal Systems: Numerical Modelling and Observations](https://www.mdpi.com/2077-1312/14/10/868/pdf?version=1778141311) · 2026-05-07
 - [Technologies and Applications of Geocomputational Tangible User Interfaces](https://www.mdpi.com/2220-9964/15/5/198/pdf?version=1777711510) · 2026-05-02
 - [Compound flooding risks in coastal cities: a review of causes, mechanisms, and assessment methodologies](https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf) · 2026-05-01
 - [Improving Coastal Bottom Dissolved Oxygen Forecasting Using Tide-Derived Features with an LSTM-Based Model](https://www.mdpi.com/2073-4441/18/9/1045/pdf?version=1777371553) · 2026-04-28
-- [Assessment of riverbed evolution in the Vam Nao River under the influence of sand mining using a numerical model](https://eartharxiv.org/repository/object/12812/download/22750/) · 2026-04-28
-- [Seasonal assessment of tidal current energy potential in a macrotidal ria estuary of the Eastern Amazon, Brazil](https://www.researchsquare.com/article/rs-9348929/latest.pdf) · 2026-04-22
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
