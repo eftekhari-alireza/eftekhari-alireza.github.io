@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-05-10** · Showing results since **2025**_
+_Last update: **2026-05-11** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -41,9 +41,9 @@ _Last update: **2026-05-10** · Showing results since **2025**_
 **Recent items (OpenAlex):**
 - [New Advances in Long-Term Coastal Evolution and Morphodynamics: Ecosystem Protection and Coastal Safety](https://www.mdpi.com/2073-4441/18/10/1113/pdf?version=1778144501) · 2026-05-07
 - [Compound flooding risks in coastal cities: a review of causes, mechanisms, and assessment methodologies](https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf) · 2026-05-01
+- [NGHIÊN CỨU MÔ PHỎNG LAN TRUYỀN RÁC THẢI NHỰA KHU VỰC VEN BIỂN ĐỒ SƠN – HẢI PHÒNG BẰNG MÔ HÌNH SỐ](https://doi.org/10.65154/jmst.981) · 2026-04-30
 - [Monitoring and simulation of Chennai floods through a high-resolution topographic datasets](https://link.springer.com/content/pdf/10.1007/s44327-026-00238-8.pdf) · 2026-04-22
 - [Shoreline Change and Sea Level Rise Impacts Along Damietta Coast, Egypt: Planning Strategies for Sediment Management and Coastal Planning](https://doi.org/10.1002/wwp2.70077) · 2026-04-06
-- [ПОРІВНЯЛЬНИЙ АНАЛІЗ ЕМПІРИЧНИХ МЕТОДІВ ПРОГНОЗУВАННЯ ПАРАМЕТРІВ ВІТРОВИХ ХВИЛЬ НА ПРИКЛАДІ МАЛОГО ГІРСЬКОГО ВОДОСХОВИЩА](https://wateruse.org.ua/article/download/355960/342088) · 2026-03-31
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,7 +59,7 @@ _Last update: **2026-05-10** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [Longitudinal wave power as a proxy for coastal change detection](https://doi.org/10.5194/nhess-26-2065-2026) · 2026-05-08
+- [Longitudinal wave power as a proxy for coastal change detection](https://nhess.copernicus.org/articles/26/2065/2026/nhess-26-2065-2026.pdf) · 2026-05-08
 - [Hydrodynamics and Water Quality in Coastal Systems: Numerical Modelling and Observations](https://www.mdpi.com/2077-1312/14/10/868/pdf?version=1778141311) · 2026-05-07
 - [Technologies and Applications of Geocomputational Tangible User Interfaces](https://www.mdpi.com/2220-9964/15/5/198/pdf?version=1777711510) · 2026-05-02
 - [Compound flooding risks in coastal cities: a review of causes, mechanisms, and assessment methodologies](https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf) · 2026-05-01
@@ -69,8 +69,8 @@ _Last update: **2026-05-10** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Longitudinal wave power as a proxy for coastal change detection](https://nhess.copernicus.org/articles/26/2065/2026/nhess-26-2065-2026.pdf) · 2026-05-08
 - [A Generalized Framework for Multi-Parameter Optimization of Numerical Wind–Wave Model: Application to Typhoon Waves near Taiwan Island](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-895/egusphere-2026-895.pdf) · 2026-04-23
 - [Feasibility of Wave Energy Converters in the Azores Under Climate Change Scenarios](https://www.mdpi.com/2077-1312/14/8/760/pdf?version=1776775141) · 2026-04-21
 - [HIDRA-D](https://repozitorij.uni-lj.si/Dokument.php?id=232719&dn=) · 2026-04-20
 - [Climate change affects future sea-bed mobility via storms and sea level rise](https://www.nature.com/articles/s43247-026-03500-4_reference.pdf) · 2026-04-16
-- [Impacts of climate change on the ports of the Southwestern coast of the Alboran Sea](https://upcommons.upc.edu/bitstreams/7d005a78-4d5c-47db-b12c-db49662b7bec/download) · 2026-04-15

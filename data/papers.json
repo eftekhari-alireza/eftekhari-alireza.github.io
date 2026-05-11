@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-10",
+  "date": "2026-05-11",
   "year_from": 2025,
   "items": [
     {
@@ -127,6 +127,12 @@
           "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf"
         },
         {
+          "title": "NGHI\u00caN C\u1ee8U M\u00d4 PH\u1eceNG LAN TRUY\u1ec0N R\u00c1C TH\u1ea2I NH\u1ef0A KHU V\u1ef0C VEN BI\u1ec2N \u0110\u1ed2 S\u01a0N \u2013 H\u1ea2I PH\u00d2NG B\u1eb0NG M\u00d4 H\u00ccNH S\u1ed0",
+          "date": "2026-04-30",
+          "venue": "",
+          "link": "https://doi.org/10.65154/jmst.981"
+        },
+        {
           "title": "Monitoring and simulation of Chennai floods through a high-resolution topographic datasets",
           "date": "2026-04-22",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-04-06",
           "venue": "",
           "link": "https://doi.org/10.1002/wwp2.70077"
-        },
-        {
-          "title": "\u041f\u041e\u0420\u0406\u0412\u041d\u042f\u041b\u042c\u041d\u0418\u0419 \u0410\u041d\u0410\u041b\u0406\u0417 \u0415\u041c\u041f\u0406\u0420\u0418\u0427\u041d\u0418\u0425 \u041c\u0415\u0422\u041e\u0414\u0406\u0412 \u041f\u0420\u041e\u0413\u041d\u041e\u0417\u0423\u0412\u0410\u041d\u041d\u042f \u041f\u0410\u0420\u0410\u041c\u0415\u0422\u0420\u0406\u0412 \u0412\u0406\u0422\u0420\u041e\u0412\u0418\u0425 \u0425\u0412\u0418\u041b\u042c \u041d\u0410 \u041f\u0420\u0418\u041a\u041b\u0410\u0414\u0406 \u041c\u0410\u041b\u041e\u0413\u041e \u0413\u0406\u0420\u0421\u042c\u041a\u041e\u0413\u041e \u0412\u041e\u0414\u041e\u0421\u0425\u041e\u0412\u0418\u0429\u0410",
-          "date": "2026-03-31",
-          "venue": "",
-          "link": "https://wateruse.org.ua/article/download/355960/342088"
         }
       ]
     },
@@ -190,7 +190,7 @@
           "title": "Longitudinal wave power as a proxy for coastal change detection",
           "date": "2026-05-08",
           "venue": "",
-          "link": "https://doi.org/10.5194/nhess-26-2065-2026"
+          "link": "https://nhess.copernicus.org/articles/26/2065/2026/nhess-26-2065-2026.pdf"
         },
         {
           "title": "Hydrodynamics and Water Quality in Coastal Systems: Numerical Modelling and Observations",
@@ -223,6 +223,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Longitudinal wave power as a proxy for coastal change detection",
+          "date": "2026-05-08",
+          "venue": "",
+          "link": "https://nhess.copernicus.org/articles/26/2065/2026/nhess-26-2065-2026.pdf"
+        },
+        {
           "title": "A Generalized Framework for Multi-Parameter Optimization of Numerical Wind\u2013Wave Model: Application to Typhoon Waves near Taiwan Island",
           "date": "2026-04-23",
           "venue": "",
@@ -245,12 +251,6 @@
           "date": "2026-04-16",
           "venue": "",
           "link": "https://www.nature.com/articles/s43247-026-03500-4_reference.pdf"
-        },
-        {
-          "title": "Impacts of climate change on the ports of the Southwestern coast of the Alboran Sea",
-          "date": "2026-04-15",
-          "venue": "",
-          "link": "https://upcommons.upc.edu/bitstreams/7d005a78-4d5c-47db-b12c-db49662b7bec/download"
         }
       ]
     }
