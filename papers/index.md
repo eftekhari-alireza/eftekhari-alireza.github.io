@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-05-11** · Showing results since **2025**_
+_Last update: **2026-05-12** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2026-05-11** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Physics-Informed Neural Networks for Flood Modelling: Review and Canonical Test-Cases](https://www.researchsquare.com/article/rs-9655056/latest.pdf) · 2026-05-11
 - [New Advances in Long-Term Coastal Evolution and Morphodynamics: Ecosystem Protection and Coastal Safety](https://www.mdpi.com/2073-4441/18/10/1113/pdf?version=1778144501) · 2026-05-07
 - [Compound flooding risks in coastal cities: a review of causes, mechanisms, and assessment methodologies](https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf) · 2026-05-01
 - [NGHIÊN CỨU MÔ PHỎNG LAN TRUYỀN RÁC THẢI NHỰA KHU VỰC VEN BIỂN ĐỒ SƠN – HẢI PHÒNG BẰNG MÔ HÌNH SỐ](https://doi.org/10.65154/jmst.981) · 2026-04-30
 - [Monitoring and simulation of Chennai floods through a high-resolution topographic datasets](https://link.springer.com/content/pdf/10.1007/s44327-026-00238-8.pdf) · 2026-04-22
-- [Shoreline Change and Sea Level Rise Impacts Along Damietta Coast, Egypt: Planning Strategies for Sediment Management and Coastal Planning](https://doi.org/10.1002/wwp2.70077) · 2026-04-06
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
