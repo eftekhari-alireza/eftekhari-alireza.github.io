@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-12",
+  "date": "2026-05-13",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,24 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Wind-driven Circulation in Gemlik Bay: An Intra-model Comparison",
+          "date": "2026-05-06",
+          "venue": "",
+          "link": "https://doi.org/10.5281/zenodo.20053314"
+        },
+        {
+          "title": "Wind-driven Circulation in Gemlik Bay: An Intra-model Comparison",
+          "date": "2026-05-06",
+          "venue": "",
+          "link": "https://doi.org/10.5281/zenodo.20053313"
+        },
+        {
+          "title": "Improving the Practical Applicability of Groundwater Protection Methods for Small and Medium-Sized Supplies",
+          "date": "2026-04-28",
+          "venue": "",
+          "link": "https://research.chalmers.se/publication/551363/file/551363_Fulltext.pdf"
+        },
+        {
           "title": "An Instrumented Earth\u2013Air Heat Exchanger with Embedded Electronic Monitoring for Real-Time Passive Cooling Applications",
           "date": "2026-04-28",
           "venue": "",
@@ -53,24 +71,6 @@
           "date": "2026-04-27",
           "venue": "",
           "link": "https://arxiv.org/pdf/2604.24910"
-        },
-        {
-          "title": "Estimating the source of a 3500\u20134500\u00a0year old tsunami in the South Pacific region based upon boulder transport modelling",
-          "date": "2026-04-27",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08163-0.pdf"
-        },
-        {
-          "title": "Hybrid Modular Mining Structures: A Review of Design Actions and Prefabricated Connection Solutions",
-          "date": "2026-04-24",
-          "venue": "",
-          "link": "https://www.mdpi.com/2075-5309/16/9/1675/pdf?version=1777030240"
-        },
-        {
-          "title": "Forecasting Sea Surface Cooling During Typhoons Based on Machine Learning",
-          "date": "2026-04-24",
-          "venue": "",
-          "link": "https://www.mdpi.com/2072-4292/18/9/1296/pdf?version=1777027977"
         }
       ]
     },
@@ -121,6 +121,12 @@
           "link": "https://www.researchsquare.com/article/rs-9655056/latest.pdf"
         },
         {
+          "title": "Integration of New Eco-Friendly Armour Units into Coastal Structures",
+          "date": "2026-05-08",
+          "venue": "",
+          "link": "https://doi.org/10.20381/ruor-31923"
+        },
+        {
           "title": "New Advances in Long-Term Coastal Evolution and Morphodynamics: Ecosystem Protection and Coastal Safety",
           "date": "2026-05-07",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-04-30",
           "venue": "",
           "link": "https://doi.org/10.65154/jmst.981"
-        },
-        {
-          "title": "Monitoring and simulation of Chennai floods through a high-resolution topographic datasets",
-          "date": "2026-04-22",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s44327-026-00238-8.pdf"
         }
       ]
     },
@@ -187,6 +187,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "From lab to ocean: bridging swimming energetics and wild movements to understand red drum ( <i>Sciaenops ocellatus</i> ) behavior in a tidal estuary",
+          "date": "2026-05-11",
+          "venue": "",
+          "link": "https://journals.biologists.com/jeb/article-pdf/doi/10.1242/jeb.251420/3698870/jeb251420.pdf"
+        },
+        {
+          "title": "Integration of New Eco-Friendly Armour Units into Coastal Structures",
+          "date": "2026-05-08",
+          "venue": "",
+          "link": "https://doi.org/10.20381/ruor-31923"
+        },
+        {
           "title": "Longitudinal wave power as a proxy for coastal change detection",
           "date": "2026-05-08",
           "venue": "",
@@ -199,22 +211,10 @@
           "link": "https://www.mdpi.com/2077-1312/14/10/868/pdf?version=1778141311"
         },
         {
-          "title": "Technologies and Applications of Geocomputational Tangible User Interfaces",
-          "date": "2026-05-02",
+          "title": "Wind-driven Circulation in Gemlik Bay: An Intra-model Comparison",
+          "date": "2026-05-06",
           "venue": "",
-          "link": "https://www.mdpi.com/2220-9964/15/5/198/pdf?version=1777711510"
-        },
-        {
-          "title": "Compound flooding risks in coastal cities: a review of causes, mechanisms, and assessment methodologies",
-          "date": "2026-05-01",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf"
-        },
-        {
-          "title": "Improving Coastal Bottom Dissolved Oxygen Forecasting Using Tide-Derived Features with an LSTM-Based Model",
-          "date": "2026-04-28",
-          "venue": "",
-          "link": "https://www.mdpi.com/2073-4441/18/9/1045/pdf?version=1777371553"
+          "link": "https://doi.org/10.5281/zenodo.20053314"
         }
       ]
     },
@@ -222,6 +222,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Integration of New Eco-Friendly Armour Units into Coastal Structures",
+          "date": "2026-05-08",
+          "venue": "",
+          "link": "https://doi.org/10.20381/ruor-31923"
+        },
         {
           "title": "Longitudinal wave power as a proxy for coastal change detection",
           "date": "2026-05-08",
@@ -245,12 +251,6 @@
           "date": "2026-04-20",
           "venue": "",
           "link": "https://repozitorij.uni-lj.si/Dokument.php?id=232719&dn="
-        },
-        {
-          "title": "Climate change affects future sea-bed mobility via storms and sea level rise",
-          "date": "2026-04-16",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s43247-026-03500-4_reference.pdf"
         }
       ]
     }

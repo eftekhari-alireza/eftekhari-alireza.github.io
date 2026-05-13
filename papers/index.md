@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-05-12** · Showing results since **2025**_
+_Last update: **2026-05-13** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-05-12** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Wind-driven Circulation in Gemlik Bay: An Intra-model Comparison](https://doi.org/10.5281/zenodo.20053314) · 2026-05-06
+- [Wind-driven Circulation in Gemlik Bay: An Intra-model Comparison](https://doi.org/10.5281/zenodo.20053313) · 2026-05-06
+- [Improving the Practical Applicability of Groundwater Protection Methods for Small and Medium-Sized Supplies](https://research.chalmers.se/publication/551363/file/551363_Fulltext.pdf) · 2026-04-28
 - [An Instrumented Earth–Air Heat Exchanger with Embedded Electronic Monitoring for Real-Time Passive Cooling Applications](https://www.mdpi.com/2673-4117/7/5/203/pdf?version=1777367857) · 2026-04-28
 - [Digital Twins in Coronary Artery Disease: A Mathematical Roadmap](https://arxiv.org/pdf/2604.24910) · 2026-04-27
-- [Estimating the source of a 3500–4500 year old tsunami in the South Pacific region based upon boulder transport modelling](https://link.springer.com/content/pdf/10.1007/s11069-026-08163-0.pdf) · 2026-04-27
-- [Hybrid Modular Mining Structures: A Review of Design Actions and Prefabricated Connection Solutions](https://www.mdpi.com/2075-5309/16/9/1675/pdf?version=1777030240) · 2026-04-24
-- [Forecasting Sea Surface Cooling During Typhoons Based on Machine Learning](https://www.mdpi.com/2072-4292/18/9/1296/pdf?version=1777027977) · 2026-04-24
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -40,10 +40,10 @@ _Last update: **2026-05-12** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [Physics-Informed Neural Networks for Flood Modelling: Review and Canonical Test-Cases](https://www.researchsquare.com/article/rs-9655056/latest.pdf) · 2026-05-11
+- [Integration of New Eco-Friendly Armour Units into Coastal Structures](https://doi.org/10.20381/ruor-31923) · 2026-05-08
 - [New Advances in Long-Term Coastal Evolution and Morphodynamics: Ecosystem Protection and Coastal Safety](https://www.mdpi.com/2073-4441/18/10/1113/pdf?version=1778144501) · 2026-05-07
 - [Compound flooding risks in coastal cities: a review of causes, mechanisms, and assessment methodologies](https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf) · 2026-05-01
 - [NGHIÊN CỨU MÔ PHỎNG LAN TRUYỀN RÁC THẢI NHỰA KHU VỰC VEN BIỂN ĐỒ SƠN – HẢI PHÒNG BẰNG MÔ HÌNH SỐ](https://doi.org/10.65154/jmst.981) · 2026-04-30
-- [Monitoring and simulation of Chennai floods through a high-resolution topographic datasets](https://link.springer.com/content/pdf/10.1007/s44327-026-00238-8.pdf) · 2026-04-22
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,18 +59,18 @@ _Last update: **2026-05-12** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [From lab to ocean: bridging swimming energetics and wild movements to understand red drum ( <i>Sciaenops ocellatus</i> ) behavior in a tidal estuary](https://journals.biologists.com/jeb/article-pdf/doi/10.1242/jeb.251420/3698870/jeb251420.pdf) · 2026-05-11
+- [Integration of New Eco-Friendly Armour Units into Coastal Structures](https://doi.org/10.20381/ruor-31923) · 2026-05-08
 - [Longitudinal wave power as a proxy for coastal change detection](https://nhess.copernicus.org/articles/26/2065/2026/nhess-26-2065-2026.pdf) · 2026-05-08
 - [Hydrodynamics and Water Quality in Coastal Systems: Numerical Modelling and Observations](https://www.mdpi.com/2077-1312/14/10/868/pdf?version=1778141311) · 2026-05-07
-- [Technologies and Applications of Geocomputational Tangible User Interfaces](https://www.mdpi.com/2220-9964/15/5/198/pdf?version=1777711510) · 2026-05-02
-- [Compound flooding risks in coastal cities: a review of causes, mechanisms, and assessment methodologies](https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf) · 2026-05-01
-- [Improving Coastal Bottom Dissolved Oxygen Forecasting Using Tide-Derived Features with an LSTM-Based Model](https://www.mdpi.com/2073-4441/18/9/1045/pdf?version=1777371553) · 2026-04-28
+- [Wind-driven Circulation in Gemlik Bay: An Intra-model Comparison](https://doi.org/10.5281/zenodo.20053314) · 2026-05-06
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Integration of New Eco-Friendly Armour Units into Coastal Structures](https://doi.org/10.20381/ruor-31923) · 2026-05-08
 - [Longitudinal wave power as a proxy for coastal change detection](https://nhess.copernicus.org/articles/26/2065/2026/nhess-26-2065-2026.pdf) · 2026-05-08
 - [A Generalized Framework for Multi-Parameter Optimization of Numerical Wind–Wave Model: Application to Typhoon Waves near Taiwan Island](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-895/egusphere-2026-895.pdf) · 2026-04-23
 - [Feasibility of Wave Energy Converters in the Azores Under Climate Change Scenarios](https://www.mdpi.com/2077-1312/14/8/760/pdf?version=1776775141) · 2026-04-21
 - [HIDRA-D](https://repozitorij.uni-lj.si/Dokument.php?id=232719&dn=) · 2026-04-20
-- [Climate change affects future sea-bed mobility via storms and sea level rise](https://www.nature.com/articles/s43247-026-03500-4_reference.pdf) · 2026-04-16
