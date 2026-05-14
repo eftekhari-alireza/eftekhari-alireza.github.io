@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-05-13** · Showing results since **2025**_
+_Last update: **2026-05-14** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-05-13** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Modeling of Sediment Accumulation Upstream of Samarra Barrage and Assessment of Flushing Efficiency](https://www.mdpi.com/2076-3263/16/5/196/pdf?version=1778582594) · 2026-05-12
 - [From lab to ocean: bridging swimming energetics and wild movements to understand red drum ( <i>Sciaenops ocellatus</i> ) behavior in a tidal estuary](https://journals.biologists.com/jeb/article-pdf/doi/10.1242/jeb.251420/3698870/jeb251420.pdf) · 2026-05-11
 - [Integration of New Eco-Friendly Armour Units into Coastal Structures](https://doi.org/10.20381/ruor-31923) · 2026-05-08
 - [Longitudinal wave power as a proxy for coastal change detection](https://nhess.copernicus.org/articles/26/2065/2026/nhess-26-2065-2026.pdf) · 2026-05-08
 - [Hydrodynamics and Water Quality in Coastal Systems: Numerical Modelling and Observations](https://www.mdpi.com/2077-1312/14/10/868/pdf?version=1778141311) · 2026-05-07
-- [Wind-driven Circulation in Gemlik Bay: An Intra-model Comparison](https://doi.org/10.5281/zenodo.20053314) · 2026-05-06
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
