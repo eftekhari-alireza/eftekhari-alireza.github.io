@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "High-latitude eddy statistics from SWOT compared with in situ observations",
+          "date": "2026-05-13",
+          "venue": "",
+          "link": "https://os.copernicus.org/articles/22/1515/2026/os-22-1515-2026.pdf"
+        },
+        {
+          "title": "Effects of Cattle Grazing on Microbial Pollution at the Watershed Scale: Field Observation, Laboratory Analyses, and Fate and Transport Modeling",
+          "date": "2026-05-13",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s40710-026-00839-w.pdf"
+        },
+        {
           "title": "Wind-driven Circulation in Gemlik Bay: An Intra-model Comparison",
           "date": "2026-05-06",
           "venue": "",
@@ -59,18 +71,6 @@
           "date": "2026-04-28",
           "venue": "",
           "link": "https://research.chalmers.se/publication/551363/file/551363_Fulltext.pdf"
-        },
-        {
-          "title": "An Instrumented Earth\u2013Air Heat Exchanger with Embedded Electronic Monitoring for Real-Time Passive Cooling Applications",
-          "date": "2026-04-28",
-          "venue": "",
-          "link": "https://www.mdpi.com/2673-4117/7/5/203/pdf?version=1777367857"
-        },
-        {
-          "title": "Digital Twins in Coronary Artery Disease: A Mathematical Roadmap",
-          "date": "2026-04-27",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2604.24910"
         }
       ]
     },

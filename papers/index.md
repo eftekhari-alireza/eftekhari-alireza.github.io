@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-05-14** · Showing results since **2025**_
+_Last update: **2026-05-15** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-05-14** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [High-latitude eddy statistics from SWOT compared with in situ observations](https://os.copernicus.org/articles/22/1515/2026/os-22-1515-2026.pdf) · 2026-05-13
+- [Effects of Cattle Grazing on Microbial Pollution at the Watershed Scale: Field Observation, Laboratory Analyses, and Fate and Transport Modeling](https://link.springer.com/content/pdf/10.1007/s40710-026-00839-w.pdf) · 2026-05-13
 - [Wind-driven Circulation in Gemlik Bay: An Intra-model Comparison](https://doi.org/10.5281/zenodo.20053314) · 2026-05-06
 - [Wind-driven Circulation in Gemlik Bay: An Intra-model Comparison](https://doi.org/10.5281/zenodo.20053313) · 2026-05-06
 - [Improving the Practical Applicability of Groundwater Protection Methods for Small and Medium-Sized Supplies](https://research.chalmers.se/publication/551363/file/551363_Fulltext.pdf) · 2026-04-28
-- [An Instrumented Earth–Air Heat Exchanger with Embedded Electronic Monitoring for Real-Time Passive Cooling Applications](https://www.mdpi.com/2673-4117/7/5/203/pdf?version=1777367857) · 2026-04-28
-- [Digital Twins in Coronary Artery Disease: A Mathematical Roadmap](https://arxiv.org/pdf/2604.24910) · 2026-04-27
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
