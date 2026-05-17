@@ -1,258 +1,41 @@
 {
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Year-round characterization of upwelling along the Uruguayan coast using a high-resolution regional ocean model",
-          "date": "2026-04-14",
-          "venue": "",
-          "link": "https://os.copernicus.org/articles/22/1169/2026/os-22-1169-2026.pdf"
-        },
-        {
-          "title": "Multi-site assessment of microtidal wave-dominated active beach state and morpho-sedimentary parameters using optical satellite imagery",
-          "date": "2026-03-27",
-          "venue": "",
-          "link": "https://doi.org/10.1038/s41598-026-45638-3"
-        },
-        {
-          "title": "Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf",
-          "date": "2026-03-20",
-          "venue": "",
-          "link": "https://doi.org/10.1007/s10236-026-01792-w"
-        },
-        {
-          "title": "Regional Validation of Satellite-Derived Beach Width and Slope in Microtidal Environments: The Role of Water Level Forcing and Classifier Training",
-          "date": "2026-03-13",
-          "venue": "",
-          "link": "https://www.mdpi.com/2673-964X/6/1/11/pdf?version=1773408425"
-        },
-        {
-          "title": "The Maintenance of the Eastern Mediterranean Boundary Current",
-          "date": "2026-02-19",
-          "venue": "",
-          "link": "https://www.authorea.com/doi/pdf/10.22541/au.177153450.04237179"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "High-latitude eddy statistics from SWOT compared with in situ observations",
-          "date": "2026-05-13",
-          "venue": "",
-          "link": "https://os.copernicus.org/articles/22/1515/2026/os-22-1515-2026.pdf"
-        },
-        {
-          "title": "Effects of Cattle Grazing on Microbial Pollution at the Watershed Scale: Field Observation, Laboratory Analyses, and Fate and Transport Modeling",
-          "date": "2026-05-13",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s40710-026-00839-w.pdf"
-        },
-        {
-          "title": "Wind-driven Circulation in Gemlik Bay: An Intra-model Comparison",
-          "date": "2026-05-06",
-          "venue": "",
-          "link": "https://doi.org/10.5281/zenodo.20053314"
-        },
-        {
-          "title": "Wind-driven Circulation in Gemlik Bay: An Intra-model Comparison",
-          "date": "2026-05-06",
-          "venue": "",
-          "link": "https://doi.org/10.5281/zenodo.20053313"
-        },
-        {
-          "title": "Improving the Practical Applicability of Groundwater Protection Methods for Small and Medium-Sized Supplies",
-          "date": "2026-04-28",
-          "venue": "",
-          "link": "https://research.chalmers.se/publication/551363/file/551363_Fulltext.pdf"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Collision dynamics of dual tidal bores in the Qiantang River Estuary, China",
-          "date": "2026-05-06",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-9450578/latest.pdf"
-        },
-        {
-          "title": "Research on radionuclide transport and diffusion in coastal waters using improved Lagrangian and Eulerian models",
-          "date": "2026-05-05",
-          "venue": "",
-          "link": "https://doi.org/10.1007/s10967-026-10834-y"
-        },
-        {
-          "title": "The Effect of Seawater Spatial density heterogeneity on Storm Surges \u2014 A Case Study of Typhoon \"In-Fa\" and Hangzhou Bay and Its Adjacent Waters",
-          "date": "2026-04-17",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-2026-1581-v1"
-        },
-        {
-          "title": "The Effect of Seawater Spatial density heterogeneity on Storm Surges \u2014 A Case Study of Typhoon \"In-Fa\" and Hangzhou Bay and Its Adjacent Waters",
-          "date": "2026-04-17",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1581/egusphere-2026-1581.pdf"
-        },
-        {
-          "title": "Reply on RC2",
-          "date": "2026-04-12",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-2025-6556-ac2"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Physics-Informed Neural Networks for Flood Modelling: Review and Canonical Test-Cases",
-          "date": "2026-05-11",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-9655056/latest.pdf"
-        },
-        {
-          "title": "Integration of New Eco-Friendly Armour Units into Coastal Structures",
-          "date": "2026-05-08",
-          "venue": "",
-          "link": "https://doi.org/10.20381/ruor-31923"
-        },
-        {
-          "title": "New Advances in Long-Term Coastal Evolution and Morphodynamics: Ecosystem Protection and Coastal Safety",
-          "date": "2026-05-07",
-          "venue": "",
-          "link": "https://www.mdpi.com/2073-4441/18/10/1113/pdf?version=1778144501"
-        },
-        {
-          "title": "Compound flooding risks in coastal cities: a review of causes, mechanisms, and assessment methodologies",
-          "date": "2026-05-01",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf"
-        },
-        {
-          "title": "NGHI\u00caN C\u1ee8U M\u00d4 PH\u1eceNG LAN TRUY\u1ec0N R\u00c1C TH\u1ea2I NH\u1ef0A KHU V\u1ef0C VEN BI\u1ec2N \u0110\u1ed2 S\u01a0N \u2013 H\u1ea2I PH\u00d2NG B\u1eb0NG M\u00d4 H\u00ccNH S\u1ed0",
-          "date": "2026-04-30",
-          "venue": "",
-          "link": "https://doi.org/10.65154/jmst.981"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 3\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "A Finite Volume Shallow Water Hydrodynamic Model and Its Validation",
-          "date": "2026-03-20",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-8922661/latest.pdf"
-        },
-        {
-          "title": "A morphological upscaling approach to modelling patterns of long term shoreface change and their synoptic climate drivers in Southeast Australia",
-          "date": "2026-02-14",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.margeo.2026.107733"
-        },
-        {
-          "title": "Propeller-Induced Seabed Scour: A Review of Hydrodynamic Mechanisms, CFD Modeling, and Coastal Engineering Implications",
-          "date": "2026-01-01",
-          "venue": "",
-          "link": "https://www.scirp.org/pdf/ojms_1470710.pdf"
-        },
-        {
-          "title": "Assessment of the impact of sediment dispersion on coral reef ecosystems caused by submarine cable installation in the Con Dao Archipelago, Vietnam",
-          "date": "2025-12-30",
-          "venue": "",
-          "link": "https://vjs.ac.vn/jmst/article/download/23078/pdf"
-        },
-        {
-          "title": "Characterization of spatial and temporal evolution of saltwater intrusion in the Qingnian reservoir of Pinglu Canal",
-          "date": "2025-12-30",
-          "venue": "",
-          "link": "https://www.jceclink.com/web/index.php/jcec/article/download/262/209"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Delft3D\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Modeling of Sediment Accumulation Upstream of Samarra Barrage and Assessment of Flushing Efficiency",
-          "date": "2026-05-12",
-          "venue": "",
-          "link": "https://www.mdpi.com/2076-3263/16/5/196/pdf?version=1778582594"
-        },
-        {
-          "title": "From lab to ocean: bridging swimming energetics and wild movements to understand red drum ( <i>Sciaenops ocellatus</i> ) behavior in a tidal estuary",
-          "date": "2026-05-11",
-          "venue": "",
-          "link": "https://journals.biologists.com/jeb/article-pdf/doi/10.1242/jeb.251420/3698870/jeb251420.pdf"
-        },
-        {
-          "title": "Integration of New Eco-Friendly Armour Units into Coastal Structures",
-          "date": "2026-05-08",
-          "venue": "",
-          "link": "https://doi.org/10.20381/ruor-31923"
-        },
-        {
-          "title": "Longitudinal wave power as a proxy for coastal change detection",
-          "date": "2026-05-08",
-          "venue": "",
-          "link": "https://nhess.copernicus.org/articles/26/2065/2026/nhess-26-2065-2026.pdf"
-        },
-        {
-          "title": "Hydrodynamics and Water Quality in Coastal Systems: Numerical Modelling and Observations",
-          "date": "2026-05-07",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/10/868/pdf?version=1778141311"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Integration of New Eco-Friendly Armour Units into Coastal Structures",
-          "date": "2026-05-08",
-          "venue": "",
-          "link": "https://doi.org/10.20381/ruor-31923"
-        },
-        {
-          "title": "Longitudinal wave power as a proxy for coastal change detection",
-          "date": "2026-05-08",
-          "venue": "",
-          "link": "https://nhess.copernicus.org/articles/26/2065/2026/nhess-26-2065-2026.pdf"
-        },
-        {
-          "title": "A Generalized Framework for Multi-Parameter Optimization of Numerical Wind\u2013Wave Model: Application to Typhoon Waves near Taiwan Island",
-          "date": "2026-04-23",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-895/egusphere-2026-895.pdf"
-        },
-        {
-          "title": "Feasibility of Wave Energy Converters in the Azores Under Climate Change Scenarios",
-          "date": "2026-04-21",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/8/760/pdf?version=1776775141"
-        },
-        {
-          "title": "HIDRA-D",
-          "date": "2026-04-20",
-          "venue": "",
-          "link": "https://repozitorij.uni-lj.si/Dokument.php?id=232719&dn="
-        }
-      ]
+      "openalex": []
     }
   ]
 }
