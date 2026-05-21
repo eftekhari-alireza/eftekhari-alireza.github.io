@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "year_from": 2025,
   "items": [
     {
@@ -115,6 +115,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Numerical modeling to assess the hydrodynamic behavior of the Gallinas River in San Luis Potos\u00ed under atypical hydrometeorological conditions",
+          "date": "2026-05-18",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41598-026-52183-6_reference.pdf"
+        },
+        {
           "title": "Physics-Informed Neural Networks for Flood Modelling: Review and Canonical Test-Cases",
           "date": "2026-05-11",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-05-01",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf"
-        },
-        {
-          "title": "NGHI\u00caN C\u1ee8U M\u00d4 PH\u1eceNG LAN TRUY\u1ec0N R\u00c1C TH\u1ea2I NH\u1ef0A KHU V\u1ef0C VEN BI\u1ec2N \u0110\u1ed2 S\u01a0N \u2013 H\u1ea2I PH\u00d2NG B\u1eb0NG M\u00d4 H\u00ccNH S\u1ed0",
-          "date": "2026-04-30",
-          "venue": "",
-          "link": "https://doi.org/10.65154/jmst.981"
         }
       ]
     },
