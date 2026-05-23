@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-22",
+  "date": "2026-05-23",
   "year_from": 2025,
   "items": [
     {
@@ -79,6 +79,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Development of a next-generation general ocean circulation model for the Great Lakes",
+          "date": "2026-05-21",
+          "venue": "",
+          "link": "https://gmd.copernicus.org/articles/19/4331/2026/gmd-19-4331-2026.pdf"
+        },
+        {
           "title": "Collision dynamics of dual tidal bores in the Qiantang River Estuary, China",
           "date": "2026-05-06",
           "venue": "",
@@ -101,12 +107,6 @@
           "date": "2026-04-17",
           "venue": "",
           "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1581/egusphere-2026-1581.pdf"
-        },
-        {
-          "title": "Reply on RC2",
-          "date": "2026-04-12",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-2025-6556-ac2"
         }
       ]
     },
@@ -119,6 +119,12 @@
           "date": "2026-05-18",
           "venue": "",
           "link": "https://www.nature.com/articles/s41598-026-52183-6_reference.pdf"
+        },
+        {
+          "title": "Impact of Giant Sea Wall Construction on Surrounding Current Patterns and Abrasion Rates: A Numerical Hydrodynamic Simulation of Marine Dynamics",
+          "date": "2026-05-17",
+          "venue": "",
+          "link": "https://gpijournal.com/index.php/sipil/article/download/573/465"
         },
         {
           "title": "Physics-Informed Neural Networks for Flood Modelling: Review and Canonical Test-Cases",
@@ -137,12 +143,6 @@
           "date": "2026-05-07",
           "venue": "",
           "link": "https://www.mdpi.com/2073-4441/18/10/1113/pdf?version=1778144501"
-        },
-        {
-          "title": "Compound flooding risks in coastal cities: a review of causes, mechanisms, and assessment methodologies",
-          "date": "2026-05-01",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08183-w.pdf"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Impact of Giant Sea Wall Construction on Surrounding Current Patterns and Abrasion Rates: A Numerical Hydrodynamic Simulation of Marine Dynamics",
+          "date": "2026-05-17",
+          "venue": "",
+          "link": "https://gpijournal.com/index.php/sipil/article/download/573/465"
+        },
+        {
           "title": "Modeling of Sediment Accumulation Upstream of Samarra Barrage and Assessment of Flushing Efficiency",
           "date": "2026-05-12",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-05-08",
           "venue": "",
           "link": "https://nhess.copernicus.org/articles/26/2065/2026/nhess-26-2065-2026.pdf"
-        },
-        {
-          "title": "Hydrodynamics and Water Quality in Coastal Systems: Numerical Modelling and Observations",
-          "date": "2026-05-07",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/10/868/pdf?version=1778141311"
         }
       ]
     },
