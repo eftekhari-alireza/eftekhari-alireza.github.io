@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations",
+          "date": "2026-05-21",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-9489067/latest.pdf"
+        },
+        {
+          "title": "Advancing data assimilation with the renewed Parallel Data Assimilation Framework (PDAF V3.1)",
+          "date": "2026-05-20",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2412/egusphere-2026-2412.pdf"
+        },
+        {
           "title": "High-latitude eddy statistics from SWOT compared with in situ observations",
           "date": "2026-05-13",
           "venue": "",
@@ -59,18 +71,6 @@
           "date": "2026-05-12",
           "venue": "",
           "link": "https://doi.org/10.3390/rs18101526"
-        },
-        {
-          "title": "Wind-driven Circulation in Gemlik Bay: An Intra-model Comparison",
-          "date": "2026-05-06",
-          "venue": "",
-          "link": "https://doi.org/10.5281/zenodo.20053314"
-        },
-        {
-          "title": "Wind-driven Circulation in Gemlik Bay: An Intra-model Comparison",
-          "date": "2026-05-06",
-          "venue": "",
-          "link": "https://doi.org/10.5281/zenodo.20053313"
         }
       ]
     },
@@ -92,7 +92,7 @@
         },
         {
           "title": "Research on radionuclide transport and diffusion in coastal waters using improved Lagrangian and Eulerian models",
-          "date": "2026-05-05",
+          "date": "2026-05-01",
           "venue": "",
           "link": "https://doi.org/10.1007/s10967-026-10834-y"
         },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations",
+          "date": "2026-05-21",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-9489067/latest.pdf"
+        },
+        {
           "title": "Impact of Giant Sea Wall Construction on Surrounding Current Patterns and Abrasion Rates: A Numerical Hydrodynamic Simulation of Marine Dynamics",
           "date": "2026-05-17",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-05-08",
           "venue": "",
           "link": "https://doi.org/10.20381/ruor-31923"
-        },
-        {
-          "title": "Longitudinal wave power as a proxy for coastal change detection",
-          "date": "2026-05-08",
-          "venue": "",
-          "link": "https://nhess.copernicus.org/articles/26/2065/2026/nhess-26-2065-2026.pdf"
         }
       ]
     },
@@ -222,6 +222,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations",
+          "date": "2026-05-21",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-9489067/latest.pdf"
+        },
         {
           "title": "Integration of New Eco-Friendly Armour Units into Coastal Structures",
           "date": "2026-05-08",
@@ -245,12 +251,6 @@
           "date": "2026-04-21",
           "venue": "",
           "link": "https://www.mdpi.com/2077-1312/14/8/760/pdf?version=1776775141"
-        },
-        {
-          "title": "HIDRA-D",
-          "date": "2026-04-20",
-          "venue": "",
-          "link": "https://repozitorij.uni-lj.si/Dokument.php?id=232719&dn="
         }
       ]
     }
