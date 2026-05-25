@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-05-24** · Showing results since **2025**_
+_Last update: **2026-05-25** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -20,10 +20,10 @@ _Last update: **2026-05-24** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations](https://www.researchsquare.com/article/rs-9489067/latest.pdf) · 2026-05-21
+- [Deep Learning Surrogates for Emulating Stochastic Climate Tipping Dynamics](https://arxiv.org/pdf/2605.20580) · 2026-05-20
 - [Advancing data assimilation with the renewed Parallel Data Assimilation Framework (PDAF V3.1)](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2412/egusphere-2026-2412.pdf) · 2026-05-20
 - [High-latitude eddy statistics from SWOT compared with in situ observations](https://os.copernicus.org/articles/22/1515/2026/os-22-1515-2026.pdf) · 2026-05-13
 - [Effects of Cattle Grazing on Microbial Pollution at the Watershed Scale: Field Observation, Laboratory Analyses, and Fate and Transport Modeling](https://link.springer.com/content/pdf/10.1007/s40710-026-00839-w.pdf) · 2026-05-13
-- [New Insights into the Site of Madonna del Piano (Castro dei Volsci, Italy) Through a Combined Use of Drone-Acquired LIDAR Data, Laser Scanning, Photogrammetry, Historical Aerial Imagery Analysis, Geophysical Investigations and Archaeological Analysis](https://doi.org/10.3390/rs18101526) · 2026-05-12
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

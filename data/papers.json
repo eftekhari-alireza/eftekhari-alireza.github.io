@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "year_from": 2025,
   "items": [
     {
@@ -49,6 +49,12 @@
           "link": "https://www.researchsquare.com/article/rs-9489067/latest.pdf"
         },
         {
+          "title": "Deep Learning Surrogates for Emulating Stochastic Climate Tipping Dynamics",
+          "date": "2026-05-20",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2605.20580"
+        },
+        {
           "title": "Advancing data assimilation with the renewed Parallel Data Assimilation Framework (PDAF V3.1)",
           "date": "2026-05-20",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-05-13",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s40710-026-00839-w.pdf"
-        },
-        {
-          "title": "New Insights into the Site of Madonna del Piano (Castro dei Volsci, Italy) Through a Combined Use of Drone-Acquired LIDAR Data, Laser Scanning, Photogrammetry, Historical Aerial Imagery Analysis, Geophysical Investigations and Archaeological Analysis",
-          "date": "2026-05-12",
-          "venue": "",
-          "link": "https://doi.org/10.3390/rs18101526"
         }
       ]
     },
