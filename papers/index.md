@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-05-25** · Showing results since **2025**_
+_Last update: **2026-05-27** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -20,10 +20,10 @@ _Last update: **2026-05-25** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations](https://www.researchsquare.com/article/rs-9489067/latest.pdf) · 2026-05-21
+- [Volador 1.0: A Data-Driven Air-Sea Full-Coupling Regional Forecast Model with Submesoscale-Permitting Based on MOE-Swin-Transformer Framework](https://doi.org/10.48550/arxiv.2605.24032) · 2026-05-21
 - [Deep Learning Surrogates for Emulating Stochastic Climate Tipping Dynamics](https://arxiv.org/pdf/2605.20580) · 2026-05-20
 - [Advancing data assimilation with the renewed Parallel Data Assimilation Framework (PDAF V3.1)](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2412/egusphere-2026-2412.pdf) · 2026-05-20
 - [High-latitude eddy statistics from SWOT compared with in situ observations](https://os.copernicus.org/articles/22/1515/2026/os-22-1515-2026.pdf) · 2026-05-13
-- [Effects of Cattle Grazing on Microbial Pollution at the Watershed Scale: Field Observation, Laboratory Analyses, and Fate and Transport Modeling](https://link.springer.com/content/pdf/10.1007/s40710-026-00839-w.pdf) · 2026-05-13
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-05-25** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Stratification caused by sand extraction pits in coastal seas](https://www.nature.com/articles/s41598-026-48662-5_reference.pdf) · 2026-05-25
 - [Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations](https://www.researchsquare.com/article/rs-9489067/latest.pdf) · 2026-05-21
 - [Impact of Giant Sea Wall Construction on Surrounding Current Patterns and Abrasion Rates: A Numerical Hydrodynamic Simulation of Marine Dynamics](https://gpijournal.com/index.php/sipil/article/download/573/465) · 2026-05-17
 - [Modeling of Sediment Accumulation Upstream of Samarra Barrage and Assessment of Flushing Efficiency](https://www.mdpi.com/2076-3263/16/5/196/pdf?version=1778582594) · 2026-05-12
 - [From lab to ocean: bridging swimming energetics and wild movements to understand red drum ( <i>Sciaenops ocellatus</i> ) behavior in a tidal estuary](https://journals.biologists.com/jeb/article-pdf/doi/10.1242/jeb.251420/3698870/jeb251420.pdf) · 2026-05-11
-- [Integration of New Eco-Friendly Armour Units into Coastal Structures](https://doi.org/10.20381/ruor-31923) · 2026-05-08
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

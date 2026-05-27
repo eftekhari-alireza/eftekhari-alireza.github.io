@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-27",
   "year_from": 2025,
   "items": [
     {
@@ -49,6 +49,12 @@
           "link": "https://www.researchsquare.com/article/rs-9489067/latest.pdf"
         },
         {
+          "title": "Volador 1.0: A Data-Driven Air-Sea Full-Coupling Regional Forecast Model with Submesoscale-Permitting Based on MOE-Swin-Transformer Framework",
+          "date": "2026-05-21",
+          "venue": "",
+          "link": "https://doi.org/10.48550/arxiv.2605.24032"
+        },
+        {
           "title": "Deep Learning Surrogates for Emulating Stochastic Climate Tipping Dynamics",
           "date": "2026-05-20",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-05-13",
           "venue": "",
           "link": "https://os.copernicus.org/articles/22/1515/2026/os-22-1515-2026.pdf"
-        },
-        {
-          "title": "Effects of Cattle Grazing on Microbial Pollution at the Watershed Scale: Field Observation, Laboratory Analyses, and Fate and Transport Modeling",
-          "date": "2026-05-13",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s40710-026-00839-w.pdf"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Stratification caused by sand extraction pits in coastal seas",
+          "date": "2026-05-25",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41598-026-48662-5_reference.pdf"
+        },
+        {
           "title": "Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations",
           "date": "2026-05-21",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-05-11",
           "venue": "",
           "link": "https://journals.biologists.com/jeb/article-pdf/doi/10.1242/jeb.251420/3698870/jeb251420.pdf"
-        },
-        {
-          "title": "Integration of New Eco-Friendly Armour Units into Coastal Structures",
-          "date": "2026-05-08",
-          "venue": "",
-          "link": "https://doi.org/10.20381/ruor-31923"
         }
       ]
     },
