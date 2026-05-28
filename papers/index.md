@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-05-27** · Showing results since **2025**_
+_Last update: **2026-05-28** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -20,10 +20,10 @@ _Last update: **2026-05-27** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations](https://www.researchsquare.com/article/rs-9489067/latest.pdf) · 2026-05-21
+- [Volador 1.0: A Data-Driven Air-Sea Full-Coupling Regional Forecast Model with Submesoscale-Permitting Based on MOE-Swin-Transformer Framework](https://arxiv.org/pdf/2605.24032) · 2026-05-21
 - [Volador 1.0: A Data-Driven Air-Sea Full-Coupling Regional Forecast Model with Submesoscale-Permitting Based on MOE-Swin-Transformer Framework](https://doi.org/10.48550/arxiv.2605.24032) · 2026-05-21
 - [Deep Learning Surrogates for Emulating Stochastic Climate Tipping Dynamics](https://arxiv.org/pdf/2605.20580) · 2026-05-20
 - [Advancing data assimilation with the renewed Parallel Data Assimilation Framework (PDAF V3.1)](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2412/egusphere-2026-2412.pdf) · 2026-05-20
-- [High-latitude eddy statistics from SWOT compared with in situ observations](https://os.copernicus.org/articles/22/1515/2026/os-22-1515-2026.pdf) · 2026-05-13
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

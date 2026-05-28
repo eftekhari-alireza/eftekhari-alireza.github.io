@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "year_from": 2025,
   "items": [
     {
@@ -52,6 +52,12 @@
           "title": "Volador 1.0: A Data-Driven Air-Sea Full-Coupling Regional Forecast Model with Submesoscale-Permitting Based on MOE-Swin-Transformer Framework",
           "date": "2026-05-21",
           "venue": "",
+          "link": "https://arxiv.org/pdf/2605.24032"
+        },
+        {
+          "title": "Volador 1.0: A Data-Driven Air-Sea Full-Coupling Regional Forecast Model with Submesoscale-Permitting Based on MOE-Swin-Transformer Framework",
+          "date": "2026-05-21",
+          "venue": "",
           "link": "https://doi.org/10.48550/arxiv.2605.24032"
         },
         {
@@ -65,12 +71,6 @@
           "date": "2026-05-20",
           "venue": "",
           "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2412/egusphere-2026-2412.pdf"
-        },
-        {
-          "title": "High-latitude eddy statistics from SWOT compared with in situ observations",
-          "date": "2026-05-13",
-          "venue": "",
-          "link": "https://os.copernicus.org/articles/22/1515/2026/os-22-1515-2026.pdf"
         }
       ]
     },
