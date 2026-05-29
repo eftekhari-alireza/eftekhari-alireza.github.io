@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+
+message: "If you use this software, please cite it as below."
+
+title: "Storm Surge Detection Model"
+
+authors:
+
+  - family-names: "Eftekhari"
+
+    given-names: "Alireza"
+
+    affiliation: "University of Galway"
+
+orcid: "https://orcid.org/0009-0000-3464-7847"
+
+abstract: >-
+
+  This study presents a Google Colab-based Storm Surge Detection Model for analyzing sea surface height data and identifying extreme surge events. The framework combines tidal harmonic analysis, residual extraction, Butterworth filtering, and adaptive thresholding to detect and characterize storm surges efficiently. The model provides interactive visualization, statistical analysis, and automated event detection in an accessible and user-friendly cloud environment suitable for research and educational applications.
+
+keywords:
+
+  - Storm surges
+
+  - Tidal analysis
+
+  - Sea levels
+
+  - Signal filtering
+
+  - Event detection
+
+license: MIT
+
+repository-code: "Storm Surge Detection Model"
+
+url: "https://github.com/eftekhari-alireza/eftekhari-alireza.github.io/tree/main/Storm%20Surge%20Detection%20Model"
+
+version: 1.0.0
+
+date-released: 2026-05-29
