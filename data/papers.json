@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "year_from": 2025,
   "items": [
     {
@@ -49,6 +49,12 @@
           "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1941/egusphere-2026-1941.pdf"
         },
         {
+          "title": "THE VARIABILITY OF SEA LEVEL AND ITS IMPACT ON COASTAL FLOODING IN BA\u00cdA DE TODOS SANTOS (13oS)",
+          "date": "2026-05-27",
+          "venue": "",
+          "link": "https://preprints.scielo.org/index.php/scielo/preprint/download/16266/32694/33485"
+        },
+        {
           "title": "Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations",
           "date": "2026-05-21",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-05-21",
           "venue": "",
           "link": "https://doi.org/10.48550/arxiv.2605.24032"
-        },
-        {
-          "title": "Deep Learning Surrogates for Emulating Stochastic Climate Tipping Dynamics",
-          "date": "2026-05-20",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2605.20580"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "A Reproducible Deep Learning Framework for Long- Term Coastal Monitoring and Shoreline Evolution Assessment Using Landsat Time Series",
+          "date": "2026-05-29",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-9792652/latest.pdf"
+        },
+        {
           "title": "Stratification caused by sand extraction pits in coastal seas",
           "date": "2026-05-25",
           "venue": "",
@@ -205,16 +211,10 @@
           "link": "https://gpijournal.com/index.php/sipil/article/download/573/465"
         },
         {
-          "title": "Modeling of Sediment Accumulation Upstream of Samarra Barrage and Assessment of Flushing Efficiency",
-          "date": "2026-05-12",
+          "title": "Cross-isobath transport of fine sediment under combined wave-current forcing: A spatiotemporal analysis for Qingdao Coast",
+          "date": "2026-05-14",
           "venue": "",
-          "link": "https://www.mdpi.com/2076-3263/16/5/196/pdf?version=1778582594"
-        },
-        {
-          "title": "From lab to ocean: bridging swimming energetics and wild movements to understand red drum ( <i>Sciaenops ocellatus</i> ) behavior in a tidal estuary",
-          "date": "2026-05-11",
-          "venue": "",
-          "link": "https://journals.biologists.com/jeb/article-pdf/doi/10.1242/jeb.251420/3698870/jeb251420.pdf"
+          "link": "https://doi.org/10.1016/j.rsma.2026.105050"
         }
       ]
     },
@@ -227,6 +227,12 @@
           "date": "2026-05-27",
           "venue": "",
           "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1941/egusphere-2026-1941.pdf"
+        },
+        {
+          "title": "Spectral transformations of swell in ocean eddy dipoles from SAR observations and numerical simulations",
+          "date": "2026-05-23",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.dsr.2026.104704"
         },
         {
           "title": "Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations",
@@ -245,12 +251,6 @@
           "date": "2026-05-08",
           "venue": "",
           "link": "https://nhess.copernicus.org/articles/26/2065/2026/nhess-26-2065-2026.pdf"
-        },
-        {
-          "title": "A Generalized Framework for Multi-Parameter Optimization of Numerical Wind\u2013Wave Model: Application to Typhoon Waves near Taiwan Island",
-          "date": "2026-04-23",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-895/egusphere-2026-895.pdf"
         }
       ]
     }

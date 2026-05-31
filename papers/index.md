@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-05-30** · Showing results since **2025**_
+_Last update: **2026-05-31** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -20,10 +20,10 @@ _Last update: **2026-05-30** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [The applications of UFS-Coastal v1.0.0b01: wave-current coupling of SCHISM and WAVEWATCH III](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1941/egusphere-2026-1941.pdf) · 2026-05-27
+- [THE VARIABILITY OF SEA LEVEL AND ITS IMPACT ON COASTAL FLOODING IN BAÍA DE TODOS SANTOS (13oS)](https://preprints.scielo.org/index.php/scielo/preprint/download/16266/32694/33485) · 2026-05-27
 - [Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations](https://www.researchsquare.com/article/rs-9489067/latest.pdf) · 2026-05-21
 - [Volador 1.0: A Data-Driven Air-Sea Full-Coupling Regional Forecast Model with Submesoscale-Permitting Based on MOE-Swin-Transformer Framework](https://arxiv.org/pdf/2605.24032) · 2026-05-21
 - [Volador 1.0: A Data-Driven Air-Sea Full-Coupling Regional Forecast Model with Submesoscale-Permitting Based on MOE-Swin-Transformer Framework](https://doi.org/10.48550/arxiv.2605.24032) · 2026-05-21
-- [Deep Learning Surrogates for Emulating Stochastic Climate Tipping Dynamics](https://arxiv.org/pdf/2605.20580) · 2026-05-20
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,18 +59,18 @@ _Last update: **2026-05-30** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [A Reproducible Deep Learning Framework for Long- Term Coastal Monitoring and Shoreline Evolution Assessment Using Landsat Time Series](https://www.researchsquare.com/article/rs-9792652/latest.pdf) · 2026-05-29
 - [Stratification caused by sand extraction pits in coastal seas](https://www.nature.com/articles/s41598-026-48662-5_reference.pdf) · 2026-05-25
 - [Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations](https://www.researchsquare.com/article/rs-9489067/latest.pdf) · 2026-05-21
 - [Impact of Giant Sea Wall Construction on Surrounding Current Patterns and Abrasion Rates: A Numerical Hydrodynamic Simulation of Marine Dynamics](https://gpijournal.com/index.php/sipil/article/download/573/465) · 2026-05-17
-- [Modeling of Sediment Accumulation Upstream of Samarra Barrage and Assessment of Flushing Efficiency](https://www.mdpi.com/2076-3263/16/5/196/pdf?version=1778582594) · 2026-05-12
-- [From lab to ocean: bridging swimming energetics and wild movements to understand red drum ( <i>Sciaenops ocellatus</i> ) behavior in a tidal estuary](https://journals.biologists.com/jeb/article-pdf/doi/10.1242/jeb.251420/3698870/jeb251420.pdf) · 2026-05-11
+- [Cross-isobath transport of fine sediment under combined wave-current forcing: A spatiotemporal analysis for Qingdao Coast](https://doi.org/10.1016/j.rsma.2026.105050) · 2026-05-14
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
 - [The applications of UFS-Coastal v1.0.0b01: wave-current coupling of SCHISM and WAVEWATCH III](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1941/egusphere-2026-1941.pdf) · 2026-05-27
+- [Spectral transformations of swell in ocean eddy dipoles from SAR observations and numerical simulations](https://doi.org/10.1016/j.dsr.2026.104704) · 2026-05-23
 - [Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations](https://www.researchsquare.com/article/rs-9489067/latest.pdf) · 2026-05-21
 - [Integration of New Eco-Friendly Armour Units into Coastal Structures](https://doi.org/10.20381/ruor-31923) · 2026-05-08
 - [Longitudinal wave power as a proxy for coastal change detection](https://nhess.copernicus.org/articles/26/2065/2026/nhess-26-2065-2026.pdf) · 2026-05-08
-- [A Generalized Framework for Multi-Parameter Optimization of Numerical Wind–Wave Model: Application to Typhoon Waves near Taiwan Island](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-895/egusphere-2026-895.pdf) · 2026-04-23
