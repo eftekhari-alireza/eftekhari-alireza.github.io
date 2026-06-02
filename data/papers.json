@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "year_from": 2025,
   "items": [
     {
@@ -223,6 +223,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "On the phenomena-oriented validation of spatial neural-network based surface wind downscaling over the Arctic seas",
+          "date": "2026-06-01",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1765713/pdf"
+        },
+        {
           "title": "The applications of UFS-Coastal v1.0.0b01: wave-current coupling of SCHISM and WAVEWATCH III",
           "date": "2026-05-27",
           "venue": "",
@@ -245,12 +251,6 @@
           "date": "2026-05-08",
           "venue": "",
           "link": "https://doi.org/10.20381/ruor-31923"
-        },
-        {
-          "title": "Longitudinal wave power as a proxy for coastal change detection",
-          "date": "2026-05-08",
-          "venue": "",
-          "link": "https://nhess.copernicus.org/articles/26/2065/2026/nhess-26-2065-2026.pdf"
         }
       ]
     }
