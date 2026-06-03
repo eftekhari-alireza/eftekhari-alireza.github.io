@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Argo trajectory-derived current assimilation and its impact on the mid-layer circulation in the South China Sea",
+          "date": "2026-05-28",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.ocemod.2026.102770"
+        },
+        {
           "title": "The applications of UFS-Coastal v1.0.0b01: wave-current coupling of SCHISM and WAVEWATCH III",
           "date": "2026-05-27",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-05-21",
           "venue": "",
           "link": "https://arxiv.org/pdf/2605.24032"
-        },
-        {
-          "title": "Volador 1.0: A Data-Driven Air-Sea Full-Coupling Regional Forecast Model with Submesoscale-Permitting Based on MOE-Swin-Transformer Framework",
-          "date": "2026-05-21",
-          "venue": "",
-          "link": "https://doi.org/10.48550/arxiv.2605.24032"
         }
       ]
     },

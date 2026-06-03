@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-06-02** · Showing results since **2025**_
+_Last update: **2026-06-03** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-06-02** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Argo trajectory-derived current assimilation and its impact on the mid-layer circulation in the South China Sea](https://doi.org/10.1016/j.ocemod.2026.102770) · 2026-05-28
 - [The applications of UFS-Coastal v1.0.0b01: wave-current coupling of SCHISM and WAVEWATCH III](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1941/egusphere-2026-1941.pdf) · 2026-05-27
 - [THE VARIABILITY OF SEA LEVEL AND ITS IMPACT ON COASTAL FLOODING IN BAÍA DE TODOS SANTOS (13oS)](https://preprints.scielo.org/index.php/scielo/preprint/download/16266/32694/33485) · 2026-05-27
 - [Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations](https://www.researchsquare.com/article/rs-9489067/latest.pdf) · 2026-05-21
 - [Volador 1.0: A Data-Driven Air-Sea Full-Coupling Regional Forecast Model with Submesoscale-Permitting Based on MOE-Swin-Transformer Framework](https://arxiv.org/pdf/2605.24032) · 2026-05-21
-- [Volador 1.0: A Data-Driven Air-Sea Full-Coupling Regional Forecast Model with Submesoscale-Permitting Based on MOE-Swin-Transformer Framework](https://doi.org/10.48550/arxiv.2605.24032) · 2026-05-21
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
