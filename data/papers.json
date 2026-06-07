@@ -1,11 +1,17 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Multi-sensor observations and modeling of wave swash on a low-tide terrace beach",
+          "date": "2026-06-04",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41598-026-56586-3_reference.pdf"
+        },
         {
           "title": "Year-round characterization of upwelling along the Uruguayan coast using a high-resolution regional ocean model",
           "date": "2026-04-14",
@@ -29,12 +35,6 @@
           "date": "2026-03-13",
           "venue": "",
           "link": "https://www.mdpi.com/2673-964X/6/1/11/pdf?version=1773408425"
-        },
-        {
-          "title": "The Maintenance of the Eastern Mediterranean Boundary Current",
-          "date": "2026-02-19",
-          "venue": "",
-          "link": "https://www.authorea.com/doi/pdf/10.22541/au.177153450.04237179"
         }
       ]
     },
@@ -43,34 +43,34 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Optimization of ROMS Parameterization Schemes for Ocean Current Simulation in the Western Guangdong Sea Areas Using Observation Data",
+          "date": "2026-06-05",
+          "venue": "",
+          "link": "https://doi.org/10.3390/jmse14111061"
+        },
+        {
+          "title": "Slab tearing and its surface signals controlled by passive margin strength",
+          "date": "2026-06-04",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41467-026-73963-8.pdf"
+        },
+        {
+          "title": "Multi-sensor observations and modeling of wave swash on a low-tide terrace beach",
+          "date": "2026-06-04",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41598-026-56586-3_reference.pdf"
+        },
+        {
+          "title": "A Multi-Source Oceanographic Dataset Collection for AI-Based Tide and Current Prediction in Myanmar Coastal Regions",
+          "date": "2026-05-30",
+          "venue": "",
+          "link": "https://lorojournals.com/index.php/emsj/article/download/1883/1814"
+        },
+        {
           "title": "Argo trajectory-derived current assimilation and its impact on the mid-layer circulation in the South China Sea",
           "date": "2026-05-28",
           "venue": "",
           "link": "https://doi.org/10.1016/j.ocemod.2026.102770"
-        },
-        {
-          "title": "The applications of UFS-Coastal v1.0.0b01: wave-current coupling of SCHISM and WAVEWATCH III",
-          "date": "2026-05-27",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1941/egusphere-2026-1941.pdf"
-        },
-        {
-          "title": "THE VARIABILITY OF SEA LEVEL AND ITS IMPACT ON COASTAL FLOODING IN BA\u00cdA DE TODOS SANTOS (13oS)",
-          "date": "2026-05-27",
-          "venue": "",
-          "link": "https://preprints.scielo.org/index.php/scielo/preprint/download/16266/32694/33485"
-        },
-        {
-          "title": "Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations",
-          "date": "2026-05-21",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-9489067/latest.pdf"
-        },
-        {
-          "title": "Volador 1.0: A Data-Driven Air-Sea Full-Coupling Regional Forecast Model with Submesoscale-Permitting Based on MOE-Swin-Transformer Framework",
-          "date": "2026-05-21",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2605.24032"
         }
       ]
     },
@@ -78,6 +78,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "An adaptive unstructured grid for HF radar current mapping based on constrained k-means clustering",
+          "date": "2026-06-05",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3013/egusphere-2026-3013.pdf"
+        },
         {
           "title": "The applications of UFS-Coastal v1.0.0b01: wave-current coupling of SCHISM and WAVEWATCH III",
           "date": "2026-05-27",
@@ -101,12 +107,6 @@
           "date": "2026-05-01",
           "venue": "",
           "link": "https://doi.org/10.1007/s10967-026-10834-y"
-        },
-        {
-          "title": "The Effect of Seawater Spatial density heterogeneity on Storm Surges \u2014 A Case Study of Typhoon \"In-Fa\" and Hangzhou Bay and Its Adjacent Waters",
-          "date": "2026-04-17",
-          "venue": "",
-          "link": "https://doi.org/10.5194/egusphere-2026-1581-v1"
         }
       ]
     },
