@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-06-08** · Showing results since **2025**_
+_Last update: **2026-06-09** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -60,10 +60,10 @@ _Last update: **2026-06-08** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [A Reproducible Deep Learning Framework for Long- Term Coastal Monitoring and Shoreline Evolution Assessment Using Landsat Time Series](https://www.researchsquare.com/article/rs-9792652/latest.pdf) · 2026-05-29
+- [Numerical assessment of tidal stream energy resources in a coastal channel: A case study of Okha coast, India](https://doi.org/10.1016/j.rsma.2026.105097) · 2026-05-28
 - [Stratification caused by sand extraction pits in coastal seas](https://www.nature.com/articles/s41598-026-48662-5_reference.pdf) · 2026-05-25
 - [Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations](https://www.researchsquare.com/article/rs-9489067/latest.pdf) · 2026-05-21
 - [Impact of Giant Sea Wall Construction on Surrounding Current Patterns and Abrasion Rates: A Numerical Hydrodynamic Simulation of Marine Dynamics](https://gpijournal.com/index.php/sipil/article/download/573/465) · 2026-05-17
-- [Cross-isobath transport of fine sediment under combined wave-current forcing: A spatiotemporal analysis for Qingdao Coast](https://doi.org/10.1016/j.rsma.2026.105050) · 2026-05-14
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

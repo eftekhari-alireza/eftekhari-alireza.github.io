@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "year_from": 2025,
   "items": [
     {
@@ -193,6 +193,12 @@
           "link": "https://www.researchsquare.com/article/rs-9792652/latest.pdf"
         },
         {
+          "title": "Numerical assessment of tidal stream energy resources in a coastal channel: A case study of Okha coast, India",
+          "date": "2026-05-28",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.rsma.2026.105097"
+        },
+        {
           "title": "Stratification caused by sand extraction pits in coastal seas",
           "date": "2026-05-25",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-05-17",
           "venue": "",
           "link": "https://gpijournal.com/index.php/sipil/article/download/573/465"
-        },
-        {
-          "title": "Cross-isobath transport of fine sediment under combined wave-current forcing: A spatiotemporal analysis for Qingdao Coast",
-          "date": "2026-05-14",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.rsma.2026.105050"
         }
       ]
     },
