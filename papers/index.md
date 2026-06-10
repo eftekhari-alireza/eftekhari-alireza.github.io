@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-06-09** · Showing results since **2025**_
+_Last update: **2026-06-10** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,21 +19,21 @@ _Last update: **2026-06-09** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Construction of an Oil Spill Dynamics Model Based on 3D Terrain and Marine Environmental Fields](https://doi.org/10.1051/e3sconf/202671701017/pdf) · 2026-06-05
 - [Optimization of ROMS Parameterization Schemes for Ocean Current Simulation in the Western Guangdong Sea Areas Using Observation Data](https://doi.org/10.3390/jmse14111061) · 2026-06-05
 - [Slab tearing and its surface signals controlled by passive margin strength](https://www.nature.com/articles/s41467-026-73963-8.pdf) · 2026-06-04
 - [Multi-sensor observations and modeling of wave swash on a low-tide terrace beach](https://www.nature.com/articles/s41598-026-56586-3_reference.pdf) · 2026-06-04
 - [A Multi-Source Oceanographic Dataset Collection for AI-Based Tide and Current Prediction in Myanmar Coastal Regions](https://lorojournals.com/index.php/emsj/article/download/1883/1814) · 2026-05-30
-- [Argo trajectory-derived current assimilation and its impact on the mid-layer circulation in the South China Sea](https://doi.org/10.1016/j.ocemod.2026.102770) · 2026-05-28
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Construction of an Oil Spill Dynamics Model Based on 3D Terrain and Marine Environmental Fields](https://doi.org/10.1051/e3sconf/202671701017/pdf) · 2026-06-05
 - [An adaptive unstructured grid for HF radar current mapping based on constrained k-means clustering](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3013/egusphere-2026-3013.pdf) · 2026-06-05
 - [The applications of UFS-Coastal v1.0.0b01: wave-current coupling of SCHISM and WAVEWATCH III](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1941/egusphere-2026-1941.pdf) · 2026-05-27
 - [Development of a next-generation general ocean circulation model for the Great Lakes](https://gmd.copernicus.org/articles/19/4331/2026/gmd-19-4331-2026.pdf) · 2026-05-21
 - [Collision dynamics of dual tidal bores in the Qiantang River Estuary, China](https://www.researchsquare.com/article/rs-9450578/latest.pdf) · 2026-05-06
-- [Research on radionuclide transport and diffusion in coastal waters using improved Lagrangian and Eulerian models](https://doi.org/10.1007/s10967-026-10834-y) · 2026-05-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

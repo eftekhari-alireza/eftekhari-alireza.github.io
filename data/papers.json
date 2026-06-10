@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Construction of an Oil Spill Dynamics Model Based on 3D Terrain and Marine Environmental Fields",
+          "date": "2026-06-05",
+          "venue": "",
+          "link": "https://doi.org/10.1051/e3sconf/202671701017/pdf"
+        },
+        {
           "title": "Optimization of ROMS Parameterization Schemes for Ocean Current Simulation in the Western Guangdong Sea Areas Using Observation Data",
           "date": "2026-06-05",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-05-30",
           "venue": "",
           "link": "https://lorojournals.com/index.php/emsj/article/download/1883/1814"
-        },
-        {
-          "title": "Argo trajectory-derived current assimilation and its impact on the mid-layer circulation in the South China Sea",
-          "date": "2026-05-28",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.ocemod.2026.102770"
         }
       ]
     },
@@ -78,6 +78,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Construction of an Oil Spill Dynamics Model Based on 3D Terrain and Marine Environmental Fields",
+          "date": "2026-06-05",
+          "venue": "",
+          "link": "https://doi.org/10.1051/e3sconf/202671701017/pdf"
+        },
         {
           "title": "An adaptive unstructured grid for HF radar current mapping based on constrained k-means clustering",
           "date": "2026-06-05",
@@ -101,12 +107,6 @@
           "date": "2026-05-06",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-9450578/latest.pdf"
-        },
-        {
-          "title": "Research on radionuclide transport and diffusion in coastal waters using improved Lagrangian and Eulerian models",
-          "date": "2026-05-01",
-          "venue": "",
-          "link": "https://doi.org/10.1007/s10967-026-10834-y"
         }
       ]
     },
