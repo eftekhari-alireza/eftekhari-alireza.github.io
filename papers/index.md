@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-06-12** · Showing results since **2025**_
+_Last update: **2026-06-13** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -17,6 +17,13 @@ _Last update: **2026-06-12** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
+
+**Recent items (OpenAlex):**
+- [Construction of an Oil Spill Dynamics Model Based on 3D Terrain and Marine Environmental Fields](https://doi.org/10.1051/e3sconf/202671701017/pdf) · 2026-06-05
+- [Optimization of ROMS Parameterization Schemes for Ocean Current Simulation in the Western Guangdong Sea Areas Using Observation Data](https://doi.org/10.3390/jmse14111061) · 2026-06-05
+- [Slab tearing and its surface signals controlled by passive margin strength](https://www.nature.com/articles/s41467-026-73963-8.pdf) · 2026-06-04
+- [Multi-sensor observations and modeling of wave swash on a low-tide terrace beach](https://www.nature.com/articles/s41598-026-56586-3_reference.pdf) · 2026-06-04
+- [A Multi-Source Oceanographic Dataset Collection for AI-Based Tide and Current Prediction in Myanmar Coastal Regions](https://lorojournals.com/index.php/emsj/article/download/1883/1814) · 2026-05-30
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -41,8 +48,29 @@ _Last update: **2026-06-12** · Showing results since **2025**_
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
+**Recent items (OpenAlex):**
+- [A Finite Volume Shallow Water Hydrodynamic Model and Its Validation](https://www.researchsquare.com/article/rs-8922661/latest.pdf) · 2026-03-20
+- [A morphological upscaling approach to modelling patterns of long term shoreface change and their synoptic climate drivers in Southeast Australia](https://doi.org/10.1016/j.margeo.2026.107733) · 2026-02-14
+- [Propeller-Induced Seabed Scour: A Review of Hydrodynamic Mechanisms, CFD Modeling, and Coastal Engineering Implications](https://www.scirp.org/pdf/ojms_1470710.pdf) · 2026-01-01
+- [Assessment of the impact of sediment dispersion on coral reef ecosystems caused by submarine cable installation in the Con Dao Archipelago, Vietnam](https://vjs.ac.vn/jmst/article/download/23078/pdf) · 2025-12-30
+- [Characterization of spatial and temporal evolution of saltwater intrusion in the Qingnian reservoir of Pinglu Canal](https://www.jceclink.com/web/index.php/jcec/article/download/262/209) · 2025-12-30
+
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Delft3D"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
+**Recent items (OpenAlex):**
+- [Hydrodynamic Modeling as a Decision-Support Tool for Coastal Management in Large Amazonian Estuaries: A Case Study in the Pará River System, Brazil](https://doi.org/10.3390/hydrology13060152) · 2026-06-11
+- [Mapping Coastal Flood Risk in China](https://link.springer.com/content/pdf/10.1007/s13753-026-00742-w.pdf) · 2026-06-09
+- [A Reproducible Deep Learning Framework for Long- Term Coastal Monitoring and Shoreline Evolution Assessment Using Landsat Time Series](https://www.researchsquare.com/article/rs-9792652/latest.pdf) · 2026-05-29
+- [Numerical assessment of tidal stream energy resources in a coastal channel: A case study of Okha coast, India](https://doi.org/10.1016/j.rsma.2026.105097) · 2026-05-28
+- [Stratification caused by sand extraction pits in coastal seas](https://www.nature.com/articles/s41598-026-48662-5_reference.pdf) · 2026-05-25
+
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
+
+**Recent items (OpenAlex):**
+- [On the phenomena-oriented validation of spatial neural-network based surface wind downscaling over the Arctic seas](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1765713/pdf) · 2026-06-01
+- [The applications of UFS-Coastal v1.0.0b01: wave-current coupling of SCHISM and WAVEWATCH III](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1941/egusphere-2026-1941.pdf) · 2026-05-27
+- [Spectral transformations of swell in ocean eddy dipoles from SAR observations and numerical simulations](https://doi.org/10.1016/j.dsr.2026.104704) · 2026-05-23
+- [Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations](https://www.researchsquare.com/article/rs-9489067/latest.pdf) · 2026-05-21
+- [Integration of New Eco-Friendly Armour Units into Coastal Structures](https://doi.org/10.20381/ruor-31923) · 2026-05-08
