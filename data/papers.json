@@ -1,78 +1,16 @@
 {
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Multi-sensor observations and modeling of wave swash on a low-tide terrace beach",
-          "date": "2026-06-04",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s41598-026-56586-3_reference.pdf"
-        },
-        {
-          "title": "Year-round characterization of upwelling along the Uruguayan coast using a high-resolution regional ocean model",
-          "date": "2026-04-14",
-          "venue": "",
-          "link": "https://os.copernicus.org/articles/22/1169/2026/os-22-1169-2026.pdf"
-        },
-        {
-          "title": "Multi-site assessment of microtidal wave-dominated active beach state and morpho-sedimentary parameters using optical satellite imagery",
-          "date": "2026-03-27",
-          "venue": "",
-          "link": "https://doi.org/10.1038/s41598-026-45638-3"
-        },
-        {
-          "title": "Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf",
-          "date": "2026-03-20",
-          "venue": "",
-          "link": "https://doi.org/10.1007/s10236-026-01792-w"
-        },
-        {
-          "title": "Regional Validation of Satellite-Derived Beach Width and Slope in Microtidal Environments: The Role of Water Level Forcing and Classifier Training",
-          "date": "2026-03-13",
-          "venue": "",
-          "link": "https://www.mdpi.com/2673-964X/6/1/11/pdf?version=1773408425"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Understanding the resilient carbon cycle response to the 2014\u20132015 Blob event in the Gulf of Alaska using a regional ocean biogeochemical model",
-          "date": "2026-06-12",
-          "venue": "",
-          "link": "https://bg.copernicus.org/articles/23/3871/2026/bg-23-3871-2026.pdf"
-        },
-        {
-          "title": "Cross-dataset benchmarking of machine learning models for marine and atmospheric environmental prediction",
-          "date": "2026-06-12",
-          "venue": "",
-          "link": "https://www.ncei.noaa.gov/sites/default/files/2020-04/wod_intro_0.pdf"
-        },
-        {
-          "title": "Future wave climate in the NW Mediterranean from multi-model CMIP6 wind projections",
-          "date": "2026-06-12",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1753519/pdf"
-        },
-        {
-          "title": "Net contributions of multiple oceanic warm and cold thermal events to tropical cyclone intensity revealed by idealized coupled simulations",
-          "date": "2026-06-11",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1186/s40562-026-00491-0.pdf"
-        },
-        {
-          "title": "Construction of an Oil Spill Dynamics Model Based on 3D Terrain and Marine Environmental Fields",
-          "date": "2026-06-05",
-          "venue": "",
-          "link": "https://doi.org/10.1051/e3sconf/202671701017/pdf"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
@@ -113,74 +51,12 @@
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Numerical modeling to assess the hydrodynamic behavior of the Gallinas River in San Luis Potos\u00ed under atypical hydrometeorological conditions",
-          "date": "2026-05-18",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s41598-026-52183-6_reference.pdf"
-        },
-        {
-          "title": "Impact of Giant Sea Wall Construction on Surrounding Current Patterns and Abrasion Rates: A Numerical Hydrodynamic Simulation of Marine Dynamics",
-          "date": "2026-05-17",
-          "venue": "",
-          "link": "https://gpijournal.com/index.php/sipil/article/download/573/465"
-        },
-        {
-          "title": "Physics-Informed Neural Networks for Flood Modelling: Review and Canonical Test-Cases",
-          "date": "2026-05-11",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-9655056/latest.pdf"
-        },
-        {
-          "title": "Integration of New Eco-Friendly Armour Units into Coastal Structures",
-          "date": "2026-05-08",
-          "venue": "",
-          "link": "https://doi.org/10.20381/ruor-31923"
-        },
-        {
-          "title": "New Advances in Long-Term Coastal Evolution and Morphodynamics: Ecosystem Protection and Coastal Safety",
-          "date": "2026-05-07",
-          "venue": "",
-          "link": "https://www.mdpi.com/2073-4441/18/10/1113/pdf?version=1778144501"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 3\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "A Finite Volume Shallow Water Hydrodynamic Model and Its Validation",
-          "date": "2026-03-20",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-8922661/latest.pdf"
-        },
-        {
-          "title": "A morphological upscaling approach to modelling patterns of long term shoreface change and their synoptic climate drivers in Southeast Australia",
-          "date": "2026-02-14",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.margeo.2026.107733"
-        },
-        {
-          "title": "Propeller-Induced Seabed Scour: A Review of Hydrodynamic Mechanisms, CFD Modeling, and Coastal Engineering Implications",
-          "date": "2026-01-01",
-          "venue": "",
-          "link": "https://www.scirp.org/pdf/ojms_1470710.pdf"
-        },
-        {
-          "title": "Assessment of the impact of sediment dispersion on coral reef ecosystems caused by submarine cable installation in the Con Dao Archipelago, Vietnam",
-          "date": "2025-12-30",
-          "venue": "",
-          "link": "https://vjs.ac.vn/jmst/article/download/23078/pdf"
-        },
-        {
-          "title": "Characterization of spatial and temporal evolution of saltwater intrusion in the Qingnian reservoir of Pinglu Canal",
-          "date": "2025-12-30",
-          "venue": "",
-          "link": "https://www.jceclink.com/web/index.php/jcec/article/download/262/209"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Delft3D\"",
@@ -221,38 +97,7 @@
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "A laboratory experiment and procedure for deterministic validation of numerical wave models",
-          "date": "2026-06-11",
-          "venue": "",
-          "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F73D0D62866FB4B81515CA333BAF9532/S0022112026116589a.pdf/div-class-title-a-laboratory-experiment-and-procedure-for-deterministic-validation-of-numerical-wave-models-div.pdf"
-        },
-        {
-          "title": "On the phenomena-oriented validation of spatial neural-network based surface wind downscaling over the Arctic seas",
-          "date": "2026-06-01",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1765713/pdf"
-        },
-        {
-          "title": "The applications of UFS-Coastal v1.0.0b01: wave-current coupling of SCHISM and WAVEWATCH III",
-          "date": "2026-05-27",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1941/egusphere-2026-1941.pdf"
-        },
-        {
-          "title": "Spectral transformations of swell in ocean eddy dipoles from SAR observations and numerical simulations",
-          "date": "2026-05-23",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.dsr.2026.104704"
-        },
-        {
-          "title": "Operational Forecasting of Tidal Currents in Navigational Channels of the Colombian Pacific Using Machine Learning and in Situ Observations",
-          "date": "2026-05-21",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-9489067/latest.pdf"
-        }
-      ]
+      "openalex": []
     }
   ]
 }
