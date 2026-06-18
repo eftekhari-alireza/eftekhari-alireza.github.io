@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "year_from": 2025,
   "items": [
     {
@@ -115,6 +115,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Coupled Wave-Storm Surge Modeling for Fishery Harbor Under Extreme Typhoon: Toward Risk-Based Dynamic Zoning of Fishing Vessel Berths",
+          "date": "2026-06-17",
+          "venue": "",
+          "link": "https://doi.org/10.3390/jmse14121115"
+        },
+        {
           "title": "Numerical modeling to assess the hydrodynamic behavior of the Gallinas River in San Luis Potos\u00ed under atypical hydrometeorological conditions",
           "date": "2026-05-18",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-05-08",
           "venue": "",
           "link": "https://doi.org/10.20381/ruor-31923"
-        },
-        {
-          "title": "New Advances in Long-Term Coastal Evolution and Morphodynamics: Ecosystem Protection and Coastal Safety",
-          "date": "2026-05-07",
-          "venue": "",
-          "link": "https://www.mdpi.com/2073-4441/18/10/1113/pdf?version=1778144501"
         }
       ]
     },

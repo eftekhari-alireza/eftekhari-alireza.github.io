@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-06-17** · Showing results since **2025**_
+_Last update: **2026-06-18** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2026-06-17** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Coupled Wave-Storm Surge Modeling for Fishery Harbor Under Extreme Typhoon: Toward Risk-Based Dynamic Zoning of Fishing Vessel Berths](https://doi.org/10.3390/jmse14121115) · 2026-06-17
 - [Numerical modeling to assess the hydrodynamic behavior of the Gallinas River in San Luis Potosí under atypical hydrometeorological conditions](https://www.nature.com/articles/s41598-026-52183-6_reference.pdf) · 2026-05-18
 - [Impact of Giant Sea Wall Construction on Surrounding Current Patterns and Abrasion Rates: A Numerical Hydrodynamic Simulation of Marine Dynamics](https://gpijournal.com/index.php/sipil/article/download/573/465) · 2026-05-17
 - [Physics-Informed Neural Networks for Flood Modelling: Review and Canonical Test-Cases](https://www.researchsquare.com/article/rs-9655056/latest.pdf) · 2026-05-11
 - [Integration of New Eco-Friendly Armour Units into Coastal Structures](https://doi.org/10.20381/ruor-31923) · 2026-05-08
-- [New Advances in Long-Term Coastal Evolution and Morphodynamics: Ecosystem Protection and Coastal Safety](https://www.mdpi.com/2073-4441/18/10/1113/pdf?version=1778144501) · 2026-05-07
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
