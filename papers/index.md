@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-06-19** · Showing results since **2025**_
+_Last update: **2026-06-20** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-06-19** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Tropical cyclones intensify mesoscale eddy variability and accelerate Western Boundary Current instability](https://eartharxiv.org/repository/object/13558/download/23827/) · 2026-06-17
+- [80 Years of research on tsunamigenic earthquakes in the Makran subduction zone (1945–2025): a review- part C: tsunami hazard and risk assessments](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2026.1798551/pdf) · 2026-06-17
 - [Understanding the resilient carbon cycle response to the 2014–2015 Blob event in the Gulf of Alaska using a regional ocean biogeochemical model](https://bg.copernicus.org/articles/23/3871/2026/bg-23-3871-2026.pdf) · 2026-06-12
 - [Cross-dataset benchmarking of machine learning models for marine and atmospheric environmental prediction](https://www.ncei.noaa.gov/sites/default/files/2020-04/wod_intro_0.pdf) · 2026-06-12
 - [Future wave climate in the NW Mediterranean from multi-model CMIP6 wind projections](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1753519/pdf) · 2026-06-12
-- [Computational mechanics empowered by artificial intelligence](https://doi.org/10.1051/meca/2026022/pdf) · 2026-06-11
-- [Net contributions of multiple oceanic warm and cold thermal events to tropical cyclone intensity revealed by idealized coupled simulations](https://link.springer.com/content/pdf/10.1186/s40562-026-00491-0.pdf) · 2026-06-11
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2026-06-19** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [Coupled Wave-Storm Surge Modeling for Fishery Harbor Under Extreme Typhoon: Toward Risk-Based Dynamic Zoning of Fishing Vessel Berths](https://doi.org/10.3390/jmse14121115) · 2026-06-17
+- [Coupled Wave-Storm Surge Modeling for Fishery Harbor Under Extreme Typhoon: Toward Risk-Based Dynamic Zoning of Fishing Vessel Berths](https://www.mdpi.com/2077-1312/14/12/1115/pdf?version=1781686207) · 2026-06-17
+- [80 Years of research on tsunamigenic earthquakes in the Makran subduction zone (1945–2025): a review- part C: tsunami hazard and risk assessments](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2026.1798551/pdf) · 2026-06-17
 - [Numerical modeling to assess the hydrodynamic behavior of the Gallinas River in San Luis Potosí under atypical hydrometeorological conditions](https://www.nature.com/articles/s41598-026-52183-6_reference.pdf) · 2026-05-18
 - [Impact of Giant Sea Wall Construction on Surrounding Current Patterns and Abrasion Rates: A Numerical Hydrodynamic Simulation of Marine Dynamics](https://gpijournal.com/index.php/sipil/article/download/573/465) · 2026-05-17
 - [Physics-Informed Neural Networks for Flood Modelling: Review and Canonical Test-Cases](https://www.researchsquare.com/article/rs-9655056/latest.pdf) · 2026-05-11
-- [Integration of New Eco-Friendly Armour Units into Coastal Structures](https://doi.org/10.20381/ruor-31923) · 2026-05-08
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,18 +59,18 @@ _Last update: **2026-06-19** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Coupled Wave-Storm Surge Modeling for Fishery Harbor Under Extreme Typhoon: Toward Risk-Based Dynamic Zoning of Fishing Vessel Berths](https://www.mdpi.com/2077-1312/14/12/1115/pdf?version=1781686207) · 2026-06-17
 - [Research on Key Technologies for Simulating Dynamic Geomorphic Evolution of Estuaries and Coasts](https://ace.ewapub.com/article/view/34478.pdf) · 2026-06-15
 - [Hydrodynamic Modeling as a Decision-Support Tool for Coastal Management in Large Amazonian Estuaries: A Case Study in the Pará River System, Brazil](https://doi.org/10.3390/hydrology13060152) · 2026-06-11
 - [Mapping Coastal Flood Risk in China](https://link.springer.com/content/pdf/10.1007/s13753-026-00742-w.pdf) · 2026-06-01
 - [A Reproducible Deep Learning Framework for Long- Term Coastal Monitoring and Shoreline Evolution Assessment Using Landsat Time Series](https://www.researchsquare.com/article/rs-9792652/latest.pdf) · 2026-05-29
-- [Numerical assessment of tidal stream energy resources in a coastal channel: A case study of Okha coast, India](https://doi.org/10.1016/j.rsma.2026.105097) · 2026-05-28
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Analysis of Temporal Variations in Significant Wave Height in the Circum-Bohai Sea Based on Multi-Satellite Merged Data](https://www.mdpi.com/2077-1312/14/12/1117/pdf?version=1781695899) · 2026-06-17
 - [Daily Sea Wave Height Prediction in the Makassar Strait Using Support Vector Regression with Fruit Fly Optimization Algorithm Optimization](https://library.acadlore.com/IJEI/2026/9/3/IJEI_09.03_11.pdf) · 2026-06-12
 - [A laboratory experiment and procedure for deterministic validation of numerical wave models](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F73D0D62866FB4B81515CA333BAF9532/S0022112026116589a.pdf/div-class-title-a-laboratory-experiment-and-procedure-for-deterministic-validation-of-numerical-wave-models-div.pdf) · 2026-06-11
 - [Dynamical large deviations and long-range correlations for local weak wave turbulence](https://arxiv.org/pdf/2606.12624) · 2026-06-10
 - [On the phenomena-oriented validation of spatial neural-network based surface wind downscaling over the Arctic seas](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1765713/pdf) · 2026-06-01
-- [The applications of UFS-Coastal v1.0.0b01: wave-current coupling of SCHISM and WAVEWATCH III](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1941/egusphere-2026-1941.pdf) · 2026-05-27
