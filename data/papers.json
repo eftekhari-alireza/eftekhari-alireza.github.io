@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Studying active and capable faults in the CARG sheets",
+          "date": "2026-06-19",
+          "venue": "",
+          "link": "https://portalesgi.isprambiente.it/wp-content/uploads/2025/04/Linee_Guida_ITHACA.pdf"
+        },
+        {
           "title": "Tropical cyclones intensify mesoscale eddy variability and accelerate Western Boundary Current instability",
           "date": "2026-06-17",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-06-12",
           "venue": "",
           "link": "https://www.ncei.noaa.gov/sites/default/files/2020-04/wod_intro_0.pdf"
-        },
-        {
-          "title": "Future wave climate in the NW Mediterranean from multi-model CMIP6 wind projections",
-          "date": "2026-06-12",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1753519/pdf"
         }
       ]
     },

@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-06-20** · Showing results since **2025**_
+_Last update: **2026-06-21** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-06-20** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Studying active and capable faults in the CARG sheets](https://portalesgi.isprambiente.it/wp-content/uploads/2025/04/Linee_Guida_ITHACA.pdf) · 2026-06-19
 - [Tropical cyclones intensify mesoscale eddy variability and accelerate Western Boundary Current instability](https://eartharxiv.org/repository/object/13558/download/23827/) · 2026-06-17
 - [80 Years of research on tsunamigenic earthquakes in the Makran subduction zone (1945–2025): a review- part C: tsunami hazard and risk assessments](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2026.1798551/pdf) · 2026-06-17
 - [Understanding the resilient carbon cycle response to the 2014–2015 Blob event in the Gulf of Alaska using a regional ocean biogeochemical model](https://bg.copernicus.org/articles/23/3871/2026/bg-23-3871-2026.pdf) · 2026-06-12
 - [Cross-dataset benchmarking of machine learning models for marine and atmospheric environmental prediction](https://www.ncei.noaa.gov/sites/default/files/2020-04/wod_intro_0.pdf) · 2026-06-12
-- [Future wave climate in the NW Mediterranean from multi-model CMIP6 wind projections](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1753519/pdf) · 2026-06-12
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
