@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Convective and non-convective nature of Balearic meteotsunamis: a 50-year historical review",
+          "date": "2026-06-22",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08288-2.pdf"
+        },
+        {
           "title": "Studying active and capable faults in the CARG sheets",
           "date": "2026-06-19",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-06-12",
           "venue": "",
           "link": "https://bg.copernicus.org/articles/23/3871/2026/bg-23-3871-2026.pdf"
-        },
-        {
-          "title": "Cross-dataset benchmarking of machine learning models for marine and atmospheric environmental prediction",
-          "date": "2026-06-12",
-          "venue": "",
-          "link": "https://www.ncei.noaa.gov/sites/default/files/2020-04/wod_intro_0.pdf"
         }
       ]
     },
