@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "year_from": 2025,
   "items": [
     {
@@ -49,28 +49,28 @@
           "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08288-2.pdf"
         },
         {
-          "title": "Studying active and capable faults in the CARG sheets",
-          "date": "2026-06-19",
+          "title": "Detecting Harmful Algal Blooms in the Gulf of Maine using a Hybrid Model",
+          "date": "2026-06-22",
           "venue": "",
-          "link": "https://portalesgi.isprambiente.it/wp-content/uploads/2025/04/Linee_Guida_ITHACA.pdf"
+          "link": "https://eartharxiv.org/repository/object/13641/download/23959/"
         },
         {
-          "title": "Tropical cyclones intensify mesoscale eddy variability and accelerate Western Boundary Current instability",
-          "date": "2026-06-17",
+          "title": "Physics-based data augmentation to enhance deep learning performance in tropical cyclone and storm surge modelling",
+          "date": "2026-06-22",
           "venue": "",
-          "link": "https://eartharxiv.org/repository/object/13558/download/23827/"
+          "link": "https://www.nature.com/articles/s41598-026-58153-2_reference.pdf"
         },
         {
-          "title": "80 Years of research on tsunamigenic earthquakes in the Makran subduction zone (1945\u20132025): a review- part C: tsunami hazard and risk assessments",
-          "date": "2026-06-17",
+          "title": "Response of Typhoon Waves and Storm Surges to Sea Surface Temperature Rise and Sea Level Rise: A Case Study of Super Typhoon Doksuri (2023) in the Taiwan Strait",
+          "date": "2026-06-21",
           "venue": "",
-          "link": "https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2026.1798551/pdf"
+          "link": "https://www.mdpi.com/2077-1312/14/12/1137/pdf?version=1782032522"
         },
         {
-          "title": "Understanding the resilient carbon cycle response to the 2014\u20132015 Blob event in the Gulf of Alaska using a regional ocean biogeochemical model",
-          "date": "2026-06-12",
+          "title": "Structural Parameter Selection for Lightweight Composite Aircraft Wings: A Scoping Review of MDO, Aeroelastic Tailoring, and Stacking Sequence Optimization",
+          "date": "2026-06-20",
           "venue": "",
-          "link": "https://bg.copernicus.org/articles/23/3871/2026/bg-23-3871-2026.pdf"
+          "link": "https://www.mdpi.com/2226-4310/13/6/563/pdf?version=1782274467"
         }
       ]
     },
@@ -78,6 +78,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Response of Typhoon Waves and Storm Surges to Sea Surface Temperature Rise and Sea Level Rise: A Case Study of Super Typhoon Doksuri (2023) in the Taiwan Strait",
+          "date": "2026-06-21",
+          "venue": "",
+          "link": "https://www.mdpi.com/2077-1312/14/12/1137/pdf?version=1782032522"
+        },
         {
           "title": "Research on Key Technologies for Simulating Dynamic Geomorphic Evolution of Estuaries and Coasts",
           "date": "2026-06-15",
@@ -101,12 +107,6 @@
           "date": "2026-06-01",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s13753-026-00742-w.pdf"
-        },
-        {
-          "title": "The applications of UFS-Coastal v1.0.0b01: wave-current coupling of SCHISM and WAVEWATCH III",
-          "date": "2026-05-27",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1941/egusphere-2026-1941.pdf"
         }
       ]
     },
@@ -114,6 +114,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Tidal Effect on the Fate and Transport of Neutral Particles in a Mediterranean Gulfs System",
+          "date": "2026-06-23",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s40710-026-00847-w.pdf"
+        },
         {
           "title": "Coupled Wave-Storm Surge Modeling for Fishery Harbor Under Extreme Typhoon: Toward Risk-Based Dynamic Zoning of Fishing Vessel Berths",
           "date": "2026-06-17",
@@ -127,22 +133,16 @@
           "link": "https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2026.1798551/pdf"
         },
         {
+          "title": "Review on the emerging contaminant modelling from different water system point of view",
+          "date": "2026-06-01",
+          "venue": "",
+          "link": "https://iwaponline.com/wqrj/article-pdf/doi/10.2166/wqrj.2026.064/1625491/wqrj2026064.pdf"
+        },
+        {
           "title": "Numerical modeling to assess the hydrodynamic behavior of the Gallinas River in San Luis Potos\u00ed under atypical hydrometeorological conditions",
           "date": "2026-05-18",
           "venue": "",
           "link": "https://www.nature.com/articles/s41598-026-52183-6_reference.pdf"
-        },
-        {
-          "title": "Impact of Giant Sea Wall Construction on Surrounding Current Patterns and Abrasion Rates: A Numerical Hydrodynamic Simulation of Marine Dynamics",
-          "date": "2026-05-17",
-          "venue": "",
-          "link": "https://gpijournal.com/index.php/sipil/article/download/573/465"
-        },
-        {
-          "title": "Physics-Informed Neural Networks for Flood Modelling: Review and Canonical Test-Cases",
-          "date": "2026-05-11",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-9655056/latest.pdf"
         }
       ]
     },
@@ -150,6 +150,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 3\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Tidal Effect on the Fate and Transport of Neutral Particles in a Mediterranean Gulfs System",
+          "date": "2026-06-23",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s40710-026-00847-w.pdf"
+        },
         {
           "title": "A Finite Volume Shallow Water Hydrodynamic Model and Its Validation",
           "date": "2026-03-20",
@@ -173,12 +179,6 @@
           "date": "2025-12-30",
           "venue": "",
           "link": "https://vjs.ac.vn/jmst/article/download/23078/pdf"
-        },
-        {
-          "title": "Characterization of spatial and temporal evolution of saltwater intrusion in the Qingnian reservoir of Pinglu Canal",
-          "date": "2025-12-30",
-          "venue": "",
-          "link": "https://www.jceclink.com/web/index.php/jcec/article/download/262/209"
         }
       ]
     },
@@ -211,10 +211,10 @@
           "link": "https://link.springer.com/content/pdf/10.1007/s13753-026-00742-w.pdf"
         },
         {
-          "title": "A Reproducible Deep Learning Framework for Long- Term Coastal Monitoring and Shoreline Evolution Assessment Using Landsat Time Series",
-          "date": "2026-05-29",
+          "title": "Review on the emerging contaminant modelling from different water system point of view",
+          "date": "2026-06-01",
           "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-9792652/latest.pdf"
+          "link": "https://iwaponline.com/wqrj/article-pdf/doi/10.2166/wqrj.2026.064/1625491/wqrj2026064.pdf"
         }
       ]
     },
@@ -222,6 +222,18 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Response of Typhoon Waves and Storm Surges to Sea Surface Temperature Rise and Sea Level Rise: A Case Study of Super Typhoon Doksuri (2023) in the Taiwan Strait",
+          "date": "2026-06-21",
+          "venue": "",
+          "link": "https://www.mdpi.com/2077-1312/14/12/1137/pdf?version=1782032522"
+        },
+        {
+          "title": "Bayesian Optimization for reanalysis and calibration of highly energetic sea state events simulated with a spectral third-generation wave model",
+          "date": "2026-06-20",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.apor.2026.105144"
+        },
         {
           "title": "Analysis of Temporal Variations in Significant Wave Height in the Circum-Bohai Sea Based on Multi-Satellite Merged Data",
           "date": "2026-06-17",
@@ -239,18 +251,6 @@
           "date": "2026-06-11",
           "venue": "",
           "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F73D0D62866FB4B81515CA333BAF9532/S0022112026116589a.pdf/div-class-title-a-laboratory-experiment-and-procedure-for-deterministic-validation-of-numerical-wave-models-div.pdf"
-        },
-        {
-          "title": "Dynamical large deviations and long-range correlations for local weak wave turbulence",
-          "date": "2026-06-10",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2606.12624"
-        },
-        {
-          "title": "On the phenomena-oriented validation of spatial neural-network based surface wind downscaling over the Arctic seas",
-          "date": "2026-06-01",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1765713/pdf"
         }
       ]
     }
