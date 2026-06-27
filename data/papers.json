@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Multi-output spatio-temporal surrogate modelling for two geotechnical benchmark problems",
+          "date": "2026-06-25",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s11440-026-03090-7.pdf"
+        },
+        {
           "title": "Convective and non-convective nature of Balearic meteotsunamis: a 50-year historical review",
           "date": "2026-06-22",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-06-21",
           "venue": "",
           "link": "https://www.mdpi.com/2077-1312/14/12/1137/pdf?version=1782032522"
-        },
-        {
-          "title": "Structural Parameter Selection for Lightweight Composite Aircraft Wings: A Scoping Review of MDO, Aeroelastic Tailoring, and Stacking Sequence Optimization",
-          "date": "2026-06-20",
-          "venue": "",
-          "link": "https://www.mdpi.com/2226-4310/13/6/563/pdf?version=1782274467"
         }
       ]
     },
@@ -115,6 +115,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Hydrodynamic and Morphodynamic Assessment of Low-Crested Breakwaters Using Geotube for Coastal Protection at Kilo 5 Beach, Banggai Regency, Indonesia",
+          "date": "2026-06-25",
+          "venue": "",
+          "link": "http://www.joet.org/upload/pdf/KSOE-2026-029.pdf"
+        },
+        {
+          "title": "Analysis of Visible Signs of Rip Currents in Arabian Sea at Calangute &amp; Vagator Beach of Goa",
+          "date": "2026-06-23",
+          "venue": "",
+          "link": "https://saspublishers.com/article/24513/download/"
+        },
+        {
           "title": "Tidal Effect on the Fate and Transport of Neutral Particles in a Mediterranean Gulfs System",
           "date": "2026-06-23",
           "venue": "",
@@ -131,18 +143,6 @@
           "date": "2026-06-17",
           "venue": "",
           "link": "https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2026.1798551/pdf"
-        },
-        {
-          "title": "Review on the emerging contaminant modelling from different water system point of view",
-          "date": "2026-06-01",
-          "venue": "",
-          "link": "https://iwaponline.com/wqrj/article-pdf/doi/10.2166/wqrj.2026.064/1625491/wqrj2026064.pdf"
-        },
-        {
-          "title": "Numerical modeling to assess the hydrodynamic behavior of the Gallinas River in San Luis Potos\u00ed under atypical hydrometeorological conditions",
-          "date": "2026-05-18",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s41598-026-52183-6_reference.pdf"
         }
       ]
     },
@@ -223,6 +223,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Deep-learning prediction of high-frequency sea-level oscillations in the Adriatic Sea",
+          "date": "2026-06-25",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3411/egusphere-2026-3411.pdf"
+        },
+        {
+          "title": "Determination of Highest Sea Water Level at Drainage Channel Outlet of Third Ring Road in Tripoli, Libya",
+          "date": "2026-06-25",
+          "venue": "",
+          "link": "https://jer.ly/jer/index.php/jer/article/download/317/381"
+        },
+        {
           "title": "Response of Typhoon Waves and Storm Surges to Sea Surface Temperature Rise and Sea Level Rise: A Case Study of Super Typhoon Doksuri (2023) in the Taiwan Strait",
           "date": "2026-06-21",
           "venue": "",
@@ -239,18 +251,6 @@
           "date": "2026-06-17",
           "venue": "",
           "link": "https://www.mdpi.com/2077-1312/14/12/1117/pdf?version=1781695899"
-        },
-        {
-          "title": "Daily Sea Wave Height Prediction in the Makassar Strait Using Support Vector Regression with Fruit Fly Optimization Algorithm Optimization",
-          "date": "2026-06-12",
-          "venue": "",
-          "link": "https://library.acadlore.com/IJEI/2026/9/3/IJEI_09.03_11.pdf"
-        },
-        {
-          "title": "A laboratory experiment and procedure for deterministic validation of numerical wave models",
-          "date": "2026-06-11",
-          "venue": "",
-          "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F73D0D62866FB4B81515CA333BAF9532/S0022112026116589a.pdf/div-class-title-a-laboratory-experiment-and-procedure-for-deterministic-validation-of-numerical-wave-models-div.pdf"
         }
       ]
     }
