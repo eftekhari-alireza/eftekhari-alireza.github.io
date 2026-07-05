@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-07-04** · Showing results since **2025**_
+_Last update: **2026-07-05** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -29,11 +29,11 @@ _Last update: **2026-07-04** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Modeling Monopile Scour in a Tidal-Dominated Coastal Sea: a GFD-CFD coupled framework and real-world application](https://doi.org/10.1080/19942060.2026.2696654) · 2026-07-02
 - [Three-Dimensional Thermohaline Field Forecast Using a Numerical Model Assimilating AI-Reconstructed Parameters in the Western Indian Ocean](https://doi.org/10.3390/jmse14131214) · 2026-06-30
 - [Response of Typhoon Waves and Storm Surges to Sea Surface Temperature Rise and Sea Level Rise: A Case Study of Super Typhoon Doksuri (2023) in the Taiwan Strait](https://www.mdpi.com/2077-1312/14/12/1137/pdf?version=1782032522) · 2026-06-21
 - [Research on Key Technologies for Simulating Dynamic Geomorphic Evolution of Estuaries and Coasts](https://ace.ewapub.com/article/view/34478.pdf) · 2026-06-15
 - [Construction of an Oil Spill Dynamics Model Based on 3D Terrain and Marine Environmental Fields](https://doi.org/10.1051/e3sconf/202671701017/pdf) · 2026-06-05
-- [An adaptive unstructured grid for HF radar current mapping based on constrained k-means clustering](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3013/egusphere-2026-3013.pdf) · 2026-06-05
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "year_from": 2025,
   "items": [
     {
@@ -79,6 +79,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Modeling Monopile Scour in a Tidal-Dominated Coastal Sea: a GFD-CFD coupled framework and real-world application",
+          "date": "2026-07-02",
+          "venue": "",
+          "link": "https://doi.org/10.1080/19942060.2026.2696654"
+        },
+        {
           "title": "Three-Dimensional Thermohaline Field Forecast Using a Numerical Model Assimilating AI-Reconstructed Parameters in the Western Indian Ocean",
           "date": "2026-06-30",
           "venue": "",
@@ -101,12 +107,6 @@
           "date": "2026-06-05",
           "venue": "",
           "link": "https://doi.org/10.1051/e3sconf/202671701017/pdf"
-        },
-        {
-          "title": "An adaptive unstructured grid for HF radar current mapping based on constrained k-means clustering",
-          "date": "2026-06-05",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3013/egusphere-2026-3013.pdf"
         }
       ]
     },
