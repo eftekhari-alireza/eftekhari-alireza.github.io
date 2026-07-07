@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "year_from": 2025,
   "items": [
     {
@@ -41,110 +41,17 @@
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Influence of model spatial resolution on Sargassum beaching predictions along the Mexican Caribbean coast",
-          "date": "2026-07-02",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3754/egusphere-2026-3754.pdf"
-        },
-        {
-          "title": "Role of the northern Arabian Sea cold SST bias in delaying monsoon onset and weakening Indian summer monsoon circulation",
-          "date": "2026-06-30",
-          "venue": "",
-          "link": "https://iopscience.iop.org/article/10.1088/1748-9326/ae8460/pdf"
-        },
-        {
-          "title": "Multi-Array Constrained 50 mHz Rayleigh-Wave Microseism Sources: Global Distribution and Ocean\u2013Solid Earth Coupling",
-          "date": "2026-06-27",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/13/1182/pdf?version=1782568365"
-        },
-        {
-          "title": "Multi-output spatio-temporal surrogate modelling for two geotechnical benchmark problems",
-          "date": "2026-06-25",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s11440-026-03090-7.pdf"
-        },
-        {
-          "title": "Towards real time control of water engineering with nonlinear hyperbolic partial differential equations",
-          "date": "2026-06-25",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2512.14387"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Modeling Monopile Scour in a Tidal-Dominated Coastal Sea: a GFD-CFD coupled framework and real-world application",
-          "date": "2026-07-02",
-          "venue": "",
-          "link": "https://doi.org/10.1080/19942060.2026.2696654"
-        },
-        {
-          "title": "Three-Dimensional Thermohaline Field Forecast Using a Numerical Model Assimilating AI-Reconstructed Parameters in the Western Indian Ocean",
-          "date": "2026-06-30",
-          "venue": "",
-          "link": "https://doi.org/10.3390/jmse14131214"
-        },
-        {
-          "title": "Response of Typhoon Waves and Storm Surges to Sea Surface Temperature Rise and Sea Level Rise: A Case Study of Super Typhoon Doksuri (2023) in the Taiwan Strait",
-          "date": "2026-06-21",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/12/1137/pdf?version=1782032522"
-        },
-        {
-          "title": "Research on Key Technologies for Simulating Dynamic Geomorphic Evolution of Estuaries and Coasts",
-          "date": "2026-06-15",
-          "venue": "",
-          "link": "https://ace.ewapub.com/article/view/34478.pdf"
-        },
-        {
-          "title": "Construction of an Oil Spill Dynamics Model Based on 3D Terrain and Marine Environmental Fields",
-          "date": "2026-06-05",
-          "venue": "",
-          "link": "https://doi.org/10.1051/e3sconf/202671701017/pdf"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Hydrodynamic and Morphodynamic Assessment of Low-Crested Breakwaters Using Geotube for Coastal Protection at Kilo 5 Beach, Banggai Regency, Indonesia",
-          "date": "2026-06-25",
-          "venue": "",
-          "link": "http://www.joet.org/upload/pdf/KSOE-2026-029.pdf"
-        },
-        {
-          "title": "Analysis of Visible Signs of Rip Currents in Arabian Sea at Calangute &amp; Vagator Beach of Goa",
-          "date": "2026-06-23",
-          "venue": "",
-          "link": "https://saspublishers.com/article/24513/download/"
-        },
-        {
-          "title": "Tidal Effect on the Fate and Transport of Neutral Particles in a Mediterranean Gulfs System",
-          "date": "2026-06-23",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s40710-026-00847-w.pdf"
-        },
-        {
-          "title": "Coupled Wave-Storm Surge Modeling for Fishery Harbor Under Extreme Typhoon: Toward Risk-Based Dynamic Zoning of Fishing Vessel Berths",
-          "date": "2026-06-17",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/12/1115/pdf?version=1781686207"
-        },
-        {
-          "title": "80 Years of research on tsunamigenic earthquakes in the Makran subduction zone (1945\u20132025): a review- part C: tsunami hazard and risk assessments",
-          "date": "2026-06-17",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2026.1798551/pdf"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 3\"",
@@ -185,38 +92,7 @@
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Delft3D\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "The morphological-hydrodynamic resilience mechanisms against the highest storm tide level in a Bay-Inlet-Channel system",
-          "date": "2026-07-01",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1869884/pdf"
-        },
-        {
-          "title": "Modeling of methane emission from Tsimlyansk reservoir with various set of input parameters",
-          "date": "2026-06-25",
-          "venue": "",
-          "link": "https://doi.org/10.35567/1999-4508-2026-3-94-114"
-        },
-        {
-          "title": "Coupled Wave-Storm Surge Modeling for Fishery Harbor Under Extreme Typhoon: Toward Risk-Based Dynamic Zoning of Fishing Vessel Berths",
-          "date": "2026-06-17",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/12/1115/pdf?version=1781686207"
-        },
-        {
-          "title": "Research on Key Technologies for Simulating Dynamic Geomorphic Evolution of Estuaries and Coasts",
-          "date": "2026-06-15",
-          "venue": "",
-          "link": "https://ace.ewapub.com/article/view/34478.pdf"
-        },
-        {
-          "title": "Hydrodynamic Modeling as a Decision-Support Tool for Coastal Management in Large Amazonian Estuaries: A Case Study in the Par\u00e1 River System, Brazil",
-          "date": "2026-06-11",
-          "venue": "",
-          "link": "https://doi.org/10.3390/hydrology13060152"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
