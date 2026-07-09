@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "year_from": 2025,
   "items": [
     {
@@ -229,6 +229,12 @@
           "link": "https://os.copernicus.org/articles/22/2123/2026/os-22-2123-2026.pdf"
         },
         {
+          "title": "\u041f\u0420\u041e\u0413\u041d\u041e\u0417 \u0412\u0415\u0422\u0420\u041e\u0412\u041e\u041b\u041d\u041e\u0412\u041e\u0413\u041e \u0420\u0415\u0416\u0418\u041c\u0410 \u041f\u0420\u0418 \u041d\u0410\u041c\u042b\u0412\u0410\u041d\u0418\u0418 \u0422\u0415\u0420\u0420\u0418\u0422\u041e\u0420\u0418\u0418 (\u041d\u0410 \u041f\u0420\u0418\u041c\u0415\u0420\u0415 \u041d\u0415\u0412\u0421\u041a\u041e\u0419 \u0413\u0423\u0411\u042b)",
+          "date": "2026-07-03",
+          "venue": "",
+          "link": "https://doi.org/10.25744/genb.2026.44.2.002"
+        },
+        {
           "title": "Deep Learning-Based Bias Correction Model for Spatiotemporal Significant Wave Height Prediction Using Multi-Channel VMRNN",
           "date": "2026-07-01",
           "venue": "",
@@ -245,12 +251,6 @@
           "date": "2026-06-30",
           "venue": "",
           "link": "https://iopscience.iop.org/article/10.1088/1748-9326/ae8460/pdf"
-        },
-        {
-          "title": "SWOT sea level noise at wavelengths under 10 km: implications for wave detection and analysis",
-          "date": "2026-06-29",
-          "venue": "",
-          "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15005336/v1"
         }
       ]
     }

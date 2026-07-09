@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-07-08** · Showing results since **2025**_
+_Last update: **2026-07-09** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -70,7 +70,7 @@ _Last update: **2026-07-08** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [Wave-induced sediment resuspension potential in the Finnish Archipelago, Baltic Sea: integrating field measurements with large-scale numerical model simulations](https://os.copernicus.org/articles/22/2123/2026/os-22-2123-2026.pdf) · 2026-07-06
+- [ПРОГНОЗ ВЕТРОВОЛНОВОГО РЕЖИМА ПРИ НАМЫВАНИИ ТЕРРИТОРИИ (НА ПРИМЕРЕ НЕВСКОЙ ГУБЫ)](https://doi.org/10.25744/genb.2026.44.2.002) · 2026-07-03
 - [Deep Learning-Based Bias Correction Model for Spatiotemporal Significant Wave Height Prediction Using Multi-Channel VMRNN](https://www.mdpi.com/2673-1924/7/4/54/pdf?version=1782892629) · 2026-07-01
 - [Supporting Early Decision-making in Offshore Aquaculture Planning: A Time-efficient Screening Framework Integrating Wave Modeling and GIS](https://doi.org/10.4194/trjfas30435) · 2026-06-30
 - [Role of the northern Arabian Sea cold SST bias in delaying monsoon onset and weakening Indian summer monsoon circulation](https://iopscience.iop.org/article/10.1088/1748-9326/ae8460/pdf) · 2026-06-30
-- [SWOT sea level noise at wavelengths under 10 km: implications for wave detection and analysis](https://essopenarchive.org/doi/pdf/10.22541/essoar.15005336/v1) · 2026-06-29
