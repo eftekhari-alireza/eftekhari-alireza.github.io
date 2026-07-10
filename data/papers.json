@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "year_from": 2025,
   "items": [
     {
@@ -43,34 +43,34 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "On the importance of historical context and bias correction in deep learning MJO prediction models",
+          "date": "2026-07-08",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41612-026-01459-9_reference.pdf"
+        },
+        {
+          "title": "An integrated DPSIR-extension cloud model framework for assessing typhoon risk to coastal architectural heritage",
+          "date": "2026-07-07",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s40494-026-02782-3_reference.pdf"
+        },
+        {
           "title": "Influence of model spatial resolution on Sargassum beaching predictions along the Mexican Caribbean coast",
           "date": "2026-07-02",
           "venue": "",
           "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3754/egusphere-2026-3754.pdf"
         },
         {
+          "title": "Comparison between near-inertial oscillations and near-inertial internal waves induced by a cyclone passage in the deep ocean",
+          "date": "2026-07-01",
+          "venue": "",
+          "link": "https://www.sciopen.com/local/article_pdf/10.26599/OCEAN.2026.9470028.pdf"
+        },
+        {
           "title": "Role of the northern Arabian Sea cold SST bias in delaying monsoon onset and weakening Indian summer monsoon circulation",
           "date": "2026-06-30",
           "venue": "",
           "link": "https://iopscience.iop.org/article/10.1088/1748-9326/ae8460/pdf"
-        },
-        {
-          "title": "Multi-Array Constrained 50 mHz Rayleigh-Wave Microseism Sources: Global Distribution and Ocean\u2013Solid Earth Coupling",
-          "date": "2026-06-27",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/13/1182/pdf?version=1782568365"
-        },
-        {
-          "title": "Multi-output spatio-temporal surrogate modelling for two geotechnical benchmark problems",
-          "date": "2026-06-25",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s11440-026-03090-7.pdf"
-        },
-        {
-          "title": "Towards real time control of water engineering with nonlinear hyperbolic partial differential equations",
-          "date": "2026-06-25",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2512.14387"
         }
       ]
     },
@@ -115,6 +115,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Microscale coastal flood risk assessment methods amid climate change",
+          "date": "2026-07-09",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s44312-026-00083-8.pdf"
+        },
+        {
           "title": "Hydrodynamic and Morphodynamic Assessment of Low-Crested Breakwaters Using Geotube for Coastal Protection at Kilo 5 Beach, Banggai Regency, Indonesia",
           "date": "2026-06-25",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-06-17",
           "venue": "",
           "link": "https://www.mdpi.com/2077-1312/14/12/1115/pdf?version=1781686207"
-        },
-        {
-          "title": "80 Years of research on tsunamigenic earthquakes in the Makran subduction zone (1945\u20132025): a review- part C: tsunami hazard and risk assessments",
-          "date": "2026-06-17",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2026.1798551/pdf"
         }
       ]
     },
@@ -187,34 +187,34 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "A Bibliometric Analysis Examining the Current Advancements in Tsunami Disaster Risk Reduction Research",
+          "date": "2026-07-09",
+          "venue": "",
+          "link": "https://www.idrimjournal.com/article/164324.pdf"
+        },
+        {
+          "title": "Counterfactual modeling isolates sand mining impacts, revealing it as a key driver of Mekong Delta destabilization",
+          "date": "2026-07-08",
+          "venue": "",
+          "link": "https://www.science.org/doi/pdf/10.1126/sciadv.aef0558?download=true"
+        },
+        {
+          "title": "High-frequency observations reveal cross-shore variability in storm-driven sediment dynamics and tidal flat recovery",
+          "date": "2026-07-08",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0141118726002543/pdf"
+        },
+        {
+          "title": "Seasonal Variability of Residence Time and Ocean Exchange in a Semi-enclosed Gulf in Northwestern Australia",
+          "date": "2026-07-08",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s12237-026-01714-5.pdf"
+        },
+        {
           "title": "The morphological-hydrodynamic resilience mechanisms against the highest storm tide level in a Bay-Inlet-Channel system",
           "date": "2026-07-01",
           "venue": "",
           "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1869884/pdf"
-        },
-        {
-          "title": "Modeling of methane emission from Tsimlyansk reservoir with various set of input parameters",
-          "date": "2026-06-25",
-          "venue": "",
-          "link": "https://doi.org/10.35567/1999-4508-2026-3-94-114"
-        },
-        {
-          "title": "Coupled Wave-Storm Surge Modeling for Fishery Harbor Under Extreme Typhoon: Toward Risk-Based Dynamic Zoning of Fishing Vessel Berths",
-          "date": "2026-06-17",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/12/1115/pdf?version=1781686207"
-        },
-        {
-          "title": "Research on Key Technologies for Simulating Dynamic Geomorphic Evolution of Estuaries and Coasts",
-          "date": "2026-06-15",
-          "venue": "",
-          "link": "https://ace.ewapub.com/article/view/34478.pdf"
-        },
-        {
-          "title": "Hydrodynamic Modeling as a Decision-Support Tool for Coastal Management in Large Amazonian Estuaries: A Case Study in the Par\u00e1 River System, Brazil",
-          "date": "2026-06-11",
-          "venue": "",
-          "link": "https://doi.org/10.3390/hydrology13060152"
         }
       ]
     },
@@ -227,6 +227,12 @@
           "date": "2026-07-06",
           "venue": "",
           "link": "https://os.copernicus.org/articles/22/2123/2026/os-22-2123-2026.pdf"
+        },
+        {
+          "title": "Construction and Regulatory Framework of Wing-In-Ground Effect (WIG) Craft from the Perspective of Safety and High-Speed Craft Classification",
+          "date": "2026-07-06",
+          "venue": "",
+          "link": "https://dinastipub.org/DIJEMSS/article/download/6636/4532"
         },
         {
           "title": "\u041f\u0420\u041e\u0413\u041d\u041e\u0417 \u0412\u0415\u0422\u0420\u041e\u0412\u041e\u041b\u041d\u041e\u0412\u041e\u0413\u041e \u0420\u0415\u0416\u0418\u041c\u0410 \u041f\u0420\u0418 \u041d\u0410\u041c\u042b\u0412\u0410\u041d\u0418\u0418 \u0422\u0415\u0420\u0420\u0418\u0422\u041e\u0420\u0418\u0418 (\u041d\u0410 \u041f\u0420\u0418\u041c\u0415\u0420\u0415 \u041d\u0415\u0412\u0421\u041a\u041e\u0419 \u0413\u0423\u0411\u042b)",
@@ -245,12 +251,6 @@
           "date": "2026-06-30",
           "venue": "",
           "link": "https://doi.org/10.4194/trjfas30435"
-        },
-        {
-          "title": "Role of the northern Arabian Sea cold SST bias in delaying monsoon onset and weakening Indian summer monsoon circulation",
-          "date": "2026-06-30",
-          "venue": "",
-          "link": "https://iopscience.iop.org/article/10.1088/1748-9326/ae8460/pdf"
         }
       ]
     }

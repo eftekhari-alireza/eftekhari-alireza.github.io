@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-07-09** · Showing results since **2025**_
+_Last update: **2026-07-10** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-07-09** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [On the importance of historical context and bias correction in deep learning MJO prediction models](https://www.nature.com/articles/s41612-026-01459-9_reference.pdf) · 2026-07-08
+- [An integrated DPSIR-extension cloud model framework for assessing typhoon risk to coastal architectural heritage](https://www.nature.com/articles/s40494-026-02782-3_reference.pdf) · 2026-07-07
 - [Influence of model spatial resolution on Sargassum beaching predictions along the Mexican Caribbean coast](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3754/egusphere-2026-3754.pdf) · 2026-07-02
+- [Comparison between near-inertial oscillations and near-inertial internal waves induced by a cyclone passage in the deep ocean](https://www.sciopen.com/local/article_pdf/10.26599/OCEAN.2026.9470028.pdf) · 2026-07-01
 - [Role of the northern Arabian Sea cold SST bias in delaying monsoon onset and weakening Indian summer monsoon circulation](https://iopscience.iop.org/article/10.1088/1748-9326/ae8460/pdf) · 2026-06-30
-- [Multi-Array Constrained 50 mHz Rayleigh-Wave Microseism Sources: Global Distribution and Ocean–Solid Earth Coupling](https://www.mdpi.com/2077-1312/14/13/1182/pdf?version=1782568365) · 2026-06-27
-- [Multi-output spatio-temporal surrogate modelling for two geotechnical benchmark problems](https://link.springer.com/content/pdf/10.1007/s11440-026-03090-7.pdf) · 2026-06-25
-- [Towards real time control of water engineering with nonlinear hyperbolic partial differential equations](https://arxiv.org/pdf/2512.14387) · 2026-06-25
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2026-07-09** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Microscale coastal flood risk assessment methods amid climate change](https://link.springer.com/content/pdf/10.1007/s44312-026-00083-8.pdf) · 2026-07-09
 - [Hydrodynamic and Morphodynamic Assessment of Low-Crested Breakwaters Using Geotube for Coastal Protection at Kilo 5 Beach, Banggai Regency, Indonesia](http://www.joet.org/upload/pdf/KSOE-2026-029.pdf) · 2026-06-25
 - [Analysis of Visible Signs of Rip Currents in Arabian Sea at Calangute &amp; Vagator Beach of Goa](https://saspublishers.com/article/24513/download/) · 2026-06-23
 - [Tidal Effect on the Fate and Transport of Neutral Particles in a Mediterranean Gulfs System](https://link.springer.com/content/pdf/10.1007/s40710-026-00847-w.pdf) · 2026-06-23
 - [Coupled Wave-Storm Surge Modeling for Fishery Harbor Under Extreme Typhoon: Toward Risk-Based Dynamic Zoning of Fishing Vessel Berths](https://www.mdpi.com/2077-1312/14/12/1115/pdf?version=1781686207) · 2026-06-17
-- [80 Years of research on tsunamigenic earthquakes in the Makran subduction zone (1945–2025): a review- part C: tsunami hazard and risk assessments](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2026.1798551/pdf) · 2026-06-17
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,18 +59,18 @@ _Last update: **2026-07-09** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [A Bibliometric Analysis Examining the Current Advancements in Tsunami Disaster Risk Reduction Research](https://www.idrimjournal.com/article/164324.pdf) · 2026-07-09
+- [Counterfactual modeling isolates sand mining impacts, revealing it as a key driver of Mekong Delta destabilization](https://www.science.org/doi/pdf/10.1126/sciadv.aef0558?download=true) · 2026-07-08
+- [High-frequency observations reveal cross-shore variability in storm-driven sediment dynamics and tidal flat recovery](https://www.sciencedirect.com/science/article/pii/S0141118726002543/pdf) · 2026-07-08
+- [Seasonal Variability of Residence Time and Ocean Exchange in a Semi-enclosed Gulf in Northwestern Australia](https://link.springer.com/content/pdf/10.1007/s12237-026-01714-5.pdf) · 2026-07-08
 - [The morphological-hydrodynamic resilience mechanisms against the highest storm tide level in a Bay-Inlet-Channel system](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1869884/pdf) · 2026-07-01
-- [Modeling of methane emission from Tsimlyansk reservoir with various set of input parameters](https://doi.org/10.35567/1999-4508-2026-3-94-114) · 2026-06-25
-- [Coupled Wave-Storm Surge Modeling for Fishery Harbor Under Extreme Typhoon: Toward Risk-Based Dynamic Zoning of Fishing Vessel Berths](https://www.mdpi.com/2077-1312/14/12/1115/pdf?version=1781686207) · 2026-06-17
-- [Research on Key Technologies for Simulating Dynamic Geomorphic Evolution of Estuaries and Coasts](https://ace.ewapub.com/article/view/34478.pdf) · 2026-06-15
-- [Hydrodynamic Modeling as a Decision-Support Tool for Coastal Management in Large Amazonian Estuaries: A Case Study in the Pará River System, Brazil](https://doi.org/10.3390/hydrology13060152) · 2026-06-11
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
 - [Wave-induced sediment resuspension potential in the Finnish Archipelago, Baltic Sea: integrating field measurements with large-scale numerical model simulations](https://os.copernicus.org/articles/22/2123/2026/os-22-2123-2026.pdf) · 2026-07-06
+- [Construction and Regulatory Framework of Wing-In-Ground Effect (WIG) Craft from the Perspective of Safety and High-Speed Craft Classification](https://dinastipub.org/DIJEMSS/article/download/6636/4532) · 2026-07-06
 - [ПРОГНОЗ ВЕТРОВОЛНОВОГО РЕЖИМА ПРИ НАМЫВАНИИ ТЕРРИТОРИИ (НА ПРИМЕРЕ НЕВСКОЙ ГУБЫ)](https://doi.org/10.25744/genb.2026.44.2.002) · 2026-07-03
 - [Deep Learning-Based Bias Correction Model for Spatiotemporal Significant Wave Height Prediction Using Multi-Channel VMRNN](https://www.mdpi.com/2673-1924/7/4/54/pdf?version=1782892629) · 2026-07-01
 - [Supporting Early Decision-making in Offshore Aquaculture Planning: A Time-efficient Screening Framework Integrating Wave Modeling and GIS](https://doi.org/10.4194/trjfas30435) · 2026-06-30
-- [Role of the northern Arabian Sea cold SST bias in delaying monsoon onset and weakening Indian summer monsoon circulation](https://iopscience.iop.org/article/10.1088/1748-9326/ae8460/pdf) · 2026-06-30
