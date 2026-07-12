@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "year_from": 2025,
   "items": [
     {
@@ -7,10 +7,22 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Seasonal circulation and water exchange with the Southern South China Sea of the Gulf of Thailand",
+          "date": "2026-07-07",
+          "venue": "",
+          "link": "https://doi.org/10.2139/ssrn.4934768"
+        },
+        {
           "title": "Numerics-driven uplifting, automatic parallelization, and performance optimizations with deep kernel fusion for ocean models on heterogeneous architectures",
           "date": "2026-06-28",
           "venue": "",
           "link": "https://hal.science/hal-05061001/document"
+        },
+        {
+          "title": "Sensitivity of simulated storm surge to tropical cyclone wind forcing around islands: insights from Hurricane Irma",
+          "date": "2026-06-15",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.ocemod.2026.102780"
         },
         {
           "title": "Multi-sensor observations and modeling of wave swash on a low-tide terrace beach",
@@ -23,18 +35,6 @@
           "date": "2026-04-14",
           "venue": "",
           "link": "https://os.copernicus.org/articles/22/1169/2026/os-22-1169-2026.pdf"
-        },
-        {
-          "title": "Multi-site assessment of microtidal wave-dominated active beach state and morpho-sedimentary parameters using optical satellite imagery",
-          "date": "2026-03-27",
-          "venue": "",
-          "link": "https://doi.org/10.1038/s41598-026-45638-3"
-        },
-        {
-          "title": "Implementation and validation of a 3D regional ocean model CROCO for sediment transport purposes in NW Iberian continental shelf",
-          "date": "2026-03-20",
-          "venue": "",
-          "link": "https://doi.org/10.1007/s10236-026-01792-w"
         }
       ]
     },
@@ -42,6 +42,18 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Physics-guided representation learning for resilient sea surface temperature forecasting in satellite monitoring contexts",
+          "date": "2026-07-09",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2950616626000276/pdf"
+        },
+        {
+          "title": "Decadal scale relationship between indices of climate variability and Australian rainfall",
+          "date": "2026-07-09",
+          "venue": "",
+          "link": "http://eprints.usq.edu.au/34196/1/Stilgoe_2016_whole.pdf"
+        },
         {
           "title": "On the importance of historical context and bias correction in deep learning MJO prediction models",
           "date": "2026-07-08",
@@ -55,22 +67,10 @@
           "link": "https://www.nature.com/articles/s40494-026-02782-3_reference.pdf"
         },
         {
-          "title": "Influence of model spatial resolution on Sargassum beaching predictions along the Mexican Caribbean coast",
-          "date": "2026-07-02",
+          "title": "Slow Manifold Reduction for Inertial Particles with Quadratic Drag",
+          "date": "2026-07-06",
           "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3754/egusphere-2026-3754.pdf"
-        },
-        {
-          "title": "Comparison between near-inertial oscillations and near-inertial internal waves induced by a cyclone passage in the deep ocean",
-          "date": "2026-07-01",
-          "venue": "",
-          "link": "https://www.sciopen.com/local/article_pdf/10.26599/OCEAN.2026.9470028.pdf"
-        },
-        {
-          "title": "Role of the northern Arabian Sea cold SST bias in delaying monsoon onset and weakening Indian summer monsoon circulation",
-          "date": "2026-06-30",
-          "venue": "",
-          "link": "https://iopscience.iop.org/article/10.1088/1748-9326/ae8460/pdf"
+          "link": "https://arxiv.org/pdf/2607.05664"
         }
       ]
     },
@@ -115,6 +115,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Multi-Type Microplastic Migration Model Driven by River Hydrodynamic Conditions",
+          "date": "2026-07-09",
+          "venue": "",
+          "link": "https://www.mdpi.com/2305-6304/14/7/600/pdf?version=1783593421"
+        },
+        {
+          "title": "The impact of land subsiding on pluvial flooding in a mega-city: a century of evidence from Shanghai",
+          "date": "2026-07-09",
+          "venue": "",
+          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2699011?needAccess=true"
+        },
+        {
           "title": "Microscale coastal flood risk assessment methods amid climate change",
           "date": "2026-07-09",
           "venue": "",
@@ -131,18 +143,6 @@
           "date": "2026-06-23",
           "venue": "",
           "link": "https://saspublishers.com/article/24513/download/"
-        },
-        {
-          "title": "Tidal Effect on the Fate and Transport of Neutral Particles in a Mediterranean Gulfs System",
-          "date": "2026-06-23",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s40710-026-00847-w.pdf"
-        },
-        {
-          "title": "Coupled Wave-Storm Surge Modeling for Fishery Harbor Under Extreme Typhoon: Toward Risk-Based Dynamic Zoning of Fishing Vessel Berths",
-          "date": "2026-06-17",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/12/1115/pdf?version=1781686207"
         }
       ]
     },
@@ -241,16 +241,16 @@
           "link": "https://doi.org/10.25744/genb.2026.44.2.002"
         },
         {
+          "title": "Quantifying wave setup climatology along the U.S. East and Gulf coasts using a coupled hydrodynamic-wave model",
+          "date": "2026-07-01",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s10236-026-01829-0.pdf"
+        },
+        {
           "title": "Deep Learning-Based Bias Correction Model for Spatiotemporal Significant Wave Height Prediction Using Multi-Channel VMRNN",
           "date": "2026-07-01",
           "venue": "",
           "link": "https://www.mdpi.com/2673-1924/7/4/54/pdf?version=1782892629"
-        },
-        {
-          "title": "Supporting Early Decision-making in Offshore Aquaculture Planning: A Time-efficient Screening Framework Integrating Wave Modeling and GIS",
-          "date": "2026-06-30",
-          "venue": "",
-          "link": "https://doi.org/10.4194/trjfas30435"
         }
       ]
     }
