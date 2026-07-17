@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Encoding multiphase dynamics to predict spatiotemporal evolution via latent-space operators",
+          "date": "2026-07-14",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s44488-026-00005-z.pdf"
+        },
+        {
           "title": "Physics-guided representation learning for resilient sea surface temperature forecasting in satellite monitoring contexts",
           "date": "2026-07-09",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-07-07",
           "venue": "",
           "link": "https://www.nature.com/articles/s40494-026-02782-3_reference.pdf"
-        },
-        {
-          "title": "Slow Manifold Reduction for Inertial Particles with Quadratic Drag",
-          "date": "2026-07-06",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2607.05664"
         }
       ]
     },
@@ -78,6 +78,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Neural-Network-Based Prediction of Wave Heights and Periods Southeast of Fujian Province",
+          "date": "2026-07-14",
+          "venue": "",
+          "link": "https://www.mdpi.com/2673-1924/7/4/61/pdf?version=1784017338"
+        },
         {
           "title": "Modeling Monopile Scour in a Tidal-Dominated Coastal Sea: a GFD-CFD coupled framework and real-world application",
           "date": "2026-07-02",
@@ -101,12 +107,6 @@
           "date": "2026-06-15",
           "venue": "",
           "link": "https://ace.ewapub.com/article/view/34478.pdf"
-        },
-        {
-          "title": "Construction of an Oil Spill Dynamics Model Based on 3D Terrain and Marine Environmental Fields",
-          "date": "2026-06-05",
-          "venue": "",
-          "link": "https://doi.org/10.1051/e3sconf/202671701017/pdf"
         }
       ]
     },
@@ -151,6 +151,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Hydrodynamic impacts of wharf reconstruction aligned with channel expansion under urbanization",
+          "date": "2026-07-15",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-10196792/latest.pdf"
+        },
+        {
           "title": "Tidal Effect on the Fate and Transport of Neutral Particles in a Mediterranean Gulfs System",
           "date": "2026-06-23",
           "venue": "",
@@ -173,12 +179,6 @@
           "date": "2026-01-01",
           "venue": "",
           "link": "https://www.scirp.org/pdf/ojms_1470710.pdf"
-        },
-        {
-          "title": "Assessment of the impact of sediment dispersion on coral reef ecosystems caused by submarine cable installation in the Con Dao Archipelago, Vietnam",
-          "date": "2025-12-30",
-          "venue": "",
-          "link": "https://vjs.ac.vn/jmst/article/download/23078/pdf"
         }
       ]
     },
@@ -223,6 +223,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Neural-Network-Based Prediction of Wave Heights and Periods Southeast of Fujian Province",
+          "date": "2026-07-14",
+          "venue": "",
+          "link": "https://www.mdpi.com/2673-1924/7/4/61/pdf?version=1784017338"
+        },
+        {
+          "title": "Implications of Doppler-shift for High Frequency Ocean Waves Measured Using Drifting Buoys",
+          "date": "2026-07-09",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2607.08947"
+        },
+        {
           "title": "Wave-induced sediment resuspension potential in the Finnish Archipelago, Baltic Sea: integrating field measurements with large-scale numerical model simulations",
           "date": "2026-07-06",
           "venue": "",
@@ -239,18 +251,6 @@
           "date": "2026-07-03",
           "venue": "",
           "link": "https://doi.org/10.25744/genb.2026.44.2.002"
-        },
-        {
-          "title": "Quantifying wave setup climatology along the U.S. East and Gulf coasts using a coupled hydrodynamic-wave model",
-          "date": "2026-07-01",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s10236-026-01829-0.pdf"
-        },
-        {
-          "title": "Deep Learning-Based Bias Correction Model for Spatiotemporal Significant Wave Height Prediction Using Multi-Channel VMRNN",
-          "date": "2026-07-01",
-          "venue": "",
-          "link": "https://www.mdpi.com/2673-1924/7/4/54/pdf?version=1782892629"
         }
       ]
     }
