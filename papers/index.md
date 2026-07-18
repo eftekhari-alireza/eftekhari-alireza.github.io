@@ -3,27 +3,27 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-07-17** · Showing results since **2025**_
+_Last update: **2026-07-18** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Simulating deep convective plumes in the framework of a Quasi-Non-Hydrostatic modelling: a heuristic approach](https://www.researchsquare.com/article/rs-10129263/latest.pdf) · 2026-07-15
+- [Unraveling the implementation of episodic hypoxia events in a coastal ecosystem under anthropogenic nutrient loads](https://doi.org/10.1016/j.marenvres.2026.108275) · 2026-07-11
 - [Seasonal circulation and water exchange with the Southern South China Sea of the Gulf of Thailand](https://doi.org/10.2139/ssrn.4934768) · 2026-07-07
 - [Numerics-driven uplifting, automatic parallelization, and performance optimizations with deep kernel fusion for ocean models on heterogeneous architectures](https://hal.science/hal-05061001/document) · 2026-06-28
 - [Sensitivity of simulated storm surge to tropical cyclone wind forcing around islands: insights from Hurricane Irma](https://doi.org/10.1016/j.ocemod.2026.102780) · 2026-06-15
-- [Multi-sensor observations and modeling of wave swash on a low-tide terrace beach](https://www.nature.com/articles/s41598-026-56586-3_reference.pdf) · 2026-06-04
-- [Year-round characterization of upwelling along the Uruguayan coast using a high-resolution regional ocean model](https://os.copernicus.org/articles/22/1169/2026/os-22-1169-2026.pdf) · 2026-04-14
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Simulating deep convective plumes in the framework of a Quasi-Non-Hydrostatic modelling: a heuristic approach](https://www.researchsquare.com/article/rs-10129263/latest.pdf) · 2026-07-15
 - [Encoding multiphase dynamics to predict spatiotemporal evolution via latent-space operators](https://www.nature.com/articles/s44488-026-00005-z.pdf) · 2026-07-14
 - [Physics-guided representation learning for resilient sea surface temperature forecasting in satellite monitoring contexts](https://www.sciencedirect.com/science/article/pii/S2950616626000276/pdf) · 2026-07-09
 - [Decadal scale relationship between indices of climate variability and Australian rainfall](http://eprints.usq.edu.au/34196/1/Stilgoe_2016_whole.pdf) · 2026-07-09
 - [On the importance of historical context and bias correction in deep learning MJO prediction models](https://www.nature.com/articles/s41612-026-01459-9_reference.pdf) · 2026-07-08
-- [An integrated DPSIR-extension cloud model framework for assessing typhoon risk to coastal architectural heritage](https://www.nature.com/articles/s40494-026-02782-3_reference.pdf) · 2026-07-07
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2026-07-17** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Review article: Global flood research across four decades: An analysis of 57,474 research articles based on a large language model](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3343/egusphere-2026-3343.pdf) · 2026-07-16
 - [Multi-Type Microplastic Migration Model Driven by River Hydrodynamic Conditions](https://www.mdpi.com/2305-6304/14/7/600/pdf?version=1783593421) · 2026-07-09
 - [The impact of land subsiding on pluvial flooding in a mega-city: a century of evidence from Shanghai](https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2699011?needAccess=true) · 2026-07-09
 - [Microscale coastal flood risk assessment methods amid climate change](https://link.springer.com/content/pdf/10.1007/s44312-026-00083-8.pdf) · 2026-07-09
 - [Hydrodynamic and Morphodynamic Assessment of Low-Crested Breakwaters Using Geotube for Coastal Protection at Kilo 5 Beach, Banggai Regency, Indonesia](http://www.joet.org/upload/pdf/KSOE-2026-029.pdf) · 2026-06-25
-- [Analysis of Visible Signs of Rip Currents in Arabian Sea at Calangute &amp; Vagator Beach of Goa](https://saspublishers.com/article/24513/download/) · 2026-06-23
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,18 +59,18 @@ _Last update: **2026-07-17** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Review article: Global flood research across four decades: An analysis of 57,474 research articles based on a large language model](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3343/egusphere-2026-3343.pdf) · 2026-07-16
+- [Assessing lagoon plume dispersion under variable metocean conditions](https://www.frontiersin.org/journals/environmental-engineering/articles/10.3389/fenve.2026.1882143/pdf) · 2026-07-16
+- [Modelling dynamic coastal vegetation establishment and ecosystem engineering in hydro-morphodynamic models with DYCOVE](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3337/egusphere-2026-3337.pdf) · 2026-07-16
 - [A Bibliometric Analysis Examining the Current Advancements in Tsunami Disaster Risk Reduction Research](https://www.idrimjournal.com/article/164324.pdf) · 2026-07-09
 - [Counterfactual modeling isolates sand mining impacts, revealing it as a key driver of Mekong Delta destabilization](https://www.science.org/doi/pdf/10.1126/sciadv.aef0558?download=true) · 2026-07-08
-- [High-frequency observations reveal cross-shore variability in storm-driven sediment dynamics and tidal flat recovery](https://www.sciencedirect.com/science/article/pii/S0141118726002543/pdf) · 2026-07-08
-- [Seasonal Variability of Residence Time and Ocean Exchange in a Semi-enclosed Gulf in Northwestern Australia](https://link.springer.com/content/pdf/10.1007/s12237-026-01714-5.pdf) · 2026-07-08
-- [The morphological-hydrodynamic resilience mechanisms against the highest storm tide level in a Bay-Inlet-Channel system](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1869884/pdf) · 2026-07-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
 - [Neural-Network-Based Prediction of Wave Heights and Periods Southeast of Fujian Province](https://www.mdpi.com/2673-1924/7/4/61/pdf?version=1784017338) · 2026-07-14
+- [Detection of High-Energy Marine Zones and Correlation Analysis of Ocean Parameters in the Indian EEZ](https://www.ijert.org/detection-of-high-energy-marine-zones-and-correlation-analysis-of-ocean-parameters-in-the-indian-eez) · 2026-07-14
 - [Implications of Doppler-shift for High Frequency Ocean Waves Measured Using Drifting Buoys](https://arxiv.org/pdf/2607.08947) · 2026-07-09
 - [Wave-induced sediment resuspension potential in the Finnish Archipelago, Baltic Sea: integrating field measurements with large-scale numerical model simulations](https://os.copernicus.org/articles/22/2123/2026/os-22-2123-2026.pdf) · 2026-07-06
 - [Construction and Regulatory Framework of Wing-In-Ground Effect (WIG) Craft from the Perspective of Safety and High-Speed Craft Classification](https://dinastipub.org/DIJEMSS/article/download/6636/4532) · 2026-07-06
-- [ПРОГНОЗ ВЕТРОВОЛНОВОГО РЕЖИМА ПРИ НАМЫВАНИИ ТЕРРИТОРИИ (НА ПРИМЕРЕ НЕВСКОЙ ГУБЫ)](https://doi.org/10.25744/genb.2026.44.2.002) · 2026-07-03

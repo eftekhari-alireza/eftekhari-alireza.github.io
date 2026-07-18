@@ -1,11 +1,23 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Simulating deep convective plumes in the framework of a Quasi-Non-Hydrostatic modelling: a heuristic approach",
+          "date": "2026-07-15",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-10129263/latest.pdf"
+        },
+        {
+          "title": "Unraveling the implementation of episodic hypoxia events in a coastal ecosystem under anthropogenic nutrient loads",
+          "date": "2026-07-11",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.marenvres.2026.108275"
+        },
         {
           "title": "Seasonal circulation and water exchange with the Southern South China Sea of the Gulf of Thailand",
           "date": "2026-07-07",
@@ -23,18 +35,6 @@
           "date": "2026-06-15",
           "venue": "",
           "link": "https://doi.org/10.1016/j.ocemod.2026.102780"
-        },
-        {
-          "title": "Multi-sensor observations and modeling of wave swash on a low-tide terrace beach",
-          "date": "2026-06-04",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s41598-026-56586-3_reference.pdf"
-        },
-        {
-          "title": "Year-round characterization of upwelling along the Uruguayan coast using a high-resolution regional ocean model",
-          "date": "2026-04-14",
-          "venue": "",
-          "link": "https://os.copernicus.org/articles/22/1169/2026/os-22-1169-2026.pdf"
         }
       ]
     },
@@ -42,6 +42,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Simulating deep convective plumes in the framework of a Quasi-Non-Hydrostatic modelling: a heuristic approach",
+          "date": "2026-07-15",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-10129263/latest.pdf"
+        },
         {
           "title": "Encoding multiphase dynamics to predict spatiotemporal evolution via latent-space operators",
           "date": "2026-07-14",
@@ -65,12 +71,6 @@
           "date": "2026-07-08",
           "venue": "",
           "link": "https://www.nature.com/articles/s41612-026-01459-9_reference.pdf"
-        },
-        {
-          "title": "An integrated DPSIR-extension cloud model framework for assessing typhoon risk to coastal architectural heritage",
-          "date": "2026-07-07",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s40494-026-02782-3_reference.pdf"
         }
       ]
     },
@@ -115,6 +115,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Review article: Global flood research across four decades: An analysis of 57,474 research articles based on a large language model",
+          "date": "2026-07-16",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3343/egusphere-2026-3343.pdf"
+        },
+        {
           "title": "Multi-Type Microplastic Migration Model Driven by River Hydrodynamic Conditions",
           "date": "2026-07-09",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-06-25",
           "venue": "",
           "link": "http://www.joet.org/upload/pdf/KSOE-2026-029.pdf"
-        },
-        {
-          "title": "Analysis of Visible Signs of Rip Currents in Arabian Sea at Calangute &amp; Vagator Beach of Goa",
-          "date": "2026-06-23",
-          "venue": "",
-          "link": "https://saspublishers.com/article/24513/download/"
         }
       ]
     },
@@ -187,6 +187,24 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Review article: Global flood research across four decades: An analysis of 57,474 research articles based on a large language model",
+          "date": "2026-07-16",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3343/egusphere-2026-3343.pdf"
+        },
+        {
+          "title": "Assessing lagoon plume dispersion under variable metocean conditions",
+          "date": "2026-07-16",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/environmental-engineering/articles/10.3389/fenve.2026.1882143/pdf"
+        },
+        {
+          "title": "Modelling dynamic coastal vegetation establishment and ecosystem engineering in hydro-morphodynamic models with DYCOVE",
+          "date": "2026-07-16",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3337/egusphere-2026-3337.pdf"
+        },
+        {
           "title": "A Bibliometric Analysis Examining the Current Advancements in Tsunami Disaster Risk Reduction Research",
           "date": "2026-07-09",
           "venue": "",
@@ -197,24 +215,6 @@
           "date": "2026-07-08",
           "venue": "",
           "link": "https://www.science.org/doi/pdf/10.1126/sciadv.aef0558?download=true"
-        },
-        {
-          "title": "High-frequency observations reveal cross-shore variability in storm-driven sediment dynamics and tidal flat recovery",
-          "date": "2026-07-08",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0141118726002543/pdf"
-        },
-        {
-          "title": "Seasonal Variability of Residence Time and Ocean Exchange in a Semi-enclosed Gulf in Northwestern Australia",
-          "date": "2026-07-08",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s12237-026-01714-5.pdf"
-        },
-        {
-          "title": "The morphological-hydrodynamic resilience mechanisms against the highest storm tide level in a Bay-Inlet-Channel system",
-          "date": "2026-07-01",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1869884/pdf"
         }
       ]
     },
@@ -227,6 +227,12 @@
           "date": "2026-07-14",
           "venue": "",
           "link": "https://www.mdpi.com/2673-1924/7/4/61/pdf?version=1784017338"
+        },
+        {
+          "title": "Detection of High-Energy Marine Zones and Correlation Analysis of Ocean Parameters in the Indian EEZ",
+          "date": "2026-07-14",
+          "venue": "",
+          "link": "https://www.ijert.org/detection-of-high-energy-marine-zones-and-correlation-analysis-of-ocean-parameters-in-the-indian-eez"
         },
         {
           "title": "Implications of Doppler-shift for High Frequency Ocean Waves Measured Using Drifting Buoys",
@@ -245,12 +251,6 @@
           "date": "2026-07-06",
           "venue": "",
           "link": "https://dinastipub.org/DIJEMSS/article/download/6636/4532"
-        },
-        {
-          "title": "\u041f\u0420\u041e\u0413\u041d\u041e\u0417 \u0412\u0415\u0422\u0420\u041e\u0412\u041e\u041b\u041d\u041e\u0412\u041e\u0413\u041e \u0420\u0415\u0416\u0418\u041c\u0410 \u041f\u0420\u0418 \u041d\u0410\u041c\u042b\u0412\u0410\u041d\u0418\u0418 \u0422\u0415\u0420\u0420\u0418\u0422\u041e\u0420\u0418\u0418 (\u041d\u0410 \u041f\u0420\u0418\u041c\u0415\u0420\u0415 \u041d\u0415\u0412\u0421\u041a\u041e\u0419 \u0413\u0423\u0411\u042b)",
-          "date": "2026-07-03",
-          "venue": "",
-          "link": "https://doi.org/10.25744/genb.2026.44.2.002"
         }
       ]
     }
