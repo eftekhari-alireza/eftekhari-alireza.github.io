@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "year_from": 2025,
   "items": [
     {
@@ -11,6 +11,12 @@
           "date": "2026-07-15",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-10129263/latest.pdf"
+        },
+        {
+          "title": "On the Tropical Nature of an Intense Mediterranean Cyclone in the Ocean\u2010Atmosphere System",
+          "date": "2026-07-14",
+          "venue": "",
+          "link": "https://doi.org/10.5194/ems2025-545"
         },
         {
           "title": "Unraveling the implementation of episodic hypoxia events in a coastal ecosystem under anthropogenic nutrient loads",
@@ -29,12 +35,6 @@
           "date": "2026-06-28",
           "venue": "",
           "link": "https://hal.science/hal-05061001/document"
-        },
-        {
-          "title": "Sensitivity of simulated storm surge to tropical cyclone wind forcing around islands: insights from Hurricane Irma",
-          "date": "2026-06-15",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.ocemod.2026.102780"
         }
       ]
     },
@@ -43,10 +43,22 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Quantifying the impacts of cloud seeding on severe winter sea fog dissipation and visibility using a coupled atmosphere\u2013ocean model",
+          "date": "2026-07-20",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-10292968/latest.pdf"
+        },
+        {
           "title": "Simulating deep convective plumes in the framework of a Quasi-Non-Hydrostatic modelling: a heuristic approach",
           "date": "2026-07-15",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-10129263/latest.pdf"
+        },
+        {
+          "title": "On the Tropical Nature of an Intense Mediterranean Cyclone in the Ocean\u2010Atmosphere System",
+          "date": "2026-07-14",
+          "venue": "",
+          "link": "https://doi.org/10.5194/ems2025-545"
         },
         {
           "title": "Encoding multiphase dynamics to predict spatiotemporal evolution via latent-space operators",
@@ -59,18 +71,6 @@
           "date": "2026-07-09",
           "venue": "",
           "link": "https://www.sciencedirect.com/science/article/pii/S2950616626000276/pdf"
-        },
-        {
-          "title": "Decadal scale relationship between indices of climate variability and Australian rainfall",
-          "date": "2026-07-09",
-          "venue": "",
-          "link": "http://eprints.usq.edu.au/34196/1/Stilgoe_2016_whole.pdf"
-        },
-        {
-          "title": "On the importance of historical context and bias correction in deep learning MJO prediction models",
-          "date": "2026-07-08",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s41612-026-01459-9_reference.pdf"
         }
       ]
     },
@@ -78,6 +78,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "A Review of Medium\u2013Long-Term Wind Energy Projection",
+          "date": "2026-07-20",
+          "venue": "",
+          "link": "https://www.mdpi.com/2077-1312/14/14/1333/pdf?version=1784554912"
+        },
         {
           "title": "Neural-Network-Based Prediction of Wave Heights and Periods Southeast of Fujian Province",
           "date": "2026-07-14",
@@ -101,12 +107,6 @@
           "date": "2026-06-21",
           "venue": "",
           "link": "https://www.mdpi.com/2077-1312/14/12/1137/pdf?version=1782032522"
-        },
-        {
-          "title": "Research on Key Technologies for Simulating Dynamic Geomorphic Evolution of Estuaries and Coasts",
-          "date": "2026-06-15",
-          "venue": "",
-          "link": "https://ace.ewapub.com/article/view/34478.pdf"
         }
       ]
     },
@@ -229,6 +229,12 @@
           "link": "https://www.mdpi.com/2673-1924/7/4/61/pdf?version=1784017338"
         },
         {
+          "title": "On the Tropical Nature of an Intense Mediterranean Cyclone in the Ocean\u2010Atmosphere System",
+          "date": "2026-07-14",
+          "venue": "",
+          "link": "https://doi.org/10.5194/ems2025-545"
+        },
+        {
           "title": "Detection of High-Energy Marine Zones and Correlation Analysis of Ocean Parameters in the Indian EEZ",
           "date": "2026-07-14",
           "venue": "",
@@ -245,12 +251,6 @@
           "date": "2026-07-06",
           "venue": "",
           "link": "https://os.copernicus.org/articles/22/2123/2026/os-22-2123-2026.pdf"
-        },
-        {
-          "title": "Construction and Regulatory Framework of Wing-In-Ground Effect (WIG) Craft from the Perspective of Safety and High-Speed Craft Classification",
-          "date": "2026-07-06",
-          "venue": "",
-          "link": "https://dinastipub.org/DIJEMSS/article/download/6636/4532"
         }
       ]
     }
