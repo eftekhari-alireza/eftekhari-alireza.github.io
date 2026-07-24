@@ -1,11 +1,17 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "A Generalizable Lie Autoencoder for Emulating Barotropic Turbulence",
+          "date": "2026-07-22",
+          "venue": "",
+          "link": "https://doi.org/10.31223/x5q78c"
+        },
         {
           "title": "Simulating deep convective plumes in the framework of a Quasi-Non-Hydrostatic modelling: a heuristic approach",
           "date": "2026-07-15",
@@ -29,12 +35,6 @@
           "date": "2026-07-07",
           "venue": "",
           "link": "https://doi.org/10.2139/ssrn.4934768"
-        },
-        {
-          "title": "Numerics-driven uplifting, automatic parallelization, and performance optimizations with deep kernel fusion for ocean models on heterogeneous architectures",
-          "date": "2026-06-28",
-          "venue": "",
-          "link": "https://hal.science/hal-05061001/document"
         }
       ]
     },
@@ -42,6 +42,18 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Wide-swath satellite altimetry and novel subsurface temperature observations improve predictions in a dynamic western boundary current: System optimization and performance",
+          "date": "2026-07-21",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2467/egusphere-2026-2467.pdf"
+        },
+        {
+          "title": "Two parameter analytical framework for surface layer salinity assessment in highly stratified microtidal estuary",
+          "date": "2026-07-21",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1816936/pdf"
+        },
         {
           "title": "Quantifying the impacts of cloud seeding on severe winter sea fog dissipation and visibility using a coupled atmosphere\u2013ocean model",
           "date": "2026-07-20",
@@ -59,18 +71,6 @@
           "date": "2026-07-14",
           "venue": "",
           "link": "https://doi.org/10.5194/ems2025-545"
-        },
-        {
-          "title": "Encoding multiphase dynamics to predict spatiotemporal evolution via latent-space operators",
-          "date": "2026-07-14",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s44488-026-00005-z.pdf"
-        },
-        {
-          "title": "Physics-guided representation learning for resilient sea surface temperature forecasting in satellite monitoring contexts",
-          "date": "2026-07-09",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S2950616626000276/pdf"
         }
       ]
     },
@@ -78,6 +78,18 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Two parameter analytical framework for surface layer salinity assessment in highly stratified microtidal estuary",
+          "date": "2026-07-21",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1816936/pdf"
+        },
+        {
+          "title": "cSINGV v1.0: Development and evaluation of a 1.5 km coupled atmosphere-ocean-wave modelling system for the Western Maritime Continent",
+          "date": "2026-07-21",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2024/egusphere-2026-2024.pdf"
+        },
         {
           "title": "A Review of Medium\u2013Long-Term Wind Energy Projection",
           "date": "2026-07-20",
@@ -95,18 +107,6 @@
           "date": "2026-07-02",
           "venue": "",
           "link": "https://doi.org/10.1080/19942060.2026.2696654"
-        },
-        {
-          "title": "Three-Dimensional Thermohaline Field Forecast Using a Numerical Model Assimilating AI-Reconstructed Parameters in the Western Indian Ocean",
-          "date": "2026-06-30",
-          "venue": "",
-          "link": "https://doi.org/10.3390/jmse14131214"
-        },
-        {
-          "title": "Response of Typhoon Waves and Storm Surges to Sea Surface Temperature Rise and Sea Level Rise: A Case Study of Super Typhoon Doksuri (2023) in the Taiwan Strait",
-          "date": "2026-06-21",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/12/1137/pdf?version=1782032522"
         }
       ]
     },
@@ -163,6 +163,12 @@
           "link": "https://link.springer.com/content/pdf/10.1007/s40710-026-00847-w.pdf"
         },
         {
+          "title": "Quantifying wave-current interaction effects on wave energy resources of high energy sites",
+          "date": "2026-06-01",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.ocemod.2026.102773"
+        },
+        {
           "title": "A Finite Volume Shallow Water Hydrodynamic Model and Its Validation",
           "date": "2026-03-20",
           "venue": "",
@@ -173,12 +179,6 @@
           "date": "2026-02-14",
           "venue": "",
           "link": "https://doi.org/10.1016/j.margeo.2026.107733"
-        },
-        {
-          "title": "Propeller-Induced Seabed Scour: A Review of Hydrodynamic Mechanisms, CFD Modeling, and Coastal Engineering Implications",
-          "date": "2026-01-01",
-          "venue": "",
-          "link": "https://www.scirp.org/pdf/ojms_1470710.pdf"
         }
       ]
     },
@@ -186,6 +186,24 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Delft3D\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Mid-Century Projections of Waves and Water Levels Highlight the Dominant Role of Sea-Level Rise in the Salish Sea",
+          "date": "2026-07-22",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3369/egusphere-2026-3369.pdf"
+        },
+        {
+          "title": "Two parameter analytical framework for surface layer salinity assessment in highly stratified microtidal estuary",
+          "date": "2026-07-21",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1816936/pdf"
+        },
+        {
+          "title": "Machine Learning for Water and Environmental Modeling in the Sacramento\u2013San Joaquin Delta of California: A 30-Year Retrospective and Future Prospects",
+          "date": "2026-07-21",
+          "venue": "",
+          "link": "https://www.mdpi.com/2073-4441/18/14/1763/pdf?version=1784638277"
+        },
         {
           "title": "Review article: Global flood research across four decades: An analysis of 57,474 research articles based on a large language model",
           "date": "2026-07-16",
@@ -197,24 +215,6 @@
           "date": "2026-07-16",
           "venue": "",
           "link": "https://www.frontiersin.org/journals/environmental-engineering/articles/10.3389/fenve.2026.1882143/pdf"
-        },
-        {
-          "title": "Modelling dynamic coastal vegetation establishment and ecosystem engineering in hydro-morphodynamic models with DYCOVE",
-          "date": "2026-07-16",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3337/egusphere-2026-3337.pdf"
-        },
-        {
-          "title": "A Bibliometric Analysis Examining the Current Advancements in Tsunami Disaster Risk Reduction Research",
-          "date": "2026-07-09",
-          "venue": "",
-          "link": "https://www.idrimjournal.com/article/164324.pdf"
-        },
-        {
-          "title": "Counterfactual modeling isolates sand mining impacts, revealing it as a key driver of Mekong Delta destabilization",
-          "date": "2026-07-08",
-          "venue": "",
-          "link": "https://www.science.org/doi/pdf/10.1126/sciadv.aef0558?download=true"
         }
       ]
     },
@@ -222,6 +222,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "cSINGV v1.0: Development and evaluation of a 1.5 km coupled atmosphere-ocean-wave modelling system for the Western Maritime Continent",
+          "date": "2026-07-21",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2024/egusphere-2026-2024.pdf"
+        },
         {
           "title": "Neural-Network-Based Prediction of Wave Heights and Periods Southeast of Fujian Province",
           "date": "2026-07-14",
@@ -245,12 +251,6 @@
           "date": "2026-07-09",
           "venue": "",
           "link": "https://arxiv.org/pdf/2607.08947"
-        },
-        {
-          "title": "Wave-induced sediment resuspension potential in the Finnish Archipelago, Baltic Sea: integrating field measurements with large-scale numerical model simulations",
-          "date": "2026-07-06",
-          "venue": "",
-          "link": "https://os.copernicus.org/articles/22/2123/2026/os-22-2123-2026.pdf"
         }
       ]
     }
