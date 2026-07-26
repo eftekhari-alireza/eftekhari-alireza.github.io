@@ -3,13 +3,13 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-07-24** · Showing results since **2025**_
+_Last update: **2026-07-26** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [A Generalizable Lie Autoencoder for Emulating Barotropic Turbulence](https://doi.org/10.31223/x5q78c) · 2026-07-22
+- [A Generalizable Lie Autoencoder for Emulating Barotropic Turbulence](https://eartharxiv.org/repository/object/14067/download/24649/) · 2026-07-22
 - [Simulating deep convective plumes in the framework of a Quasi-Non-Hydrostatic modelling: a heuristic approach](https://www.researchsquare.com/article/rs-10129263/latest.pdf) · 2026-07-15
 - [On the Tropical Nature of an Intense Mediterranean Cyclone in the Ocean‐Atmosphere System](https://doi.org/10.5194/ems2025-545) · 2026-07-14
 - [Unraveling the implementation of episodic hypoxia events in a coastal ecosystem under anthropogenic nutrient loads](https://doi.org/10.1016/j.marenvres.2026.108275) · 2026-07-11
@@ -19,11 +19,11 @@ _Last update: **2026-07-24** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [The influence of flax fiber size effect on progressive damage models](https://link.springer.com/content/pdf/10.1186/s44147-025-00858-8.pdf) · 2026-07-23
+- [A Generalizable Lie Autoencoder for Emulating Barotropic Turbulence](https://eartharxiv.org/repository/object/14067/download/24649/) · 2026-07-22
 - [Wide-swath satellite altimetry and novel subsurface temperature observations improve predictions in a dynamic western boundary current: System optimization and performance](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2467/egusphere-2026-2467.pdf) · 2026-07-21
 - [Two parameter analytical framework for surface layer salinity assessment in highly stratified microtidal estuary](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1816936/pdf) · 2026-07-21
 - [Quantifying the impacts of cloud seeding on severe winter sea fog dissipation and visibility using a coupled atmosphere–ocean model](https://www.researchsquare.com/article/rs-10292968/latest.pdf) · 2026-07-20
-- [Simulating deep convective plumes in the framework of a Quasi-Non-Hydrostatic modelling: a heuristic approach](https://www.researchsquare.com/article/rs-10129263/latest.pdf) · 2026-07-15
-- [On the Tropical Nature of an Intense Mediterranean Cyclone in the Ocean‐Atmosphere System](https://doi.org/10.5194/ems2025-545) · 2026-07-14
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -70,7 +70,7 @@ _Last update: **2026-07-24** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [cSINGV v1.0: Development and evaluation of a 1.5 km coupled atmosphere-ocean-wave modelling system for the Western Maritime Continent](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2024/egusphere-2026-2024.pdf) · 2026-07-21
+- [Performance evaluation of an offshore wave measurement buoy in monochromatic waves](https://doi.org/10.1016/j.oceaneng.2026.127021) · 2026-07-20
 - [Neural-Network-Based Prediction of Wave Heights and Periods Southeast of Fujian Province](https://www.mdpi.com/2673-1924/7/4/61/pdf?version=1784017338) · 2026-07-14
 - [On the Tropical Nature of an Intense Mediterranean Cyclone in the Ocean‐Atmosphere System](https://doi.org/10.5194/ems2025-545) · 2026-07-14
 - [Detection of High-Energy Marine Zones and Correlation Analysis of Ocean Parameters in the Indian EEZ](https://www.ijert.org/detection-of-high-energy-marine-zones-and-correlation-analysis-of-ocean-parameters-in-the-indian-eez) · 2026-07-14
-- [Implications of Doppler-shift for High Frequency Ocean Waves Measured Using Drifting Buoys](https://arxiv.org/pdf/2607.08947) · 2026-07-09

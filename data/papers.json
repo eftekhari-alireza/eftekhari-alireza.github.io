@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-26",
   "year_from": 2025,
   "items": [
     {
@@ -10,7 +10,7 @@
           "title": "A Generalizable Lie Autoencoder for Emulating Barotropic Turbulence",
           "date": "2026-07-22",
           "venue": "",
-          "link": "https://doi.org/10.31223/x5q78c"
+          "link": "https://eartharxiv.org/repository/object/14067/download/24649/"
         },
         {
           "title": "Simulating deep convective plumes in the framework of a Quasi-Non-Hydrostatic modelling: a heuristic approach",
@@ -43,6 +43,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "The influence of flax fiber size effect on progressive damage models",
+          "date": "2026-07-23",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1186/s44147-025-00858-8.pdf"
+        },
+        {
+          "title": "A Generalizable Lie Autoencoder for Emulating Barotropic Turbulence",
+          "date": "2026-07-22",
+          "venue": "",
+          "link": "https://eartharxiv.org/repository/object/14067/download/24649/"
+        },
+        {
           "title": "Wide-swath satellite altimetry and novel subsurface temperature observations improve predictions in a dynamic western boundary current: System optimization and performance",
           "date": "2026-07-21",
           "venue": "",
@@ -59,18 +71,6 @@
           "date": "2026-07-20",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-10292968/latest.pdf"
-        },
-        {
-          "title": "Simulating deep convective plumes in the framework of a Quasi-Non-Hydrostatic modelling: a heuristic approach",
-          "date": "2026-07-15",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-10129263/latest.pdf"
-        },
-        {
-          "title": "On the Tropical Nature of an Intense Mediterranean Cyclone in the Ocean\u2010Atmosphere System",
-          "date": "2026-07-14",
-          "venue": "",
-          "link": "https://doi.org/10.5194/ems2025-545"
         }
       ]
     },
@@ -229,6 +229,12 @@
           "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2024/egusphere-2026-2024.pdf"
         },
         {
+          "title": "Performance evaluation of an offshore wave measurement buoy in monochromatic waves",
+          "date": "2026-07-20",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.oceaneng.2026.127021"
+        },
+        {
           "title": "Neural-Network-Based Prediction of Wave Heights and Periods Southeast of Fujian Province",
           "date": "2026-07-14",
           "venue": "",
@@ -245,12 +251,6 @@
           "date": "2026-07-14",
           "venue": "",
           "link": "https://www.ijert.org/detection-of-high-energy-marine-zones-and-correlation-analysis-of-ocean-parameters-in-the-indian-eez"
-        },
-        {
-          "title": "Implications of Doppler-shift for High Frequency Ocean Waves Measured Using Drifting Buoys",
-          "date": "2026-07-09",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2607.08947"
         }
       ]
     }
