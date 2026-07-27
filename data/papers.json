@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "year_from": 2025,
   "items": [
     {
@@ -79,6 +79,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Multi-scale Numerical Simulation of Storm-driven Sediment Transport, Resuspension and Dispersal Dynamics",
+          "date": "2026-07-24",
+          "venue": "",
+          "link": "https://iopscience.iop.org/article/10.1088/2515-7620/ae902e/pdf"
+        },
+        {
           "title": "Two parameter analytical framework for surface layer salinity assessment in highly stratified microtidal estuary",
           "date": "2026-07-21",
           "venue": "",
@@ -101,12 +107,6 @@
           "date": "2026-07-14",
           "venue": "",
           "link": "https://www.mdpi.com/2673-1924/7/4/61/pdf?version=1784017338"
-        },
-        {
-          "title": "Modeling Monopile Scour in a Tidal-Dominated Coastal Sea: a GFD-CFD coupled framework and real-world application",
-          "date": "2026-07-02",
-          "venue": "",
-          "link": "https://doi.org/10.1080/19942060.2026.2696654"
         }
       ]
     },
@@ -114,6 +114,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Brine Discharge from Desalination Plants: Environmental Contaminants, Pollution Control Processes and Mitigation Strategies",
+          "date": "2026-07-24",
+          "venue": "",
+          "link": "https://www.mdpi.com/2227-9717/14/15/2391/pdf?version=1784895196"
+        },
         {
           "title": "Review article: Global flood research across four decades: An analysis of 57,474 research articles based on a large language model",
           "date": "2026-07-16",
@@ -137,12 +143,6 @@
           "date": "2026-07-09",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s44312-026-00083-8.pdf"
-        },
-        {
-          "title": "Hydrodynamic and Morphodynamic Assessment of Low-Crested Breakwaters Using Geotube for Coastal Protection at Kilo 5 Beach, Banggai Regency, Indonesia",
-          "date": "2026-06-25",
-          "venue": "",
-          "link": "http://www.joet.org/upload/pdf/KSOE-2026-029.pdf"
         }
       ]
     },
@@ -187,6 +187,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Brine Discharge from Desalination Plants: Environmental Contaminants, Pollution Control Processes and Mitigation Strategies",
+          "date": "2026-07-24",
+          "venue": "",
+          "link": "https://www.mdpi.com/2227-9717/14/15/2391/pdf?version=1784895196"
+        },
+        {
+          "title": "Multi-scale Numerical Simulation of Storm-driven Sediment Transport, Resuspension and Dispersal Dynamics",
+          "date": "2026-07-24",
+          "venue": "",
+          "link": "https://iopscience.iop.org/article/10.1088/2515-7620/ae902e/pdf"
+        },
+        {
           "title": "Mid-Century Projections of Waves and Water Levels Highlight the Dominant Role of Sea-Level Rise in the Salish Sea",
           "date": "2026-07-22",
           "venue": "",
@@ -203,18 +215,6 @@
           "date": "2026-07-21",
           "venue": "",
           "link": "https://www.mdpi.com/2073-4441/18/14/1763/pdf?version=1784638277"
-        },
-        {
-          "title": "Review article: Global flood research across four decades: An analysis of 57,474 research articles based on a large language model",
-          "date": "2026-07-16",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3343/egusphere-2026-3343.pdf"
-        },
-        {
-          "title": "Assessing lagoon plume dispersion under variable metocean conditions",
-          "date": "2026-07-16",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/environmental-engineering/articles/10.3389/fenve.2026.1882143/pdf"
         }
       ]
     },

@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-07-26** · Showing results since **2025**_
+_Last update: **2026-07-27** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -29,21 +29,21 @@ _Last update: **2026-07-26** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Multi-scale Numerical Simulation of Storm-driven Sediment Transport, Resuspension and Dispersal Dynamics](https://iopscience.iop.org/article/10.1088/2515-7620/ae902e/pdf) · 2026-07-24
 - [Two parameter analytical framework for surface layer salinity assessment in highly stratified microtidal estuary](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1816936/pdf) · 2026-07-21
 - [cSINGV v1.0: Development and evaluation of a 1.5 km coupled atmosphere-ocean-wave modelling system for the Western Maritime Continent](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2024/egusphere-2026-2024.pdf) · 2026-07-21
 - [A Review of Medium–Long-Term Wind Energy Projection](https://www.mdpi.com/2077-1312/14/14/1333/pdf?version=1784554912) · 2026-07-20
 - [Neural-Network-Based Prediction of Wave Heights and Periods Southeast of Fujian Province](https://www.mdpi.com/2673-1924/7/4/61/pdf?version=1784017338) · 2026-07-14
-- [Modeling Monopile Scour in a Tidal-Dominated Coastal Sea: a GFD-CFD coupled framework and real-world application](https://doi.org/10.1080/19942060.2026.2696654) · 2026-07-02
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Brine Discharge from Desalination Plants: Environmental Contaminants, Pollution Control Processes and Mitigation Strategies](https://www.mdpi.com/2227-9717/14/15/2391/pdf?version=1784895196) · 2026-07-24
 - [Review article: Global flood research across four decades: An analysis of 57,474 research articles based on a large language model](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3343/egusphere-2026-3343.pdf) · 2026-07-16
 - [Multi-Type Microplastic Migration Model Driven by River Hydrodynamic Conditions](https://www.mdpi.com/2305-6304/14/7/600/pdf?version=1783593421) · 2026-07-09
 - [The impact of land subsiding on pluvial flooding in a mega-city: a century of evidence from Shanghai](https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2699011?needAccess=true) · 2026-07-09
 - [Microscale coastal flood risk assessment methods amid climate change](https://link.springer.com/content/pdf/10.1007/s44312-026-00083-8.pdf) · 2026-07-09
-- [Hydrodynamic and Morphodynamic Assessment of Low-Crested Breakwaters Using Geotube for Coastal Protection at Kilo 5 Beach, Banggai Regency, Indonesia](http://www.joet.org/upload/pdf/KSOE-2026-029.pdf) · 2026-06-25
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-07-26** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Brine Discharge from Desalination Plants: Environmental Contaminants, Pollution Control Processes and Mitigation Strategies](https://www.mdpi.com/2227-9717/14/15/2391/pdf?version=1784895196) · 2026-07-24
+- [Multi-scale Numerical Simulation of Storm-driven Sediment Transport, Resuspension and Dispersal Dynamics](https://iopscience.iop.org/article/10.1088/2515-7620/ae902e/pdf) · 2026-07-24
 - [Mid-Century Projections of Waves and Water Levels Highlight the Dominant Role of Sea-Level Rise in the Salish Sea](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3369/egusphere-2026-3369.pdf) · 2026-07-22
 - [Two parameter analytical framework for surface layer salinity assessment in highly stratified microtidal estuary](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1816936/pdf) · 2026-07-21
 - [Machine Learning for Water and Environmental Modeling in the Sacramento–San Joaquin Delta of California: A 30-Year Retrospective and Future Prospects](https://www.mdpi.com/2073-4441/18/14/1763/pdf?version=1784638277) · 2026-07-21
-- [Review article: Global flood research across four decades: An analysis of 57,474 research articles based on a large language model](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3343/egusphere-2026-3343.pdf) · 2026-07-16
-- [Assessing lagoon plume dispersion under variable metocean conditions](https://www.frontiersin.org/journals/environmental-engineering/articles/10.3389/fenve.2026.1882143/pdf) · 2026-07-16
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
