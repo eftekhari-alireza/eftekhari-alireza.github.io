@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-07-28** · Showing results since **2025**_
+_Last update: **2026-07-29** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -40,10 +40,10 @@ _Last update: **2026-07-28** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [Brine Discharge from Desalination Plants: Environmental Contaminants, Pollution Control Processes and Mitigation Strategies](https://www.mdpi.com/2227-9717/14/15/2391/pdf?version=1784895196) · 2026-07-24
+- [Assessing the hazard of saltwater intrusion in coastal regions of the Red-Thai Binh River Basin, Vietnam](https://doi.org/10.2166/wpt.2026.379) · 2026-07-18
 - [Review article: Global flood research across four decades: An analysis of 57,474 research articles based on a large language model](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3343/egusphere-2026-3343.pdf) · 2026-07-16
 - [Multi-Type Microplastic Migration Model Driven by River Hydrodynamic Conditions](https://www.mdpi.com/2305-6304/14/7/600/pdf?version=1783593421) · 2026-07-09
 - [The impact of land subsiding on pluvial flooding in a mega-city: a century of evidence from Shanghai](https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2699011?needAccess=true) · 2026-07-09
-- [Microscale coastal flood risk assessment methods amid climate change](https://link.springer.com/content/pdf/10.1007/s44312-026-00083-8.pdf) · 2026-07-09
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

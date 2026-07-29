@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "year_from": 2025,
   "items": [
     {
@@ -121,6 +121,12 @@
           "link": "https://www.mdpi.com/2227-9717/14/15/2391/pdf?version=1784895196"
         },
         {
+          "title": "Assessing the hazard of saltwater intrusion in coastal regions of the Red-Thai Binh River Basin, Vietnam",
+          "date": "2026-07-18",
+          "venue": "",
+          "link": "https://doi.org/10.2166/wpt.2026.379"
+        },
+        {
           "title": "Review article: Global flood research across four decades: An analysis of 57,474 research articles based on a large language model",
           "date": "2026-07-16",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-07-09",
           "venue": "",
           "link": "https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2699011?needAccess=true"
-        },
-        {
-          "title": "Microscale coastal flood risk assessment methods amid climate change",
-          "date": "2026-07-09",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s44312-026-00083-8.pdf"
         }
       ]
     },
