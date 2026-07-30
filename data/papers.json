@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "year_from": 2025,
   "items": [
     {
@@ -115,6 +115,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Dynamic Coupling of Topographic Stability and Socio-Economic Exposure in Flood Risk Mapping: A Decadal Analysis of Honghu Dong Flood Detention Basin, Yangtze River (2014\u20132024)",
+          "date": "2026-07-27",
+          "venue": "",
+          "link": "https://www.e3s-conferences.org/10.1051/e3sconf/202672801002/pdf"
+        },
+        {
           "title": "Brine Discharge from Desalination Plants: Environmental Contaminants, Pollution Control Processes and Mitigation Strategies",
           "date": "2026-07-24",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-07-09",
           "venue": "",
           "link": "https://www.mdpi.com/2305-6304/14/7/600/pdf?version=1783593421"
-        },
-        {
-          "title": "The impact of land subsiding on pluvial flooding in a mega-city: a century of evidence from Shanghai",
-          "date": "2026-07-09",
-          "venue": "",
-          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2699011?needAccess=true"
         }
       ]
     },
