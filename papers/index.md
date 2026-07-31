@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-07-30** · Showing results since **2025**_
+_Last update: **2026-07-31** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -29,11 +29,11 @@ _Last update: **2026-07-30** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Concurrent 3D modelling and AI-based forecasting of storm surge and urban flooding - a case study of Super Typhoon Ragasa (2518)](https://www.sciencedirect.com/science/article/pii/S0141118726002646/pdf) · 2026-07-28
 - [Multi-scale Numerical Simulation of Storm-driven Sediment Transport, Resuspension and Dispersal Dynamics](https://iopscience.iop.org/article/10.1088/2515-7620/ae902e/pdf) · 2026-07-24
 - [Two parameter analytical framework for surface layer salinity assessment in highly stratified microtidal estuary](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1816936/pdf) · 2026-07-21
 - [cSINGV v1.0: Development and evaluation of a 1.5 km coupled atmosphere-ocean-wave modelling system for the Western Maritime Continent](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2024/egusphere-2026-2024.pdf) · 2026-07-21
 - [A Review of Medium–Long-Term Wind Energy Projection](https://www.mdpi.com/2077-1312/14/14/1333/pdf?version=1784554912) · 2026-07-20
-- [Neural-Network-Based Prediction of Wave Heights and Periods Southeast of Fujian Province](https://www.mdpi.com/2673-1924/7/4/61/pdf?version=1784017338) · 2026-07-14
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -71,6 +71,6 @@ _Last update: **2026-07-30** · Showing results since **2025**_
 **Recent items (OpenAlex):**
 - [cSINGV v1.0: Development and evaluation of a 1.5 km coupled atmosphere-ocean-wave modelling system for the Western Maritime Continent](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2024/egusphere-2026-2024.pdf) · 2026-07-21
 - [Performance evaluation of an offshore wave measurement buoy in monochromatic waves](https://doi.org/10.1016/j.oceaneng.2026.127021) · 2026-07-20
+- [An unstructured wave model on a mountainous coast: Wave propagation, coastal sheltering and wave growth in narrow fetch](https://doi.org/10.1016/j.coastaleng.2026.105116) · 2026-07-16
 - [Neural-Network-Based Prediction of Wave Heights and Periods Southeast of Fujian Province](https://www.mdpi.com/2673-1924/7/4/61/pdf?version=1784017338) · 2026-07-14
 - [On the Tropical Nature of an Intense Mediterranean Cyclone in the Ocean‐Atmosphere System](https://doi.org/10.5194/ems2025-545) · 2026-07-14
-- [Detection of High-Energy Marine Zones and Correlation Analysis of Ocean Parameters in the Indian EEZ](https://www.ijert.org/detection-of-high-energy-marine-zones-and-correlation-analysis-of-ocean-parameters-in-the-indian-eez) · 2026-07-14
