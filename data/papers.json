@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Microplastic loading, weathering, extraction, and environmental fate in estuarine systems",
+          "date": "2026-07-31",
+          "venue": "",
+          "link": "https://doi.org/10.7282/t3-3ww8-4220"
+        },
+        {
+          "title": "ADWEE: a novel dimension reduction paradigm for high-fidelity hybrid testing of marine flexible structures",
+          "date": "2026-07-30",
+          "venue": "",
+          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2709288?needAccess=true"
+        },
+        {
           "title": "The influence of flax fiber size effect on progressive damage models",
           "date": "2026-07-23",
           "venue": "",
@@ -59,18 +71,6 @@
           "date": "2026-07-21",
           "venue": "",
           "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2467/egusphere-2026-2467.pdf"
-        },
-        {
-          "title": "Two parameter analytical framework for surface layer salinity assessment in highly stratified microtidal estuary",
-          "date": "2026-07-21",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1816936/pdf"
-        },
-        {
-          "title": "First expedition Jaywun research vessel: assessment of microplastics from international waters, Spain to Abu Dhabi, U.A.E",
-          "date": "2026-07-21",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1856396/pdf"
         }
       ]
     },
@@ -223,6 +223,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Digital twin for coastal cities: an evaluation from a stakeholder perspective",
+          "date": "2026-07-31",
+          "venue": "",
+          "link": "https://www.tandfonline.com/doi/pdf/10.1080/29931495.2026.2702755?needAccess=true"
+        },
+        {
           "title": "cSINGV v1.0: Development and evaluation of a 1.5 km coupled atmosphere-ocean-wave modelling system for the Western Maritime Continent",
           "date": "2026-07-21",
           "venue": "",
@@ -245,12 +251,6 @@
           "date": "2026-07-14",
           "venue": "",
           "link": "https://www.mdpi.com/2673-1924/7/4/61/pdf?version=1784017338"
-        },
-        {
-          "title": "On the Tropical Nature of an Intense Mediterranean Cyclone in the Ocean\u2010Atmosphere System",
-          "date": "2026-07-14",
-          "venue": "",
-          "link": "https://doi.org/10.1029/2025jd046105"
         }
       ]
     }
