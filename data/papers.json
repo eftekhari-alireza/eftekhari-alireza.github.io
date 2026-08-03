@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Harvesting water in a cyclone chimney designed by means of meta-optimization based on sustainability criteria",
+          "date": "2026-08-01",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0378475426003265/pdf"
+        },
+        {
+          "title": "Untangling the effects of vertical mixing schemes and convective adjustment in the Mediterranean Sea: insights from a sensitivity study",
+          "date": "2026-07-31",
+          "venue": "",
+          "link": "https://gmd.copernicus.org/articles/19/7041/2026/gmd-19-7041-2026.pdf"
+        },
+        {
           "title": "Microplastic loading, weathering, extraction, and environmental fate in estuarine systems",
           "date": "2026-07-31",
           "venue": "",
@@ -59,18 +71,6 @@
           "date": "2026-07-23",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1186/s44147-025-00858-8.pdf"
-        },
-        {
-          "title": "A Generalizable Lie Autoencoder for Emulating Barotropic Turbulence",
-          "date": "2026-07-22",
-          "venue": "",
-          "link": "https://eartharxiv.org/repository/object/14067/download/24649/"
-        },
-        {
-          "title": "Wide-swath satellite altimetry and novel subsurface temperature observations improve predictions in a dynamic western boundary current: System optimization and performance",
-          "date": "2026-07-21",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2467/egusphere-2026-2467.pdf"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Wave Climate Characterisation across the Coastline of North Java and Its Implications for Coastal Management",
+          "date": "2026-07-31",
+          "venue": "",
+          "link": "https://jidmis.org/index.php/jidmis/article/download/1177/381"
+        },
+        {
           "title": "Brine Discharge from Desalination Plants: Environmental Contaminants, Pollution Control Processes and Mitigation Strategies",
           "date": "2026-07-24",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-07-21",
           "venue": "",
           "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1816936/pdf"
-        },
-        {
-          "title": "Machine Learning for Water and Environmental Modeling in the Sacramento\u2013San Joaquin Delta of California: A 30-Year Retrospective and Future Prospects",
-          "date": "2026-07-21",
-          "venue": "",
-          "link": "https://www.mdpi.com/2073-4441/18/14/1763/pdf?version=1784638277"
         }
       ]
     },
@@ -222,6 +222,18 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Untangling the effects of vertical mixing schemes and convective adjustment in the Mediterranean Sea: insights from a sensitivity study",
+          "date": "2026-07-31",
+          "venue": "",
+          "link": "https://gmd.copernicus.org/articles/19/7041/2026/gmd-19-7041-2026.pdf"
+        },
+        {
+          "title": "Arctic Coastal Observing: Assimilating Buoy vs. Fiber Cable Data into Wave Forecast Model",
+          "date": "2026-07-31",
+          "venue": "",
+          "link": "https://www.mdpi.com/2077-1312/14/15/1408/pdf?version=1785491632"
+        },
         {
           "title": "Digital twin for coastal cities: an evaluation from a stakeholder perspective",
           "date": "2026-07-31",
@@ -239,18 +251,6 @@
           "date": "2026-07-20",
           "venue": "",
           "link": "https://doi.org/10.1016/j.oceaneng.2026.127021"
-        },
-        {
-          "title": "An unstructured wave model on a mountainous coast: Wave propagation, coastal sheltering and wave growth in narrow fetch",
-          "date": "2026-07-16",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.coastaleng.2026.105116"
-        },
-        {
-          "title": "Neural-Network-Based Prediction of Wave Heights and Periods Southeast of Fujian Province",
-          "date": "2026-07-14",
-          "venue": "",
-          "link": "https://www.mdpi.com/2673-1924/7/4/61/pdf?version=1784017338"
         }
       ]
     }

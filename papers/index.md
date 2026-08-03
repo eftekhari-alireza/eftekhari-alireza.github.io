@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-02** · Showing results since **2025**_
+_Last update: **2026-08-03** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-08-02** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Harvesting water in a cyclone chimney designed by means of meta-optimization based on sustainability criteria](https://www.sciencedirect.com/science/article/pii/S0378475426003265/pdf) · 2026-08-01
+- [Untangling the effects of vertical mixing schemes and convective adjustment in the Mediterranean Sea: insights from a sensitivity study](https://gmd.copernicus.org/articles/19/7041/2026/gmd-19-7041-2026.pdf) · 2026-07-31
 - [Microplastic loading, weathering, extraction, and environmental fate in estuarine systems](https://doi.org/10.7282/t3-3ww8-4220) · 2026-07-31
 - [ADWEE: a novel dimension reduction paradigm for high-fidelity hybrid testing of marine flexible structures](https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2709288?needAccess=true) · 2026-07-30
 - [The influence of flax fiber size effect on progressive damage models](https://link.springer.com/content/pdf/10.1186/s44147-025-00858-8.pdf) · 2026-07-23
-- [A Generalizable Lie Autoencoder for Emulating Barotropic Turbulence](https://eartharxiv.org/repository/object/14067/download/24649/) · 2026-07-22
-- [Wide-swath satellite altimetry and novel subsurface temperature observations improve predictions in a dynamic western boundary current: System optimization and performance](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2467/egusphere-2026-2467.pdf) · 2026-07-21
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,18 +59,18 @@ _Last update: **2026-08-02** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Wave Climate Characterisation across the Coastline of North Java and Its Implications for Coastal Management](https://jidmis.org/index.php/jidmis/article/download/1177/381) · 2026-07-31
 - [Brine Discharge from Desalination Plants: Environmental Contaminants, Pollution Control Processes and Mitigation Strategies](https://www.mdpi.com/2227-9717/14/15/2391/pdf?version=1784895196) · 2026-07-24
 - [Multi-scale Numerical Simulation of Storm-driven Sediment Transport, Resuspension and Dispersal Dynamics](https://iopscience.iop.org/article/10.1088/2515-7620/ae902e/pdf) · 2026-07-24
 - [Mid-Century Projections of Waves and Water Levels Highlight the Dominant Role of Sea-Level Rise in the Salish Sea](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3369/egusphere-2026-3369.pdf) · 2026-07-22
 - [Two parameter analytical framework for surface layer salinity assessment in highly stratified microtidal estuary](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1816936/pdf) · 2026-07-21
-- [Machine Learning for Water and Environmental Modeling in the Sacramento–San Joaquin Delta of California: A 30-Year Retrospective and Future Prospects](https://www.mdpi.com/2073-4441/18/14/1763/pdf?version=1784638277) · 2026-07-21
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Untangling the effects of vertical mixing schemes and convective adjustment in the Mediterranean Sea: insights from a sensitivity study](https://gmd.copernicus.org/articles/19/7041/2026/gmd-19-7041-2026.pdf) · 2026-07-31
+- [Arctic Coastal Observing: Assimilating Buoy vs. Fiber Cable Data into Wave Forecast Model](https://www.mdpi.com/2077-1312/14/15/1408/pdf?version=1785491632) · 2026-07-31
 - [Digital twin for coastal cities: an evaluation from a stakeholder perspective](https://www.tandfonline.com/doi/pdf/10.1080/29931495.2026.2702755?needAccess=true) · 2026-07-31
 - [cSINGV v1.0: Development and evaluation of a 1.5 km coupled atmosphere-ocean-wave modelling system for the Western Maritime Continent](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2024/egusphere-2026-2024.pdf) · 2026-07-21
 - [Performance evaluation of an offshore wave measurement buoy in monochromatic waves](https://doi.org/10.1016/j.oceaneng.2026.127021) · 2026-07-20
-- [An unstructured wave model on a mountainous coast: Wave propagation, coastal sheltering and wave growth in narrow fetch](https://doi.org/10.1016/j.coastaleng.2026.105116) · 2026-07-16
-- [Neural-Network-Based Prediction of Wave Heights and Periods Southeast of Fujian Province](https://www.mdpi.com/2673-1924/7/4/61/pdf?version=1784017338) · 2026-07-14
