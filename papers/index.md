@@ -3,17 +3,17 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-03** · Showing results since **2025**_
+_Last update: **2026-08-04** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [An unstructured-grid, nonhydrostatic, GVC ocean model Part I: Model description and application of vertical hybrid coordinates to internal solitary waves](https://arxiv.org/pdf/2607.28356) · 2026-07-30
 - [A Generalizable Lie Autoencoder for Emulating Barotropic Turbulence](https://eartharxiv.org/repository/object/14067/download/24649/) · 2026-07-22
 - [Simulating deep convective plumes in the framework of a Quasi-Non-Hydrostatic modelling: a heuristic approach](https://www.researchsquare.com/article/rs-10129263/latest.pdf) · 2026-07-15
 - [On the Tropical Nature of an Intense Mediterranean Cyclone in the Ocean‐Atmosphere System](https://doi.org/10.1029/2025jd046105) · 2026-07-14
 - [Unraveling the implementation of episodic hypoxia events in a coastal ecosystem under anthropogenic nutrient loads](https://doi.org/10.1016/j.marenvres.2026.108275) · 2026-07-11
-- [Seasonal circulation and water exchange with the Southern South China Sea of the Gulf of Thailand](https://doi.org/10.2139/ssrn.4934768) · 2026-07-07
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -22,18 +22,18 @@ _Last update: **2026-08-03** · Showing results since **2025**_
 - [Harvesting water in a cyclone chimney designed by means of meta-optimization based on sustainability criteria](https://www.sciencedirect.com/science/article/pii/S0378475426003265/pdf) · 2026-08-01
 - [Untangling the effects of vertical mixing schemes and convective adjustment in the Mediterranean Sea: insights from a sensitivity study](https://gmd.copernicus.org/articles/19/7041/2026/gmd-19-7041-2026.pdf) · 2026-07-31
 - [Microplastic loading, weathering, extraction, and environmental fate in estuarine systems](https://doi.org/10.7282/t3-3ww8-4220) · 2026-07-31
+- [An unstructured-grid, nonhydrostatic, GVC ocean model Part I: Model description and application of vertical hybrid coordinates to internal solitary waves](https://arxiv.org/pdf/2607.28356) · 2026-07-30
 - [ADWEE: a novel dimension reduction paradigm for high-fidelity hybrid testing of marine flexible structures](https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2709288?needAccess=true) · 2026-07-30
-- [The influence of flax fiber size effect on progressive damage models](https://link.springer.com/content/pdf/10.1186/s44147-025-00858-8.pdf) · 2026-07-23
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [An unstructured-grid, nonhydrostatic, GVC ocean model Part I: Model description and application of vertical hybrid coordinates to internal solitary waves](https://arxiv.org/pdf/2607.28356) · 2026-07-30
 - [Concurrent 3D modelling and AI-based forecasting of storm surge and urban flooding - a case study of Super Typhoon Ragasa (2518)](https://www.sciencedirect.com/science/article/pii/S0141118726002646/pdf) · 2026-07-28
 - [Multi-scale Numerical Simulation of Storm-driven Sediment Transport, Resuspension and Dispersal Dynamics](https://iopscience.iop.org/article/10.1088/2515-7620/ae902e/pdf) · 2026-07-24
 - [Key Parameters and Structural Characteristics Governing Tornado and Extreme Wind Loads: A Comprehensive Review](https://www.mdpi.com/2673-4109/7/3/47/pdf?version=1784725169) · 2026-07-22
 - [Two parameter analytical framework for surface layer salinity assessment in highly stratified microtidal estuary](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1816936/pdf) · 2026-07-21
-- [cSINGV v1.0: Development and evaluation of a 1.5 km coupled atmosphere-ocean-wave modelling system for the Western Maritime Continent](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2024/egusphere-2026-2024.pdf) · 2026-07-21
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -41,9 +41,9 @@ _Last update: **2026-08-03** · Showing results since **2025**_
 **Recent items (OpenAlex):**
 - [Dynamic Coupling of Topographic Stability and Socio-Economic Exposure in Flood Risk Mapping: A Decadal Analysis of Honghu Dong Flood Detention Basin, Yangtze River (2014–2024)](https://www.e3s-conferences.org/10.1051/e3sconf/202672801002/pdf) · 2026-07-27
 - [Brine Discharge from Desalination Plants: Environmental Contaminants, Pollution Control Processes and Mitigation Strategies](https://www.mdpi.com/2227-9717/14/15/2391/pdf?version=1784895196) · 2026-07-24
-- [Assessing the hazard of saltwater intrusion in coastal regions of the Red-Thai Binh River Basin, Vietnam](https://doi.org/10.2166/wpt.2026.379) · 2026-07-18
 - [Review article: Global flood research across four decades: An analysis of 57,474 research articles based on a large language model](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3343/egusphere-2026-3343.pdf) · 2026-07-16
 - [Multi-Type Microplastic Migration Model Driven by River Hydrodynamic Conditions](https://www.mdpi.com/2305-6304/14/7/600/pdf?version=1783593421) · 2026-07-09
+- [The impact of land subsiding on pluvial flooding in a mega-city: a century of evidence from Shanghai](https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2699011?needAccess=true) · 2026-07-09
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
