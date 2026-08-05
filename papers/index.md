@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-04** · Showing results since **2025**_
+_Last update: **2026-08-05** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -60,10 +60,10 @@ _Last update: **2026-08-04** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [Wave Climate Characterisation across the Coastline of North Java and Its Implications for Coastal Management](https://jidmis.org/index.php/jidmis/article/download/1177/381) · 2026-07-31
+- [Morphodynamic Recovery Debt Accumulation and Infrastructure Sustainability Vulnerability across Dam Estuary Port Systems](https://journalfjmr.my.id/index.php/fjmr/article/download/155/531) · 2026-07-30
 - [Brine Discharge from Desalination Plants: Environmental Contaminants, Pollution Control Processes and Mitigation Strategies](https://www.mdpi.com/2227-9717/14/15/2391/pdf?version=1784895196) · 2026-07-24
 - [Multi-scale Numerical Simulation of Storm-driven Sediment Transport, Resuspension and Dispersal Dynamics](https://iopscience.iop.org/article/10.1088/2515-7620/ae902e/pdf) · 2026-07-24
 - [Mid-Century Projections of Waves and Water Levels Highlight the Dominant Role of Sea-Level Rise in the Salish Sea](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3369/egusphere-2026-3369.pdf) · 2026-07-22
-- [Two parameter analytical framework for surface layer salinity assessment in highly stratified microtidal estuary](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1816936/pdf) · 2026-07-21
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
