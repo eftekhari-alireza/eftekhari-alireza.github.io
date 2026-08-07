@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-06** · Showing results since **2025**_
+_Last update: **2026-08-07** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2026-08-06** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Hydrodynamic, sediment transport and water residence time changes in response to structural changes (Anzali Port–Wetland System)](https://link.springer.com/content/pdf/10.1007/s12665-026-13062-5.pdf) · 2026-08-04
+- [Review on flood and waterlogging disasters in underground metros in large cities of China](https://www.sciencedirect.com/science/article/pii/S2467967426000917/pdf) · 2026-08-01
+- [UAV photogrammetry for riverine analysis: A systematic review of methodologies, accuracy, and challenges](https://ejournal.foundae.com/index.php/jgsa/article/download/115/120) · 2026-07-28
 - [Dynamic Coupling of Topographic Stability and Socio-Economic Exposure in Flood Risk Mapping: A Decadal Analysis of Honghu Dong Flood Detention Basin, Yangtze River (2014–2024)](https://www.e3s-conferences.org/10.1051/e3sconf/202672801002/pdf) · 2026-07-27
 - [Brine Discharge from Desalination Plants: Environmental Contaminants, Pollution Control Processes and Mitigation Strategies](https://www.mdpi.com/2227-9717/14/15/2391/pdf?version=1784895196) · 2026-07-24
-- [Review article: Global flood research across four decades: An analysis of 57,474 research articles based on a large language model](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3343/egusphere-2026-3343.pdf) · 2026-07-16
-- [Multi-Type Microplastic Migration Model Driven by River Hydrodynamic Conditions](https://www.mdpi.com/2305-6304/14/7/600/pdf?version=1783593421) · 2026-07-09
-- [The impact of land subsiding on pluvial flooding in a mega-city: a century of evidence from Shanghai](https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2699011?needAccess=true) · 2026-07-09
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -61,9 +61,9 @@ _Last update: **2026-08-06** · Showing results since **2025**_
 **Recent items (OpenAlex):**
 - [Wave Climate Characterisation across the Coastline of North Java and Its Implications for Coastal Management](https://jidmis.org/index.php/jidmis/article/download/1177/381) · 2026-07-31
 - [Morphodynamic Recovery Debt Accumulation and Infrastructure Sustainability Vulnerability across Dam Estuary Port Systems](https://journalfjmr.my.id/index.php/fjmr/article/download/155/531) · 2026-07-30
+- [UAV photogrammetry for riverine analysis: A systematic review of methodologies, accuracy, and challenges](https://ejournal.foundae.com/index.php/jgsa/article/download/115/120) · 2026-07-28
 - [Brine Discharge from Desalination Plants: Environmental Contaminants, Pollution Control Processes and Mitigation Strategies](https://www.mdpi.com/2227-9717/14/15/2391/pdf?version=1784895196) · 2026-07-24
 - [Multi-scale Numerical Simulation of Storm-driven Sediment Transport, Resuspension and Dispersal Dynamics](https://iopscience.iop.org/article/10.1088/2515-7620/ae902e/pdf) · 2026-07-24
-- [Mid-Century Projections of Waves and Water Levels Highlight the Dominant Role of Sea-Level Rise in the Salish Sea](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3369/egusphere-2026-3369.pdf) · 2026-07-22
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

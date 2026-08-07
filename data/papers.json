@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "year_from": 2025,
   "items": [
     {
@@ -115,6 +115,24 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Hydrodynamic, sediment transport and water residence time changes in response to structural changes (Anzali Port\u2013Wetland System)",
+          "date": "2026-08-04",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s12665-026-13062-5.pdf"
+        },
+        {
+          "title": "Review on flood and waterlogging disasters in underground metros in large cities of China",
+          "date": "2026-08-01",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2467967426000917/pdf"
+        },
+        {
+          "title": "UAV photogrammetry for riverine analysis: A systematic review of methodologies, accuracy, and challenges",
+          "date": "2026-07-28",
+          "venue": "",
+          "link": "https://ejournal.foundae.com/index.php/jgsa/article/download/115/120"
+        },
+        {
           "title": "Dynamic Coupling of Topographic Stability and Socio-Economic Exposure in Flood Risk Mapping: A Decadal Analysis of Honghu Dong Flood Detention Basin, Yangtze River (2014\u20132024)",
           "date": "2026-07-27",
           "venue": "",
@@ -125,24 +143,6 @@
           "date": "2026-07-24",
           "venue": "",
           "link": "https://www.mdpi.com/2227-9717/14/15/2391/pdf?version=1784895196"
-        },
-        {
-          "title": "Review article: Global flood research across four decades: An analysis of 57,474 research articles based on a large language model",
-          "date": "2026-07-16",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3343/egusphere-2026-3343.pdf"
-        },
-        {
-          "title": "Multi-Type Microplastic Migration Model Driven by River Hydrodynamic Conditions",
-          "date": "2026-07-09",
-          "venue": "",
-          "link": "https://www.mdpi.com/2305-6304/14/7/600/pdf?version=1783593421"
-        },
-        {
-          "title": "The impact of land subsiding on pluvial flooding in a mega-city: a century of evidence from Shanghai",
-          "date": "2026-07-09",
-          "venue": "",
-          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2699011?needAccess=true"
         }
       ]
     },
@@ -199,6 +199,12 @@
           "link": "https://journalfjmr.my.id/index.php/fjmr/article/download/155/531"
         },
         {
+          "title": "UAV photogrammetry for riverine analysis: A systematic review of methodologies, accuracy, and challenges",
+          "date": "2026-07-28",
+          "venue": "",
+          "link": "https://ejournal.foundae.com/index.php/jgsa/article/download/115/120"
+        },
+        {
           "title": "Brine Discharge from Desalination Plants: Environmental Contaminants, Pollution Control Processes and Mitigation Strategies",
           "date": "2026-07-24",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-07-24",
           "venue": "",
           "link": "https://iopscience.iop.org/article/10.1088/2515-7620/ae902e/pdf"
-        },
-        {
-          "title": "Mid-Century Projections of Waves and Water Levels Highlight the Dominant Role of Sea-Level Rise in the Salish Sea",
-          "date": "2026-07-22",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3369/egusphere-2026-3369.pdf"
         }
       ]
     },
