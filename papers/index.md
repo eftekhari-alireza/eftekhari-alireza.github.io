@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-07** · Showing results since **2025**_
+_Last update: **2026-08-08** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-08-07** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [FESOM2-JAX v1.0: a differentiable shadow of the ocean-sea-ice model FESOM2, cast onto GPUs](https://arxiv.org/pdf/2608.01546) · 2026-08-02
 - [Harvesting water in a cyclone chimney designed by means of meta-optimization based on sustainability criteria](https://www.sciencedirect.com/science/article/pii/S0378475426003265/pdf) · 2026-08-01
 - [Untangling the effects of vertical mixing schemes and convective adjustment in the Mediterranean Sea: insights from a sensitivity study](https://gmd.copernicus.org/articles/19/7041/2026/gmd-19-7041-2026.pdf) · 2026-07-31
 - [Microplastic loading, weathering, extraction, and environmental fate in estuarine systems](https://doi.org/10.7282/t3-3ww8-4220) · 2026-07-31
 - [An unstructured-grid, nonhydrostatic, GVC ocean model Part I: Model description and application of vertical hybrid coordinates to internal solitary waves](https://arxiv.org/pdf/2607.28356) · 2026-07-30
-- [ADWEE: a novel dimension reduction paradigm for high-fidelity hybrid testing of marine flexible structures](https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2709288?needAccess=true) · 2026-07-30
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

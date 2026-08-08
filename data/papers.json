@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "FESOM2-JAX v1.0: a differentiable shadow of the ocean-sea-ice model FESOM2, cast onto GPUs",
+          "date": "2026-08-02",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2608.01546"
+        },
+        {
           "title": "Harvesting water in a cyclone chimney designed by means of meta-optimization based on sustainability criteria",
           "date": "2026-08-01",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-07-30",
           "venue": "",
           "link": "https://arxiv.org/pdf/2607.28356"
-        },
-        {
-          "title": "ADWEE: a novel dimension reduction paradigm for high-fidelity hybrid testing of marine flexible structures",
-          "date": "2026-07-30",
-          "venue": "",
-          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2709288?needAccess=true"
         }
       ]
     },
