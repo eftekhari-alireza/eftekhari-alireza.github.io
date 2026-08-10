@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-09** · Showing results since **2025**_
+_Last update: **2026-08-10** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -29,7 +29,7 @@ _Last update: **2026-08-09** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [Numerical modeling of hydrodynamics and water quality in tropical urban estuaries: A review with emphasis on sanitation and coastal management](https://doi.org/10.1016/j.ecohyd.2026.100793) · 2026-08-07
+- [Numerical modeling of hydrodynamics and water quality in tropical urban estuaries: A review with emphasis on sanitation and coastal management](https://www.sciencedirect.com/science/article/pii/S1642359326000674/pdf) · 2026-08-07
 - [An unstructured-grid, nonhydrostatic, GVC ocean model Part I: Model description and application of vertical hybrid coordinates to internal solitary waves](https://arxiv.org/pdf/2607.28356) · 2026-07-30
 - [Concurrent 3D modelling and AI-based forecasting of storm surge and urban flooding - a case study of Super Typhoon Ragasa (2518)](https://www.sciencedirect.com/science/article/pii/S0141118726002646/pdf) · 2026-07-28
 - [Multi-scale numerical simulation of storm-driven sediment transport, resuspension and dispersal dynamics](https://iopscience.iop.org/article/10.1088/2515-7620/ae902e/pdf) · 2026-07-24
@@ -59,7 +59,7 @@ _Last update: **2026-08-09** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [Numerical modeling of hydrodynamics and water quality in tropical urban estuaries: A review with emphasis on sanitation and coastal management](https://doi.org/10.1016/j.ecohyd.2026.100793) · 2026-08-07
+- [Numerical modeling of hydrodynamics and water quality in tropical urban estuaries: A review with emphasis on sanitation and coastal management](https://www.sciencedirect.com/science/article/pii/S1642359326000674/pdf) · 2026-08-07
 - [A critical review of mathematical, statistical, and AI approaches to river pollution modelling for climate-resilient water management](https://www.sciencedirect.com/science/article/pii/S221209632600077X/pdf) · 2026-08-01
 - [Wave Climate Characterisation across the Coastline of North Java and Its Implications for Coastal Management](https://jidmis.org/index.php/jidmis/article/download/1177/381) · 2026-07-31
 - [Morphodynamic Recovery Debt Accumulation and Infrastructure Sustainability Vulnerability across Dam Estuary Port Systems](https://journalfjmr.my.id/index.php/fjmr/article/download/155/531) · 2026-07-30
