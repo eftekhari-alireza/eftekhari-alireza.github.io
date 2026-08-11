@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-10** · Showing results since **2025**_
+_Last update: **2026-08-11** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-08-10** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [A systematic review and comparative assessment of optimization algorithms in geotechnical engineering with a benchmark foundation design case study](https://link.springer.com/content/pdf/10.1007/s44288-026-00642-y.pdf) · 2026-08-08
 - [Hydrodynamics-aware formation control for energy-efficient multi-vessel systems: A review](https://www.sciencedirect.com/science/article/pii/S0029801826031653/pdf) · 2026-08-05
 - [FESOM2-JAX v1.0: a differentiable shadow of the ocean-sea-ice model FESOM2, cast onto GPUs](https://arxiv.org/pdf/2608.01546) · 2026-08-02
 - [Harvesting water in a cyclone chimney designed by means of meta-optimization based on sustainability criteria](https://www.sciencedirect.com/science/article/pii/S0378475426003265/pdf) · 2026-08-01
 - [Untangling the effects of vertical mixing schemes and convective adjustment in the Mediterranean Sea: insights from a sensitivity study](https://gmd.copernicus.org/articles/19/7041/2026/gmd-19-7041-2026.pdf) · 2026-07-31
-- [Microplastic loading, weathering, extraction, and environmental fate in estuarine systems](https://doi.org/10.7282/t3-3ww8-4220) · 2026-07-31
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

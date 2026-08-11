@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "A systematic review and comparative assessment of optimization algorithms in geotechnical engineering with a benchmark foundation design case study",
+          "date": "2026-08-08",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s44288-026-00642-y.pdf"
+        },
+        {
           "title": "Hydrodynamics-aware formation control for energy-efficient multi-vessel systems: A review",
           "date": "2026-08-05",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-07-31",
           "venue": "",
           "link": "https://gmd.copernicus.org/articles/19/7041/2026/gmd-19-7041-2026.pdf"
-        },
-        {
-          "title": "Microplastic loading, weathering, extraction, and environmental fate in estuarine systems",
-          "date": "2026-07-31",
-          "venue": "",
-          "link": "https://doi.org/10.7282/t3-3ww8-4220"
         }
       ]
     },
