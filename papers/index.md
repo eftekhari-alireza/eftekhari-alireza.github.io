@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-11** · Showing results since **2025**_
+_Last update: **2026-08-12** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-08-11** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Inclined gabion drops improve hydraulic performance relative to conventional USBR stilling basins under variable flow conditions](https://www.nature.com/articles/s41598-026-66398-0_reference.pdf) · 2026-08-10
 - [A systematic review and comparative assessment of optimization algorithms in geotechnical engineering with a benchmark foundation design case study](https://link.springer.com/content/pdf/10.1007/s44288-026-00642-y.pdf) · 2026-08-08
 - [Hydrodynamics-aware formation control for energy-efficient multi-vessel systems: A review](https://www.sciencedirect.com/science/article/pii/S0029801826031653/pdf) · 2026-08-05
 - [FESOM2-JAX v1.0: a differentiable shadow of the ocean-sea-ice model FESOM2, cast onto GPUs](https://arxiv.org/pdf/2608.01546) · 2026-08-02
 - [Harvesting water in a cyclone chimney designed by means of meta-optimization based on sustainability criteria](https://www.sciencedirect.com/science/article/pii/S0378475426003265/pdf) · 2026-08-01
-- [Untangling the effects of vertical mixing schemes and convective adjustment in the Mediterranean Sea: insights from a sensitivity study](https://gmd.copernicus.org/articles/19/7041/2026/gmd-19-7041-2026.pdf) · 2026-07-31
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,8 +39,8 @@ _Last update: **2026-08-11** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [A critical review of mathematical, statistical, and AI approaches to river pollution modelling for climate-resilient water management](https://www.sciencedirect.com/science/article/pii/S221209632600077X/pdf) · 2026-08-05
 - [Hydrodynamic, sediment transport and water residence time changes in response to structural changes (Anzali Port–Wetland System)](https://link.springer.com/content/pdf/10.1007/s12665-026-13062-5.pdf) · 2026-08-04
-- [A critical review of mathematical, statistical, and AI approaches to river pollution modelling for climate-resilient water management](https://www.sciencedirect.com/science/article/pii/S221209632600077X/pdf) · 2026-08-01
 - [Review on flood and waterlogging disasters in underground metros in large cities of China](https://www.sciencedirect.com/science/article/pii/S2467967426000917/pdf) · 2026-08-01
 - [UAV photogrammetry for riverine analysis: A systematic review of methodologies, accuracy, and challenges](https://ejournal.foundae.com/index.php/jgsa/article/download/115/120) · 2026-07-28
 - [Dynamic Coupling of Topographic Stability and Socio-Economic Exposure in Flood Risk Mapping: A Decadal Analysis of Honghu Dong Flood Detention Basin, Yangtze River (2014–2024)](https://www.e3s-conferences.org/10.1051/e3sconf/202672801002/pdf) · 2026-07-27
@@ -60,7 +60,7 @@ _Last update: **2026-08-11** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [Numerical modeling of hydrodynamics and water quality in tropical urban estuaries: A review with emphasis on sanitation and coastal management](https://www.sciencedirect.com/science/article/pii/S1642359326000674/pdf) · 2026-08-07
-- [A critical review of mathematical, statistical, and AI approaches to river pollution modelling for climate-resilient water management](https://www.sciencedirect.com/science/article/pii/S221209632600077X/pdf) · 2026-08-01
+- [A critical review of mathematical, statistical, and AI approaches to river pollution modelling for climate-resilient water management](https://www.sciencedirect.com/science/article/pii/S221209632600077X/pdf) · 2026-08-05
 - [Wave Climate Characterisation across the Coastline of North Java and Its Implications for Coastal Management](https://jidmis.org/index.php/jidmis/article/download/1177/381) · 2026-07-31
 - [Morphodynamic Recovery Debt Accumulation and Infrastructure Sustainability Vulnerability across Dam Estuary Port Systems](https://journalfjmr.my.id/index.php/fjmr/article/download/155/531) · 2026-07-30
 - [UAV photogrammetry for riverine analysis: A systematic review of methodologies, accuracy, and challenges](https://ejournal.foundae.com/index.php/jgsa/article/download/115/120) · 2026-07-28
