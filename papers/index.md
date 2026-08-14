@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-13** · Showing results since **2025**_
+_Last update: **2026-08-14** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-08-13** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Simulation and risk assessment of oil spill adsorption along complex coastlines in multi-island areas](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1900700/pdf) · 2026-08-12
 - [Numerical modeling of hydrodynamics and water quality in tropical urban estuaries: A review with emphasis on sanitation and coastal management](https://www.sciencedirect.com/science/article/pii/S1642359326000674/pdf) · 2026-08-07
 - [A critical review of mathematical, statistical, and AI approaches to river pollution modelling for climate-resilient water management](https://www.sciencedirect.com/science/article/pii/S221209632600077X/pdf) · 2026-08-05
 - [Wave Climate Characterisation across the Coastline of North Java and Its Implications for Coastal Management](https://jidmis.org/index.php/jidmis/article/download/1177/381) · 2026-07-31
 - [Morphodynamic Recovery Debt Accumulation and Infrastructure Sustainability Vulnerability across Dam Estuary Port Systems](https://journalfjmr.my.id/index.php/fjmr/article/download/155/531) · 2026-07-30
-- [UAV photogrammetry for riverine analysis: A systematic review of methodologies, accuracy, and challenges](https://ejournal.foundae.com/index.php/jgsa/article/download/115/120) · 2026-07-28
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
