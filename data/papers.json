@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "The tsunami triggered by the 24 June 2026 Venezuela earthquakes: tectonic context and tsunami modelling",
+          "date": "2026-08-13",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-10607566/latest.pdf"
+        },
+        {
           "title": "Inclined gabion drops improve hydraulic performance relative to conventional USBR stilling basins under variable flow conditions",
           "date": "2026-08-10",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-08-02",
           "venue": "",
           "link": "https://arxiv.org/pdf/2608.01546"
-        },
-        {
-          "title": "Harvesting water in a cyclone chimney designed by means of meta-optimization based on sustainability criteria",
-          "date": "2026-08-01",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0378475426003265/pdf"
         }
       ]
     },
