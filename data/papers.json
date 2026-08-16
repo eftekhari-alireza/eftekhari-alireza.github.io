@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Methodological Framework for Tsunami Risk Assessment in Port Facilities",
+          "date": "2026-08-14",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4720/egusphere-2026-4720.pdf"
+        },
+        {
           "title": "The tsunami triggered by the 24 June 2026 Venezuela earthquakes: tectonic context and tsunami modelling",
           "date": "2026-08-13",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-08-05",
           "venue": "",
           "link": "https://www.sciencedirect.com/science/article/pii/S0029801826031653/pdf"
-        },
-        {
-          "title": "FESOM2-JAX v1.0: a differentiable shadow of the ocean-sea-ice model FESOM2, cast onto GPUs",
-          "date": "2026-08-02",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2608.01546"
         }
       ]
     },
@@ -115,6 +115,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Numerical Modeling Approach for Shoreline Changes and Coastal Sediment Transport: A Literature Review",
+          "date": "2026-08-14",
+          "venue": "",
+          "link": "https://doi.org/10.46336/ijmsc.v4i4.359"
+        },
+        {
           "title": "A critical review of mathematical, statistical, and AI approaches to river pollution modelling for climate-resilient water management",
           "date": "2026-08-05",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-07-28",
           "venue": "",
           "link": "https://ejournal.foundae.com/index.php/jgsa/article/download/115/120"
-        },
-        {
-          "title": "Dynamic Coupling of Topographic Stability and Socio-Economic Exposure in Flood Risk Mapping: A Decadal Analysis of Honghu Dong Flood Detention Basin, Yangtze River (2014\u20132024)",
-          "date": "2026-07-27",
-          "venue": "",
-          "link": "https://www.e3s-conferences.org/10.1051/e3sconf/202672801002/pdf"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Numerical Modeling Approach for Shoreline Changes and Coastal Sediment Transport: A Literature Review",
+          "date": "2026-08-14",
+          "venue": "",
+          "link": "https://doi.org/10.46336/ijmsc.v4i4.359"
+        },
+        {
           "title": "Simulation and risk assessment of oil spill adsorption along complex coastlines in multi-island areas",
           "date": "2026-08-12",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-07-31",
           "venue": "",
           "link": "https://jidmis.org/index.php/jidmis/article/download/1177/381"
-        },
-        {
-          "title": "Morphodynamic Recovery Debt Accumulation and Infrastructure Sustainability Vulnerability across Dam Estuary Port Systems",
-          "date": "2026-07-30",
-          "venue": "",
-          "link": "https://journalfjmr.my.id/index.php/fjmr/article/download/155/531"
         }
       ]
     },
@@ -227,6 +227,12 @@
           "date": "2026-08-03",
           "venue": "",
           "link": "https://www.nature.com/articles/s41612-026-01491-9_reference.pdf"
+        },
+        {
+          "title": "Validation of SWOT significant wave height against in situ and model observations on the northeastern Brazilian continental shelf",
+          "date": "2026-08-03",
+          "venue": "",
+          "link": "https://doi.org/10.1590/2675-2824074.25257"
         },
         {
           "title": "Untangling the effects of vertical mixing schemes and convective adjustment in the Mediterranean Sea: insights from a sensitivity study",
@@ -245,12 +251,6 @@
           "date": "2026-07-31",
           "venue": "",
           "link": "https://www.tandfonline.com/doi/pdf/10.1080/29931495.2026.2702755?needAccess=true"
-        },
-        {
-          "title": "cSINGV v1.0: Development and evaluation of a 1.5 km coupled atmosphere-ocean-wave modelling system for the Western Maritime Continent",
-          "date": "2026-07-21",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2024/egusphere-2026-2024.pdf"
         }
       ]
     }

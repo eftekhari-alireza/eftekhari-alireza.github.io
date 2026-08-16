@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-15** · Showing results since **2025**_
+_Last update: **2026-08-16** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-08-15** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Methodological Framework for Tsunami Risk Assessment in Port Facilities](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4720/egusphere-2026-4720.pdf) · 2026-08-14
 - [The tsunami triggered by the 24 June 2026 Venezuela earthquakes: tectonic context and tsunami modelling](https://www.researchsquare.com/article/rs-10607566/latest.pdf) · 2026-08-13
 - [Inclined gabion drops improve hydraulic performance relative to conventional USBR stilling basins under variable flow conditions](https://www.nature.com/articles/s41598-026-66398-0_reference.pdf) · 2026-08-10
 - [A systematic review and comparative assessment of optimization algorithms in geotechnical engineering with a benchmark foundation design case study](https://link.springer.com/content/pdf/10.1007/s44288-026-00642-y.pdf) · 2026-08-08
 - [Hydrodynamics-aware formation control for energy-efficient multi-vessel systems: A review](https://www.sciencedirect.com/science/article/pii/S0029801826031653/pdf) · 2026-08-05
-- [FESOM2-JAX v1.0: a differentiable shadow of the ocean-sea-ice model FESOM2, cast onto GPUs](https://arxiv.org/pdf/2608.01546) · 2026-08-02
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2026-08-15** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Numerical Modeling Approach for Shoreline Changes and Coastal Sediment Transport: A Literature Review](https://doi.org/10.46336/ijmsc.v4i4.359) · 2026-08-14
 - [A critical review of mathematical, statistical, and AI approaches to river pollution modelling for climate-resilient water management](https://www.sciencedirect.com/science/article/pii/S221209632600077X/pdf) · 2026-08-05
 - [Hydrodynamic, sediment transport and water residence time changes in response to structural changes (Anzali Port–Wetland System)](https://link.springer.com/content/pdf/10.1007/s12665-026-13062-5.pdf) · 2026-08-04
 - [Review on flood and waterlogging disasters in underground metros in large cities of China](https://www.sciencedirect.com/science/article/pii/S2467967426000917/pdf) · 2026-08-01
 - [UAV photogrammetry for riverine analysis: A systematic review of methodologies, accuracy, and challenges](https://ejournal.foundae.com/index.php/jgsa/article/download/115/120) · 2026-07-28
-- [Dynamic Coupling of Topographic Stability and Socio-Economic Exposure in Flood Risk Mapping: A Decadal Analysis of Honghu Dong Flood Detention Basin, Yangtze River (2014–2024)](https://www.e3s-conferences.org/10.1051/e3sconf/202672801002/pdf) · 2026-07-27
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,18 +59,18 @@ _Last update: **2026-08-15** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Numerical Modeling Approach for Shoreline Changes and Coastal Sediment Transport: A Literature Review](https://doi.org/10.46336/ijmsc.v4i4.359) · 2026-08-14
 - [Simulation and risk assessment of oil spill adsorption along complex coastlines in multi-island areas](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1900700/pdf) · 2026-08-12
 - [Numerical modeling of hydrodynamics and water quality in tropical urban estuaries: A review with emphasis on sanitation and coastal management](https://www.sciencedirect.com/science/article/pii/S1642359326000674/pdf) · 2026-08-07
 - [A critical review of mathematical, statistical, and AI approaches to river pollution modelling for climate-resilient water management](https://www.sciencedirect.com/science/article/pii/S221209632600077X/pdf) · 2026-08-05
 - [Wave Climate Characterisation across the Coastline of North Java and Its Implications for Coastal Management](https://jidmis.org/index.php/jidmis/article/download/1177/381) · 2026-07-31
-- [Morphodynamic Recovery Debt Accumulation and Infrastructure Sustainability Vulnerability across Dam Estuary Port Systems](https://journalfjmr.my.id/index.php/fjmr/article/download/155/531) · 2026-07-30
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
 - [North Pacific capacitor effect bridges spring Tibetan Plateau heating and the East Asian summer monsoon](https://www.nature.com/articles/s41612-026-01491-9_reference.pdf) · 2026-08-03
+- [Validation of SWOT significant wave height against in situ and model observations on the northeastern Brazilian continental shelf](https://doi.org/10.1590/2675-2824074.25257) · 2026-08-03
 - [Untangling the effects of vertical mixing schemes and convective adjustment in the Mediterranean Sea: insights from a sensitivity study](https://gmd.copernicus.org/articles/19/7041/2026/gmd-19-7041-2026.pdf) · 2026-07-31
 - [Arctic Coastal Observing: Assimilating Buoy vs. Fiber Cable Data into Wave Forecast Model](https://www.mdpi.com/2077-1312/14/15/1408/pdf?version=1785491632) · 2026-07-31
 - [Digital twin for coastal cities: an evaluation from a stakeholder perspective](https://www.tandfonline.com/doi/pdf/10.1080/29931495.2026.2702755?needAccess=true) · 2026-07-31
-- [cSINGV v1.0: Development and evaluation of a 1.5 km coupled atmosphere-ocean-wave modelling system for the Western Maritime Continent](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2024/egusphere-2026-2024.pdf) · 2026-07-21
