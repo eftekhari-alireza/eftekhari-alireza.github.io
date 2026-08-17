@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-16** · Showing results since **2025**_
+_Last update: **2026-08-17** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -70,7 +70,7 @@ _Last update: **2026-08-16** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [North Pacific capacitor effect bridges spring Tibetan Plateau heating and the East Asian summer monsoon](https://www.nature.com/articles/s41612-026-01491-9_reference.pdf) · 2026-08-03
-- [Validation of SWOT significant wave height against in situ and model observations on the northeastern Brazilian continental shelf](https://doi.org/10.1590/2675-2824074.25257) · 2026-08-03
+- [Validation of SWOT significant wave height against in situ and model observations on the northeastern Brazilian continental shelf](https://preprints.scielo.org/index.php/scielo/preprint/download/17225/35121/35951) · 2026-08-03
 - [Untangling the effects of vertical mixing schemes and convective adjustment in the Mediterranean Sea: insights from a sensitivity study](https://gmd.copernicus.org/articles/19/7041/2026/gmd-19-7041-2026.pdf) · 2026-07-31
 - [Arctic Coastal Observing: Assimilating Buoy vs. Fiber Cable Data into Wave Forecast Model](https://www.mdpi.com/2077-1312/14/15/1408/pdf?version=1785491632) · 2026-07-31
 - [Digital twin for coastal cities: an evaluation from a stakeholder perspective](https://www.tandfonline.com/doi/pdf/10.1080/29931495.2026.2702755?needAccess=true) · 2026-07-31
