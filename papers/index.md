@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-21** · Showing results since **2025**_
+_Last update: **2026-08-22** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,18 +59,18 @@ _Last update: **2026-08-21** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Hydrodynamic Modelling of Mangrove-Mediated Coastal Flood Protection: A Systematic Review and Bibliometric Analysis](https://journals.nasspublishing.com/index.php/sms/article/download/3337/1415) · 2026-08-18
+- [Escalating coastal flood risk and impact thresholds in Miami revealed by Hurricane Irma](https://www.nature.com/articles/s41598-026-64891-0_reference.pdf) · 2026-08-18
 - [Integrating Numerical Models, Remote Sensing, and Artificial Intelligence for Sediment Transport Assessment Under a Changing Climate: A Regional Framework and Research Roadmap](https://doi.org/10.3390/su18168391) · 2026-08-17
 - [Numerical Modeling Approach for Shoreline Changes and Coastal Sediment Transport: A Literature Review](https://doi.org/10.46336/ijmsc.v4i4.359) · 2026-08-14
 - [Simulation and risk assessment of oil spill adsorption along complex coastlines in multi-island areas](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1900700/pdf) · 2026-08-12
-- [Numerical modeling of hydrodynamics and water quality in tropical urban estuaries: A review with emphasis on sanitation and coastal management](https://www.sciencedirect.com/science/article/pii/S1642359326000674/pdf) · 2026-08-07
-- [A critical review of mathematical, statistical, and AI approaches to river pollution modelling for climate-resilient water management](https://www.sciencedirect.com/science/article/pii/S221209632600077X/pdf) · 2026-08-05
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Effects of storm surge exceedance value on overwash and inundation forecasts](https://link.springer.com/content/pdf/10.1007/s11069-026-08184-9.pdf) · 2026-08-19
+- [A global dataset of bias-corrected waves and storm surge (1950–2023) with improved extremes for hazard mapping](https://essd.copernicus.org/preprints/essd-2026-598/essd-2026-598.pdf) · 2026-08-18
 - [North Pacific capacitor effect bridges spring Tibetan Plateau heating and the East Asian summer monsoon](https://www.nature.com/articles/s41612-026-01491-9_reference.pdf) · 2026-08-03
 - [Validation of SWOT significant wave height against in situ and model observations on the northeastern Brazilian continental shelf](https://preprints.scielo.org/index.php/scielo/preprint/download/17225/35121/35951) · 2026-08-03
 - [Untangling the effects of vertical mixing schemes and convective adjustment in the Mediterranean Sea: insights from a sensitivity study](https://gmd.copernicus.org/articles/19/7041/2026/gmd-19-7041-2026.pdf) · 2026-07-31
-- [Arctic Coastal Observing: Assimilating Buoy vs. Fiber Cable Data into Wave Forecast Model](https://www.mdpi.com/2077-1312/14/15/1408/pdf?version=1785491632) · 2026-07-31
-- [Digital twin for coastal cities: an evaluation from a stakeholder perspective](https://www.tandfonline.com/doi/pdf/10.1080/29931495.2026.2702755?needAccess=true) · 2026-07-31

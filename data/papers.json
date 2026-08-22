@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "year_from": 2025,
   "items": [
     {
@@ -187,6 +187,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Hydrodynamic Modelling of Mangrove-Mediated Coastal Flood Protection: A Systematic Review and Bibliometric Analysis",
+          "date": "2026-08-18",
+          "venue": "",
+          "link": "https://journals.nasspublishing.com/index.php/sms/article/download/3337/1415"
+        },
+        {
+          "title": "Escalating coastal flood risk and impact thresholds in Miami revealed by Hurricane Irma",
+          "date": "2026-08-18",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41598-026-64891-0_reference.pdf"
+        },
+        {
           "title": "Integrating Numerical Models, Remote Sensing, and Artificial Intelligence for Sediment Transport Assessment Under a Changing Climate: A Regional Framework and Research Roadmap",
           "date": "2026-08-17",
           "venue": "",
@@ -203,18 +215,6 @@
           "date": "2026-08-12",
           "venue": "",
           "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1900700/pdf"
-        },
-        {
-          "title": "Numerical modeling of hydrodynamics and water quality in tropical urban estuaries: A review with emphasis on sanitation and coastal management",
-          "date": "2026-08-07",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S1642359326000674/pdf"
-        },
-        {
-          "title": "A critical review of mathematical, statistical, and AI approaches to river pollution modelling for climate-resilient water management",
-          "date": "2026-08-05",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S221209632600077X/pdf"
         }
       ]
     },
@@ -222,6 +222,18 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Effects of storm surge exceedance value on overwash and inundation forecasts",
+          "date": "2026-08-19",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08184-9.pdf"
+        },
+        {
+          "title": "A global dataset of bias-corrected waves and storm surge (1950\u20132023) with improved extremes for hazard mapping",
+          "date": "2026-08-18",
+          "venue": "",
+          "link": "https://essd.copernicus.org/preprints/essd-2026-598/essd-2026-598.pdf"
+        },
         {
           "title": "North Pacific capacitor effect bridges spring Tibetan Plateau heating and the East Asian summer monsoon",
           "date": "2026-08-03",
@@ -239,18 +251,6 @@
           "date": "2026-07-31",
           "venue": "",
           "link": "https://gmd.copernicus.org/articles/19/7041/2026/gmd-19-7041-2026.pdf"
-        },
-        {
-          "title": "Arctic Coastal Observing: Assimilating Buoy vs. Fiber Cable Data into Wave Forecast Model",
-          "date": "2026-07-31",
-          "venue": "",
-          "link": "https://www.mdpi.com/2077-1312/14/15/1408/pdf?version=1785491632"
-        },
-        {
-          "title": "Digital twin for coastal cities: an evaluation from a stakeholder perspective",
-          "date": "2026-07-31",
-          "venue": "",
-          "link": "https://www.tandfonline.com/doi/pdf/10.1080/29931495.2026.2702755?needAccess=true"
         }
       ]
     }
