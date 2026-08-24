@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-23** · Showing results since **2025**_
+_Last update: **2026-08-24** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -69,8 +69,8 @@ _Last update: **2026-08-23** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Forecasting the 12 November 2019 Venice Acqua Alta event: the role of baroclinic compounding effects](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4734/egusphere-2026-4734.pdf) · 2026-08-21
 - [Hybrid VMD-2TCDNet Model for Accurate Significant Wave Height Forecasting Using Meteorological Predictors](https://www.researchsquare.com/article/rs-10731300/latest.pdf) · 2026-08-20
 - [Effects of storm surge exceedance value on overwash and inundation forecasts](https://link.springer.com/content/pdf/10.1007/s11069-026-08184-9.pdf) · 2026-08-19
 - [A global dataset of bias-corrected waves and storm surge (1950–2023) with improved extremes for hazard mapping](https://essd.copernicus.org/preprints/essd-2026-598/essd-2026-598.pdf) · 2026-08-18
 - [North Pacific capacitor effect bridges spring Tibetan Plateau heating and the East Asian summer monsoon](https://www.nature.com/articles/s41612-026-01491-9_reference.pdf) · 2026-08-03
-- [Validation of SWOT significant wave height against in situ and model observations on the northeastern Brazilian continental shelf](https://preprints.scielo.org/index.php/scielo/preprint/download/17225/35121/35951) · 2026-08-03
