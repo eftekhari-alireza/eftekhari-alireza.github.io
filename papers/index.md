@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-25** · Showing results since **2025**_
+_Last update: **2026-08-26** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -60,10 +60,10 @@ _Last update: **2026-08-25** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [Evaluating typhoon cloud morphology as a candidate early satellite proxy for storm-surge risk under ERA5 physical benchmarking](https://www.nature.com/articles/s41598-026-67192-8_reference.pdf) · 2026-08-20
-- [Hydrodynamic Modelling of Mangrove-Mediated Coastal Flood Protection: A Systematic Review and Bibliometric Analysis](https://journals.nasspublishing.com/index.php/sms/article/download/3337/1415) · 2026-08-18
 - [Escalating coastal flood risk and impact thresholds in Miami revealed by Hurricane Irma](https://www.nature.com/articles/s41598-026-64891-0_reference.pdf) · 2026-08-18
+- [Hydrodynamic Modelling of Mangrove-Mediated Coastal Flood Protection: A Systematic Review and Bibliometric Analysis](https://journals.nasspublishing.com/index.php/sms/article/download/3337/1415) · 2026-08-18
 - [Integrating Numerical Models, Remote Sensing, and Artificial Intelligence for Sediment Transport Assessment Under a Changing Climate: A Regional Framework and Research Roadmap](https://doi.org/10.3390/su18168391) · 2026-08-17
-- [A hybrid decision-support framework for managing salt intrusion via controlled freshwater pulses in regulated estuaries](https://www.sciencedirect.com/science/article/pii/S0022169426013600/pdf) · 2026-08-16
+- [A high-resolution methodology for mapping and predicting salt marsh dynamics: integrating LiDAR data and spatiotemporal varying tidal datums](https://www.sciencedirect.com/science/article/pii/S157495412600405X/pdf) · 2026-08-16
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

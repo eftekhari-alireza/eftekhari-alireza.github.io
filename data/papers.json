@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "year_from": 2025,
   "items": [
     {
@@ -193,16 +193,16 @@
           "link": "https://www.nature.com/articles/s41598-026-67192-8_reference.pdf"
         },
         {
-          "title": "Hydrodynamic Modelling of Mangrove-Mediated Coastal Flood Protection: A Systematic Review and Bibliometric Analysis",
-          "date": "2026-08-18",
-          "venue": "",
-          "link": "https://journals.nasspublishing.com/index.php/sms/article/download/3337/1415"
-        },
-        {
           "title": "Escalating coastal flood risk and impact thresholds in Miami revealed by Hurricane Irma",
           "date": "2026-08-18",
           "venue": "",
           "link": "https://www.nature.com/articles/s41598-026-64891-0_reference.pdf"
+        },
+        {
+          "title": "Hydrodynamic Modelling of Mangrove-Mediated Coastal Flood Protection: A Systematic Review and Bibliometric Analysis",
+          "date": "2026-08-18",
+          "venue": "",
+          "link": "https://journals.nasspublishing.com/index.php/sms/article/download/3337/1415"
         },
         {
           "title": "Integrating Numerical Models, Remote Sensing, and Artificial Intelligence for Sediment Transport Assessment Under a Changing Climate: A Regional Framework and Research Roadmap",
@@ -211,10 +211,10 @@
           "link": "https://doi.org/10.3390/su18168391"
         },
         {
-          "title": "A hybrid decision-support framework for managing salt intrusion via controlled freshwater pulses in regulated estuaries",
+          "title": "A high-resolution methodology for mapping and predicting salt marsh dynamics: integrating LiDAR data and spatiotemporal varying tidal datums",
           "date": "2026-08-16",
           "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022169426013600/pdf"
+          "link": "https://www.sciencedirect.com/science/article/pii/S157495412600405X/pdf"
         }
       ]
     },
