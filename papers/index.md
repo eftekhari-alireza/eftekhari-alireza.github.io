@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-26** · Showing results since **2025**_
+_Last update: **2026-08-27** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,21 +19,21 @@ _Last update: **2026-08-26** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [On the Influence of Synoptic Air Masses on Water Conditions in the Chesapeake Bay](https://www.researchsquare.com/article/rs-10681616/latest.pdf) · 2026-08-24
+- [Satellite mapping and hydrographic characterization of Greenland-wide proglacial rivers and lakes](https://www.tandfonline.com/doi/pdf/10.1080/15481603.2026.2720959?needAccess=true) · 2026-08-24
+- [Comparing GNSS Derived Sea Ice Drift in the Arctic and Antarctic using Rotary Spectra and Principal Component Analysis](https://arxiv.org/pdf/2608.18737) · 2026-08-19
 - [Integrating Numerical Models, Remote Sensing, and Artificial Intelligence for Sediment Transport Assessment Under a Changing Climate: A Regional Framework and Research Roadmap](https://doi.org/10.3390/su18168391) · 2026-08-17
 - [Methodological Framework for Tsunami Risk Assessment in Port Facilities](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4720/egusphere-2026-4720.pdf) · 2026-08-14
-- [The tsunami triggered by the 24 June 2026 Venezuela earthquakes: tectonic context and tsunami modelling](https://www.researchsquare.com/article/rs-10607566/latest.pdf) · 2026-08-13
-- [Inclined gabion drops improve hydraulic performance relative to conventional USBR stilling basins under variable flow conditions](https://www.nature.com/articles/s41598-026-66398-0_reference.pdf) · 2026-08-10
-- [A systematic review and comparative assessment of optimization algorithms in geotechnical engineering with a benchmark foundation design case study](https://link.springer.com/content/pdf/10.1007/s44288-026-00642-y.pdf) · 2026-08-08
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [From regional to global: a typhoon-aware adaptive graph transformer for cross-basin tropical cyclone-induced storm surge forecasting](https://www.researchsquare.com/article/rs-10797331/latest.pdf) · 2026-08-25
 - [Hybrid VMD-2TCDNet Model for Accurate Significant Wave Height Forecasting Using Meteorological Predictors](https://www.researchsquare.com/article/rs-10731300/latest.pdf) · 2026-08-20
 - [Numerical modeling of hydrodynamics and water quality in tropical urban estuaries: A review with emphasis on sanitation and coastal management](https://www.sciencedirect.com/science/article/pii/S1642359326000674/pdf) · 2026-08-07
 - [An unstructured-grid, nonhydrostatic, GVC ocean model Part I: Model description and application of vertical hybrid coordinates to internal solitary waves](https://arxiv.org/pdf/2607.28356) · 2026-07-30
 - [Concurrent 3D modelling and AI-based forecasting of storm surge and urban flooding - a case study of Super Typhoon Ragasa (2518)](https://www.sciencedirect.com/science/article/pii/S0141118726002646/pdf) · 2026-07-28
-- [Multi-scale numerical simulation of storm-driven sediment transport, resuspension and dispersal dynamics](https://iopscience.iop.org/article/10.1088/2515-7620/ae902e/pdf) · 2026-07-24
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -69,8 +69,8 @@ _Last update: **2026-08-26** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Simulating coastal hydrodynamics: the role of seagrass in climate adaptation](https://link.springer.com/content/pdf/10.1007/s10236-026-01845-0.pdf) · 2026-08-25
 - [Forecasting the 12 November 2019 Venice Acqua Alta event: the role of baroclinic compounding effects](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4734/egusphere-2026-4734.pdf) · 2026-08-21
 - [Hybrid VMD-2TCDNet Model for Accurate Significant Wave Height Forecasting Using Meteorological Predictors](https://www.researchsquare.com/article/rs-10731300/latest.pdf) · 2026-08-20
 - [Effects of storm surge exceedance value on overwash and inundation forecasts](https://link.springer.com/content/pdf/10.1007/s11069-026-08184-9.pdf) · 2026-08-19
 - [A global dataset of bias-corrected waves and storm surge (1950–2023) with improved extremes for hazard mapping](https://essd.copernicus.org/preprints/essd-2026-598/essd-2026-598.pdf) · 2026-08-18
-- [North Pacific capacitor effect bridges spring Tibetan Plateau heating and the East Asian summer monsoon](https://www.nature.com/articles/s41612-026-01491-9_reference.pdf) · 2026-08-03
