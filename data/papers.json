@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Sedimentary lycopane/n\u2010 C 31 ratio as a proxy for bottom water hypoxia in coastal ocean",
+          "date": "2026-08-26",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lol2.70167"
+        },
+        {
           "title": "On the Influence of Synoptic Air Masses on Water Conditions in the Chesapeake Bay",
           "date": "2026-08-24",
           "venue": "",
@@ -55,22 +61,16 @@
           "link": "https://www.tandfonline.com/doi/pdf/10.1080/15481603.2026.2720959?needAccess=true"
         },
         {
+          "title": "Future directions in oil spill modeling",
+          "date": "2026-08-21",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S1463500326001290/pdf"
+        },
+        {
           "title": "Comparing GNSS Derived Sea Ice Drift in the Arctic and Antarctic using Rotary Spectra and Principal Component Analysis",
           "date": "2026-08-19",
           "venue": "",
           "link": "https://arxiv.org/pdf/2608.18737"
-        },
-        {
-          "title": "Integrating Numerical Models, Remote Sensing, and Artificial Intelligence for Sediment Transport Assessment Under a Changing Climate: A Regional Framework and Research Roadmap",
-          "date": "2026-08-17",
-          "venue": "",
-          "link": "https://doi.org/10.3390/su18168391"
-        },
-        {
-          "title": "Methodological Framework for Tsunami Risk Assessment in Port Facilities",
-          "date": "2026-08-14",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4720/egusphere-2026-4720.pdf"
         }
       ]
     },
@@ -78,6 +78,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "The impacts of winter storms on sediment dynamics and shear front variability in the Yellow River Delta",
+          "date": "2026-08-26",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2214581826007834/pdf"
+        },
         {
           "title": "From regional to global: a typhoon-aware adaptive graph transformer for cross-basin tropical cyclone-induced storm surge forecasting",
           "date": "2026-08-25",
@@ -101,12 +107,6 @@
           "date": "2026-07-30",
           "venue": "",
           "link": "https://arxiv.org/pdf/2607.28356"
-        },
-        {
-          "title": "Concurrent 3D modelling and AI-based forecasting of storm surge and urban flooding - a case study of Super Typhoon Ragasa (2518)",
-          "date": "2026-07-28",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0141118726002646/pdf"
         }
       ]
     },

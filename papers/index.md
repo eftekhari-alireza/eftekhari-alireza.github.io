@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-27** · Showing results since **2025**_
+_Last update: **2026-08-28** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,21 +19,21 @@ _Last update: **2026-08-27** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Sedimentary lycopane/n‐ C 31 ratio as a proxy for bottom water hypoxia in coastal ocean](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lol2.70167) · 2026-08-26
 - [On the Influence of Synoptic Air Masses on Water Conditions in the Chesapeake Bay](https://www.researchsquare.com/article/rs-10681616/latest.pdf) · 2026-08-24
 - [Satellite mapping and hydrographic characterization of Greenland-wide proglacial rivers and lakes](https://www.tandfonline.com/doi/pdf/10.1080/15481603.2026.2720959?needAccess=true) · 2026-08-24
+- [Future directions in oil spill modeling](https://www.sciencedirect.com/science/article/pii/S1463500326001290/pdf) · 2026-08-21
 - [Comparing GNSS Derived Sea Ice Drift in the Arctic and Antarctic using Rotary Spectra and Principal Component Analysis](https://arxiv.org/pdf/2608.18737) · 2026-08-19
-- [Integrating Numerical Models, Remote Sensing, and Artificial Intelligence for Sediment Transport Assessment Under a Changing Climate: A Regional Framework and Research Roadmap](https://doi.org/10.3390/su18168391) · 2026-08-17
-- [Methodological Framework for Tsunami Risk Assessment in Port Facilities](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4720/egusphere-2026-4720.pdf) · 2026-08-14
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [The impacts of winter storms on sediment dynamics and shear front variability in the Yellow River Delta](https://www.sciencedirect.com/science/article/pii/S2214581826007834/pdf) · 2026-08-26
 - [From regional to global: a typhoon-aware adaptive graph transformer for cross-basin tropical cyclone-induced storm surge forecasting](https://www.researchsquare.com/article/rs-10797331/latest.pdf) · 2026-08-25
 - [Hybrid VMD-2TCDNet Model for Accurate Significant Wave Height Forecasting Using Meteorological Predictors](https://www.researchsquare.com/article/rs-10731300/latest.pdf) · 2026-08-20
 - [Numerical modeling of hydrodynamics and water quality in tropical urban estuaries: A review with emphasis on sanitation and coastal management](https://www.sciencedirect.com/science/article/pii/S1642359326000674/pdf) · 2026-08-07
 - [An unstructured-grid, nonhydrostatic, GVC ocean model Part I: Model description and application of vertical hybrid coordinates to internal solitary waves](https://arxiv.org/pdf/2607.28356) · 2026-07-30
-- [Concurrent 3D modelling and AI-based forecasting of storm surge and urban flooding - a case study of Super Typhoon Ragasa (2518)](https://www.sciencedirect.com/science/article/pii/S0141118726002646/pdf) · 2026-07-28
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
