@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-30** · Showing results since **2025**_
+_Last update: **2026-08-31** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -69,8 +69,8 @@ _Last update: **2026-08-30** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Bridging global offshore waves and nearshore coastal conditions with deep learning](https://www.nature.com/articles/s43247-026-04004-x_reference.pdf) · 2026-08-29
+- [Coupled stochastic variational principles for multiscale surface gravity waves -- Part I: theoretical framework](https://arxiv.org/pdf/2608.27074) · 2026-08-27
 - [Simulating coastal hydrodynamics: the role of seagrass in climate adaptation](https://link.springer.com/content/pdf/10.1007/s10236-026-01845-0.pdf) · 2026-08-25
 - [Forecasting the 12 November 2019 Venice Acqua Alta event: the role of baroclinic compounding effects](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4734/egusphere-2026-4734.pdf) · 2026-08-21
 - [Hybrid VMD-2TCDNet Model for Accurate Significant Wave Height Forecasting Using Meteorological Predictors](https://www.researchsquare.com/article/rs-10731300/latest.pdf) · 2026-08-20
-- [Effects of storm surge exceedance value on overwash and inundation forecasts](https://link.springer.com/content/pdf/10.1007/s11069-026-08184-9.pdf) · 2026-08-19
-- [A global dataset of bias-corrected waves and storm surge (1950–2023) with improved extremes for hazard mapping](https://essd.copernicus.org/preprints/essd-2026-598/essd-2026-598.pdf) · 2026-08-18

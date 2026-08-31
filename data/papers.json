@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "year_from": 2025,
   "items": [
     {
@@ -223,6 +223,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Bridging global offshore waves and nearshore coastal conditions with deep learning",
+          "date": "2026-08-29",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s43247-026-04004-x_reference.pdf"
+        },
+        {
+          "title": "Coupled stochastic variational principles for multiscale surface gravity waves -- Part I: theoretical framework",
+          "date": "2026-08-27",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2608.27074"
+        },
+        {
           "title": "Simulating coastal hydrodynamics: the role of seagrass in climate adaptation",
           "date": "2026-08-25",
           "venue": "",
@@ -239,18 +251,6 @@
           "date": "2026-08-20",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-10731300/latest.pdf"
-        },
-        {
-          "title": "Effects of storm surge exceedance value on overwash and inundation forecasts",
-          "date": "2026-08-19",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08184-9.pdf"
-        },
-        {
-          "title": "A global dataset of bias-corrected waves and storm surge (1950\u20132023) with improved extremes for hazard mapping",
-          "date": "2026-08-18",
-          "venue": "",
-          "link": "https://essd.copernicus.org/preprints/essd-2026-598/essd-2026-598.pdf"
         }
       ]
     }
