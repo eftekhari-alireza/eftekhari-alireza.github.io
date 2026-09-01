@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-08-31** · Showing results since **2025**_
+_Last update: **2026-09-01** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-08-31** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [A Coupled Delft3D-FM – SWAN Study on Seasonal Variability of Coastal Hydrodynamics, Wave Transformation and Longshore Sediment Transport along Andhra Pradesh Coast, India](https://doi.org/10.21203/rs.3.rs-10677961/v1) · 2026-08-31
 - [Blue carbon functional collapse precedes physical marsh retreat](https://www.nature.com/articles/s43247-026-03971-5_reference.pdf) · 2026-08-27
 - [Comment on egusphere-2026-2149](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2149/egusphere-2026-2149.pdf) · 2026-08-27
 - [Evaluating typhoon cloud morphology as a candidate early satellite proxy for storm-surge risk under ERA5 physical benchmarking](https://www.nature.com/articles/s41598-026-67192-8_reference.pdf) · 2026-08-20
 - [Escalating coastal flood risk and impact thresholds in Miami revealed by Hurricane Irma](https://www.nature.com/articles/s41598-026-64891-0_reference.pdf) · 2026-08-18
-- [Hydrodynamic Modelling of Mangrove-Mediated Coastal Flood Protection: A Systematic Review and Bibliometric Analysis](https://journals.nasspublishing.com/index.php/sms/article/download/3337/1415) · 2026-08-18
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
