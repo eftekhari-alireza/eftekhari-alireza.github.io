@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "year_from": 2025,
   "items": [
     {
@@ -43,34 +43,34 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
-          "title": "The Role of Wave\u2010Induced Stress and Drag Coefficients in Offshore Wind Power Production",
-          "date": "2026-08-28",
+          "title": "Asymmetric response of coastal currents to oscillating alongshore wind stress over a coastal bank",
+          "date": "2026-09-02",
           "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JC023741"
+          "link": "https://doi.org/10.5194/os-22-2659-2026"
         },
         {
-          "title": "A perspective on component-level digital twins for surface marine propulsion system health monitoring: need and feasibility",
-          "date": "2026-08-28",
+          "title": "Comparing GNSS derived sea ice drift in the Arctic and Antarctic using rotary spectra and principal component analysis",
+          "date": "2026-09-01",
           "venue": "",
-          "link": "https://www.tandfonline.com/doi/pdf/10.1080/27525783.2026.2722422?needAccess=true"
+          "link": "https://www.tandfonline.com/doi/pdf/10.1080/1755876X.2026.2722547?needAccess=true"
         },
         {
-          "title": "A reduced order model framework suitable for geotechnical problems",
-          "date": "2026-08-27",
+          "title": "Impacts of Cross\u2010Shore Winds, Waves, and Sand Ridges on Inner Shelf Circulation",
+          "date": "2026-09-01",
           "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s11440-026-03221-0.pdf"
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JC023593"
         },
         {
-          "title": "Sedimentary lycopane/n\u2010 C 31 ratio as a proxy for bottom water hypoxia in coastal ocean",
-          "date": "2026-08-26",
+          "title": "Environmental effects of marine cage aquaculture in the Western Mediterranean: A meta-analysis of monitoring data",
+          "date": "2026-08-31",
           "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lol2.70167"
+          "link": "https://www.sciencedirect.com/science/article/pii/S0025326X26010829/pdf"
         },
         {
-          "title": "On the Influence of Synoptic Air Masses on Water Conditions in the Chesapeake Bay",
-          "date": "2026-08-24",
+          "title": "Advances in numerical modelling of coral reef hydrodynamics: approaches, applications, and future perspectives",
+          "date": "2026-08-31",
           "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-10681616/latest.pdf"
+          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2722436?needAccess=true"
         }
       ]
     },
@@ -78,6 +78,24 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "The 15th international workshop on modeling the ocean (IWMO-2025) in Stanford, California, USA, June 30th \u2013 July 1st, 2025",
+          "date": "2026-09-01",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s10236-026-01853-0.pdf"
+        },
+        {
+          "title": "Quantifying patterns and drivers of larval dispersal in Japanese anchovy ( Engraulis japonicus ) in the China Seas",
+          "date": "2026-09-01",
+          "venue": "",
+          "link": "https://bg.copernicus.org/articles/23/6003/2026/bg-23-6003-2026.pdf"
+        },
+        {
+          "title": "Advances in numerical modelling of coral reef hydrodynamics: approaches, applications, and future perspectives",
+          "date": "2026-08-31",
+          "venue": "",
+          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2722436?needAccess=true"
+        },
         {
           "title": "The impacts of winter storms on sediment dynamics and shear front variability in the Yellow River Delta",
           "date": "2026-08-26",
@@ -89,24 +107,6 @@
           "date": "2026-08-25",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-10797331/latest.pdf"
-        },
-        {
-          "title": "Hybrid VMD-2TCDNet Model for Accurate Significant Wave Height Forecasting Using Meteorological Predictors",
-          "date": "2026-08-20",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-10731300/latest.pdf"
-        },
-        {
-          "title": "Numerical modeling of hydrodynamics and water quality in tropical urban estuaries: A review with emphasis on sanitation and coastal management",
-          "date": "2026-08-07",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S1642359326000674/pdf"
-        },
-        {
-          "title": "An unstructured-grid, nonhydrostatic, GVC ocean model Part I: Model description and application of vertical hybrid coordinates to internal solitary waves",
-          "date": "2026-07-30",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2607.28356"
         }
       ]
     },
@@ -114,6 +114,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Advances in numerical modelling of coral reef hydrodynamics: approaches, applications, and future perspectives",
+          "date": "2026-08-31",
+          "venue": "",
+          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2722436?needAccess=true"
+        },
         {
           "title": "Integrated Assessment of Water Quality and Heavy Metal Contamination in Water and Aquatic Biota of the Otomona River, Indonesia",
           "date": "2026-08-28",
@@ -137,12 +143,6 @@
           "date": "2026-08-14",
           "venue": "",
           "link": "https://doi.org/10.46336/ijmsc.v4i4.359"
-        },
-        {
-          "title": "A critical review of mathematical, statistical, and AI approaches to river pollution modelling for climate-resilient water management",
-          "date": "2026-08-05",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S221209632600077X/pdf"
         }
       ]
     },
@@ -163,6 +163,12 @@
           "link": "https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2717953?needAccess=true"
         },
         {
+          "title": "Critical Review of Tools and Techniques for Predicting Microplastics Pollution in Watershed Runoff",
+          "date": "2026-08-01",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2950305126000367/pdf"
+        },
+        {
           "title": "Sediment deposition induced by embankment-breach flooding under the influence of drainage trench networks",
           "date": "2026-07-29",
           "venue": "",
@@ -173,12 +179,6 @@
           "date": "2026-07-15",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-10196792/latest.pdf"
-        },
-        {
-          "title": "A study of the deep-sea tailings placement (DSTP) method and hydrodynamic verification using MIKE 3 simulation",
-          "date": "2026-07-01",
-          "venue": "",
-          "link": "https://iopscience.iop.org/article/10.1088/1755-1315/1649/1/012034/pdf"
         }
       ]
     },
@@ -190,7 +190,13 @@
           "title": "A Coupled Delft3D-FM \u2013 SWAN Study on Seasonal Variability of Coastal Hydrodynamics, Wave Transformation and Longshore Sediment Transport along Andhra Pradesh Coast, India",
           "date": "2026-08-31",
           "venue": "",
-          "link": "https://doi.org/10.21203/rs.3.rs-10677961/v1"
+          "link": "https://www.researchsquare.com/article/rs-10677961/latest.pdf"
+        },
+        {
+          "title": "Advances in numerical modelling of coral reef hydrodynamics: approaches, applications, and future perspectives",
+          "date": "2026-08-31",
+          "venue": "",
+          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2722436?needAccess=true"
         },
         {
           "title": "Blue carbon functional collapse precedes physical marsh retreat",
@@ -209,12 +215,6 @@
           "date": "2026-08-20",
           "venue": "",
           "link": "https://www.nature.com/articles/s41598-026-67192-8_reference.pdf"
-        },
-        {
-          "title": "Escalating coastal flood risk and impact thresholds in Miami revealed by Hurricane Irma",
-          "date": "2026-08-18",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s41598-026-64891-0_reference.pdf"
         }
       ]
     },
@@ -222,6 +222,18 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Impacts of Cross\u2010Shore Winds, Waves, and Sand Ridges on Inner Shelf Circulation",
+          "date": "2026-09-01",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JC023593"
+        },
+        {
+          "title": "Advances in numerical modelling of coral reef hydrodynamics: approaches, applications, and future perspectives",
+          "date": "2026-08-31",
+          "venue": "",
+          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2722436?needAccess=true"
+        },
         {
           "title": "Bridging global offshore waves and nearshore coastal conditions with deep learning",
           "date": "2026-08-29",
@@ -239,18 +251,6 @@
           "date": "2026-08-25",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s10236-026-01845-0.pdf"
-        },
-        {
-          "title": "Forecasting the 12 November 2019 Venice Acqua Alta event: the role of baroclinic compounding effects",
-          "date": "2026-08-21",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4734/egusphere-2026-4734.pdf"
-        },
-        {
-          "title": "Hybrid VMD-2TCDNet Model for Accurate Significant Wave Height Forecasting Using Meteorological Predictors",
-          "date": "2026-08-20",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-10731300/latest.pdf"
         }
       ]
     }
