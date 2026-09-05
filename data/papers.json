@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "year_from": 2025,
   "items": [
     {
@@ -46,7 +46,13 @@
           "title": "Asymmetric response of coastal currents to oscillating alongshore wind stress over a coastal bank",
           "date": "2026-09-02",
           "venue": "",
-          "link": "https://doi.org/10.5194/os-22-2659-2026"
+          "link": "https://os.copernicus.org/articles/22/2659/2026/os-22-2659-2026.pdf"
+        },
+        {
+          "title": "Estimating CO2 Leakage Fluxes along Legacy Wells Using a Rapid Physics-Based Screening Approach",
+          "date": "2026-09-02",
+          "venue": "",
+          "link": "https://eartharxiv.org/repository/object/14756/download/25658/"
         },
         {
           "title": "Comparing GNSS derived sea ice drift in the Arctic and Antarctic using rotary spectra and principal component analysis",
@@ -61,16 +67,10 @@
           "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JC023593"
         },
         {
-          "title": "Environmental effects of marine cage aquaculture in the Western Mediterranean: A meta-analysis of monitoring data",
+          "title": "Enhancing coastal flood hazard assessments through spatio-temporal event modelling at large scales",
           "date": "2026-08-31",
           "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0025326X26010829/pdf"
-        },
-        {
-          "title": "Advances in numerical modelling of coral reef hydrodynamics: approaches, applications, and future perspectives",
-          "date": "2026-08-31",
-          "venue": "",
-          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2722436?needAccess=true"
+          "link": "https://www.sciencedirect.com/science/article/pii/S2212094726001039/pdf"
         }
       ]
     },
@@ -115,6 +115,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "A systematic review and multivariate classification of sediment transport models: integrating PRISMA and factor analysis of mixed data",
+          "date": "2026-09-02",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002825/pdf"
+        },
+        {
           "title": "Advances in numerical modelling of coral reef hydrodynamics: approaches, applications, and future perspectives",
           "date": "2026-08-31",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-08-15",
           "venue": "",
           "link": "https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2717953?needAccess=true"
-        },
-        {
-          "title": "Numerical Modeling Approach for Shoreline Changes and Coastal Sediment Transport: A Literature Review",
-          "date": "2026-08-14",
-          "venue": "",
-          "link": "https://doi.org/10.46336/ijmsc.v4i4.359"
         }
       ]
     },
@@ -187,34 +187,34 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Editorial: Innovations in coastal morphodynamic modeling",
+          "date": "2026-09-04",
+          "venue": "",
+          "link": "https://doi.org/10.3389/fmars.2026.1954791"
+        },
+        {
+          "title": "Developing a coastal hazard prediction system in ice-infested waters \u2013 Part 1: High-resolution regional wave modeling in the Estuary and Gulf of St. Lawrence",
+          "date": "2026-09-03",
+          "venue": "",
+          "link": "https://nhess.copernicus.org/articles/26/4231/2026/nhess-26-4231-2026.pdf"
+        },
+        {
+          "title": "How models represent target systems in the world, and how we (need to) communicate this",
+          "date": "2026-09-03",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4944/egusphere-2026-4944.pdf"
+        },
+        {
+          "title": "A systematic review and multivariate classification of sediment transport models: integrating PRISMA and factor analysis of mixed data",
+          "date": "2026-09-02",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002825/pdf"
+        },
+        {
           "title": "A Coupled Delft3D-FM \u2013 SWAN Study on Seasonal Variability of Coastal Hydrodynamics, Wave Transformation and Longshore Sediment Transport along Andhra Pradesh Coast, India",
           "date": "2026-08-31",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-10677961/latest.pdf"
-        },
-        {
-          "title": "Advances in numerical modelling of coral reef hydrodynamics: approaches, applications, and future perspectives",
-          "date": "2026-08-31",
-          "venue": "",
-          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2722436?needAccess=true"
-        },
-        {
-          "title": "Blue carbon functional collapse precedes physical marsh retreat",
-          "date": "2026-08-27",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s43247-026-03971-5_reference.pdf"
-        },
-        {
-          "title": "Comment on egusphere-2026-2149",
-          "date": "2026-08-27",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2149/egusphere-2026-2149.pdf"
-        },
-        {
-          "title": "Evaluating typhoon cloud morphology as a candidate early satellite proxy for storm-surge risk under ERA5 physical benchmarking",
-          "date": "2026-08-20",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s41598-026-67192-8_reference.pdf"
         }
       ]
     },
@@ -223,34 +223,34 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Developing a coastal hazard prediction system in ice-infested waters \u2013 Part 1: High-resolution regional wave modeling in the Estuary and Gulf of St. Lawrence",
+          "date": "2026-09-03",
+          "venue": "",
+          "link": "https://nhess.copernicus.org/articles/26/4231/2026/nhess-26-4231-2026.pdf"
+        },
+        {
           "title": "Impacts of Cross\u2010Shore Winds, Waves, and Sand Ridges on Inner Shelf Circulation",
           "date": "2026-09-01",
           "venue": "",
           "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JC023593"
         },
         {
+          "title": "PronUy_rpfm: a modular architecture system for prototype development in operational forecasting of the r\u00edo de la Plata and Continental Shelf",
+          "date": "2026-09-01",
+          "venue": "",
+          "link": "https://www.tandfonline.com/doi/pdf/10.1080/28375807.2026.2725907?needAccess=true"
+        },
+        {
+          "title": "Enhancing coastal flood hazard assessments through spatio-temporal event modelling at large scales",
+          "date": "2026-08-31",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2212094726001039/pdf"
+        },
+        {
           "title": "Advances in numerical modelling of coral reef hydrodynamics: approaches, applications, and future perspectives",
           "date": "2026-08-31",
           "venue": "",
           "link": "https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2722436?needAccess=true"
-        },
-        {
-          "title": "Bridging global offshore waves and nearshore coastal conditions with deep learning",
-          "date": "2026-08-29",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s43247-026-04004-x_reference.pdf"
-        },
-        {
-          "title": "Coupled stochastic variational principles for multiscale surface gravity waves -- Part I: theoretical framework",
-          "date": "2026-08-27",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2608.27074"
-        },
-        {
-          "title": "Simulating coastal hydrodynamics: the role of seagrass in climate adaptation",
-          "date": "2026-08-25",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s10236-026-01845-0.pdf"
         }
       ]
     }
