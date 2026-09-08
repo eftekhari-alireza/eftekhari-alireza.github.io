@@ -1,11 +1,17 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Present-Day Sea Level Variations in Coastal Areas from Daily to Multidecadal Time Scales: Observations and Causes",
+          "date": "2026-08-14",
+          "venue": "",
+          "link": "https://doi.org/10.1007/s10712-026-09956-5"
+        },
         {
           "title": "An unstructured-grid, nonhydrostatic, GVC ocean model Part I: Model description and application of vertical hybrid coordinates to internal solitary waves",
           "date": "2026-07-30",
@@ -29,12 +35,6 @@
           "date": "2026-07-14",
           "venue": "",
           "link": "https://doi.org/10.1029/2025jd046105"
-        },
-        {
-          "title": "Unraveling the implementation of episodic hypoxia events in a coastal ecosystem under anthropogenic nutrient loads",
-          "date": "2026-07-11",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.marenvres.2026.108275"
         }
       ]
     },
@@ -42,6 +42,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "CFD-based recurrent neural network modeling of plasma-assisted flow control over a stepped NACA4412 airfoil using LSTM and GRU",
+          "date": "2026-09-06",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41598-026-69623-y_reference.pdf"
+        },
         {
           "title": "Asymmetric response of coastal currents to oscillating alongshore wind stress over a coastal bank",
           "date": "2026-09-02",
@@ -65,12 +71,6 @@
           "date": "2026-09-01",
           "venue": "",
           "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JC023593"
-        },
-        {
-          "title": "Enhancing coastal flood hazard assessments through spatio-temporal event modelling at large scales",
-          "date": "2026-08-31",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S2212094726001039/pdf"
         }
       ]
     },
@@ -78,6 +78,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Prediction of the Bohai Sea and northern Yellow Sea wave-current system based on physics-informed dynamic graph attention network",
+          "date": "2026-09-06",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.oceaneng.2026.127964"
+        },
         {
           "title": "The 15th international workshop on modeling the ocean (IWMO-2025) in Stanford, California, USA, June 30th \u2013 July 1st, 2025",
           "date": "2026-09-01",
@@ -101,12 +107,6 @@
           "date": "2026-08-26",
           "venue": "",
           "link": "https://www.sciencedirect.com/science/article/pii/S2214581826007834/pdf"
-        },
-        {
-          "title": "From regional to global: a typhoon-aware adaptive graph transformer for cross-basin tropical cyclone-induced storm surge forecasting",
-          "date": "2026-08-25",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-10797331/latest.pdf"
         }
       ]
     },
