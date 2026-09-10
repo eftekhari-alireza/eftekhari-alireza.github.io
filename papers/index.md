@@ -3,27 +3,13 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-09-09** · Showing results since **2025**_
+_Last update: **2026-09-10** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
-**Recent items (OpenAlex):**
-- [Present-Day Sea Level Variations in Coastal Areas from Daily to Multidecadal Time Scales: Observations and Causes](https://doi.org/10.1007/s10712-026-09956-5) · 2026-08-14
-- [An unstructured-grid, nonhydrostatic, GVC ocean model Part I: Model description and application of vertical hybrid coordinates to internal solitary waves](https://arxiv.org/pdf/2607.28356) · 2026-07-30
-- [A Generalizable Lie Autoencoder for Emulating Barotropic Turbulence](https://eartharxiv.org/repository/object/14067/download/24649/) · 2026-07-22
-- [Simulating deep convective plumes in the framework of a Quasi-Non-Hydrostatic modelling: a heuristic approach](https://www.researchsquare.com/article/rs-10129263/latest.pdf) · 2026-07-15
-- [On the Tropical Nature of an Intense Mediterranean Cyclone in the Ocean‐Atmosphere System](https://doi.org/10.1029/2025jd046105) · 2026-07-14
-
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
-
-**Recent items (OpenAlex):**
-- [CFD-based recurrent neural network modeling of plasma-assisted flow control over a stepped NACA4412 airfoil using LSTM and GRU](https://www.nature.com/articles/s41598-026-69623-y_reference.pdf) · 2026-09-06
-- [Asymmetric response of coastal currents to oscillating alongshore wind stress over a coastal bank](https://os.copernicus.org/articles/22/2659/2026/os-22-2659-2026.pdf) · 2026-09-02
-- [Estimating CO2 Leakage Fluxes along Legacy Wells Using a Rapid Physics-Based Screening Approach](https://eartharxiv.org/repository/object/14756/download/25658/) · 2026-09-02
-- [Comparing GNSS derived sea ice drift in the Arctic and Antarctic using rotary spectra and principal component analysis](https://www.tandfonline.com/doi/pdf/10.1080/1755876X.2026.2722547?needAccess=true) · 2026-09-01
-- [Impacts of Cross‐Shore Winds, Waves, and Sand Ridges on Inner Shelf Circulation](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JC023593) · 2026-09-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -41,9 +27,9 @@ _Last update: **2026-09-09** · Showing results since **2025**_
 **Recent items (OpenAlex):**
 - [A systematic review and multivariate classification of sediment transport models: integrating PRISMA and factor analysis of mixed data](https://www.sciencedirect.com/science/article/pii/S0012825226002825/pdf) · 2026-09-02
 - [Advances in numerical modelling of coral reef hydrodynamics: approaches, applications, and future perspectives](https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2722436?needAccess=true) · 2026-08-31
+- [Impact of Jetty Extensions on Sediment Transport and Shoreline Stability: A Case Study of El-Manzala Lake Port Said, Egypt](https://www.jmr.unican.es/jmr/article/download/1376/1278) · 2026-08-31
 - [Integrated Assessment of Water Quality and Heavy Metal Contamination in Water and Aquatic Biota of the Otomona River, Indonesia](https://www.researchsquare.com/article/rs-10739058/latest.pdf) · 2026-08-28
 - [Riverine flood risk mapping using GIS–AHP and climate-driven hydrodynamic simulations in an alpine basin of the Indus River system](https://journals.plos.org/climate/article/file?id=10.1371/journal.pclm.0000915&type=printable) · 2026-08-17
-- [Integrated numerical modeling of landslide-induced wave at Shahrchay Dam using PLAXIS and MIKE 21](https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2717953?needAccess=true) · 2026-08-15
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,18 +45,18 @@ _Last update: **2026-09-09** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Two-dimensional coupled wave-hydrodynamic modeling of the northern Bay of Bengal](https://link.springer.com/content/pdf/10.1007/s44289-026-00167-9.pdf) · 2026-09-07
 - [Editorial: Innovations in coastal morphodynamic modeling](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1954791/pdf) · 2026-09-04
 - [Developing a coastal hazard prediction system in ice-infested waters – Part 1: High-resolution regional wave modeling in the Estuary and Gulf of St. Lawrence](https://nhess.copernicus.org/articles/26/4231/2026/nhess-26-4231-2026.pdf) · 2026-09-03
 - [How models represent target systems in the world, and how we (need to) communicate this](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4944/egusphere-2026-4944.pdf) · 2026-09-03
 - [A systematic review and multivariate classification of sediment transport models: integrating PRISMA and factor analysis of mixed data](https://www.sciencedirect.com/science/article/pii/S0012825226002825/pdf) · 2026-09-02
-- [A Coupled Delft3D-FM – SWAN Study on Seasonal Variability of Coastal Hydrodynamics, Wave Transformation and Longshore Sediment Transport along Andhra Pradesh Coast, India](https://www.researchsquare.com/article/rs-10677961/latest.pdf) · 2026-08-31
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Spectral Bandwidth and Wave Period Relationships: Insights for Offshore Engineering and Sea State Prediction](https://iiardjournals.org/get/WJIMT/VOL. 10 NO. 4 2026/Spectral Bandwidth and Wave Period 40-44.pdf) · 2026-09-04
 - [Developing a coastal hazard prediction system in ice-infested waters – Part 1: High-resolution regional wave modeling in the Estuary and Gulf of St. Lawrence](https://nhess.copernicus.org/articles/26/4231/2026/nhess-26-4231-2026.pdf) · 2026-09-03
+- [PronUy_RPFM: a modular architecture system for prototype development in operational forecasting of the Río de la Plata and continental shelf](https://www.tandfonline.com/doi/pdf/10.1080/28375807.2026.2725907?needAccess=true) · 2026-09-02
 - [Impacts of Cross‐Shore Winds, Waves, and Sand Ridges on Inner Shelf Circulation](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JC023593) · 2026-09-01
-- [PronUy_rpfm: a modular architecture system for prototype development in operational forecasting of the río de la Plata and Continental Shelf](https://www.tandfonline.com/doi/pdf/10.1080/28375807.2026.2725907?needAccess=true) · 2026-09-01
-- [Enhancing coastal flood hazard assessments through spatio-temporal event modelling at large scales](https://www.sciencedirect.com/science/article/pii/S2212094726001039/pdf) · 2026-08-31
-- [Advances in numerical modelling of coral reef hydrodynamics: approaches, applications, and future perspectives](https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2722436?needAccess=true) · 2026-08-31
+- [Prediction method for small-sample ocean wave data based on optimal decomposition](https://www.sciencedirect.com/science/article/pii/S2468013326001518/pdf) · 2026-09-01
