@@ -3,13 +3,27 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-09-10** · Showing results since **2025**_
+_Last update: **2026-09-11** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
+**Recent items (OpenAlex):**
+- [Present-Day Sea Level Variations in Coastal Areas from Daily to Multidecadal Time Scales: Observations and Causes](https://doi.org/10.1007/s10712-026-09956-5) · 2026-08-14
+- [An unstructured-grid, nonhydrostatic, GVC ocean model Part I: Model description and application of vertical hybrid coordinates to internal solitary waves](https://arxiv.org/pdf/2607.28356) · 2026-07-30
+- [A Generalizable Lie Autoencoder for Emulating Barotropic Turbulence](https://eartharxiv.org/repository/object/14067/download/24649/) · 2026-07-22
+- [Simulating deep convective plumes in the framework of a Quasi-Non-Hydrostatic modelling: a heuristic approach](https://www.researchsquare.com/article/rs-10129263/latest.pdf) · 2026-07-15
+- [On the Tropical Nature of an Intense Mediterranean Cyclone in the Ocean‐Atmosphere System](https://doi.org/10.1029/2025jd046105) · 2026-07-14
+
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
+
+**Recent items (OpenAlex):**
+- [Annual wake impacts in and between wind farm clusters – Part 1: WRF-simulated wake losses for different atmospheric conditions](https://wes.copernicus.org/articles/11/3273/2026/wes-11-3273-2026.pdf) · 2026-09-07
+- [CFD-based recurrent neural network modeling of plasma-assisted flow control over a stepped NACA4412 airfoil using LSTM and GRU](https://www.nature.com/articles/s41598-026-69623-y_reference.pdf) · 2026-09-06
+- [Asymmetric response of coastal currents to oscillating alongshore wind stress over a coastal bank](https://os.copernicus.org/articles/22/2659/2026/os-22-2659-2026.pdf) · 2026-09-02
+- [Estimating CO2 Leakage Fluxes along Legacy Wells Using a Rapid Physics-Based Screening Approach](https://eartharxiv.org/repository/object/14756/download/25658/) · 2026-09-02
+- [Comparing GNSS derived sea ice drift in the Arctic and Antarctic using rotary spectra and principal component analysis](https://www.tandfonline.com/doi/pdf/10.1080/1755876X.2026.2722547?needAccess=true) · 2026-09-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
