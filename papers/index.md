@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-09-11** · Showing results since **2025**_
+_Last update: **2026-09-12** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-09-11** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [From ocean science to policy-ready services: the European Digital Twin Ocean in practice](https://www.researchsquare.com/article/rs-10499546/latest.pdf) · 2026-09-09
 - [Two-dimensional coupled wave-hydrodynamic modeling of the northern Bay of Bengal](https://link.springer.com/content/pdf/10.1007/s44289-026-00167-9.pdf) · 2026-09-07
 - [Editorial: Innovations in coastal morphodynamic modeling](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1954791/pdf) · 2026-09-04
 - [Developing a coastal hazard prediction system in ice-infested waters – Part 1: High-resolution regional wave modeling in the Estuary and Gulf of St. Lawrence](https://nhess.copernicus.org/articles/26/4231/2026/nhess-26-4231-2026.pdf) · 2026-09-03
 - [How models represent target systems in the world, and how we (need to) communicate this](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4944/egusphere-2026-4944.pdf) · 2026-09-03
-- [A systematic review and multivariate classification of sediment transport models: integrating PRISMA and factor analysis of mixed data](https://www.sciencedirect.com/science/article/pii/S0012825226002825/pdf) · 2026-09-02
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
