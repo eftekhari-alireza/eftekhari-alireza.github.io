@@ -1,11 +1,17 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "DNRA stimulates aerobic microbial processes and restructures the surface planktonic community in the Chilean OMZ",
+          "date": "2026-09-11",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-10820709/latest.pdf"
+        },
         {
           "title": "Present-Day Sea Level Variations in Coastal Areas from Daily to Multidecadal Time Scales: Observations and Causes",
           "date": "2026-08-14",
@@ -29,50 +35,13 @@
           "date": "2026-07-15",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-10129263/latest.pdf"
-        },
-        {
-          "title": "On the Tropical Nature of an Intense Mediterranean Cyclone in the Ocean\u2010Atmosphere System",
-          "date": "2026-07-14",
-          "venue": "",
-          "link": "https://doi.org/10.1029/2025jd046105"
         }
       ]
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Annual wake impacts in and between wind farm clusters \u2013 Part 1: WRF-simulated wake losses for different atmospheric conditions",
-          "date": "2026-09-07",
-          "venue": "",
-          "link": "https://wes.copernicus.org/articles/11/3273/2026/wes-11-3273-2026.pdf"
-        },
-        {
-          "title": "CFD-based recurrent neural network modeling of plasma-assisted flow control over a stepped NACA4412 airfoil using LSTM and GRU",
-          "date": "2026-09-06",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s41598-026-69623-y_reference.pdf"
-        },
-        {
-          "title": "Asymmetric response of coastal currents to oscillating alongshore wind stress over a coastal bank",
-          "date": "2026-09-02",
-          "venue": "",
-          "link": "https://os.copernicus.org/articles/22/2659/2026/os-22-2659-2026.pdf"
-        },
-        {
-          "title": "Estimating CO2 Leakage Fluxes along Legacy Wells Using a Rapid Physics-Based Screening Approach",
-          "date": "2026-09-02",
-          "venue": "",
-          "link": "https://eartharxiv.org/repository/object/14756/download/25658/"
-        },
-        {
-          "title": "Comparing GNSS derived sea ice drift in the Arctic and Antarctic using rotary spectra and principal component analysis",
-          "date": "2026-09-01",
-          "venue": "",
-          "link": "https://www.tandfonline.com/doi/pdf/10.1080/1755876X.2026.2722547?needAccess=true"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
@@ -149,38 +118,7 @@
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 3\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Riverine flood risk mapping using GIS\u2013AHP and climate-driven hydrodynamic simulations in an alpine basin of the Indus River system",
-          "date": "2026-08-17",
-          "venue": "",
-          "link": "https://journals.plos.org/climate/article/file?id=10.1371/journal.pclm.0000915&type=printable"
-        },
-        {
-          "title": "Integrated numerical modeling of landslide-induced wave at Shahrchay Dam using PLAXIS and MIKE 21",
-          "date": "2026-08-15",
-          "venue": "",
-          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2717953?needAccess=true"
-        },
-        {
-          "title": "Critical Review of Tools and Techniques for Predicting Microplastics Pollution in Watershed Runoff",
-          "date": "2026-08-01",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S2950305126000367/pdf"
-        },
-        {
-          "title": "Sediment deposition induced by embankment-breach flooding under the influence of drainage trench networks",
-          "date": "2026-07-29",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.catena.2026.110466"
-        },
-        {
-          "title": "Hydrodynamic impacts of wharf reconstruction aligned with channel expansion under urbanization",
-          "date": "2026-07-15",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-10196792/latest.pdf"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Delft3D\"",
@@ -221,38 +159,7 @@
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Spectral Bandwidth and Wave Period Relationships: Insights for Offshore Engineering and Sea State Prediction",
-          "date": "2026-09-04",
-          "venue": "",
-          "link": "https://iiardjournals.org/get/WJIMT/VOL. 10 NO. 4 2026/Spectral Bandwidth and Wave Period 40-44.pdf"
-        },
-        {
-          "title": "Developing a coastal hazard prediction system in ice-infested waters \u2013 Part 1: High-resolution regional wave modeling in the Estuary and Gulf of St. Lawrence",
-          "date": "2026-09-03",
-          "venue": "",
-          "link": "https://nhess.copernicus.org/articles/26/4231/2026/nhess-26-4231-2026.pdf"
-        },
-        {
-          "title": "PronUy_RPFM: a modular architecture system for prototype development in operational forecasting of the R\u00edo de la Plata and continental shelf",
-          "date": "2026-09-02",
-          "venue": "",
-          "link": "https://www.tandfonline.com/doi/pdf/10.1080/28375807.2026.2725907?needAccess=true"
-        },
-        {
-          "title": "Impacts of Cross\u2010Shore Winds, Waves, and Sand Ridges on Inner Shelf Circulation",
-          "date": "2026-09-01",
-          "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JC023593"
-        },
-        {
-          "title": "Prediction method for small-sample ocean wave data based on optimal decomposition",
-          "date": "2026-09-01",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S2468013326001518/pdf"
-        }
-      ]
+      "openalex": []
     }
   ]
 }
