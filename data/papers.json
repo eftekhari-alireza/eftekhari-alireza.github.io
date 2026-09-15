@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "year_from": 2025,
   "items": [
     {
@@ -41,7 +41,38 @@
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": []
+      "openalex": [
+        {
+          "title": "DNRA stimulates aerobic microbial processes and restructures the surface planktonic community in the Chilean OMZ",
+          "date": "2026-09-11",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-10820709/latest.pdf"
+        },
+        {
+          "title": "Thermal current coupling modeling and heat dissipation structure optimization of switchgear in prefabricated substations based on APINN",
+          "date": "2026-09-11",
+          "venue": "",
+          "link": "https://iopscience.iop.org/article/10.1088/2631-8695/aea68b/pdf"
+        },
+        {
+          "title": "Annual wake impacts in and between wind farm clusters \u2013 Part 1: WRF-simulated wake losses for different atmospheric conditions",
+          "date": "2026-09-07",
+          "venue": "",
+          "link": "https://wes.copernicus.org/articles/11/3273/2026/wes-11-3273-2026.pdf"
+        },
+        {
+          "title": "CFD-based recurrent neural network modeling of plasma-assisted flow control over a stepped NACA4412 airfoil using LSTM and GRU",
+          "date": "2026-09-06",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41598-026-69623-y_reference.pdf"
+        },
+        {
+          "title": "Asymmetric response of coastal currents to oscillating alongshore wind stress over a coastal bank",
+          "date": "2026-09-02",
+          "venue": "",
+          "link": "https://os.copernicus.org/articles/22/2659/2026/os-22-2659-2026.pdf"
+        }
+      ]
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
@@ -66,16 +97,16 @@
           "link": "https://bg.copernicus.org/articles/23/6003/2026/bg-23-6003-2026.pdf"
         },
         {
+          "title": "Abnormally Increased Summer Bottom SSC: A Case Study in the Northern East China Sea",
+          "date": "2026-09-01",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JC024254"
+        },
+        {
           "title": "Advances in numerical modelling of coral reef hydrodynamics: approaches, applications, and future perspectives",
           "date": "2026-08-31",
           "venue": "",
           "link": "https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2722436?needAccess=true"
-        },
-        {
-          "title": "The impacts of winter storms on sediment dynamics and shear front variability in the Yellow River Delta",
-          "date": "2026-08-26",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S2214581826007834/pdf"
         }
       ]
     },
@@ -118,12 +149,49 @@
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 3\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": []
+      "openalex": [
+        {
+          "title": "Riverine flood risk mapping using GIS\u2013AHP and climate-driven hydrodynamic simulations in an alpine basin of the Indus River system",
+          "date": "2026-08-17",
+          "venue": "",
+          "link": "https://journals.plos.org/climate/article/file?id=10.1371/journal.pclm.0000915&type=printable"
+        },
+        {
+          "title": "Integrated numerical modeling of landslide-induced wave at Shahrchay Dam using PLAXIS and MIKE 21",
+          "date": "2026-08-15",
+          "venue": "",
+          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2717953?needAccess=true"
+        },
+        {
+          "title": "Critical Review of Tools and Techniques for Predicting Microplastics Pollution in Watershed Runoff",
+          "date": "2026-08-01",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2950305126000367/pdf"
+        },
+        {
+          "title": "Sediment deposition induced by embankment-breach flooding under the influence of drainage trench networks",
+          "date": "2026-07-29",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.catena.2026.110466"
+        },
+        {
+          "title": "Hydrodynamic impacts of wharf reconstruction aligned with channel expansion under urbanization",
+          "date": "2026-07-15",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-10196792/latest.pdf"
+        }
+      ]
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Delft3D\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Numerical Modelling of the Barotropic Tides in the Gulf of Aden",
+          "date": "2026-09-12",
+          "venue": "",
+          "link": "https://doi.org/10.3390/jmse14181696"
+        },
         {
           "title": "From ocean science to policy-ready services: the European Digital Twin Ocean in practice",
           "date": "2026-09-09",
@@ -147,19 +215,44 @@
           "date": "2026-09-03",
           "venue": "",
           "link": "https://nhess.copernicus.org/articles/26/4231/2026/nhess-26-4231-2026.pdf"
-        },
-        {
-          "title": "How models represent target systems in the world, and how we (need to) communicate this",
-          "date": "2026-09-03",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4944/egusphere-2026-4944.pdf"
         }
       ]
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": []
+      "openalex": [
+        {
+          "title": "Spectral Bandwidth and Wave Period Relationships: Insights for Offshore Engineering and Sea State Prediction",
+          "date": "2026-09-04",
+          "venue": "",
+          "link": "https://iiardjournals.org/get/WJIMT/VOL. 10 NO. 4 2026/Spectral Bandwidth and Wave Period 40-44.pdf"
+        },
+        {
+          "title": "Developing a coastal hazard prediction system in ice-infested waters \u2013 Part 1: High-resolution regional wave modeling in the Estuary and Gulf of St. Lawrence",
+          "date": "2026-09-03",
+          "venue": "",
+          "link": "https://nhess.copernicus.org/articles/26/4231/2026/nhess-26-4231-2026.pdf"
+        },
+        {
+          "title": "PronUy_RPFM: a modular architecture system for prototype development in operational forecasting of the R\u00edo de la Plata and continental shelf",
+          "date": "2026-09-02",
+          "venue": "",
+          "link": "https://www.tandfonline.com/doi/pdf/10.1080/28375807.2026.2725907?needAccess=true"
+        },
+        {
+          "title": "Impacts of Cross\u2010Shore Winds, Waves, and Sand Ridges on Inner Shelf Circulation",
+          "date": "2026-09-01",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JC023593"
+        },
+        {
+          "title": "Prediction method for small-sample ocean wave data based on optimal decomposition",
+          "date": "2026-09-01",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2468013326001518/pdf"
+        }
+      ]
     }
   ]
 }
