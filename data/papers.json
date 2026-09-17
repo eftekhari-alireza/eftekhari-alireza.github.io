@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Phy-Ture: A Physics-Guided Fusion and FeaTure Processing Framework for Unmanned Helicopter Dynamics Modeling",
+          "date": "2026-09-15",
+          "venue": "",
+          "link": "https://media.sciltp.com/articles/2609005126/2609005126.pdf"
+        },
+        {
+          "title": "Coral connectivity: How biophysical modelling choices shape connectivity inference",
+          "date": "2026-09-15",
+          "venue": "",
+          "link": "https://eartharxiv.org/repository/object/14999/download/26055/"
+        },
+        {
           "title": "DNRA stimulates aerobic microbial processes and restructures the surface planktonic community in the Chilean OMZ",
           "date": "2026-09-11",
           "venue": "",
@@ -59,18 +71,6 @@
           "date": "2026-09-07",
           "venue": "",
           "link": "https://wes.copernicus.org/articles/11/3273/2026/wes-11-3273-2026.pdf"
-        },
-        {
-          "title": "CFD-based recurrent neural network modeling of plasma-assisted flow control over a stepped NACA4412 airfoil using LSTM and GRU",
-          "date": "2026-09-06",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s41598-026-69623-y_reference.pdf"
-        },
-        {
-          "title": "Asymmetric response of coastal currents to oscillating alongshore wind stress over a coastal bank",
-          "date": "2026-09-02",
-          "venue": "",
-          "link": "https://os.copernicus.org/articles/22/2659/2026/os-22-2659-2026.pdf"
         }
       ]
     },
@@ -78,6 +78,18 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Estimation and interpretation of spatially varying bottom friction coefficients in Bohai Bay using A-4DEnVar",
+          "date": "2026-09-15",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1864155/pdf"
+        },
+        {
+          "title": "Coral connectivity: How biophysical modelling choices shape connectivity inference",
+          "date": "2026-09-15",
+          "venue": "",
+          "link": "https://eartharxiv.org/repository/object/14999/download/26055/"
+        },
         {
           "title": "Prediction of the Bohai Sea and northern Yellow Sea wave-current system based on physics-informed dynamic graph attention network",
           "date": "2026-09-06",
@@ -95,18 +107,6 @@
           "date": "2026-09-01",
           "venue": "",
           "link": "https://bg.copernicus.org/articles/23/6003/2026/bg-23-6003-2026.pdf"
-        },
-        {
-          "title": "Abnormally Increased Summer Bottom SSC: A Case Study in the Northern East China Sea",
-          "date": "2026-09-01",
-          "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JC024254"
-        },
-        {
-          "title": "Advances in numerical modelling of coral reef hydrodynamics: approaches, applications, and future perspectives",
-          "date": "2026-08-31",
-          "venue": "",
-          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2722436?needAccess=true"
         }
       ]
     },
@@ -115,10 +115,22 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "An Analysis of Saltwater Intrusion Characteristics at Canal Estuaries During Typical Processes Driven by Coupled Typhoon and Runoff Dynamics",
+          "date": "2026-09-16",
+          "venue": "",
+          "link": "https://doi.org/10.1007/s12601-026-00309-2"
+        },
+        {
           "title": "A systematic review and multivariate classification of sediment transport models: integrating PRISMA and factor analysis of mixed data",
           "date": "2026-09-02",
           "venue": "",
           "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002825/pdf"
+        },
+        {
+          "title": "Critical review of tools and techniques for predicting microplastics pollution in watershed runoff",
+          "date": "2026-09-01",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2950305126000367/pdf"
         },
         {
           "title": "Advances in numerical modelling of coral reef hydrodynamics: approaches, applications, and future perspectives",
@@ -131,18 +143,6 @@
           "date": "2026-08-31",
           "venue": "",
           "link": "https://www.jmr.unican.es/jmr/article/download/1376/1278"
-        },
-        {
-          "title": "Integrated Assessment of Water Quality and Heavy Metal Contamination in Water and Aquatic Biota of the Otomona River, Indonesia",
-          "date": "2026-08-28",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-10739058/latest.pdf"
-        },
-        {
-          "title": "Riverine flood risk mapping using GIS\u2013AHP and climate-driven hydrodynamic simulations in an alpine basin of the Indus River system",
-          "date": "2026-08-17",
-          "venue": "",
-          "link": "https://journals.plos.org/climate/article/file?id=10.1371/journal.pclm.0000915&type=printable"
         }
       ]
     },
@@ -150,6 +150,18 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 3\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Coral connectivity: How biophysical modelling choices shape connectivity inference",
+          "date": "2026-09-15",
+          "venue": "",
+          "link": "https://eartharxiv.org/repository/object/14999/download/26055/"
+        },
+        {
+          "title": "Critical review of tools and techniques for predicting microplastics pollution in watershed runoff",
+          "date": "2026-09-01",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2950305126000367/pdf"
+        },
         {
           "title": "Riverine flood risk mapping using GIS\u2013AHP and climate-driven hydrodynamic simulations in an alpine basin of the Indus River system",
           "date": "2026-08-17",
@@ -163,22 +175,10 @@
           "link": "https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2717953?needAccess=true"
         },
         {
-          "title": "Critical Review of Tools and Techniques for Predicting Microplastics Pollution in Watershed Runoff",
-          "date": "2026-08-01",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S2950305126000367/pdf"
-        },
-        {
           "title": "Sediment deposition induced by embankment-breach flooding under the influence of drainage trench networks",
           "date": "2026-07-29",
           "venue": "",
           "link": "https://doi.org/10.1016/j.catena.2026.110466"
-        },
-        {
-          "title": "Hydrodynamic impacts of wharf reconstruction aligned with channel expansion under urbanization",
-          "date": "2026-07-15",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-10196792/latest.pdf"
         }
       ]
     },
@@ -186,6 +186,24 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Delft3D\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Coral connectivity: How biophysical modelling choices shape connectivity inference",
+          "date": "2026-09-15",
+          "venue": "",
+          "link": "https://eartharxiv.org/repository/object/14999/download/26055/"
+        },
+        {
+          "title": "FOCCUS WP9 D9.1 Application Demonstrator: ESC2 - 2.1.3 - Impact Assessment for multi-use in the Southern North Sea",
+          "date": "2026-09-15",
+          "venue": "",
+          "link": "https://doi.org/10.5281/zenodo.22763345"
+        },
+        {
+          "title": "FOCCUS WP9 D9.1 Application Demonstrator: ESC2 - 2.1.3 - Impact Assessment for multi-use in the Southern North Sea",
+          "date": "2026-09-15",
+          "venue": "",
+          "link": "https://doi.org/10.5281/zenodo.22763346"
+        },
         {
           "title": "Numerical Modelling of the Barotropic Tides in the Gulf of Aden",
           "date": "2026-09-12",
@@ -197,24 +215,6 @@
           "date": "2026-09-09",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-10499546/latest.pdf"
-        },
-        {
-          "title": "Two-dimensional coupled wave-hydrodynamic modeling of the northern Bay of Bengal",
-          "date": "2026-09-07",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s44289-026-00167-9.pdf"
-        },
-        {
-          "title": "Editorial: Innovations in coastal morphodynamic modeling",
-          "date": "2026-09-04",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1954791/pdf"
-        },
-        {
-          "title": "Developing a coastal hazard prediction system in ice-infested waters \u2013 Part 1: High-resolution regional wave modeling in the Estuary and Gulf of St. Lawrence",
-          "date": "2026-09-03",
-          "venue": "",
-          "link": "https://nhess.copernicus.org/articles/26/4231/2026/nhess-26-4231-2026.pdf"
         }
       ]
     },
