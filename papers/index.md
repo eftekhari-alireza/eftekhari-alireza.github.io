@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-09-17** · Showing results since **2025**_
+_Last update: **2026-09-18** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-09-17** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Along‐Strike Coupling Heterogeneity in Cascadia's Slow‐Slip Zone Constrained by GNSS and Reduced‐Order Rate‐And‐State Friction Modeling](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL122833) · 2026-09-16
 - [Phy-Ture: A Physics-Guided Fusion and FeaTure Processing Framework for Unmanned Helicopter Dynamics Modeling](https://media.sciltp.com/articles/2609005126/2609005126.pdf) · 2026-09-15
 - [Coral connectivity: How biophysical modelling choices shape connectivity inference](https://eartharxiv.org/repository/object/14999/download/26055/) · 2026-09-15
 - [DNRA stimulates aerobic microbial processes and restructures the surface planktonic community in the Chilean OMZ](https://www.researchsquare.com/article/rs-10820709/latest.pdf) · 2026-09-11
 - [Thermal current coupling modeling and heat dissipation structure optimization of switchgear in prefabricated substations based on APINN](https://iopscience.iop.org/article/10.1088/2631-8695/aea68b/pdf) · 2026-09-11
-- [Annual wake impacts in and between wind farm clusters – Part 1: WRF-simulated wake losses for different atmospheric conditions](https://wes.copernicus.org/articles/11/3273/2026/wes-11-3273-2026.pdf) · 2026-09-07
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

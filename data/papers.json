@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Along\u2010Strike Coupling Heterogeneity in Cascadia's Slow\u2010Slip Zone Constrained by GNSS and Reduced\u2010Order Rate\u2010And\u2010State Friction Modeling",
+          "date": "2026-09-16",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL122833"
+        },
+        {
           "title": "Phy-Ture: A Physics-Guided Fusion and FeaTure Processing Framework for Unmanned Helicopter Dynamics Modeling",
           "date": "2026-09-15",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-09-11",
           "venue": "",
           "link": "https://iopscience.iop.org/article/10.1088/2631-8695/aea68b/pdf"
-        },
-        {
-          "title": "Annual wake impacts in and between wind farm clusters \u2013 Part 1: WRF-simulated wake losses for different atmospheric conditions",
-          "date": "2026-09-07",
-          "venue": "",
-          "link": "https://wes.copernicus.org/articles/11/3273/2026/wes-11-3273-2026.pdf"
         }
       ]
     },
