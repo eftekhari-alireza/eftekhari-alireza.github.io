@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "year_from": 2025,
   "items": [
     {
@@ -121,6 +121,12 @@
           "link": "https://doi.org/10.1007/s12601-026-00309-2"
         },
         {
+          "title": "Review of Simulation Modeling Approaches in Water Resources Management",
+          "date": "2026-09-15",
+          "venue": "",
+          "link": "https://bajest.bauc14.edu.iq/index.php/bajest/article/download/193/113"
+        },
+        {
           "title": "A systematic review and multivariate classification of sediment transport models: integrating PRISMA and factor analysis of mixed data",
           "date": "2026-09-02",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-08-31",
           "venue": "",
           "link": "https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2722436?needAccess=true"
-        },
-        {
-          "title": "Impact of Jetty Extensions on Sediment Transport and Shoreline Stability: A Case Study of El-Manzala Lake Port Said, Egypt",
-          "date": "2026-08-31",
-          "venue": "",
-          "link": "https://www.jmr.unican.es/jmr/article/download/1376/1278"
         }
       ]
     },

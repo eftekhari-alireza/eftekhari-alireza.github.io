@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-09-18** · Showing results since **2025**_
+_Last update: **2026-09-19** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -40,10 +40,10 @@ _Last update: **2026-09-18** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [An Analysis of Saltwater Intrusion Characteristics at Canal Estuaries During Typical Processes Driven by Coupled Typhoon and Runoff Dynamics](https://doi.org/10.1007/s12601-026-00309-2) · 2026-09-16
+- [Review of Simulation Modeling Approaches in Water Resources Management](https://bajest.bauc14.edu.iq/index.php/bajest/article/download/193/113) · 2026-09-15
 - [A systematic review and multivariate classification of sediment transport models: integrating PRISMA and factor analysis of mixed data](https://www.sciencedirect.com/science/article/pii/S0012825226002825/pdf) · 2026-09-02
 - [Critical review of tools and techniques for predicting microplastics pollution in watershed runoff](https://www.sciencedirect.com/science/article/pii/S2950305126000367/pdf) · 2026-09-01
 - [Advances in numerical modelling of coral reef hydrodynamics: approaches, applications, and future perspectives](https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2722436?needAccess=true) · 2026-08-31
-- [Impact of Jetty Extensions on Sediment Transport and Shoreline Stability: A Case Study of El-Manzala Lake Port Said, Egypt](https://www.jmr.unican.es/jmr/article/download/1376/1278) · 2026-08-31
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
