@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Deep Learning to Infer Ocean Dynamics",
+          "date": "2026-09-20",
+          "venue": "",
+          "link": "https://eartharxiv.org/repository/object/15102/download/26205/"
+        },
+        {
           "title": "Along\u2010Strike Coupling Heterogeneity in Cascadia's Slow\u2010Slip Zone Constrained by GNSS and Reduced\u2010Order Rate\u2010And\u2010State Friction Modeling",
           "date": "2026-09-16",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-09-11",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-10820709/latest.pdf"
-        },
-        {
-          "title": "Thermal current coupling modeling and heat dissipation structure optimization of switchgear in prefabricated substations based on APINN",
-          "date": "2026-09-11",
-          "venue": "",
-          "link": "https://iopscience.iop.org/article/10.1088/2631-8695/aea68b/pdf"
         }
       ]
     },
@@ -151,6 +151,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Modeling of tidal stream energy resources near Rigolet, Nunatsiavut (Labrador, Canada) to assess energy transition options for a diesel power-reliant northern community",
+          "date": "2026-09-17",
+          "venue": "",
+          "link": "https://iopscience.iop.org/article/10.1088/2753-3751/aea90d/pdf"
+        },
+        {
           "title": "Coral connectivity: How biophysical modelling choices shape connectivity inference",
           "date": "2026-09-15",
           "venue": "",
@@ -173,12 +179,6 @@
           "date": "2026-08-15",
           "venue": "",
           "link": "https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2717953?needAccess=true"
-        },
-        {
-          "title": "Sediment deposition induced by embankment-breach flooding under the influence of drainage trench networks",
-          "date": "2026-07-29",
-          "venue": "",
-          "link": "https://doi.org/10.1016/j.catena.2026.110466"
         }
       ]
     },
@@ -186,6 +186,18 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Delft3D\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Unlocking Blue Carbon's Potential Requires Targeted Uncertainty Reductions",
+          "date": "2026-09-18",
+          "venue": "",
+          "link": "https://doi.org/10.31223/x50z2t"
+        },
+        {
+          "title": "Modeling of tidal stream energy resources near Rigolet, Nunatsiavut (Labrador, Canada) to assess energy transition options for a diesel power-reliant northern community",
+          "date": "2026-09-17",
+          "venue": "",
+          "link": "https://iopscience.iop.org/article/10.1088/2753-3751/aea90d/pdf"
+        },
         {
           "title": "Coral connectivity: How biophysical modelling choices shape connectivity inference",
           "date": "2026-09-15",
@@ -203,18 +215,6 @@
           "date": "2026-09-15",
           "venue": "",
           "link": "https://doi.org/10.5281/zenodo.22763346"
-        },
-        {
-          "title": "Numerical Modelling of the Barotropic Tides in the Gulf of Aden",
-          "date": "2026-09-12",
-          "venue": "",
-          "link": "https://doi.org/10.3390/jmse14181696"
-        },
-        {
-          "title": "From ocean science to policy-ready services: the European Digital Twin Ocean in practice",
-          "date": "2026-09-09",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-10499546/latest.pdf"
         }
       ]
     },
@@ -222,6 +222,24 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Implementation of machine learning for wind speed retrieval from HY-2B altimeter",
+          "date": "2026-09-18",
+          "venue": "",
+          "link": "https://www.tandfonline.com/doi/pdf/10.1080/22797254.2026.2728233?needAccess=true"
+        },
+        {
+          "title": "Enhancing Significant Wave Height Simulations Using Distribution\u2010Aware Deep Learning and Environmental Predictors",
+          "date": "2026-09-17",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JH001338"
+        },
+        {
+          "title": "Nonlinear viscous effects on the resonant response of a semi-submersible floating wind turbine",
+          "date": "2026-09-16",
+          "venue": "",
+          "link": "https://research-repository.uwa.edu.au/files/635230144/THESIS_-_DOCTOR_OF_PHILOSOPHY_-_LIU_Lulu_2026.pdf"
+        },
         {
           "title": "Spectral Bandwidth and Wave Period Relationships: Insights for Offshore Engineering and Sea State Prediction",
           "date": "2026-09-04",
@@ -233,24 +251,6 @@
           "date": "2026-09-03",
           "venue": "",
           "link": "https://nhess.copernicus.org/articles/26/4231/2026/nhess-26-4231-2026.pdf"
-        },
-        {
-          "title": "PronUy_RPFM: a modular architecture system for prototype development in operational forecasting of the R\u00edo de la Plata and continental shelf",
-          "date": "2026-09-02",
-          "venue": "",
-          "link": "https://www.tandfonline.com/doi/pdf/10.1080/28375807.2026.2725907?needAccess=true"
-        },
-        {
-          "title": "Impacts of Cross\u2010Shore Winds, Waves, and Sand Ridges on Inner Shelf Circulation",
-          "date": "2026-09-01",
-          "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JC023593"
-        },
-        {
-          "title": "Prediction method for small-sample ocean wave data based on optimal decomposition",
-          "date": "2026-09-01",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S2468013326001518/pdf"
         }
       ]
     }

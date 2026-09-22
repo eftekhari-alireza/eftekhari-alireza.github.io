@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-09-21** · Showing results since **2025**_
+_Last update: **2026-09-22** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-09-21** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Deep Learning to Infer Ocean Dynamics](https://eartharxiv.org/repository/object/15102/download/26205/) · 2026-09-20
 - [Along‐Strike Coupling Heterogeneity in Cascadia's Slow‐Slip Zone Constrained by GNSS and Reduced‐Order Rate‐And‐State Friction Modeling](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL122833) · 2026-09-16
 - [Phy-Ture: A Physics-Guided Fusion and FeaTure Processing Framework for Unmanned Helicopter Dynamics Modeling](https://media.sciltp.com/articles/2609005126/2609005126.pdf) · 2026-09-15
 - [Coral connectivity: How biophysical modelling choices shape connectivity inference](https://eartharxiv.org/repository/object/14999/download/26055/) · 2026-09-15
 - [DNRA stimulates aerobic microbial processes and restructures the surface planktonic community in the Chilean OMZ](https://www.researchsquare.com/article/rs-10820709/latest.pdf) · 2026-09-11
-- [Thermal current coupling modeling and heat dissipation structure optimization of switchgear in prefabricated substations based on APINN](https://iopscience.iop.org/article/10.1088/2631-8695/aea68b/pdf) · 2026-09-11
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -49,28 +49,28 @@ _Last update: **2026-09-21** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Modeling of tidal stream energy resources near Rigolet, Nunatsiavut (Labrador, Canada) to assess energy transition options for a diesel power-reliant northern community](https://iopscience.iop.org/article/10.1088/2753-3751/aea90d/pdf) · 2026-09-17
 - [Coral connectivity: How biophysical modelling choices shape connectivity inference](https://eartharxiv.org/repository/object/14999/download/26055/) · 2026-09-15
 - [Critical review of tools and techniques for predicting microplastics pollution in watershed runoff](https://www.sciencedirect.com/science/article/pii/S2950305126000367/pdf) · 2026-09-01
 - [Riverine flood risk mapping using GIS–AHP and climate-driven hydrodynamic simulations in an alpine basin of the Indus River system](https://journals.plos.org/climate/article/file?id=10.1371/journal.pclm.0000915&type=printable) · 2026-08-17
 - [Integrated numerical modeling of landslide-induced wave at Shahrchay Dam using PLAXIS and MIKE 21](https://www.tandfonline.com/doi/pdf/10.1080/19475705.2026.2717953?needAccess=true) · 2026-08-15
-- [Sediment deposition induced by embankment-breach flooding under the influence of drainage trench networks](https://doi.org/10.1016/j.catena.2026.110466) · 2026-07-29
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Delft3D"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Unlocking Blue Carbon's Potential Requires Targeted Uncertainty Reductions](https://doi.org/10.31223/x50z2t) · 2026-09-18
+- [Modeling of tidal stream energy resources near Rigolet, Nunatsiavut (Labrador, Canada) to assess energy transition options for a diesel power-reliant northern community](https://iopscience.iop.org/article/10.1088/2753-3751/aea90d/pdf) · 2026-09-17
 - [Coral connectivity: How biophysical modelling choices shape connectivity inference](https://eartharxiv.org/repository/object/14999/download/26055/) · 2026-09-15
 - [FOCCUS WP9 D9.1 Application Demonstrator: ESC2 - 2.1.3 - Impact Assessment for multi-use in the Southern North Sea](https://doi.org/10.5281/zenodo.22763345) · 2026-09-15
 - [FOCCUS WP9 D9.1 Application Demonstrator: ESC2 - 2.1.3 - Impact Assessment for multi-use in the Southern North Sea](https://doi.org/10.5281/zenodo.22763346) · 2026-09-15
-- [Numerical Modelling of the Barotropic Tides in the Gulf of Aden](https://doi.org/10.3390/jmse14181696) · 2026-09-12
-- [From ocean science to policy-ready services: the European Digital Twin Ocean in practice](https://www.researchsquare.com/article/rs-10499546/latest.pdf) · 2026-09-09
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Implementation of machine learning for wind speed retrieval from HY-2B altimeter](https://www.tandfonline.com/doi/pdf/10.1080/22797254.2026.2728233?needAccess=true) · 2026-09-18
+- [Enhancing Significant Wave Height Simulations Using Distribution‐Aware Deep Learning and Environmental Predictors](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JH001338) · 2026-09-17
+- [Nonlinear viscous effects on the resonant response of a semi-submersible floating wind turbine](https://research-repository.uwa.edu.au/files/635230144/THESIS_-_DOCTOR_OF_PHILOSOPHY_-_LIU_Lulu_2026.pdf) · 2026-09-16
 - [Spectral Bandwidth and Wave Period Relationships: Insights for Offshore Engineering and Sea State Prediction](https://iiardjournals.org/get/WJIMT/VOL. 10 NO. 4 2026/Spectral Bandwidth and Wave Period 40-44.pdf) · 2026-09-04
 - [Developing a coastal hazard prediction system in ice-infested waters – Part 1: High-resolution regional wave modeling in the Estuary and Gulf of St. Lawrence](https://nhess.copernicus.org/articles/26/4231/2026/nhess-26-4231-2026.pdf) · 2026-09-03
-- [PronUy_RPFM: a modular architecture system for prototype development in operational forecasting of the Río de la Plata and continental shelf](https://www.tandfonline.com/doi/pdf/10.1080/28375807.2026.2725907?needAccess=true) · 2026-09-02
-- [Impacts of Cross‐Shore Winds, Waves, and Sand Ridges on Inner Shelf Circulation](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JC023593) · 2026-09-01
-- [Prediction method for small-sample ocean wave data based on optimal decomposition](https://www.sciencedirect.com/science/article/pii/S2468013326001518/pdf) · 2026-09-01
