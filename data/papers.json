@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,24 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Approaches adopted for the numerical modeling of the local seismic response in the volcanic area of mount Etna",
+          "date": "2026-09-22",
+          "venue": "",
+          "link": "https://www.annalsofgeophysics.eu/index.php/annals/article/download/9563/8253"
+        },
+        {
+          "title": "Wide-swath satellite altimetry and novel subsurface observations improve predictions in a dynamic western boundary current: Resolving complex fine-scale structures.",
+          "date": "2026-09-21",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4125/egusphere-2026-4125.pdf"
+        },
+        {
+          "title": "Design of pavements under extreme loads in challenging subsoil conditions in port areas \u2013 Case study of Szczecin and \u015awinouj\u015bcie",
+          "date": "2026-09-21",
+          "venue": "",
+          "link": "https://www.fracturae.com/index.php/fis/article/download/5979/4947"
+        },
+        {
           "title": "Deep Learning to Infer Ocean Dynamics",
           "date": "2026-09-20",
           "venue": "",
@@ -53,24 +71,6 @@
           "date": "2026-09-16",
           "venue": "",
           "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL122833"
-        },
-        {
-          "title": "Phy-Ture: A Physics-Guided Fusion and FeaTure Processing Framework for Unmanned Helicopter Dynamics Modeling",
-          "date": "2026-09-15",
-          "venue": "",
-          "link": "https://media.sciltp.com/articles/2609005126/2609005126.pdf"
-        },
-        {
-          "title": "Coral connectivity: How biophysical modelling choices shape connectivity inference",
-          "date": "2026-09-15",
-          "venue": "",
-          "link": "https://eartharxiv.org/repository/object/14999/download/26055/"
-        },
-        {
-          "title": "DNRA stimulates aerobic microbial processes and restructures the surface planktonic community in the Chilean OMZ",
-          "date": "2026-09-11",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-10820709/latest.pdf"
         }
       ]
     },
@@ -78,6 +78,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Hurricane track\u2013dependent controls on bay-ocean exchange and estuarine flushing in multi-inlet coastal systems",
+          "date": "2026-09-23",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1908978/pdf"
+        },
         {
           "title": "Estimation and interpretation of spatially varying bottom friction coefficients in Bohai Bay using A-4DEnVar",
           "date": "2026-09-15",
@@ -101,12 +107,6 @@
           "date": "2026-09-01",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s10236-026-01853-0.pdf"
-        },
-        {
-          "title": "Quantifying patterns and drivers of larval dispersal in Japanese anchovy ( Engraulis japonicus ) in the China Seas",
-          "date": "2026-09-01",
-          "venue": "",
-          "link": "https://bg.copernicus.org/articles/23/6003/2026/bg-23-6003-2026.pdf"
         }
       ]
     },
@@ -223,6 +223,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Study on Wave Characteristics in the Offshore Area of Qingdao",
+          "date": "2026-09-21",
+          "venue": "",
+          "link": "https://www.pjoes.com/pdf-222176-145386?filename=Study-on-Wave-Characteris.pdf"
+        },
+        {
           "title": "Implementation of machine learning for wind speed retrieval from HY-2B altimeter",
           "date": "2026-09-18",
           "venue": "",
@@ -245,12 +251,6 @@
           "date": "2026-09-04",
           "venue": "",
           "link": "https://iiardjournals.org/get/WJIMT/VOL. 10 NO. 4 2026/Spectral Bandwidth and Wave Period 40-44.pdf"
-        },
-        {
-          "title": "Developing a coastal hazard prediction system in ice-infested waters \u2013 Part 1: High-resolution regional wave modeling in the Estuary and Gulf of St. Lawrence",
-          "date": "2026-09-03",
-          "venue": "",
-          "link": "https://nhess.copernicus.org/articles/26/4231/2026/nhess-26-4231-2026.pdf"
         }
       ]
     }

@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-09-24** · Showing results since **2025**_
+_Last update: **2026-09-25** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,21 +19,21 @@ _Last update: **2026-09-24** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Approaches adopted for the numerical modeling of the local seismic response in the volcanic area of mount Etna](https://www.annalsofgeophysics.eu/index.php/annals/article/download/9563/8253) · 2026-09-22
+- [Wide-swath satellite altimetry and novel subsurface observations improve predictions in a dynamic western boundary current: Resolving complex fine-scale structures.](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4125/egusphere-2026-4125.pdf) · 2026-09-21
+- [Design of pavements under extreme loads in challenging subsoil conditions in port areas – Case study of Szczecin and Świnoujście](https://www.fracturae.com/index.php/fis/article/download/5979/4947) · 2026-09-21
 - [Deep Learning to Infer Ocean Dynamics](https://eartharxiv.org/repository/object/15102/download/26205/) · 2026-09-20
 - [Along‐Strike Coupling Heterogeneity in Cascadia's Slow‐Slip Zone Constrained by GNSS and Reduced‐Order Rate‐And‐State Friction Modeling](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL122833) · 2026-09-16
-- [Phy-Ture: A Physics-Guided Fusion and FeaTure Processing Framework for Unmanned Helicopter Dynamics Modeling](https://media.sciltp.com/articles/2609005126/2609005126.pdf) · 2026-09-15
-- [Coral connectivity: How biophysical modelling choices shape connectivity inference](https://eartharxiv.org/repository/object/14999/download/26055/) · 2026-09-15
-- [DNRA stimulates aerobic microbial processes and restructures the surface planktonic community in the Chilean OMZ](https://www.researchsquare.com/article/rs-10820709/latest.pdf) · 2026-09-11
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Hurricane track–dependent controls on bay-ocean exchange and estuarine flushing in multi-inlet coastal systems](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1908978/pdf) · 2026-09-23
 - [Estimation and interpretation of spatially varying bottom friction coefficients in Bohai Bay using A-4DEnVar](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1864155/pdf) · 2026-09-15
 - [Coral connectivity: How biophysical modelling choices shape connectivity inference](https://eartharxiv.org/repository/object/14999/download/26055/) · 2026-09-15
 - [Prediction of the Bohai Sea and northern Yellow Sea wave-current system based on physics-informed dynamic graph attention network](https://doi.org/10.1016/j.oceaneng.2026.127964) · 2026-09-06
 - [The 15th international workshop on modeling the ocean (IWMO-2025) in Stanford, California, USA, June 30th – July 1st, 2025](https://link.springer.com/content/pdf/10.1007/s10236-026-01853-0.pdf) · 2026-09-01
-- [Quantifying patterns and drivers of larval dispersal in Japanese anchovy ( Engraulis japonicus ) in the China Seas](https://bg.copernicus.org/articles/23/6003/2026/bg-23-6003-2026.pdf) · 2026-09-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -69,8 +69,8 @@ _Last update: **2026-09-24** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Study on Wave Characteristics in the Offshore Area of Qingdao](https://www.pjoes.com/pdf-222176-145386?filename=Study-on-Wave-Characteris.pdf) · 2026-09-21
 - [Implementation of machine learning for wind speed retrieval from HY-2B altimeter](https://www.tandfonline.com/doi/pdf/10.1080/22797254.2026.2728233?needAccess=true) · 2026-09-18
 - [Enhancing Significant Wave Height Simulations Using Distribution‐Aware Deep Learning and Environmental Predictors](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JH001338) · 2026-09-17
 - [Nonlinear viscous effects on the resonant response of a semi-submersible floating wind turbine](https://research-repository.uwa.edu.au/files/635230144/THESIS_-_DOCTOR_OF_PHILOSOPHY_-_LIU_Lulu_2026.pdf) · 2026-09-16
 - [Spectral Bandwidth and Wave Period Relationships: Insights for Offshore Engineering and Sea State Prediction](https://iiardjournals.org/get/WJIMT/VOL. 10 NO. 4 2026/Spectral Bandwidth and Wave Period 40-44.pdf) · 2026-09-04
-- [Developing a coastal hazard prediction system in ice-infested waters – Part 1: High-resolution regional wave modeling in the Estuary and Gulf of St. Lawrence](https://nhess.copernicus.org/articles/26/4231/2026/nhess-26-4231-2026.pdf) · 2026-09-03
