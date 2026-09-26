@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-09-25** · Showing results since **2025**_
+_Last update: **2026-09-26** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,18 +59,18 @@ _Last update: **2026-09-25** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Modelling storm-induced coastal exposure using hindcast wave data in a densely urbanised coastal area](https://link.springer.com/content/pdf/10.1007/s11069-026-08420-2.pdf) · 2026-09-24
+- [Residual hydrodynamics over a sand wave field in a macrotidal tropical estuary (São Marcos Estuarine Complex, Brazil)](https://link.springer.com/content/pdf/10.1007/s43217-026-00336-y.pdf) · 2026-09-23
 - [Unlocking Blue Carbon's Potential Requires Targeted Uncertainty Reductions](https://doi.org/10.31223/x50z2t) · 2026-09-18
 - [Modeling of tidal stream energy resources near Rigolet, Nunatsiavut (Labrador, Canada) to assess energy transition options for a diesel power-reliant northern community](https://iopscience.iop.org/article/10.1088/2753-3751/aea90d/pdf) · 2026-09-17
 - [Coral connectivity: How biophysical modelling choices shape connectivity inference](https://eartharxiv.org/repository/object/14999/download/26055/) · 2026-09-15
-- [FOCCUS WP9 D9.1 Application Demonstrator: ESC2 - 2.1.3 - Impact Assessment for multi-use in the Southern North Sea](https://doi.org/10.5281/zenodo.22763345) · 2026-09-15
-- [FOCCUS WP9 D9.1 Application Demonstrator: ESC2 - 2.1.3 - Impact Assessment for multi-use in the Southern North Sea](https://doi.org/10.5281/zenodo.22763346) · 2026-09-15
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Modelling storm-induced coastal exposure using hindcast wave data in a densely urbanised coastal area](https://link.springer.com/content/pdf/10.1007/s11069-026-08420-2.pdf) · 2026-09-24
 - [Study on Wave Characteristics in the Offshore Area of Qingdao](https://www.pjoes.com/pdf-222176-145386?filename=Study-on-Wave-Characteris.pdf) · 2026-09-21
 - [Implementation of machine learning for wind speed retrieval from HY-2B altimeter](https://www.tandfonline.com/doi/pdf/10.1080/22797254.2026.2728233?needAccess=true) · 2026-09-18
 - [Enhancing Significant Wave Height Simulations Using Distribution‐Aware Deep Learning and Environmental Predictors](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JH001338) · 2026-09-17
 - [Nonlinear viscous effects on the resonant response of a semi-submersible floating wind turbine](https://research-repository.uwa.edu.au/files/635230144/THESIS_-_DOCTOR_OF_PHILOSOPHY_-_LIU_Lulu_2026.pdf) · 2026-09-16
-- [Spectral Bandwidth and Wave Period Relationships: Insights for Offshore Engineering and Sea State Prediction](https://iiardjournals.org/get/WJIMT/VOL. 10 NO. 4 2026/Spectral Bandwidth and Wave Period 40-44.pdf) · 2026-09-04
