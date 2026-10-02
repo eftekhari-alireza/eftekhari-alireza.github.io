@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "year_from": 2025,
   "items": [
     {
@@ -175,10 +175,10 @@
           "link": "https://www.sciencedirect.com/science/article/pii/S2950305126000367/pdf"
         },
         {
-          "title": "Riverine flood risk mapping using GIS\u2013AHP and climate-driven hydrodynamic simulations in an alpine basin of the Indus River system",
-          "date": "2026-08-17",
+          "title": "Numerical Modeling of the Mixing Process of Concentrated Brine Outfall in Shallow Water",
+          "date": "2026-09-01",
           "venue": "",
-          "link": "https://journals.plos.org/climate/article/file?id=10.1371/journal.pclm.0000915&type=printable"
+          "link": "https://doi.org/10.21275/sr26927020234"
         }
       ]
     },

@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-10-01** · Showing results since **2025**_
+_Last update: **2026-10-02** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -53,7 +53,7 @@ _Last update: **2026-10-01** · Showing results since **2025**_
 - [Modeling of tidal stream energy resources near Rigolet, Nunatsiavut (Labrador, Canada) to assess energy transition options for a diesel power-reliant northern community](https://iopscience.iop.org/article/10.1088/2753-3751/aea90d/pdf) · 2026-09-17
 - [Coral connectivity: How biophysical modelling choices shape connectivity inference](https://eartharxiv.org/repository/object/14999/download/26055/) · 2026-09-15
 - [Critical review of tools and techniques for predicting microplastics pollution in watershed runoff](https://www.sciencedirect.com/science/article/pii/S2950305126000367/pdf) · 2026-09-01
-- [Riverine flood risk mapping using GIS–AHP and climate-driven hydrodynamic simulations in an alpine basin of the Indus River system](https://journals.plos.org/climate/article/file?id=10.1371/journal.pclm.0000915&type=printable) · 2026-08-17
+- [Numerical Modeling of the Mixing Process of Concentrated Brine Outfall in Shallow Water](https://doi.org/10.21275/sr26927020234) · 2026-09-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Delft3D"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
