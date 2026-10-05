@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-10-04** · Showing results since **2025**_
+_Last update: **2026-10-05** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-10-04** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [The Influence of Sea‐Land Breeze on the Circulation and Air‐Sea Thermodynamics of the Mississippi Sound and Bight](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL123988) · 2026-10-03
+- [Meter-scale pedestrian PET and cooling-lever attribution with an ai surrogate: a microclimate digital twin for a heat-resilient Barcelona superblock](https://visualcompublications.es/SAUC/article/download/6427/4839) · 2026-10-02
 - [Review article: Towards consistent estimation of coastal water levels combining satellite altimetry and hydrodynamic modelling](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3916/egusphere-2026-3916.pdf) · 2026-10-02
 - [Small but mighty: Evaluating the community-scale tidal stream energy potential of Midcoast Maine](https://www.sciencedirect.com/science/article/pii/S0964569126002991/pdf) · 2026-10-01
 - [Lake Urmia desiccation drives building heating and cooling energy demand in northwestern Iran](https://www.nature.com/articles/s41598-026-73992-9_reference.pdf) · 2026-10-01
-- [Antarctic ice-shelf melt response to warming is limited by weak coupling between currents and ocean heat supply](https://essopenarchive.org/doi/pdf/10.22541/essoar.15009697/v1) · 2026-09-30
-- [Climate Change Induced Seasonal Amplification of the Indian Ocean CO 2 Sink](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL123472) · 2026-09-30
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

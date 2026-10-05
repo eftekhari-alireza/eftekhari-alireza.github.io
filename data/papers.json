@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "The Influence of Sea\u2010Land Breeze on the Circulation and Air\u2010Sea Thermodynamics of the Mississippi Sound and Bight",
+          "date": "2026-10-03",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL123988"
+        },
+        {
+          "title": "Meter-scale pedestrian PET and cooling-lever attribution with an ai surrogate: a microclimate digital twin for a heat-resilient Barcelona superblock",
+          "date": "2026-10-02",
+          "venue": "",
+          "link": "https://visualcompublications.es/SAUC/article/download/6427/4839"
+        },
+        {
           "title": "Review article: Towards consistent estimation of coastal water levels combining satellite altimetry and hydrodynamic modelling",
           "date": "2026-10-02",
           "venue": "",
@@ -59,18 +71,6 @@
           "date": "2026-10-01",
           "venue": "",
           "link": "https://www.nature.com/articles/s41598-026-73992-9_reference.pdf"
-        },
-        {
-          "title": "Antarctic ice-shelf melt response to warming is limited by weak coupling between currents and ocean heat supply",
-          "date": "2026-09-30",
-          "venue": "",
-          "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15009697/v1"
-        },
-        {
-          "title": "Climate Change Induced Seasonal Amplification of the Indian Ocean CO 2 Sink",
-          "date": "2026-09-30",
-          "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL123472"
         }
       ]
     },
