@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,24 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Estimation of eruption source parameters based on field data and numerical modeling: application to the 1993 eruption of Lascar volcano, Chile",
+          "date": "2026-10-05",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41598-026-68772-4_reference.pdf"
+        },
+        {
+          "title": "Toward interoperable bathymetric data in ocean observing systems: integrating hydrographic standards and FAIR data practices",
+          "date": "2026-10-05",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1949937/pdf"
+        },
+        {
+          "title": "Next generation 3\u20133 interpenetrating piezoelectric phase composites: design principles, process-structure-property relationships, multifunctional performance, and emerging applications",
+          "date": "2026-10-03",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0264127526017405/pdf"
+        },
+        {
           "title": "The Influence of Sea\u2010Land Breeze on the Circulation and Air\u2010Sea Thermodynamics of the Mississippi Sound and Bight",
           "date": "2026-10-03",
           "venue": "",
@@ -53,24 +71,6 @@
           "date": "2026-10-02",
           "venue": "",
           "link": "https://visualcompublications.es/SAUC/article/download/6427/4839"
-        },
-        {
-          "title": "Review article: Towards consistent estimation of coastal water levels combining satellite altimetry and hydrodynamic modelling",
-          "date": "2026-10-02",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3916/egusphere-2026-3916.pdf"
-        },
-        {
-          "title": "Small but mighty: Evaluating the community-scale tidal stream energy potential of Midcoast Maine",
-          "date": "2026-10-01",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0964569126002991/pdf"
-        },
-        {
-          "title": "Lake Urmia desiccation drives building heating and cooling energy demand in northwestern Iran",
-          "date": "2026-10-01",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s41598-026-73992-9_reference.pdf"
         }
       ]
     },
@@ -187,6 +187,24 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Climate warming amplifies coastal hypoxia response to extreme river discharge",
+          "date": "2026-10-05",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s43247-026-04106-6_reference.pdf"
+        },
+        {
+          "title": "How much saltmarsh dissolved organic carbon is mineralized before reaching the continental shelf?",
+          "date": "2026-10-05",
+          "venue": "",
+          "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15009922/v1"
+        },
+        {
+          "title": "Influences of Seasonal Vegetation Dynamics and Morphological Change on Water Age and Connectivity in River Deltas",
+          "date": "2026-10-05",
+          "venue": "",
+          "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15009921/v1"
+        },
+        {
           "title": "How 3D Processes Drive Trench Infill and Sand Wave Regeneration After Dredging",
           "date": "2026-10-01",
           "venue": "",
@@ -197,24 +215,6 @@
           "date": "2026-09-29",
           "venue": "",
           "link": "https://jurnal.unimed.ac.id/2012/index.php/geo/article/download/76503/30806"
-        },
-        {
-          "title": "Effects of Reduced Precipitation and Water Level Variability on Phytoplankton Dynamics and Thermal Structure in a Large Tropical Reservoir",
-          "date": "2026-09-29",
-          "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026WR043749"
-        },
-        {
-          "title": "From Riverine Transport to Legal Evidence: Coupled Hydrodynamic\u2013Ecological Modelling of Transboundary Plastic Pollution",
-          "date": "2026-09-29",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-11169593/latest.pdf"
-        },
-        {
-          "title": "Physics-informed neural networks for hydrodynamic modelling in a 2D river system with complex riverbed terrains",
-          "date": "2026-09-29",
-          "venue": "",
-          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2734363?needAccess=true"
         }
       ]
     },
@@ -222,6 +222,18 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "From track to impact: a review of multi-hazard typhoon forecasting and resilience",
+          "date": "2026-10-05",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2405880726001093/pdf"
+        },
+        {
+          "title": "Global river sediment retention on delta plains",
+          "date": "2026-10-05",
+          "venue": "",
+          "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15002227/v2"
+        },
         {
           "title": "Modelling storm-induced coastal exposure using hindcast wave data in a densely urbanised coastal area",
           "date": "2026-09-24",
@@ -239,18 +251,6 @@
           "date": "2026-09-18",
           "venue": "",
           "link": "https://www.tandfonline.com/doi/pdf/10.1080/22797254.2026.2728233?needAccess=true"
-        },
-        {
-          "title": "Enhancing Significant Wave Height Simulations Using Distribution\u2010Aware Deep Learning and Environmental Predictors",
-          "date": "2026-09-17",
-          "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JH001338"
-        },
-        {
-          "title": "Nonlinear viscous effects on the resonant response of a semi-submersible floating wind turbine",
-          "date": "2026-09-16",
-          "venue": "",
-          "link": "https://research-repository.uwa.edu.au/files/635230144/THESIS_-_DOCTOR_OF_PHILOSOPHY_-_LIU_Lulu_2026.pdf"
         }
       ]
     }

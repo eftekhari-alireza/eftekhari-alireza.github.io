@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-10-07** · Showing results since **2025**_
+_Last update: **2026-10-08** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-10-07** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Estimation of eruption source parameters based on field data and numerical modeling: application to the 1993 eruption of Lascar volcano, Chile](https://www.nature.com/articles/s41598-026-68772-4_reference.pdf) · 2026-10-05
+- [Toward interoperable bathymetric data in ocean observing systems: integrating hydrographic standards and FAIR data practices](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1949937/pdf) · 2026-10-05
+- [Next generation 3–3 interpenetrating piezoelectric phase composites: design principles, process-structure-property relationships, multifunctional performance, and emerging applications](https://www.sciencedirect.com/science/article/pii/S0264127526017405/pdf) · 2026-10-03
 - [The Influence of Sea‐Land Breeze on the Circulation and Air‐Sea Thermodynamics of the Mississippi Sound and Bight](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL123988) · 2026-10-03
 - [Meter-scale pedestrian PET and cooling-lever attribution with an ai surrogate: a microclimate digital twin for a heat-resilient Barcelona superblock](https://visualcompublications.es/SAUC/article/download/6427/4839) · 2026-10-02
-- [Review article: Towards consistent estimation of coastal water levels combining satellite altimetry and hydrodynamic modelling](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3916/egusphere-2026-3916.pdf) · 2026-10-02
-- [Small but mighty: Evaluating the community-scale tidal stream energy potential of Midcoast Maine](https://www.sciencedirect.com/science/article/pii/S0964569126002991/pdf) · 2026-10-01
-- [Lake Urmia desiccation drives building heating and cooling energy demand in northwestern Iran](https://www.nature.com/articles/s41598-026-73992-9_reference.pdf) · 2026-10-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,18 +59,18 @@ _Last update: **2026-10-07** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Climate warming amplifies coastal hypoxia response to extreme river discharge](https://www.nature.com/articles/s43247-026-04106-6_reference.pdf) · 2026-10-05
+- [How much saltmarsh dissolved organic carbon is mineralized before reaching the continental shelf?](https://essopenarchive.org/doi/pdf/10.22541/essoar.15009922/v1) · 2026-10-05
+- [Influences of Seasonal Vegetation Dynamics and Morphological Change on Water Age and Connectivity in River Deltas](https://essopenarchive.org/doi/pdf/10.22541/essoar.15009921/v1) · 2026-10-05
 - [How 3D Processes Drive Trench Infill and Sand Wave Regeneration After Dredging](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JF008603) · 2026-10-01
 - [Tidal Circulation Modeling in Prigi Bay, Indonesia: Hydrodynamic Patterns and Implications for Fisheries-Port Management](https://jurnal.unimed.ac.id/2012/index.php/geo/article/download/76503/30806) · 2026-09-29
-- [Effects of Reduced Precipitation and Water Level Variability on Phytoplankton Dynamics and Thermal Structure in a Large Tropical Reservoir](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026WR043749) · 2026-09-29
-- [From Riverine Transport to Legal Evidence: Coupled Hydrodynamic–Ecological Modelling of Transboundary Plastic Pollution](https://www.researchsquare.com/article/rs-11169593/latest.pdf) · 2026-09-29
-- [Physics-informed neural networks for hydrodynamic modelling in a 2D river system with complex riverbed terrains](https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2734363?needAccess=true) · 2026-09-29
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [From track to impact: a review of multi-hazard typhoon forecasting and resilience](https://www.sciencedirect.com/science/article/pii/S2405880726001093/pdf) · 2026-10-05
+- [Global river sediment retention on delta plains](https://essopenarchive.org/doi/pdf/10.22541/essoar.15002227/v2) · 2026-10-05
 - [Modelling storm-induced coastal exposure using hindcast wave data in a densely urbanised coastal area](https://link.springer.com/content/pdf/10.1007/s11069-026-08420-2.pdf) · 2026-09-24
 - [Study on Wave Characteristics in the Offshore Area of Qingdao](https://www.pjoes.com/pdf-222176-145386?filename=Study-on-Wave-Characteris.pdf) · 2026-09-21
 - [Implementation of machine learning for wind speed retrieval from HY-2B altimeter](https://www.tandfonline.com/doi/pdf/10.1080/22797254.2026.2728233?needAccess=true) · 2026-09-18
-- [Enhancing Significant Wave Height Simulations Using Distribution‐Aware Deep Learning and Environmental Predictors](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JH001338) · 2026-09-17
-- [Nonlinear viscous effects on the resonant response of a semi-submersible floating wind turbine](https://research-repository.uwa.edu.au/files/635230144/THESIS_-_DOCTOR_OF_PHILOSOPHY_-_LIU_Lulu_2026.pdf) · 2026-09-16
