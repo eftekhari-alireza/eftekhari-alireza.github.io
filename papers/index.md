@@ -3,37 +3,37 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-10-08** · Showing results since **2025**_
+_Last update: **2026-10-09** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Hydrodynamics structure the physiological trajectory and bloom dynamics of a harmful diatom species across neighboring coastal ecosystems](https://www.biorxiv.org/content/biorxiv/early/2026/10/06/2026.10.05.756714.full.pdf) · 2026-10-06
 - [Nonlinear Release of Subinertial Diurnal Internal Tides Forms Spiral Internal Solitary Waves](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL124590) · 2026-10-01
 - [DNRA stimulates aerobic microbial processes and restructures the surface planktonic community in the Chilean OMZ](https://www.researchsquare.com/article/rs-10820709/latest.pdf) · 2026-09-11
 - [Present-Day Sea Level Variations in Coastal Areas from Daily to Multidecadal Time Scales: Observations and Causes](https://doi.org/10.1007/s10712-026-09956-5) · 2026-08-14
 - [An unstructured-grid, nonhydrostatic, GVC ocean model Part I: Model description and application of vertical hybrid coordinates to internal solitary waves](https://arxiv.org/pdf/2607.28356) · 2026-07-30
-- [A Generalizable Lie Autoencoder for Emulating Barotropic Turbulence](https://eartharxiv.org/repository/object/14067/download/24649/) · 2026-07-22
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Genetic Algorithm Based Optimization of Built Environment Adaptation for Enhanced Coastal Resilience in Alexandria](https://www.researchsquare.com/article/rs-9191132/latest.pdf) · 2026-10-07
+- [Nonlinear dynamics of time-variable slope circulation](https://os.copernicus.org/articles/22/3055/2026/os-22-3055-2026.pdf) · 2026-10-06
+- [Hydrodynamics structure the physiological trajectory and bloom dynamics of a harmful diatom species across neighboring coastal ecosystems](https://www.biorxiv.org/content/biorxiv/early/2026/10/06/2026.10.05.756714.full.pdf) · 2026-10-06
 - [Estimation of eruption source parameters based on field data and numerical modeling: application to the 1993 eruption of Lascar volcano, Chile](https://www.nature.com/articles/s41598-026-68772-4_reference.pdf) · 2026-10-05
 - [Toward interoperable bathymetric data in ocean observing systems: integrating hydrographic standards and FAIR data practices](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1949937/pdf) · 2026-10-05
-- [Next generation 3–3 interpenetrating piezoelectric phase composites: design principles, process-structure-property relationships, multifunctional performance, and emerging applications](https://www.sciencedirect.com/science/article/pii/S0264127526017405/pdf) · 2026-10-03
-- [The Influence of Sea‐Land Breeze on the Circulation and Air‐Sea Thermodynamics of the Mississippi Sound and Bight](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL123988) · 2026-10-03
-- [Meter-scale pedestrian PET and cooling-lever attribution with an ai surrogate: a microclimate digital twin for a heat-resilient Barcelona superblock](https://visualcompublications.es/SAUC/article/download/6427/4839) · 2026-10-02
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Environmental controls on the detectability of hydrodynamic changes induced by offshore wind farm structures](https://www.nature.com/articles/s41598-026-71585-0.pdf) · 2026-10-07
 - [Small but mighty: Evaluating the community-scale tidal stream energy potential of Midcoast Maine](https://www.sciencedirect.com/science/article/pii/S0964569126002991/pdf) · 2026-10-01
+- [Quantification of wave–current interactions in a tide-dominated harbour: A fully coupled modelling study of Darwin Harbour, Australia](https://www.sciencedirect.com/science/article/pii/S0278434326001615/pdf) · 2026-10-01
 - [Evaluation of SCHISM experimental forecasts of total water levels along the Thanh Hoa–Nghe An coast](https://jccs.vn/index.php/imhems/article/download/465/438) · 2026-09-30
 - [From Riverine Transport to Legal Evidence: Coupled Hydrodynamic–Ecological Modelling of Transboundary Plastic Pollution](https://www.researchsquare.com/article/rs-11169593/latest.pdf) · 2026-09-29
-- [Application of intelligent correction in ocean numerical forecasting based on spatiotemporal convolutional network (STCN)](https://link.springer.com/content/pdf/10.1007/s44295-026-00117-3.pdf) · 2026-09-28
-- [Hurricane track–dependent controls on bay-ocean exchange and estuarine flushing in multi-inlet coastal systems](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1908978/pdf) · 2026-09-23
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-10-08** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Genetic Algorithm Based Optimization of Built Environment Adaptation for Enhanced Coastal Resilience in Alexandria](https://www.researchsquare.com/article/rs-9191132/latest.pdf) · 2026-10-07
 - [Climate warming amplifies coastal hypoxia response to extreme river discharge](https://www.nature.com/articles/s43247-026-04106-6_reference.pdf) · 2026-10-05
 - [How much saltmarsh dissolved organic carbon is mineralized before reaching the continental shelf?](https://essopenarchive.org/doi/pdf/10.22541/essoar.15009922/v1) · 2026-10-05
 - [Influences of Seasonal Vegetation Dynamics and Morphological Change on Water Age and Connectivity in River Deltas](https://essopenarchive.org/doi/pdf/10.22541/essoar.15009921/v1) · 2026-10-05
 - [How 3D Processes Drive Trench Infill and Sand Wave Regeneration After Dredging](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JF008603) · 2026-10-01
-- [Tidal Circulation Modeling in Prigi Bay, Indonesia: Hydrodynamic Patterns and Implications for Fisheries-Port Management](https://jurnal.unimed.ac.id/2012/index.php/geo/article/download/76503/30806) · 2026-09-29
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -71,6 +71,6 @@ _Last update: **2026-10-08** · Showing results since **2025**_
 **Recent items (OpenAlex):**
 - [From track to impact: a review of multi-hazard typhoon forecasting and resilience](https://www.sciencedirect.com/science/article/pii/S2405880726001093/pdf) · 2026-10-05
 - [Global river sediment retention on delta plains](https://essopenarchive.org/doi/pdf/10.22541/essoar.15002227/v2) · 2026-10-05
+- [Adverse Impact of Explicit Ocean‐Wave Coupling on the Climatology of Tropical Cyclones and Their Environment in E3SM](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JC024459) · 2026-10-01
 - [Modelling storm-induced coastal exposure using hindcast wave data in a densely urbanised coastal area](https://link.springer.com/content/pdf/10.1007/s11069-026-08420-2.pdf) · 2026-09-24
 - [Study on Wave Characteristics in the Offshore Area of Qingdao](https://www.pjoes.com/pdf-222176-145386?filename=Study-on-Wave-Characteris.pdf) · 2026-09-21
-- [Implementation of machine learning for wind speed retrieval from HY-2B altimeter](https://www.tandfonline.com/doi/pdf/10.1080/22797254.2026.2728233?needAccess=true) · 2026-09-18

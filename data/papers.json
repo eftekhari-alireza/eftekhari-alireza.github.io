@@ -1,11 +1,17 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Hydrodynamics structure the physiological trajectory and bloom dynamics of a harmful diatom species across neighboring coastal ecosystems",
+          "date": "2026-10-06",
+          "venue": "",
+          "link": "https://www.biorxiv.org/content/biorxiv/early/2026/10/06/2026.10.05.756714.full.pdf"
+        },
         {
           "title": "Nonlinear Release of Subinertial Diurnal Internal Tides Forms Spiral Internal Solitary Waves",
           "date": "2026-10-01",
@@ -29,12 +35,6 @@
           "date": "2026-07-30",
           "venue": "",
           "link": "https://arxiv.org/pdf/2607.28356"
-        },
-        {
-          "title": "A Generalizable Lie Autoencoder for Emulating Barotropic Turbulence",
-          "date": "2026-07-22",
-          "venue": "",
-          "link": "https://eartharxiv.org/repository/object/14067/download/24649/"
         }
       ]
     },
@@ -42,6 +42,24 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Genetic Algorithm Based Optimization of Built Environment Adaptation for Enhanced Coastal Resilience in Alexandria",
+          "date": "2026-10-07",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-9191132/latest.pdf"
+        },
+        {
+          "title": "Nonlinear dynamics of time-variable slope circulation",
+          "date": "2026-10-06",
+          "venue": "",
+          "link": "https://os.copernicus.org/articles/22/3055/2026/os-22-3055-2026.pdf"
+        },
+        {
+          "title": "Hydrodynamics structure the physiological trajectory and bloom dynamics of a harmful diatom species across neighboring coastal ecosystems",
+          "date": "2026-10-06",
+          "venue": "",
+          "link": "https://www.biorxiv.org/content/biorxiv/early/2026/10/06/2026.10.05.756714.full.pdf"
+        },
         {
           "title": "Estimation of eruption source parameters based on field data and numerical modeling: application to the 1993 eruption of Lascar volcano, Chile",
           "date": "2026-10-05",
@@ -53,24 +71,6 @@
           "date": "2026-10-05",
           "venue": "",
           "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1949937/pdf"
-        },
-        {
-          "title": "Next generation 3\u20133 interpenetrating piezoelectric phase composites: design principles, process-structure-property relationships, multifunctional performance, and emerging applications",
-          "date": "2026-10-03",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0264127526017405/pdf"
-        },
-        {
-          "title": "The Influence of Sea\u2010Land Breeze on the Circulation and Air\u2010Sea Thermodynamics of the Mississippi Sound and Bight",
-          "date": "2026-10-03",
-          "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL123988"
-        },
-        {
-          "title": "Meter-scale pedestrian PET and cooling-lever attribution with an ai surrogate: a microclimate digital twin for a heat-resilient Barcelona superblock",
-          "date": "2026-10-02",
-          "venue": "",
-          "link": "https://visualcompublications.es/SAUC/article/download/6427/4839"
         }
       ]
     },
@@ -79,10 +79,22 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Environmental controls on the detectability of hydrodynamic changes induced by offshore wind farm structures",
+          "date": "2026-10-07",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41598-026-71585-0.pdf"
+        },
+        {
           "title": "Small but mighty: Evaluating the community-scale tidal stream energy potential of Midcoast Maine",
           "date": "2026-10-01",
           "venue": "",
           "link": "https://www.sciencedirect.com/science/article/pii/S0964569126002991/pdf"
+        },
+        {
+          "title": "Quantification of wave\u2013current interactions in a tide-dominated harbour: A fully coupled modelling study of Darwin Harbour, Australia",
+          "date": "2026-10-01",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0278434326001615/pdf"
         },
         {
           "title": "Evaluation of SCHISM experimental forecasts of total water levels along the Thanh Hoa\u2013Nghe An coast",
@@ -95,18 +107,6 @@
           "date": "2026-09-29",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-11169593/latest.pdf"
-        },
-        {
-          "title": "Application of intelligent correction in ocean numerical forecasting based on spatiotemporal convolutional network (STCN)",
-          "date": "2026-09-28",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s44295-026-00117-3.pdf"
-        },
-        {
-          "title": "Hurricane track\u2013dependent controls on bay-ocean exchange and estuarine flushing in multi-inlet coastal systems",
-          "date": "2026-09-23",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1908978/pdf"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Genetic Algorithm Based Optimization of Built Environment Adaptation for Enhanced Coastal Resilience in Alexandria",
+          "date": "2026-10-07",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-9191132/latest.pdf"
+        },
+        {
           "title": "Climate warming amplifies coastal hypoxia response to extreme river discharge",
           "date": "2026-10-05",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-10-01",
           "venue": "",
           "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JF008603"
-        },
-        {
-          "title": "Tidal Circulation Modeling in Prigi Bay, Indonesia: Hydrodynamic Patterns and Implications for Fisheries-Port Management",
-          "date": "2026-09-29",
-          "venue": "",
-          "link": "https://jurnal.unimed.ac.id/2012/index.php/geo/article/download/76503/30806"
         }
       ]
     },
@@ -235,6 +235,12 @@
           "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15002227/v2"
         },
         {
+          "title": "Adverse Impact of Explicit Ocean\u2010Wave Coupling on the Climatology of Tropical Cyclones and Their Environment in E3SM",
+          "date": "2026-10-01",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JC024459"
+        },
+        {
           "title": "Modelling storm-induced coastal exposure using hindcast wave data in a densely urbanised coastal area",
           "date": "2026-09-24",
           "venue": "",
@@ -245,12 +251,6 @@
           "date": "2026-09-21",
           "venue": "",
           "link": "https://www.pjoes.com/pdf-222176-145386?filename=Study-on-Wave-Characteris.pdf"
-        },
-        {
-          "title": "Implementation of machine learning for wind speed retrieval from HY-2B altimeter",
-          "date": "2026-09-18",
-          "venue": "",
-          "link": "https://www.tandfonline.com/doi/pdf/10.1080/22797254.2026.2728233?needAccess=true"
         }
       ]
     }
