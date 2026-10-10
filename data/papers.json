@@ -1,11 +1,17 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Cross-regional evaluation of thermodynamically consistent fractional-order integration for observation-constrained ocean heat content estimation",
+          "date": "2026-10-09",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s10236-026-01860-1.pdf"
+        },
         {
           "title": "Hydrodynamics structure the physiological trajectory and bloom dynamics of a harmful diatom species across neighboring coastal ecosystems",
           "date": "2026-10-06",
@@ -29,12 +35,6 @@
           "date": "2026-08-14",
           "venue": "",
           "link": "https://doi.org/10.1007/s10712-026-09956-5"
-        },
-        {
-          "title": "An unstructured-grid, nonhydrostatic, GVC ocean model Part I: Model description and application of vertical hybrid coordinates to internal solitary waves",
-          "date": "2026-07-30",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2607.28356"
         }
       ]
     },
@@ -43,34 +43,34 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Cross-regional evaluation of thermodynamically consistent fractional-order integration for observation-constrained ocean heat content estimation",
+          "date": "2026-10-09",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s10236-026-01860-1.pdf"
+        },
+        {
+          "title": "Toward real-time wave forecasting via data-driven reduced-order modeling with data assimilation",
+          "date": "2026-10-08",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0141118726003640/pdf"
+        },
+        {
           "title": "Genetic Algorithm Based Optimization of Built Environment Adaptation for Enhanced Coastal Resilience in Alexandria",
           "date": "2026-10-07",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-9191132/latest.pdf"
         },
         {
+          "title": "Digital twins for energy wells through multiscale physics-data fusion: Review, challenges, and a conceptual framework",
+          "date": "2026-10-07",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S294989102600504X/pdf"
+        },
+        {
           "title": "Nonlinear dynamics of time-variable slope circulation",
           "date": "2026-10-06",
           "venue": "",
           "link": "https://os.copernicus.org/articles/22/3055/2026/os-22-3055-2026.pdf"
-        },
-        {
-          "title": "Hydrodynamics structure the physiological trajectory and bloom dynamics of a harmful diatom species across neighboring coastal ecosystems",
-          "date": "2026-10-06",
-          "venue": "",
-          "link": "https://www.biorxiv.org/content/biorxiv/early/2026/10/06/2026.10.05.756714.full.pdf"
-        },
-        {
-          "title": "Estimation of eruption source parameters based on field data and numerical modeling: application to the 1993 eruption of Lascar volcano, Chile",
-          "date": "2026-10-05",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s41598-026-68772-4_reference.pdf"
-        },
-        {
-          "title": "Toward interoperable bathymetric data in ocean observing systems: integrating hydrographic standards and FAIR data practices",
-          "date": "2026-10-05",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1949937/pdf"
         }
       ]
     },
@@ -97,16 +97,16 @@
           "link": "https://www.sciencedirect.com/science/article/pii/S0278434326001615/pdf"
         },
         {
+          "title": "Influence of Coastal Wind Jet on Waves in Fjords: A SWAN+WRF Model",
+          "date": "2026-10-01",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S1463500326001666/pdf"
+        },
+        {
           "title": "Evaluation of SCHISM experimental forecasts of total water levels along the Thanh Hoa\u2013Nghe An coast",
           "date": "2026-09-30",
           "venue": "",
           "link": "https://jccs.vn/index.php/imhems/article/download/465/438"
-        },
-        {
-          "title": "From Riverine Transport to Legal Evidence: Coupled Hydrodynamic\u2013Ecological Modelling of Transboundary Plastic Pollution",
-          "date": "2026-09-29",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-11169593/latest.pdf"
         }
       ]
     },
@@ -114,6 +114,24 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Energy Production and Economic Feasibility of a Tidal Barrage System in the Gulf of Khambhat",
+          "date": "2026-10-08",
+          "venue": "",
+          "link": "https://www.internationaljournalssrg.org/../IJEEE/2026/Volume13-Issue9/IJEEE-V13I9P101.pdf"
+        },
+        {
+          "title": "An emergency-oriented risk assessment method for typhoon storm surge disasters",
+          "date": "2026-10-08",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3929/egusphere-2026-3929.pdf"
+        },
+        {
+          "title": "Retrospective GIS and statistical assessment of archived coastal water-level scenario rasters for Chabahar, Iran: implications for preliminary coastal planning",
+          "date": "2026-10-01",
+          "venue": "",
+          "link": "https://doi.org/10.1007/s11852-026-01293-4"
+        },
         {
           "title": "Physics-informed neural networks for hydrodynamic modelling in a 2D river system with complex riverbed terrains",
           "date": "2026-09-29",
@@ -125,24 +143,6 @@
           "date": "2026-09-28",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s10113-026-02689-6.pdf"
-        },
-        {
-          "title": "Hydrodynamic Identification of Potential Sediment Depositional Zones in the Lower Rabnabad Channel of Payra Port, Bangladesh",
-          "date": "2026-09-25",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-10793507/latest.pdf"
-        },
-        {
-          "title": "An Analysis of Saltwater Intrusion Characteristics at Canal Estuaries During Typical Processes Driven by Coupled Typhoon and Runoff Dynamics",
-          "date": "2026-09-16",
-          "venue": "",
-          "link": "https://doi.org/10.1007/s12601-026-00309-2"
-        },
-        {
-          "title": "Review of Simulation Modeling Approaches in Water Resources Management",
-          "date": "2026-09-15",
-          "venue": "",
-          "link": "https://bajest.bauc14.edu.iq/index.php/bajest/article/download/193/113"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Energy Production and Economic Feasibility of a Tidal Barrage System in the Gulf of Khambhat",
+          "date": "2026-10-08",
+          "venue": "",
+          "link": "https://www.internationaljournalssrg.org/../IJEEE/2026/Volume13-Issue9/IJEEE-V13I9P101.pdf"
+        },
+        {
           "title": "Genetic Algorithm Based Optimization of Built Environment Adaptation for Enhanced Coastal Resilience in Alexandria",
           "date": "2026-10-07",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-10-05",
           "venue": "",
           "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15009921/v1"
-        },
-        {
-          "title": "How 3D Processes Drive Trench Infill and Sand Wave Regeneration After Dredging",
-          "date": "2026-10-01",
-          "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JF008603"
         }
       ]
     },
@@ -241,16 +241,16 @@
           "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JC024459"
         },
         {
+          "title": "BridgeCast: Bridging Ocean Wave Forecasts to Reanalysis via Flow Matching with Exogenous Variables",
+          "date": "2026-09-27",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2610.03759"
+        },
+        {
           "title": "Modelling storm-induced coastal exposure using hindcast wave data in a densely urbanised coastal area",
           "date": "2026-09-24",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08420-2.pdf"
-        },
-        {
-          "title": "Study on Wave Characteristics in the Offshore Area of Qingdao",
-          "date": "2026-09-21",
-          "venue": "",
-          "link": "https://www.pjoes.com/pdf-222176-145386?filename=Study-on-Wave-Characteris.pdf"
         }
       ]
     }
