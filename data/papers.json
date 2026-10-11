@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "year_from": 2025,
   "items": [
     {
@@ -79,6 +79,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Coupled watershed and estuary modeling of microplastic transport and retention in the Delaware river basin",
+          "date": "2026-10-09",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41598-026-57910-7.pdf"
+        },
+        {
           "title": "Environmental controls on the detectability of hydrodynamic changes induced by offshore wind farm structures",
           "date": "2026-10-07",
           "venue": "",
@@ -101,127 +107,34 @@
           "date": "2026-10-01",
           "venue": "",
           "link": "https://www.sciencedirect.com/science/article/pii/S1463500326001666/pdf"
-        },
-        {
-          "title": "Evaluation of SCHISM experimental forecasts of total water levels along the Thanh Hoa\u2013Nghe An coast",
-          "date": "2026-09-30",
-          "venue": "",
-          "link": "https://jccs.vn/index.php/imhems/article/download/465/438"
         }
       ]
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Energy Production and Economic Feasibility of a Tidal Barrage System in the Gulf of Khambhat",
-          "date": "2026-10-08",
-          "venue": "",
-          "link": "https://www.internationaljournalssrg.org/../IJEEE/2026/Volume13-Issue9/IJEEE-V13I9P101.pdf"
-        },
-        {
-          "title": "An emergency-oriented risk assessment method for typhoon storm surge disasters",
-          "date": "2026-10-08",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3929/egusphere-2026-3929.pdf"
-        },
-        {
-          "title": "Retrospective GIS and statistical assessment of archived coastal water-level scenario rasters for Chabahar, Iran: implications for preliminary coastal planning",
-          "date": "2026-10-01",
-          "venue": "",
-          "link": "https://doi.org/10.1007/s11852-026-01293-4"
-        },
-        {
-          "title": "Physics-informed neural networks for hydrodynamic modelling in a 2D river system with complex riverbed terrains",
-          "date": "2026-09-29",
-          "venue": "",
-          "link": "https://www.tandfonline.com/doi/pdf/10.1080/19942060.2026.2734363?needAccess=true"
-        },
-        {
-          "title": "Artificial intelligence for modelling coastal climate extremes: a global systematic review",
-          "date": "2026-09-28",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s10113-026-02689-6.pdf"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 3\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Hydrodynamic Identification of Potential Sediment Depositional Zones in the Lower Rabnabad Channel of Payra Port, Bangladesh",
-          "date": "2026-09-25",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-10793507/latest.pdf"
-        },
-        {
-          "title": "Modeling of tidal stream energy resources near Rigolet, Nunatsiavut (Labrador, Canada) to assess energy transition options for a diesel power-reliant northern community",
-          "date": "2026-09-17",
-          "venue": "",
-          "link": "https://iopscience.iop.org/article/10.1088/2753-3751/aea90d/pdf"
-        },
-        {
-          "title": "Coral connectivity: How biophysical modelling choices shape connectivity inference",
-          "date": "2026-09-15",
-          "venue": "",
-          "link": "https://eartharxiv.org/repository/object/14999/download/26055/"
-        },
-        {
-          "title": "Critical review of tools and techniques for predicting microplastics pollution in watershed runoff",
-          "date": "2026-09-01",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S2950305126000367/pdf"
-        },
-        {
-          "title": "Numerical Modeling of the Mixing Process of Concentrated Brine Outfall in Shallow Water",
-          "date": "2026-09-01",
-          "venue": "",
-          "link": "https://www.ijsr.net/archive/v15i9/SR26927020234.pdf"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Delft3D\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": [
-        {
-          "title": "Energy Production and Economic Feasibility of a Tidal Barrage System in the Gulf of Khambhat",
-          "date": "2026-10-08",
-          "venue": "",
-          "link": "https://www.internationaljournalssrg.org/../IJEEE/2026/Volume13-Issue9/IJEEE-V13I9P101.pdf"
-        },
-        {
-          "title": "Genetic Algorithm Based Optimization of Built Environment Adaptation for Enhanced Coastal Resilience in Alexandria",
-          "date": "2026-10-07",
-          "venue": "",
-          "link": "https://www.researchsquare.com/article/rs-9191132/latest.pdf"
-        },
-        {
-          "title": "Climate warming amplifies coastal hypoxia response to extreme river discharge",
-          "date": "2026-10-05",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s43247-026-04106-6_reference.pdf"
-        },
-        {
-          "title": "How much saltmarsh dissolved organic carbon is mineralized before reaching the continental shelf?",
-          "date": "2026-10-05",
-          "venue": "",
-          "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15009922/v1"
-        },
-        {
-          "title": "Influences of Seasonal Vegetation Dynamics and Morphological Change on Water Age and Connectivity in River Deltas",
-          "date": "2026-10-05",
-          "venue": "",
-          "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15009921/v1"
-        }
-      ]
+      "openalex": []
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "POTENTIAL, CHALLENGES, AND STRATEGIES FOR MARINE WAVE ENERGY DEVELOPMENT IN INDONESIA TO SUPPORT THE 2060 NET-ZERO EMISSION TARGET: A SYSTEMATIC REVIEW",
+          "date": "2026-10-06",
+          "venue": "",
+          "link": "https://bestijournal.org/index.php/go/article/download/254/243"
+        },
         {
           "title": "From track to impact: a review of multi-hazard typhoon forecasting and resilience",
           "date": "2026-10-05",
@@ -245,12 +158,6 @@
           "date": "2026-09-27",
           "venue": "",
           "link": "https://arxiv.org/pdf/2610.03759"
-        },
-        {
-          "title": "Modelling storm-induced coastal exposure using hindcast wave data in a densely urbanised coastal area",
-          "date": "2026-09-24",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s11069-026-08420-2.pdf"
         }
       ]
     }
