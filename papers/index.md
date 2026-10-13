@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-10-12** · Showing results since **2025**_
+_Last update: **2026-10-13** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-10-12** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Characterizing lightning NO x production in the Ebro Valley with meteosat 12 LI and LMA observations](https://acp.copernicus.org/articles/26/14277/2026/acp-26-14277-2026.pdf) · 2026-10-12
+- [Complementarity of Empirical, Analytical and Numerical Techniques for Assessing the Stability of a Natural Cave System in the Coastal Cliffs of Las Grutas (Río Negro, Argentina)](https://link.springer.com/content/pdf/10.1007/s00603-026-06029-2.pdf) · 2026-10-12
 - [Cross-regional evaluation of thermodynamically consistent fractional-order integration for observation-constrained ocean heat content estimation](https://link.springer.com/content/pdf/10.1007/s10236-026-01860-1.pdf) · 2026-10-09
 - [Toward real-time wave forecasting via data-driven reduced-order modeling with data assimilation](https://www.sciencedirect.com/science/article/pii/S0141118726003640/pdf) · 2026-10-08
 - [Genetic Algorithm Based Optimization of Built Environment Adaptation for Enhanced Coastal Resilience in Alexandria](https://www.researchsquare.com/article/rs-9191132/latest.pdf) · 2026-10-07
-- [Digital twins for energy wells through multiscale physics-data fusion: Review, challenges, and a conceptual framework](https://www.sciencedirect.com/science/article/pii/S294989102600504X/pdf) · 2026-10-07
-- [Nonlinear dynamics of time-variable slope circulation](https://os.copernicus.org/articles/22/3055/2026/os-22-3055-2026.pdf) · 2026-10-06
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -31,8 +31,8 @@ _Last update: **2026-10-12** · Showing results since **2025**_
 **Recent items (OpenAlex):**
 - [Coupled watershed and estuary modeling of microplastic transport and retention in the Delaware river basin](https://www.nature.com/articles/s41598-026-57910-7.pdf) · 2026-10-09
 - [Environmental controls on the detectability of hydrodynamic changes induced by offshore wind farm structures](https://www.nature.com/articles/s41598-026-71585-0.pdf) · 2026-10-07
+- [Quantification of wave–current interactions in a tide-dominated harbour: A fully coupled modelling study of Darwin Harbour, Australia](https://www.sciencedirect.com/science/article/pii/S0278434326001615/pdf) · 2026-10-07
 - [Small but mighty: Evaluating the community-scale tidal stream energy potential of Midcoast Maine](https://www.sciencedirect.com/science/article/pii/S0964569126002991/pdf) · 2026-10-01
-- [Quantification of wave–current interactions in a tide-dominated harbour: A fully coupled modelling study of Darwin Harbour, Australia](https://www.sciencedirect.com/science/article/pii/S0278434326001615/pdf) · 2026-10-01
 - [Influence of Coastal Wind Jet on Waves in Fjords: A SWAN+WRF Model](https://www.sciencedirect.com/science/article/pii/S1463500326001666/pdf) · 2026-10-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
@@ -59,11 +59,11 @@ _Last update: **2026-10-12** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Use of artificial intelligence and other data-driven technologies for coastal management](https://so04.tci-thaijo.org/index.php/MTR/article/download/289835/193722) · 2026-10-11
 - [Energy Production and Economic Feasibility of a Tidal Barrage System in the Gulf of Khambhat](https://www.internationaljournalssrg.org/../IJEEE/2026/Volume13-Issue9/IJEEE-V13I9P101.pdf) · 2026-10-08
 - [Genetic Algorithm Based Optimization of Built Environment Adaptation for Enhanced Coastal Resilience in Alexandria](https://www.researchsquare.com/article/rs-9191132/latest.pdf) · 2026-10-07
 - [Climate warming amplifies coastal hypoxia response to extreme river discharge](https://www.nature.com/articles/s43247-026-04106-6_reference.pdf) · 2026-10-05
 - [How much saltmarsh dissolved organic carbon is mineralized before reaching the continental shelf?](https://essopenarchive.org/doi/pdf/10.22541/essoar.15009922/v1) · 2026-10-05
-- [Influences of Seasonal Vegetation Dynamics and Morphological Change on Water Age and Connectivity in River Deltas](https://essopenarchive.org/doi/pdf/10.22541/essoar.15009921/v1) · 2026-10-05
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

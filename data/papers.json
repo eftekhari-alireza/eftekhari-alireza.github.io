@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Characterizing lightning NO x production in the Ebro Valley with meteosat 12 LI and LMA observations",
+          "date": "2026-10-12",
+          "venue": "",
+          "link": "https://acp.copernicus.org/articles/26/14277/2026/acp-26-14277-2026.pdf"
+        },
+        {
+          "title": "Complementarity of Empirical, Analytical and Numerical Techniques for Assessing the Stability of a Natural Cave System in the Coastal Cliffs of Las Grutas (R\u00edo Negro, Argentina)",
+          "date": "2026-10-12",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s00603-026-06029-2.pdf"
+        },
+        {
           "title": "Cross-regional evaluation of thermodynamically consistent fractional-order integration for observation-constrained ocean heat content estimation",
           "date": "2026-10-09",
           "venue": "",
@@ -59,18 +71,6 @@
           "date": "2026-10-07",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-9191132/latest.pdf"
-        },
-        {
-          "title": "Digital twins for energy wells through multiscale physics-data fusion: Review, challenges, and a conceptual framework",
-          "date": "2026-10-07",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S294989102600504X/pdf"
-        },
-        {
-          "title": "Nonlinear dynamics of time-variable slope circulation",
-          "date": "2026-10-06",
-          "venue": "",
-          "link": "https://os.copernicus.org/articles/22/3055/2026/os-22-3055-2026.pdf"
         }
       ]
     },
@@ -91,16 +91,16 @@
           "link": "https://www.nature.com/articles/s41598-026-71585-0.pdf"
         },
         {
+          "title": "Quantification of wave\u2013current interactions in a tide-dominated harbour: A fully coupled modelling study of Darwin Harbour, Australia",
+          "date": "2026-10-07",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0278434326001615/pdf"
+        },
+        {
           "title": "Small but mighty: Evaluating the community-scale tidal stream energy potential of Midcoast Maine",
           "date": "2026-10-01",
           "venue": "",
           "link": "https://www.sciencedirect.com/science/article/pii/S0964569126002991/pdf"
-        },
-        {
-          "title": "Quantification of wave\u2013current interactions in a tide-dominated harbour: A fully coupled modelling study of Darwin Harbour, Australia",
-          "date": "2026-10-01",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0278434326001615/pdf"
         },
         {
           "title": "Influence of Coastal Wind Jet on Waves in Fjords: A SWAN+WRF Model",
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Use of artificial intelligence and other data-driven technologies for coastal management",
+          "date": "2026-10-11",
+          "venue": "",
+          "link": "https://so04.tci-thaijo.org/index.php/MTR/article/download/289835/193722"
+        },
+        {
           "title": "Energy Production and Economic Feasibility of a Tidal Barrage System in the Gulf of Khambhat",
           "date": "2026-10-08",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-10-05",
           "venue": "",
           "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15009922/v1"
-        },
-        {
-          "title": "Influences of Seasonal Vegetation Dynamics and Morphological Change on Water Age and Connectivity in River Deltas",
-          "date": "2026-10-05",
-          "venue": "",
-          "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15009921/v1"
         }
       ]
     },
