@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Offshore Wind Farm-Induced Ocean Circulation Over Variable Bathymetry: A Multiscale LES--Shallow-Water Approach",
+          "date": "2026-10-14",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-11128847/latest.pdf"
+        },
+        {
           "title": "Characterizing lightning NO x production in the Ebro Valley with meteosat 12 LI and LMA observations",
           "date": "2026-10-12",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-10-09",
           "venue": "",
           "link": "https://www.sciencedirect.com/science/article/pii/S221242092600498X/pdf"
-        },
-        {
-          "title": "Cross-regional evaluation of thermodynamically consistent fractional-order integration for observation-constrained ocean heat content estimation",
-          "date": "2026-10-09",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s10236-026-01860-1.pdf"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "A perspective and roadmap for emerging toxic flood hazards affecting ecosystems and society",
+          "date": "2026-10-14",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s43832-026-00464-6.pdf"
+        },
+        {
           "title": "Spatiotemporal dynamics of hydrodynamics and water quality in Liaodong Bay under seasonal ice cover: A coupled 3D modeling and WQI assessment",
           "date": "2026-10-13",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-10-07",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-9191132/latest.pdf"
-        },
-        {
-          "title": "Climate warming amplifies coastal hypoxia response to extreme river discharge",
-          "date": "2026-10-05",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s43247-026-04106-6_reference.pdf"
         }
       ]
     },
