@@ -1,11 +1,17 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Linking Horizontal and Vertical Submesoscale Lagrangian Dynamics South of the Ibiza Channel",
+          "date": "2026-10-13",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2610.18145"
+        },
         {
           "title": "GGOSSS 2025 \u2014 Gulf of Guinea Ocean Sciences Summer School, Dschang, Cameroon",
           "date": "2026-10-11",
@@ -29,12 +35,6 @@
           "date": "2026-10-09",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s10236-026-01860-1.pdf"
-        },
-        {
-          "title": "Hydrodynamics structure the physiological trajectory and bloom dynamics of a harmful diatom species across neighboring coastal ecosystems",
-          "date": "2026-10-06",
-          "venue": "",
-          "link": "https://www.biorxiv.org/content/biorxiv/early/2026/10/06/2026.10.05.756714.full.pdf"
         }
       ]
     },
@@ -47,6 +47,12 @@
           "date": "2026-10-14",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-11128847/latest.pdf"
+        },
+        {
+          "title": "Linking Horizontal and Vertical Submesoscale Lagrangian Dynamics South of the Ibiza Channel",
+          "date": "2026-10-13",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2610.18145"
         },
         {
           "title": "Characterizing lightning NO x production in the Ebro Valley with meteosat 12 LI and LMA observations",
@@ -65,12 +71,6 @@
           "date": "2026-10-12",
           "venue": "",
           "link": "https://ems.press/content/serial-article-files/54367"
-        },
-        {
-          "title": "Non-engineered housing construction and earthquakes: A global review of structural performance and vulnerability drivers",
-          "date": "2026-10-09",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S221242092600498X/pdf"
         }
       ]
     },
