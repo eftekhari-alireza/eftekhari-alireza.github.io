@@ -3,27 +3,27 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-10-17** · Showing results since **2025**_
+_Last update: **2026-10-18** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
-- [Linking Horizontal and Vertical Submesoscale Lagrangian Dynamics South of the Ibiza Channel](https://arxiv.org/pdf/2610.18145) · 2026-10-13
 - [GGOSSS 2025 — Gulf of Guinea Ocean Sciences Summer School, Dschang, Cameroon](https://doi.org/10.5281/zenodo.23303066) · 2026-10-11
 - [GGOSSS 2026 – Gulf of Guinea Ocean Sciences Summer School, Cotonou, Benin](https://doi.org/10.5281/zenodo.23292163) · 2026-10-11
 - [A Machine Learning Framework Toward the Parameterization of Mesoscale Ocean-Atmosphere Interactions](https://essopenarchive.org/doi/pdf/10.22541/essoar.15010198/v1) · 2026-10-10
 - [Cross-regional evaluation of thermodynamically consistent fractional-order integration for observation-constrained ocean heat content estimation](https://link.springer.com/content/pdf/10.1007/s10236-026-01860-1.pdf) · 2026-10-09
+- [Hydrodynamics structure the physiological trajectory and bloom dynamics of a harmful diatom species across neighboring coastal ecosystems](https://www.biorxiv.org/content/biorxiv/early/2026/10/06/2026.10.05.756714.full.pdf) · 2026-10-06
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
 - [Offshore Wind Farm-Induced Ocean Circulation Over Variable Bathymetry: A Multiscale LES--Shallow-Water Approach](https://www.researchsquare.com/article/rs-11128847/latest.pdf) · 2026-10-14
-- [Linking Horizontal and Vertical Submesoscale Lagrangian Dynamics South of the Ibiza Channel](https://arxiv.org/pdf/2610.18145) · 2026-10-13
 - [Characterizing lightning NO x production in the Ebro Valley with meteosat 12 LI and LMA observations](https://acp.copernicus.org/articles/26/14277/2026/acp-26-14277-2026.pdf) · 2026-10-12
 - [Complementarity of Empirical, Analytical and Numerical Techniques for Assessing the Stability of a Natural Cave System in the Coastal Cliffs of Las Grutas (Río Negro, Argentina)](https://link.springer.com/content/pdf/10.1007/s00603-026-06029-2.pdf) · 2026-10-12
 - [Mathematical Foundation of Digital Twins](https://ems.press/content/serial-article-files/54367) · 2026-10-12
+- [Non-engineered housing construction and earthquakes: A global review of structural performance and vulnerability drivers](https://www.sciencedirect.com/science/article/pii/S221242092600498X/pdf) · 2026-10-09
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
