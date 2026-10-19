@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-10-18** · Showing results since **2025**_
+_Last update: **2026-10-19** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-10-18** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Genetic isolation and loss of diversity in the broadcast spawning coral, Acropora kenti at Yunbenun (Magnetic Island) on the Great Barrier Reef](https://link.springer.com/content/pdf/10.1007/s10592-026-01848-w.pdf) · 2026-10-17
 - [A perspective and roadmap for emerging toxic flood hazards affecting ecosystems and society](https://link.springer.com/content/pdf/10.1007/s43832-026-00464-6.pdf) · 2026-10-14
 - [Spatiotemporal dynamics of hydrodynamics and water quality in Liaodong Bay under seasonal ice cover: A coupled 3D modeling and WQI assessment](https://www.sciencedirect.com/science/article/pii/S1385110126000882/pdf) · 2026-10-13
 - [Use of artificial intelligence and other data-driven technologies for coastal management](https://so04.tci-thaijo.org/index.php/MTR/article/download/289835/193722) · 2026-10-11
 - [Energy Production and Economic Feasibility of a Tidal Barrage System in the Gulf of Khambhat](https://www.internationaljournalssrg.org/../IJEEE/2026/Volume13-Issue9/IJEEE-V13I9P101.pdf) · 2026-10-08
-- [Genetic Algorithm Based Optimization of Built Environment Adaptation for Enhanced Coastal Resilience in Alexandria](https://www.researchsquare.com/article/rs-9191132/latest.pdf) · 2026-10-07
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
