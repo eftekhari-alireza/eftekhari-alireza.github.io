@@ -1,11 +1,17 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "The hydrodynamics of a low-latitude submarine canyon: Implications for circulation pattern and dispersion of suspended particles",
+          "date": "2026-10-13",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.jmarsys.2026.104320"
+        },
         {
           "title": "GGOSSS 2025 \u2014 Gulf of Guinea Ocean Sciences Summer School, Dschang, Cameroon",
           "date": "2026-10-11",
@@ -29,12 +35,6 @@
           "date": "2026-10-09",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s10236-026-01860-1.pdf"
-        },
-        {
-          "title": "Hydrodynamics structure the physiological trajectory and bloom dynamics of a harmful diatom species across neighboring coastal ecosystems",
-          "date": "2026-10-06",
-          "venue": "",
-          "link": "https://www.biorxiv.org/content/biorxiv/early/2026/10/06/2026.10.05.756714.full.pdf"
         }
       ]
     },
@@ -79,6 +79,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Physics-informed LSTMNet for short-term marine buoy trajectory prediction under dynamic ocean environmental conditions",
+          "date": "2026-10-19",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1953622/pdf"
+        },
+        {
           "title": "Spatiotemporal dynamics of hydrodynamics and water quality in Liaodong Bay under seasonal ice cover: A coupled 3D modeling and WQI assessment",
           "date": "2026-10-13",
           "venue": "",
@@ -101,12 +107,6 @@
           "date": "2026-10-07",
           "venue": "",
           "link": "https://www.sciencedirect.com/science/article/pii/S0278434326001615/pdf"
-        },
-        {
-          "title": "Small but mighty: Evaluating the community-scale tidal stream energy potential of Midcoast Maine",
-          "date": "2026-10-01",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0964569126002991/pdf"
         }
       ]
     },
