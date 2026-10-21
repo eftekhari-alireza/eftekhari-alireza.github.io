@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-10-20** · Showing results since **2025**_
+_Last update: **2026-10-21** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -29,11 +29,11 @@ _Last update: **2026-10-20** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Long-term variations of cyclone-influenced exchange flows in the coastal Arctic in 2000-2025](https://www.nature.com/articles/s41612-026-01573-8_reference.pdf) · 2026-10-19
 - [Physics-informed LSTMNet for short-term marine buoy trajectory prediction under dynamic ocean environmental conditions](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1953622/pdf) · 2026-10-19
 - [Spatiotemporal dynamics of hydrodynamics and water quality in Liaodong Bay under seasonal ice cover: A coupled 3D modeling and WQI assessment](https://www.sciencedirect.com/science/article/pii/S1385110126000882/pdf) · 2026-10-13
 - [Coupled watershed and estuary modeling of microplastic transport and retention in the Delaware river basin](https://www.nature.com/articles/s41598-026-57910-7.pdf) · 2026-10-09
 - [Environmental controls on the detectability of hydrodynamic changes induced by offshore wind farm structures](https://www.nature.com/articles/s41598-026-71585-0.pdf) · 2026-10-07
-- [Quantification of wave–current interactions in a tide-dominated harbour: A fully coupled modelling study of Darwin Harbour, Australia](https://www.sciencedirect.com/science/article/pii/S0278434326001615/pdf) · 2026-10-07
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -69,8 +69,8 @@ _Last update: **2026-10-20** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Geodynamical processes and natural hazards](https://doi.org/10.30730/978-5-6044483-9-7.2026-11) · 2026-10-20
 - [Wetland loss amplifies regional heat exposure: insights from the 2023 Southeast Asia heatwave](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1843008/pdf) · 2026-10-14
 - [Effects of rectified sinusoidal bar-type Bragg breakwater on harbor resonance mitigation under regular wave excitation](https://www.sciencedirect.com/science/article/pii/S0141118726003767/pdf) · 2026-10-10
 - [Parametric wave spectrum models for prediction of Stokes drift profiles](https://arxiv.org/pdf/2610.12752) · 2026-10-08
 - [POTENTIAL, CHALLENGES, AND STRATEGIES FOR MARINE WAVE ENERGY DEVELOPMENT IN INDONESIA TO SUPPORT THE 2060 NET-ZERO EMISSION TARGET: A SYSTEMATIC REVIEW](https://bestijournal.org/index.php/go/article/download/254/243) · 2026-10-06
-- [From track to impact: a review of multi-hazard typhoon forecasting and resilience](https://www.sciencedirect.com/science/article/pii/S2405880726001093/pdf) · 2026-10-05
