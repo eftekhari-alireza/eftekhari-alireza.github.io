@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "A cost-effective data assimilation system for improving ROMS simulations in the Southwest Atlantic",
+          "date": "2026-10-20",
+          "venue": "",
+          "link": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0358351&type=printable"
+        },
+        {
           "title": "Offshore Wind Farm-Induced Ocean Circulation Over Variable Bathymetry: A Multiscale LES--Shallow-Water Approach",
           "date": "2026-10-14",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-10-12",
           "venue": "",
           "link": "https://ems.press/content/serial-article-files/54367"
-        },
-        {
-          "title": "Non-engineered housing construction and earthquakes: A global review of structural performance and vulnerability drivers",
-          "date": "2026-10-09",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S221242092600498X/pdf"
         }
       ]
     },
@@ -193,6 +193,12 @@
           "link": "https://link.springer.com/content/pdf/10.1007/s10592-026-01848-w.pdf"
         },
         {
+          "title": "An Adaptive-Horizon Graph Neural Operator for coupled surrogate morphodynamic modelling",
+          "date": "2026-10-15",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2610.22432"
+        },
+        {
           "title": "A perspective and roadmap for emerging toxic flood hazards affecting ecosystems and society",
           "date": "2026-10-14",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-10-11",
           "venue": "",
           "link": "https://so04.tci-thaijo.org/index.php/MTR/article/download/289835/193722"
-        },
-        {
-          "title": "Energy Production and Economic Feasibility of a Tidal Barrage System in the Gulf of Khambhat",
-          "date": "2026-10-08",
-          "venue": "",
-          "link": "https://www.internationaljournalssrg.org/../IJEEE/2026/Volume13-Issue9/IJEEE-V13I9P101.pdf"
         }
       ]
     },
