@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "From Melt-Limited Inception to Dynamically Supported Growth of the Laurentide Ice Sheet",
+          "date": "2026-10-22",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6177/egusphere-2026-6177.pdf"
+        },
+        {
           "title": "A cost-effective data assimilation system for improving ROMS simulations in the Southwest Atlantic",
           "date": "2026-10-20",
           "venue": "",
@@ -55,22 +61,16 @@
           "link": "https://www.researchsquare.com/article/rs-11128847/latest.pdf"
         },
         {
+          "title": "Dynamics of nitrogen in the Qiongdong Upwelling system: insights from a coupled physical-biogeochemical model",
+          "date": "2026-10-14",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1975165/pdf"
+        },
+        {
           "title": "Characterizing lightning NO x production in the Ebro Valley with meteosat 12 LI and LMA observations",
           "date": "2026-10-12",
           "venue": "",
           "link": "https://acp.copernicus.org/articles/26/14277/2026/acp-26-14277-2026.pdf"
-        },
-        {
-          "title": "Complementarity of Empirical, Analytical and Numerical Techniques for Assessing the Stability of a Natural Cave System in the Coastal Cliffs of Las Grutas (R\u00edo Negro, Argentina)",
-          "date": "2026-10-12",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s00603-026-06029-2.pdf"
-        },
-        {
-          "title": "Mathematical Foundation of Digital Twins",
-          "date": "2026-10-12",
-          "venue": "",
-          "link": "https://ems.press/content/serial-article-files/54367"
         }
       ]
     },
@@ -115,6 +115,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Sediment transport disturbances and seabed erosion-deposition evolution induced by the Zhoushan\u2013Daishan Sea-Crossing Bridge",
+          "date": "2026-10-22",
+          "venue": "",
+          "link": "https://doi.org/10.3389/fmars.2026.1941094"
+        },
+        {
           "title": "Hydrodynamic Modeling of Maximum Tidal Levels at the Tondano River Estuary",
           "date": "2026-10-10",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-10-08",
           "venue": "",
           "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3929/egusphere-2026-3929.pdf"
-        },
-        {
-          "title": "Retrospective GIS and statistical assessment of archived coastal water-level scenario rasters for Chabahar, Iran: implications for preliminary coastal planning",
-          "date": "2026-10-01",
-          "venue": "",
-          "link": "https://doi.org/10.1007/s11852-026-01293-4"
         }
       ]
     },

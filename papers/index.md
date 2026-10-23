@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-10-22** · Showing results since **2025**_
+_Last update: **2026-10-23** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-10-22** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [From Melt-Limited Inception to Dynamically Supported Growth of the Laurentide Ice Sheet](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6177/egusphere-2026-6177.pdf) · 2026-10-22
 - [A cost-effective data assimilation system for improving ROMS simulations in the Southwest Atlantic](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0358351&type=printable) · 2026-10-20
 - [Offshore Wind Farm-Induced Ocean Circulation Over Variable Bathymetry: A Multiscale LES--Shallow-Water Approach](https://www.researchsquare.com/article/rs-11128847/latest.pdf) · 2026-10-14
+- [Dynamics of nitrogen in the Qiongdong Upwelling system: insights from a coupled physical-biogeochemical model](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1975165/pdf) · 2026-10-14
 - [Characterizing lightning NO x production in the Ebro Valley with meteosat 12 LI and LMA observations](https://acp.copernicus.org/articles/26/14277/2026/acp-26-14277-2026.pdf) · 2026-10-12
-- [Complementarity of Empirical, Analytical and Numerical Techniques for Assessing the Stability of a Natural Cave System in the Coastal Cliffs of Las Grutas (Río Negro, Argentina)](https://link.springer.com/content/pdf/10.1007/s00603-026-06029-2.pdf) · 2026-10-12
-- [Mathematical Foundation of Digital Twins](https://ems.press/content/serial-article-files/54367) · 2026-10-12
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2026-10-22** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Sediment transport disturbances and seabed erosion-deposition evolution induced by the Zhoushan–Daishan Sea-Crossing Bridge](https://doi.org/10.3389/fmars.2026.1941094) · 2026-10-22
 - [Hydrodynamic Modeling of Maximum Tidal Levels at the Tondano River Estuary](https://www.internationaljournalssrg.org/../IJCE/2026/Volume13-Issue9/IJCE-V13I9P112.pdf) · 2026-10-10
 - [Artificial Intelligence for Urban Flood Early Warning: A Review of Recent Advances](https://drpress.org/ojs/index.php/fcis/article/download/36067/35223) · 2026-10-09
 - [Energy Production and Economic Feasibility of a Tidal Barrage System in the Gulf of Khambhat](https://www.internationaljournalssrg.org/../IJEEE/2026/Volume13-Issue9/IJEEE-V13I9P101.pdf) · 2026-10-08
 - [An emergency-oriented risk assessment method for typhoon storm surge disasters](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3929/egusphere-2026-3929.pdf) · 2026-10-08
-- [Retrospective GIS and statistical assessment of archived coastal water-level scenario rasters for Chabahar, Iran: implications for preliminary coastal planning](https://doi.org/10.1007/s11852-026-01293-4) · 2026-10-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
