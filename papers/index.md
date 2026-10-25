@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-10-24** · Showing results since **2025**_
+_Last update: **2026-10-25** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-10-24** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Predicting spatial and temporal shifts in oyster productivity with an oyster reef individual-based model](https://www.sciencedirect.com/science/article/pii/S0304380026004047/pdf) · 2026-10-24
 - [3D Atmospheric Imprint of Mesoscale Eddies Driven by the Thermal Feedback in the Gulf Stream Region](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JD047228) · 2026-10-22
 - [From Melt-Limited Inception to Dynamically Supported Growth of the Laurentide Ice Sheet](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6177/egusphere-2026-6177.pdf) · 2026-10-22
 - [A cost-effective data assimilation system for improving ROMS simulations in the Southwest Atlantic](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0358351&type=printable) · 2026-10-20
 - [Offshore Wind Farm-Induced Ocean Circulation Over Variable Bathymetry: A Multiscale LES--Shallow-Water Approach](https://www.researchsquare.com/article/rs-11128847/latest.pdf) · 2026-10-14
-- [Dynamics of nitrogen in the Qiongdong Upwelling system: insights from a coupled physical-biogeochemical model](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1975165/pdf) · 2026-10-14
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,18 +59,18 @@ _Last update: **2026-10-24** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [CNN–LSTM-Based Spatio-Temporal Forecasting of MNDWI-Derived Coastal States: A Multi-Temporal Landsat Study in Northeastern Brazil](https://link.springer.com/content/pdf/10.1007/s12145-026-02283-8.pdf) · 2026-10-23
+- [Unsustainable River Sand Mining: Morphodynamical Impacts, Monitoring Tools, and an Integrated Framework for Sustainable Management](https://iopscience.iop.org/article/10.1088/2515-7620/aeb8fe/pdf) · 2026-10-23
+- [Morecambe Area Gaming Environment (MAGE): An Applied Case Study for Coastal Futures and Adaptations](https://www.cogitatiopress.com/urbanplanning/article/download/12297/5324) · 2026-10-19
 - [Genetic isolation and loss of diversity in the broadcast spawning coral, Acropora kenti at Yunbenun (Magnetic Island) on the Great Barrier Reef](https://link.springer.com/content/pdf/10.1007/s10592-026-01848-w.pdf) · 2026-10-17
 - [An Adaptive-Horizon Graph Neural Operator for coupled surrogate morphodynamic modelling](https://arxiv.org/pdf/2610.22432) · 2026-10-15
-- [A perspective and roadmap for emerging toxic flood hazards affecting ecosystems and society](https://link.springer.com/content/pdf/10.1007/s43832-026-00464-6.pdf) · 2026-10-14
-- [Spatiotemporal dynamics of hydrodynamics and water quality in Liaodong Bay under seasonal ice cover: A coupled 3D modeling and WQI assessment](https://www.sciencedirect.com/science/article/pii/S1385110126000882/pdf) · 2026-10-13
-- [Use of artificial intelligence and other data-driven technologies for coastal management](https://so04.tci-thaijo.org/index.php/MTR/article/download/289835/193722) · 2026-10-11
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Reconstructing Significant Wave Height Fields from Sparse Observations Using Virtual Observation Augmentation](https://eartharxiv.org/repository/object/15702/download/27191/) · 2026-10-23
 - [3D Atmospheric Imprint of Mesoscale Eddies Driven by the Thermal Feedback in the Gulf Stream Region](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JD047228) · 2026-10-22
 - [Geodynamical processes and natural hazards](https://doi.org/10.30730/978-5-6044483-9-7.2026-11) · 2026-10-20
 - [Wetland loss amplifies regional heat exposure: insights from the 2023 Southeast Asia heatwave](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1843008/pdf) · 2026-10-14
 - [Effects of rectified sinusoidal bar-type Bragg breakwater on harbor resonance mitigation under regular wave excitation](https://www.sciencedirect.com/science/article/pii/S0141118726003767/pdf) · 2026-10-10
-- [Parametric wave spectrum models for prediction of Stokes drift profiles](https://arxiv.org/pdf/2610.12752) · 2026-10-08

@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Predicting spatial and temporal shifts in oyster productivity with an oyster reef individual-based model",
+          "date": "2026-10-24",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0304380026004047/pdf"
+        },
+        {
           "title": "3D Atmospheric Imprint of Mesoscale Eddies Driven by the Thermal Feedback in the Gulf Stream Region",
           "date": "2026-10-22",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-10-14",
           "venue": "",
           "link": "https://www.researchsquare.com/article/rs-11128847/latest.pdf"
-        },
-        {
-          "title": "Dynamics of nitrogen in the Qiongdong Upwelling system: insights from a coupled physical-biogeochemical model",
-          "date": "2026-10-14",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1975165/pdf"
         }
       ]
     },
@@ -187,6 +187,24 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "CNN\u2013LSTM-Based Spatio-Temporal Forecasting of MNDWI-Derived Coastal States: A Multi-Temporal Landsat Study in Northeastern Brazil",
+          "date": "2026-10-23",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s12145-026-02283-8.pdf"
+        },
+        {
+          "title": "Unsustainable River Sand Mining: Morphodynamical Impacts, Monitoring Tools, and an Integrated Framework for Sustainable Management",
+          "date": "2026-10-23",
+          "venue": "",
+          "link": "https://iopscience.iop.org/article/10.1088/2515-7620/aeb8fe/pdf"
+        },
+        {
+          "title": "Morecambe Area Gaming Environment (MAGE): An Applied Case Study for Coastal Futures and Adaptations",
+          "date": "2026-10-19",
+          "venue": "",
+          "link": "https://www.cogitatiopress.com/urbanplanning/article/download/12297/5324"
+        },
+        {
           "title": "Genetic isolation and loss of diversity in the broadcast spawning coral, Acropora kenti at Yunbenun (Magnetic Island) on the Great Barrier Reef",
           "date": "2026-10-17",
           "venue": "",
@@ -197,24 +215,6 @@
           "date": "2026-10-15",
           "venue": "",
           "link": "https://arxiv.org/pdf/2610.22432"
-        },
-        {
-          "title": "A perspective and roadmap for emerging toxic flood hazards affecting ecosystems and society",
-          "date": "2026-10-14",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s43832-026-00464-6.pdf"
-        },
-        {
-          "title": "Spatiotemporal dynamics of hydrodynamics and water quality in Liaodong Bay under seasonal ice cover: A coupled 3D modeling and WQI assessment",
-          "date": "2026-10-13",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S1385110126000882/pdf"
-        },
-        {
-          "title": "Use of artificial intelligence and other data-driven technologies for coastal management",
-          "date": "2026-10-11",
-          "venue": "",
-          "link": "https://so04.tci-thaijo.org/index.php/MTR/article/download/289835/193722"
         }
       ]
     },
@@ -222,6 +222,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Reconstructing Significant Wave Height Fields from Sparse Observations Using Virtual Observation Augmentation",
+          "date": "2026-10-23",
+          "venue": "",
+          "link": "https://eartharxiv.org/repository/object/15702/download/27191/"
+        },
         {
           "title": "3D Atmospheric Imprint of Mesoscale Eddies Driven by the Thermal Feedback in the Gulf Stream Region",
           "date": "2026-10-22",
@@ -245,12 +251,6 @@
           "date": "2026-10-10",
           "venue": "",
           "link": "https://www.sciencedirect.com/science/article/pii/S0141118726003767/pdf"
-        },
-        {
-          "title": "Parametric wave spectrum models for prediction of Stokes drift profiles",
-          "date": "2026-10-08",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2610.12752"
         }
       ]
     }
