@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-10-25** · Showing results since **2025**_
+_Last update: **2026-10-26** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -18,13 +18,6 @@ _Last update: **2026-10-25** · Showing results since **2025**_
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
-**Recent items (OpenAlex):**
-- [Predicting spatial and temporal shifts in oyster productivity with an oyster reef individual-based model](https://www.sciencedirect.com/science/article/pii/S0304380026004047/pdf) · 2026-10-24
-- [3D Atmospheric Imprint of Mesoscale Eddies Driven by the Thermal Feedback in the Gulf Stream Region](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JD047228) · 2026-10-22
-- [From Melt-Limited Inception to Dynamically Supported Growth of the Laurentide Ice Sheet](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6177/egusphere-2026-6177.pdf) · 2026-10-22
-- [A cost-effective data assimilation system for improving ROMS simulations in the Southwest Atlantic](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0358351&type=printable) · 2026-10-20
-- [Offshore Wind Farm-Induced Ocean Circulation Over Variable Bathymetry: A Multiscale LES--Shallow-Water Approach](https://www.researchsquare.com/article/rs-11128847/latest.pdf) · 2026-10-14
-
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
@@ -38,32 +31,11 @@ _Last update: **2026-10-25** · Showing results since **2025**_
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
-**Recent items (OpenAlex):**
-- [Coastal erosion processes along a high-energy beach in southwest India: insights from video monitoring and numerical modelling](https://doi.org/10.1007/s11069-026-08453-7) · 2026-10-23
-- [Sediment transport disturbances and seabed erosion-deposition evolution induced by the Zhoushan–Daishan Sea-Crossing Bridge](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1941094/pdf) · 2026-10-22
-- [Hydrodynamic Modeling of Maximum Tidal Levels at the Tondano River Estuary](https://www.internationaljournalssrg.org/../IJCE/2026/Volume13-Issue9/IJCE-V13I9P112.pdf) · 2026-10-10
-- [Artificial Intelligence for Urban Flood Early Warning: A Review of Recent Advances](https://drpress.org/ojs/index.php/fcis/article/download/36067/35223) · 2026-10-09
-- [Energy Production and Economic Feasibility of a Tidal Barrage System in the Gulf of Khambhat](https://www.internationaljournalssrg.org/../IJEEE/2026/Volume13-Issue9/IJEEE-V13I9P101.pdf) · 2026-10-08
-
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
-**Recent items (OpenAlex):**
-- [Spatiotemporal dynamics of hydrodynamics and water quality in Liaodong Bay under seasonal ice cover: A coupled 3D modeling and WQI assessment](https://www.sciencedirect.com/science/article/pii/S1385110126000882/pdf) · 2026-10-13
-- [Hydrodynamic Identification of Potential Sediment Depositional Zones in the Lower Rabnabad Channel of Payra Port, Bangladesh](https://www.researchsquare.com/article/rs-10793507/latest.pdf) · 2026-09-25
-- [MIKE3 implication on particle transport in the tropical coastal environment](https://doi.org/10.18520/cs/v131/i6/542-553) · 2026-09-25
-- [Modeling of tidal stream energy resources near Rigolet, Nunatsiavut (Labrador, Canada) to assess energy transition options for a diesel power-reliant northern community](https://iopscience.iop.org/article/10.1088/2753-3751/aea90d/pdf) · 2026-09-17
-- [Coral connectivity: How biophysical modelling choices shape connectivity inference](https://eartharxiv.org/repository/object/14999/download/26055/) · 2026-09-15
-
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Delft3D"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
-
-**Recent items (OpenAlex):**
-- [CNN–LSTM-Based Spatio-Temporal Forecasting of MNDWI-Derived Coastal States: A Multi-Temporal Landsat Study in Northeastern Brazil](https://link.springer.com/content/pdf/10.1007/s12145-026-02283-8.pdf) · 2026-10-23
-- [Unsustainable River Sand Mining: Morphodynamical Impacts, Monitoring Tools, and an Integrated Framework for Sustainable Management](https://iopscience.iop.org/article/10.1088/2515-7620/aeb8fe/pdf) · 2026-10-23
-- [Morecambe Area Gaming Environment (MAGE): An Applied Case Study for Coastal Futures and Adaptations](https://www.cogitatiopress.com/urbanplanning/article/download/12297/5324) · 2026-10-19
-- [Genetic isolation and loss of diversity in the broadcast spawning coral, Acropora kenti at Yunbenun (Magnetic Island) on the Great Barrier Reef](https://link.springer.com/content/pdf/10.1007/s10592-026-01848-w.pdf) · 2026-10-17
-- [An Adaptive-Horizon Graph Neural Operator for coupled surrogate morphodynamic modelling](https://arxiv.org/pdf/2610.22432) · 2026-10-15
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
