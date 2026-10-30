@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,18 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Multi-Fidelity Particle Flow Filters based on Log Homotopy",
+          "date": "2026-10-26",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2610.35712"
+        },
+        {
+          "title": "A Product-Grassmann Tucker Surrogate for Parametric Field Prediction",
+          "date": "2026-10-25",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2610.34559"
+        },
+        {
           "title": "Predicting spatial and temporal shifts in oyster productivity with an oyster reef individual-based model",
           "date": "2026-10-24",
           "venue": "",
@@ -59,18 +71,6 @@
           "date": "2026-10-23",
           "venue": "",
           "link": "https://www.sciencedirect.com/science/article/pii/S0272771426006554/pdf"
-        },
-        {
-          "title": "3D Atmospheric Imprint of Mesoscale Eddies Driven by the Thermal Feedback in the Gulf Stream Region",
-          "date": "2026-10-22",
-          "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JD047228"
-        },
-        {
-          "title": "From Melt-Limited Inception to Dynamically Supported Growth of the Laurentide Ice Sheet",
-          "date": "2026-10-22",
-          "venue": "",
-          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6177/egusphere-2026-6177.pdf"
         }
       ]
     },

@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-10-29** · Showing results since **2025**_
+_Last update: **2026-10-30** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-10-29** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Multi-Fidelity Particle Flow Filters based on Log Homotopy](https://arxiv.org/pdf/2610.35712) · 2026-10-26
+- [A Product-Grassmann Tucker Surrogate for Parametric Field Prediction](https://arxiv.org/pdf/2610.34559) · 2026-10-25
 - [Predicting spatial and temporal shifts in oyster productivity with an oyster reef individual-based model](https://www.sciencedirect.com/science/article/pii/S0304380026004047/pdf) · 2026-10-24
 - [Mantle-to-crust mass transfer in intracontinental post-orogenic settings: Devonian sanukitoids and cogenetic granites in central Argentina](https://www.sciencedirect.com/science/article/pii/S1342937X26002637/pdf) · 2026-10-23
 - [Three-dimensional numerical modeling of seasonal and spatial variations of suspended particulate matter in a tide-dominated semi-enclosed sea](https://www.sciencedirect.com/science/article/pii/S0272771426006554/pdf) · 2026-10-23
-- [3D Atmospheric Imprint of Mesoscale Eddies Driven by the Thermal Feedback in the Gulf Stream Region](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JD047228) · 2026-10-22
-- [From Melt-Limited Inception to Dynamically Supported Growth of the Laurentide Ice Sheet](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6177/egusphere-2026-6177.pdf) · 2026-10-22
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
