@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-10-30** · Showing results since **2025**_
+_Last update: **2026-10-31** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -59,11 +59,11 @@ _Last update: **2026-10-30** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Hydrodynamic Flood Modelling and GIS-Based Risk Mapping for Identifying Urbanization-Safe Zones in Hanwella, Sri Lanka](https://www.idrimjournal.com/article/173262.pdf) · 2026-10-29
 - [GeoEnthalpy-Delta v1.0: an enthalpy-based model for coupled subaerial and subaqueous delta evolution with diagnostic moving boundaries](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4366/egusphere-2026-4366.pdf) · 2026-10-26
 - [ASSESSMENT OF POTENTIAL TSUNAMI INUNDATION UNDER HIGH-TIDE CONDITIONS ALONG THE SAURASHTRA COAST, GUJARAT: A DELFT3D-BASED CASE STUDY OF THE 1945 MAKRAN TSUNAMI](https://actainnovations.com/index.php/pub/article/download/2435/1261) · 2026-10-26
 - [CNN–LSTM-Based Spatio-Temporal Forecasting of MNDWI-Derived Coastal States: A Multi-Temporal Landsat Study in Northeastern Brazil](https://link.springer.com/content/pdf/10.1007/s12145-026-02283-8.pdf) · 2026-10-23
 - [Unsustainable River Sand Mining: Morphodynamical Impacts, Monitoring Tools, and an Integrated Framework for Sustainable Management](https://iopscience.iop.org/article/10.1088/2515-7620/aeb8fe/pdf) · 2026-10-23
-- [Morecambe Area Gaming Environment (MAGE): An Applied Case Study for Coastal Futures and Adaptations](https://www.cogitatiopress.com/urbanplanning/article/download/12297/5324) · 2026-10-19
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
