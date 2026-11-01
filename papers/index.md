@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-10-31** · Showing results since **2025**_
+_Last update: **2026-11-01** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-10-31** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Submerged cantilevered flexible pipe discharging flow in post-critical dynamic regime: an experimental-numerical assessment](https://link.springer.com/content/pdf/10.1007/s40430-026-06909-2.pdf) · 2026-10-31
+- [Contrasting Controls on Air–Sea CO 2 Fluxes in the Pearl River Estuary and Adjacent Coastal Waters Under Typhoon Intensification and Track Shifts: A Modeling Study](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JC024178) · 2026-10-30
+- [Rip current detection in nearshore areas through UAV video analysis using optical flow and almost local-isometric embedding techniques on the sphere](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0360672&type=printable) · 2026-10-29
 - [Multi-Fidelity Particle Flow Filters based on Log Homotopy](https://arxiv.org/pdf/2610.35712) · 2026-10-26
 - [A Product-Grassmann Tucker Surrogate for Parametric Field Prediction](https://arxiv.org/pdf/2610.34559) · 2026-10-25
-- [Predicting spatial and temporal shifts in oyster productivity with an oyster reef individual-based model](https://www.sciencedirect.com/science/article/pii/S0304380026004047/pdf) · 2026-10-24
-- [Mantle-to-crust mass transfer in intracontinental post-orogenic settings: Devonian sanukitoids and cogenetic granites in central Argentina](https://www.sciencedirect.com/science/article/pii/S1342937X26002637/pdf) · 2026-10-23
-- [Three-dimensional numerical modeling of seasonal and spatial variations of suspended particulate matter in a tide-dominated semi-enclosed sea](https://www.sciencedirect.com/science/article/pii/S0272771426006554/pdf) · 2026-10-23
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -50,20 +50,20 @@ _Last update: **2026-10-31** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [Spatiotemporal dynamics of hydrodynamics and water quality in Liaodong Bay under seasonal ice cover: A coupled 3D modeling and WQI assessment](https://www.sciencedirect.com/science/article/pii/S1385110126000882/pdf) · 2026-10-13
+- [A Review of Overflow-Induced Source Terms and Plume Dynamics in Trailing Suction Hopper Dredging: Mechanisms, Modeling, and Management](https://www.sciencedirect.com/science/article/pii/S2468013326001907/pdf) · 2026-10-01
 - [Hydrodynamic Identification of Potential Sediment Depositional Zones in the Lower Rabnabad Channel of Payra Port, Bangladesh](https://www.researchsquare.com/article/rs-10793507/latest.pdf) · 2026-09-25
 - [MIKE3 implication on particle transport in the tropical coastal environment](https://doi.org/10.18520/cs/v131/i6/542-553) · 2026-09-25
 - [Modeling of tidal stream energy resources near Rigolet, Nunatsiavut (Labrador, Canada) to assess energy transition options for a diesel power-reliant northern community](https://iopscience.iop.org/article/10.1088/2753-3751/aea90d/pdf) · 2026-09-17
-- [Coral connectivity: How biophysical modelling choices shape connectivity inference](https://eartharxiv.org/repository/object/14999/download/26055/) · 2026-09-15
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Delft3D"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [A scenario-based digital twin framework for assessing urban exposure to sea level rise: a case study in Abu Dhabi, United Arab Emirates](https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2026.1969739/pdf) · 2026-10-30
 - [Hydrodynamic Flood Modelling and GIS-Based Risk Mapping for Identifying Urbanization-Safe Zones in Hanwella, Sri Lanka](https://www.idrimjournal.com/article/173262.pdf) · 2026-10-29
 - [GeoEnthalpy-Delta v1.0: an enthalpy-based model for coupled subaerial and subaqueous delta evolution with diagnostic moving boundaries](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4366/egusphere-2026-4366.pdf) · 2026-10-26
 - [ASSESSMENT OF POTENTIAL TSUNAMI INUNDATION UNDER HIGH-TIDE CONDITIONS ALONG THE SAURASHTRA COAST, GUJARAT: A DELFT3D-BASED CASE STUDY OF THE 1945 MAKRAN TSUNAMI](https://actainnovations.com/index.php/pub/article/download/2435/1261) · 2026-10-26
 - [CNN–LSTM-Based Spatio-Temporal Forecasting of MNDWI-Derived Coastal States: A Multi-Temporal Landsat Study in Northeastern Brazil](https://link.springer.com/content/pdf/10.1007/s12145-026-02283-8.pdf) · 2026-10-23
-- [Unsustainable River Sand Mining: Morphodynamical Impacts, Monitoring Tools, and an Integrated Framework for Sustainable Management](https://iopscience.iop.org/article/10.1088/2515-7620/aeb8fe/pdf) · 2026-10-23
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)

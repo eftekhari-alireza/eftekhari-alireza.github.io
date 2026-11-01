@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,24 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Submerged cantilevered flexible pipe discharging flow in post-critical dynamic regime: an experimental-numerical assessment",
+          "date": "2026-10-31",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s40430-026-06909-2.pdf"
+        },
+        {
+          "title": "Contrasting Controls on Air\u2013Sea CO 2 Fluxes in the Pearl River Estuary and Adjacent Coastal Waters Under Typhoon Intensification and Track Shifts: A Modeling Study",
+          "date": "2026-10-30",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JC024178"
+        },
+        {
+          "title": "Rip current detection in nearshore areas through UAV video analysis using optical flow and almost local-isometric embedding techniques on the sphere",
+          "date": "2026-10-29",
+          "venue": "",
+          "link": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0360672&type=printable"
+        },
+        {
           "title": "Multi-Fidelity Particle Flow Filters based on Log Homotopy",
           "date": "2026-10-26",
           "venue": "",
@@ -53,24 +71,6 @@
           "date": "2026-10-25",
           "venue": "",
           "link": "https://arxiv.org/pdf/2610.34559"
-        },
-        {
-          "title": "Predicting spatial and temporal shifts in oyster productivity with an oyster reef individual-based model",
-          "date": "2026-10-24",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0304380026004047/pdf"
-        },
-        {
-          "title": "Mantle-to-crust mass transfer in intracontinental post-orogenic settings: Devonian sanukitoids and cogenetic granites in central Argentina",
-          "date": "2026-10-23",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S1342937X26002637/pdf"
-        },
-        {
-          "title": "Three-dimensional numerical modeling of seasonal and spatial variations of suspended particulate matter in a tide-dominated semi-enclosed sea",
-          "date": "2026-10-23",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0272771426006554/pdf"
         }
       ]
     },
@@ -157,6 +157,12 @@
           "link": "https://www.sciencedirect.com/science/article/pii/S1385110126000882/pdf"
         },
         {
+          "title": "A Review of Overflow-Induced Source Terms and Plume Dynamics in Trailing Suction Hopper Dredging: Mechanisms, Modeling, and Management",
+          "date": "2026-10-01",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2468013326001907/pdf"
+        },
+        {
           "title": "Hydrodynamic Identification of Potential Sediment Depositional Zones in the Lower Rabnabad Channel of Payra Port, Bangladesh",
           "date": "2026-09-25",
           "venue": "",
@@ -173,12 +179,6 @@
           "date": "2026-09-17",
           "venue": "",
           "link": "https://iopscience.iop.org/article/10.1088/2753-3751/aea90d/pdf"
-        },
-        {
-          "title": "Coral connectivity: How biophysical modelling choices shape connectivity inference",
-          "date": "2026-09-15",
-          "venue": "",
-          "link": "https://eartharxiv.org/repository/object/14999/download/26055/"
         }
       ]
     },
@@ -186,6 +186,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Delft3D\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "A scenario-based digital twin framework for assessing urban exposure to sea level rise: a case study in Abu Dhabi, United Arab Emirates",
+          "date": "2026-10-30",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2026.1969739/pdf"
+        },
         {
           "title": "Hydrodynamic Flood Modelling and GIS-Based Risk Mapping for Identifying Urbanization-Safe Zones in Hanwella, Sri Lanka",
           "date": "2026-10-29",
@@ -209,12 +215,6 @@
           "date": "2026-10-23",
           "venue": "",
           "link": "https://link.springer.com/content/pdf/10.1007/s12145-026-02283-8.pdf"
-        },
-        {
-          "title": "Unsustainable River Sand Mining: Morphodynamical Impacts, Monitoring Tools, and an Integrated Framework for Sustainable Management",
-          "date": "2026-10-23",
-          "venue": "",
-          "link": "https://iopscience.iop.org/article/10.1088/2515-7620/aeb8fe/pdf"
         }
       ]
     },
