@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-11-01** · Showing results since **2025**_
+_Last update: **2026-11-02** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -69,8 +69,8 @@ _Last update: **2026-11-01** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Validating a data-driven methodology for 2D Wave Spectra Correction across Brazil’s complex wave climate](https://www.sciencedirect.com/science/article/pii/S002980182604686X/pdf) · 2026-10-30
 - [Monitoring Offshore Ocean Wave Heights from Land Seismic Networks: Multi-Location ANN Estimations and Insights from Microseism Wavefield Simulations](https://seismica.library.mcgill.ca/article/download/3192/4489) · 2026-10-25
 - [Three-dimensional numerical modeling of seasonal and spatial variations of suspended particulate matter in a tide-dominated semi-enclosed sea](https://www.sciencedirect.com/science/article/pii/S0272771426006554/pdf) · 2026-10-23
 - [Reconstructing Significant Wave Height Fields from Sparse Observations Using Virtual Observation Augmentation](https://eartharxiv.org/repository/object/15702/download/27191/) · 2026-10-23
 - [3D Atmospheric Imprint of Mesoscale Eddies Driven by the Thermal Feedback in the Gulf Stream Region](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JD047228) · 2026-10-22
-- [Geodynamical processes and natural hazards](https://doi.org/10.30730/978-5-6044483-9-7.2026-11) · 2026-10-20
