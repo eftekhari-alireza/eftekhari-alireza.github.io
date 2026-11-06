@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-11-05** · Showing results since **2025**_
+_Last update: **2026-11-06** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -28,11 +28,32 @@ _Last update: **2026-11-05** · Showing results since **2025**_
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
+**Recent items (OpenAlex):**
+- [cSINGV v1.0: development and evaluation of a 1.5 km coupled atmosphere–ocean–wave modelling system for the Western Maritime Continent](https://gmd.copernicus.org/articles/19/10479/2026/gmd-19-10479-2026.pdf) · 2026-11-05
+- [Towards high-fidelity simulations of coastal submesoscale baroclinic instabilities with MPAS-O (vE3SM3.0.0) – Part 1: Idealized experiments](https://gmd.copernicus.org/articles/19/10321/2026/gmd-19-10321-2026.pdf) · 2026-10-30
+- [Long-term variations of cyclone-influenced exchange flows in the coastal Arctic in 2000-2025](https://www.nature.com/articles/s41612-026-01573-8_reference.pdf) · 2026-10-19
+- [Physics-informed LSTMNet for short-term marine buoy trajectory prediction under dynamic ocean environmental conditions](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1953622/pdf) · 2026-10-19
+- [Spatiotemporal dynamics of hydrodynamics and water quality in Liaodong Bay under seasonal ice cover: A coupled 3D modeling and WQI assessment](https://www.sciencedirect.com/science/article/pii/S1385110126000882/pdf) · 2026-10-13
+
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
+**Recent items (OpenAlex):**
+- [Impacts of Posidonia oceanica on Coastal Morphodynamics in Navarino Bay, Greece](https://doi.org/10.3390/geosciences16110445) · 2026-10-28
+- [Coastal erosion processes along a high-energy beach in southwest India: insights from video monitoring and numerical modelling](https://doi.org/10.1007/s11069-026-08453-7) · 2026-10-23
+- [Sediment transport disturbances and seabed erosion-deposition evolution induced by the Zhoushan–Daishan Sea-Crossing Bridge](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1941094/pdf) · 2026-10-22
+- [Hydrodynamic Modeling of Maximum Tidal Levels at the Tondano River Estuary](https://www.internationaljournalssrg.org/../IJCE/2026/Volume13-Issue9/IJCE-V13I9P112.pdf) · 2026-10-10
+- [Artificial Intelligence for Urban Flood Early Warning: A Review of Recent Advances](https://drpress.org/ojs/index.php/fcis/article/download/36067/35223) · 2026-10-09
+
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
+
+**Recent items (OpenAlex):**
+- [Spatiotemporal dynamics of hydrodynamics and water quality in Liaodong Bay under seasonal ice cover: A coupled 3D modeling and WQI assessment](https://www.sciencedirect.com/science/article/pii/S1385110126000882/pdf) · 2026-10-13
+- [A Review of Overflow-Induced Source Terms and Plume Dynamics in Trailing Suction Hopper Dredging: Mechanisms, Modeling, and Management](https://www.sciencedirect.com/science/article/pii/S2468013326001907/pdf) · 2026-10-01
+- [Hydrodynamic Identification of Potential Sediment Depositional Zones in the Lower Rabnabad Channel of Payra Port, Bangladesh](https://www.researchsquare.com/article/rs-10793507/latest.pdf) · 2026-09-25
+- [MIKE3 implication on particle transport in the tropical coastal environment](https://doi.org/10.18520/cs/v131/i6/542-553) · 2026-09-25
+- [Modeling of tidal stream energy resources near Rigolet, Nunatsiavut (Labrador, Canada) to assess energy transition options for a diesel power-reliant northern community](https://iopscience.iop.org/article/10.1088/2753-3751/aea90d/pdf) · 2026-09-17
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Delft3D"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -46,3 +67,10 @@ _Last update: **2026-11-05** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
+
+**Recent items (OpenAlex):**
+- [cSINGV v1.0: development and evaluation of a 1.5 km coupled atmosphere–ocean–wave modelling system for the Western Maritime Continent](https://gmd.copernicus.org/articles/19/10479/2026/gmd-19-10479-2026.pdf) · 2026-11-05
+- [Validating a data-driven methodology for 2D Wave Spectra Correction across Brazil’s complex wave climate](https://www.sciencedirect.com/science/article/pii/S002980182604686X/pdf) · 2026-10-30
+- [Monitoring Offshore Ocean Wave Heights from Land Seismic Networks: Multi-Location ANN Estimations and Insights from Microseism Wavefield Simulations](https://seismica.library.mcgill.ca/article/download/3192/4489) · 2026-10-25
+- [Three-dimensional numerical modeling of seasonal and spatial variations of suspended particulate matter in a tide-dominated semi-enclosed sea](https://www.sciencedirect.com/science/article/pii/S0272771426006554/pdf) · 2026-10-23
+- [Reconstructing Significant Wave Height Fields from Sparse Observations Using Virtual Observation Augmentation](https://eartharxiv.org/repository/object/15702/download/27191/) · 2026-10-23
