@@ -1,11 +1,17 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Estimating Vertical Ocean Velocity from Horizontal Currents: Linear and Depth-Conditional Neural-Network Approaches on a High-Resolution Regional Ocean Model",
+          "date": "2026-11-05",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2611.07969"
+        },
         {
           "title": "Role of submesoscale processes in saltwater transport in the Baltic Sea: results from a high-resolution modelling study",
           "date": "2026-11-01",
@@ -19,22 +25,16 @@
           "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JD047228"
         },
         {
+          "title": "The hydrodynamics of a low-latitude submarine canyon: Implications for circulation pattern and dispersion of suspended particles",
+          "date": "2026-10-13",
+          "venue": "",
+          "link": "https://doi.org/10.1016/j.jmarsys.2026.104320"
+        },
+        {
           "title": "GGOSSS 2025 \u2014 Gulf of Guinea Ocean Sciences Summer School, Dschang, Cameroon",
           "date": "2026-10-11",
           "venue": "",
           "link": "https://doi.org/10.5281/zenodo.23303066"
-        },
-        {
-          "title": "GGOSSS 2026 \u2013 Gulf of Guinea Ocean Sciences Summer School, Cotonou, Benin",
-          "date": "2026-10-11",
-          "venue": "",
-          "link": "https://doi.org/10.5281/zenodo.23292163"
-        },
-        {
-          "title": "A Machine Learning Framework Toward the Parameterization of Mesoscale Ocean-Atmosphere Interactions",
-          "date": "2026-10-10",
-          "venue": "",
-          "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15010198/v1"
         }
       ]
     },
@@ -42,6 +42,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Projected Amazon forest loss alters tropical Atlantic circulation and surface heat exchange through reduced freshwater input",
+          "date": "2026-11-09",
+          "venue": "",
+          "link": "https://www.nature.com/articles/s41598-026-79941-w_reference.pdf"
+        },
         {
           "title": "Balancing accuracy and speed: A multi\u2010fidelity ensemble Kalman filter with a machine learning surrogate model",
           "date": "2026-11-06",
@@ -61,16 +67,10 @@
           "link": "http://www.hrpub.org/download/20261030/CEA16-14845734.pdf"
         },
         {
-          "title": "Closed-Loop Adaptive Sampling on a Generative Ocean Model",
-          "date": "2026-11-04",
+          "title": "Estimating Vertical Ocean Velocity from Horizontal Currents: Linear and Depth-Conditional Neural-Network Approaches on a High-Resolution Regional Ocean Model",
+          "date": "2026-11-05",
           "venue": "",
-          "link": "https://arxiv.org/pdf/2611.05776"
-        },
-        {
-          "title": "Specialized SWOT SSH Data Assimilation Improves the Representation of Multiscale Variability in the Ocean Model",
-          "date": "2026-11-03",
-          "venue": "",
-          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL124606"
+          "link": "https://arxiv.org/pdf/2611.07969"
         }
       ]
     },
@@ -97,16 +97,16 @@
           "link": "https://www.sciencedirect.com/science/article/pii/S1687428526000968/pdf"
         },
         {
-          "title": "Towards high-fidelity simulations of coastal submesoscale baroclinic instabilities with MPAS-O (vE3SM3.0.0) \u2013 Part 1: Idealized experiments",
-          "date": "2026-10-30",
+          "title": "Multi-fidelity data fusion for ocean sound speed",
+          "date": "2026-11-01",
           "venue": "",
-          "link": "https://gmd.copernicus.org/articles/19/10321/2026/gmd-19-10321-2026.pdf"
+          "link": "https://pubs.aip.org/asa/jasa/article-pdf/160/5/3941/21195527/3941_1_10.0047244.pdf"
         },
         {
-          "title": "Long-term variations of cyclone-influenced exchange flows in the coastal Arctic in 2000-2025",
-          "date": "2026-10-19",
+          "title": "Synthesizing Evidence on Coupled Flood Simulation Models for Enhancing Urban Drainage System Resilience",
+          "date": "2026-11-01",
           "venue": "",
-          "link": "https://www.nature.com/articles/s41612-026-01573-8_reference.pdf"
+          "link": "https://link.springer.com/content/pdf/10.1007/s11269-026-04922-7.pdf"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Satellite data for the integrated modelling of Watershed-Coast System morphodynamics in a changing climate: a critical review and a structured framework",
+          "date": "2026-11-09",
+          "venue": "",
+          "link": "https://eartharxiv.org/repository/object/16017/download/27719/"
+        },
+        {
           "title": "Estimating compound coastal flooding in response to combined fluvial and marine effects in the Seine Bay",
           "date": "2026-11-04",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-10-30",
           "venue": "",
           "link": "https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2026.1969739/pdf"
-        },
-        {
-          "title": "Hydrodynamic Flood Modelling and GIS-Based Risk Mapping for Identifying Urbanization-Safe Zones in Hanwella, Sri Lanka",
-          "date": "2026-10-29",
-          "venue": "",
-          "link": "https://www.idrimjournal.com/article/173262.pdf"
         }
       ]
     },
