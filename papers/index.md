@@ -3,27 +3,27 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-11-11** · Showing results since **2025**_
+_Last update: **2026-11-12** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Wave-current interactions in the northwest Atlantic Ocean during Hurricane Arthur](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1817735/pdf) · 2026-11-10
 - [Estimating Vertical Ocean Velocity from Horizontal Currents: Linear and Depth-Conditional Neural-Network Approaches on a High-Resolution Regional Ocean Model](https://arxiv.org/pdf/2611.07969) · 2026-11-05
 - [Role of submesoscale processes in saltwater transport in the Baltic Sea: results from a high-resolution modelling study](https://www.sciencedirect.com/science/article/pii/S0272771426006906/pdf) · 2026-11-01
 - [3D Atmospheric Imprint of Mesoscale Eddies Driven by the Thermal Feedback in the Gulf Stream Region](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JD047228) · 2026-10-22
 - [The hydrodynamics of a low-latitude submarine canyon: Implications for circulation pattern and dispersion of suspended particles](https://doi.org/10.1016/j.jmarsys.2026.104320) · 2026-10-13
-- [GGOSSS 2025 — Gulf of Guinea Ocean Sciences Summer School, Dschang, Cameroon](https://doi.org/10.5281/zenodo.23303066) · 2026-10-11
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Wave-current interactions in the northwest Atlantic Ocean during Hurricane Arthur](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1817735/pdf) · 2026-11-10
 - [Projected Amazon forest loss alters tropical Atlantic circulation and surface heat exchange through reduced freshwater input](https://www.nature.com/articles/s41598-026-79941-w_reference.pdf) · 2026-11-09
 - [Balancing accuracy and speed: A multi‐fidelity ensemble Kalman filter with a machine learning surrogate model](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/qj.70339) · 2026-11-06
 - [Temporal modulation of nonlinear Lagrangian dynamics and finite-time stretching in incompressible flows](https://www.researchsquare.com/article/rs-11387023/latest.pdf) · 2026-11-06
 - [Numerical Analysis of the Cofferdam Partial Collapse that Occurred during its Construction](http://www.hrpub.org/download/20261030/CEA16-14845734.pdf) · 2026-11-05
-- [Estimating Vertical Ocean Velocity from Horizontal Currents: Linear and Depth-Conditional Neural-Network Approaches on a High-Resolution Regional Ocean Model](https://arxiv.org/pdf/2611.07969) · 2026-11-05
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -39,11 +39,11 @@ _Last update: **2026-11-11** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Transfer learning-enhanced physics-informed neural networks for efficient simulation of river flood in complex large-scale river systems](https://www.researchsquare.com/article/rs-11382325/latest.pdf) · 2026-11-10
 - [Southern South China Sea is a Climate Resilient Hub for Offshore Finfish Production](https://www.sciencedirect.com/science/article/pii/S0144860926001615/pdf) · 2026-11-01
 - [Impacts of Posidonia oceanica on Coastal Morphodynamics in Navarino Bay, Greece](https://doi.org/10.3390/geosciences16110445) · 2026-10-28
 - [Coastal erosion processes along a high-energy beach in southwest India: insights from video monitoring and numerical modelling](https://doi.org/10.1007/s11069-026-08453-7) · 2026-10-23
 - [Sediment transport disturbances and seabed erosion-deposition evolution induced by the Zhoushan–Daishan Sea-Crossing Bridge](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1941094/pdf) · 2026-10-22
-- [Hydrodynamic Modeling of Maximum Tidal Levels at the Tondano River Estuary](https://www.internationaljournalssrg.org/../IJCE/2026/Volume13-Issue9/IJCE-V13I9P112.pdf) · 2026-10-10
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -63,14 +63,14 @@ _Last update: **2026-11-11** · Showing results since **2025**_
 - [Estimating compound coastal flooding in response to combined fluvial and marine effects in the Seine Bay](https://www.sciencedirect.com/science/article/pii/S2590123026050000/pdf) · 2026-11-04
 - [Morphodynamic modelling of sedimentation rates in a large riverine reservoir](https://essopenarchive.org/doi/pdf/10.22541/essoar.15011608/v1) · 2026-11-03
 - [Inferring tidal current characteristics from harmonic sea-level analysis at Safaga and Qusseir Harbours, Red Sea](https://www.sciencedirect.com/science/article/pii/S1687428526000968/pdf) · 2026-11-01
-- [A scenario-based digital twin framework for assessing urban exposure to sea level rise: a case study in Abu Dhabi, United Arab Emirates](https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2026.1969739/pdf) · 2026-10-30
+- [Modeling Mud as Flocculated and Suspended Bed‐Material Load in Rivers and Deltas](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JF008920) · 2026-11-01
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Wave-current interactions in the northwest Atlantic Ocean during Hurricane Arthur](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1817735/pdf) · 2026-11-10
 - [cSINGV v1.0: development and evaluation of a 1.5 km coupled atmosphere–ocean–wave modelling system for the Western Maritime Continent](https://gmd.copernicus.org/articles/19/10479/2026/gmd-19-10479-2026.pdf) · 2026-11-05
 - [The Overlooked Role of Alongshore Beach Non‐Uniformity in Short‐Term Shoreline Variability](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL126111) · 2026-11-05
 - [Exploring Air–Sea Interactions in a Regional Weakly Coupled Data Assimilation System: An Observing System Experiment for the 2023 Indian Ocean Monsoon and Cyclone Biparjoy](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026MS005804) · 2026-11-01
 - [Validating a data-driven methodology for 2D Wave Spectra Correction across Brazil’s complex wave climate](https://www.sciencedirect.com/science/article/pii/S002980182604686X/pdf) · 2026-10-30
-- [Monitoring Offshore Ocean Wave Heights from Land Seismic Networks: Multi-Location ANN Estimations and Insights from Microseism Wavefield Simulations](https://seismica.library.mcgill.ca/article/download/3192/4489) · 2026-10-25

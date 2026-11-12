@@ -1,11 +1,17 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Wave-current interactions in the northwest Atlantic Ocean during Hurricane Arthur",
+          "date": "2026-11-10",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1817735/pdf"
+        },
         {
           "title": "Estimating Vertical Ocean Velocity from Horizontal Currents: Linear and Depth-Conditional Neural-Network Approaches on a High-Resolution Regional Ocean Model",
           "date": "2026-11-05",
@@ -29,12 +35,6 @@
           "date": "2026-10-13",
           "venue": "",
           "link": "https://doi.org/10.1016/j.jmarsys.2026.104320"
-        },
-        {
-          "title": "GGOSSS 2025 \u2014 Gulf of Guinea Ocean Sciences Summer School, Dschang, Cameroon",
-          "date": "2026-10-11",
-          "venue": "",
-          "link": "https://doi.org/10.5281/zenodo.23303066"
         }
       ]
     },
@@ -42,6 +42,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Wave-current interactions in the northwest Atlantic Ocean during Hurricane Arthur",
+          "date": "2026-11-10",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1817735/pdf"
+        },
         {
           "title": "Projected Amazon forest loss alters tropical Atlantic circulation and surface heat exchange through reduced freshwater input",
           "date": "2026-11-09",
@@ -65,12 +71,6 @@
           "date": "2026-11-05",
           "venue": "",
           "link": "http://www.hrpub.org/download/20261030/CEA16-14845734.pdf"
-        },
-        {
-          "title": "Estimating Vertical Ocean Velocity from Horizontal Currents: Linear and Depth-Conditional Neural-Network Approaches on a High-Resolution Regional Ocean Model",
-          "date": "2026-11-05",
-          "venue": "",
-          "link": "https://arxiv.org/pdf/2611.07969"
         }
       ]
     },
@@ -115,6 +115,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Transfer learning-enhanced physics-informed neural networks for efficient simulation of river flood in complex large-scale river systems",
+          "date": "2026-11-10",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-11382325/latest.pdf"
+        },
+        {
           "title": "Southern South China Sea is a Climate Resilient Hub for Offshore Finfish Production",
           "date": "2026-11-01",
           "venue": "",
@@ -137,12 +143,6 @@
           "date": "2026-10-22",
           "venue": "",
           "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1941094/pdf"
-        },
-        {
-          "title": "Hydrodynamic Modeling of Maximum Tidal Levels at the Tondano River Estuary",
-          "date": "2026-10-10",
-          "venue": "",
-          "link": "https://www.internationaljournalssrg.org/../IJCE/2026/Volume13-Issue9/IJCE-V13I9P112.pdf"
         }
       ]
     },
@@ -211,10 +211,10 @@
           "link": "https://www.sciencedirect.com/science/article/pii/S1687428526000968/pdf"
         },
         {
-          "title": "A scenario-based digital twin framework for assessing urban exposure to sea level rise: a case study in Abu Dhabi, United Arab Emirates",
-          "date": "2026-10-30",
+          "title": "Modeling Mud as Flocculated and Suspended Bed\u2010Material Load in Rivers and Deltas",
+          "date": "2026-11-01",
           "venue": "",
-          "link": "https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2026.1969739/pdf"
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JF008920"
         }
       ]
     },
@@ -222,6 +222,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Wave-current interactions in the northwest Atlantic Ocean during Hurricane Arthur",
+          "date": "2026-11-10",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1817735/pdf"
+        },
         {
           "title": "cSINGV v1.0: development and evaluation of a 1.5 km coupled atmosphere\u2013ocean\u2013wave modelling system for the Western Maritime Continent",
           "date": "2026-11-05",
@@ -245,12 +251,6 @@
           "date": "2026-10-30",
           "venue": "",
           "link": "https://www.sciencedirect.com/science/article/pii/S002980182604686X/pdf"
-        },
-        {
-          "title": "Monitoring Offshore Ocean Wave Heights from Land Seismic Networks: Multi-Location ANN Estimations and Insights from Microseism Wavefield Simulations",
-          "date": "2026-10-25",
-          "venue": "",
-          "link": "https://seismica.library.mcgill.ca/article/download/3192/4489"
         }
       ]
     }
