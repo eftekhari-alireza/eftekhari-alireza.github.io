@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "year_from": 2025,
   "items": [
     {
@@ -43,6 +43,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Multi-year predictability of hydrography and circulation on the U.S. Northeast Shelf: a dynamical downscaling perspective",
+          "date": "2026-11-13",
+          "venue": "",
+          "link": "https://os.copernicus.org/articles/22/3693/2026/os-22-3693-2026.pdf"
+        },
+        {
           "title": "Differentiable Programming for Differential Equations: A Review",
           "date": "2026-11-12",
           "venue": "",
@@ -55,22 +61,16 @@
           "link": "https://bg.copernicus.org/articles/23/8233/2026/bg-23-8233-2026.pdf"
         },
         {
+          "title": "Assessing anthropogenic thermodynamic influences on marine heatwaves near the Korean Peninsula using a coupled regional climate model",
+          "date": "2026-11-12",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1932600/pdf"
+        },
+        {
           "title": "Wave-induced atmosphere\u2013ocean processes and their effects on Antarctic sea ice: A case study with an atmosphere\u2013ocean\u2013wave\u2013sea ice coupled model",
           "date": "2026-11-11",
           "venue": "",
           "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5582/egusphere-2026-5582.pdf"
-        },
-        {
-          "title": "Wave-current interactions in the northwest Atlantic Ocean during Hurricane Arthur",
-          "date": "2026-11-10",
-          "venue": "",
-          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1817735/pdf"
-        },
-        {
-          "title": "Projected Amazon forest loss alters tropical Atlantic circulation and surface heat exchange through reduced freshwater input",
-          "date": "2026-11-09",
-          "venue": "",
-          "link": "https://www.nature.com/articles/s41598-026-79941-w_reference.pdf"
         }
       ]
     },

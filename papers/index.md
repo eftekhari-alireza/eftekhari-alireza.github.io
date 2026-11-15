@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-11-14** · Showing results since **2025**_
+_Last update: **2026-11-15** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -19,11 +19,11 @@ _Last update: **2026-11-14** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Multi-year predictability of hydrography and circulation on the U.S. Northeast Shelf: a dynamical downscaling perspective](https://os.copernicus.org/articles/22/3693/2026/os-22-3693-2026.pdf) · 2026-11-13
 - [Differentiable Programming for Differential Equations: A Review](https://arxiv.org/pdf/2406.09699) · 2026-11-12
 - [Future projections of compound events around the Main Hawaiian Islands](https://bg.copernicus.org/articles/23/8233/2026/bg-23-8233-2026.pdf) · 2026-11-12
+- [Assessing anthropogenic thermodynamic influences on marine heatwaves near the Korean Peninsula using a coupled regional climate model](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1932600/pdf) · 2026-11-12
 - [Wave-induced atmosphere–ocean processes and their effects on Antarctic sea ice: A case study with an atmosphere–ocean–wave–sea ice coupled model](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5582/egusphere-2026-5582.pdf) · 2026-11-11
-- [Wave-current interactions in the northwest Atlantic Ocean during Hurricane Arthur](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1817735/pdf) · 2026-11-10
-- [Projected Amazon forest loss alters tropical Atlantic circulation and surface heat exchange through reduced freshwater input](https://www.nature.com/articles/s41598-026-79941-w_reference.pdf) · 2026-11-09
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
