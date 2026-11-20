@@ -1,16 +1,78 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "year_from": 2025,
   "items": [
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) CROCO",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": []
+      "openalex": [
+        {
+          "title": "An entropy-stable splitting strategy for a hyperbolic dispersive shallow-water model on unstructured meshes",
+          "date": "2026-11-13",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2611.18166"
+        },
+        {
+          "title": "Wave-current interactions in the northwest Atlantic Ocean during Hurricane Arthur",
+          "date": "2026-11-10",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1817735/pdf"
+        },
+        {
+          "title": "Role of submesoscale processes in saltwater transport in the Baltic Sea: results from a high-resolution modelling study",
+          "date": "2026-11-07",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0272771426006906/pdf"
+        },
+        {
+          "title": "Estimating Vertical Ocean Velocity from Horizontal Currents: Linear and Depth-Conditional Neural-Network Approaches on a High-Resolution Regional Ocean Model",
+          "date": "2026-11-05",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2611.07969"
+        },
+        {
+          "title": "3D Atmospheric Imprint of Mesoscale Eddies Driven by the Thermal Feedback in the Gulf Stream Region",
+          "date": "2026-10-22",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026JD047228"
+        }
+      ]
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) ROMS",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": []
+      "openalex": [
+        {
+          "title": "An Introduction to Meshless Methods with Applications in Engineering",
+          "date": "2026-11-17",
+          "venue": "",
+          "link": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.1201/9781003783800&type=googlepdf"
+        },
+        {
+          "title": "Multi-fidelity nonlinear tsunami inversion: resolving fault slip underestimation for the 1946 Showa\u2013Nankai earthquake",
+          "date": "2026-11-14",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1186/s40623-026-02537-1.pdf"
+        },
+        {
+          "title": "Multi-year predictability of hydrography and circulation on the U.S. Northeast Shelf: a dynamical downscaling perspective",
+          "date": "2026-11-13",
+          "venue": "",
+          "link": "https://os.copernicus.org/articles/22/3693/2026/os-22-3693-2026.pdf"
+        },
+        {
+          "title": "Coastal Submesoscale Frontal Dynamics Link Nearshore Phytoplankton Blooms to the Continental Shelf",
+          "date": "2026-11-13",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL126563"
+        },
+        {
+          "title": "Differentiable Programming for Differential Equations: A Review",
+          "date": "2026-11-12",
+          "venue": "",
+          "link": "https://arxiv.org/pdf/2406.09699"
+        }
+      ]
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
@@ -29,6 +91,12 @@
           "link": "https://gmd.copernicus.org/articles/19/10479/2026/gmd-19-10479-2026.pdf"
         },
         {
+          "title": "Tidal asymmetry response to natural shoreline restoration on the western Yellow Sea coast",
+          "date": "2026-11-01",
+          "venue": "",
+          "link": "https://doi.org/10.2139/ssrn.7418213"
+        },
+        {
           "title": "Inferring tidal current characteristics from harmonic sea-level analysis at Safaga and Qusseir Harbours, Red Sea",
           "date": "2026-11-01",
           "venue": "",
@@ -39,19 +107,44 @@
           "date": "2026-11-01",
           "venue": "",
           "link": "https://pubs.aip.org/asa/jasa/article-pdf/160/5/3941/21195527/3941_1_10.0047244.pdf"
-        },
-        {
-          "title": "Synthesizing Evidence on Coupled Flood Simulation Models for Enhancing Urban Drainage System Resilience",
-          "date": "2026-11-01",
-          "venue": "",
-          "link": "https://link.springer.com/content/pdf/10.1007/s11269-026-04922-7.pdf"
         }
       ]
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": []
+      "openalex": [
+        {
+          "title": "Transfer learning-enhanced physics-informed neural networks for efficient simulation of river flood in complex large-scale river systems",
+          "date": "2026-11-10",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-11382325/latest.pdf"
+        },
+        {
+          "title": "Southern South China Sea is a climate resilient hub for offshore finfish production",
+          "date": "2026-11-05",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0144860926001615/pdf"
+        },
+        {
+          "title": "Hydrodynamic and Sediment Transport Modeling for Evaluating the Effectiveness of Coastal Protection Structures in Pulau Baai Port",
+          "date": "2026-11-01",
+          "venue": "",
+          "link": "https://iopscience.iop.org/article/10.1088/1755-1315/1681/1/012085/pdf"
+        },
+        {
+          "title": "Impacts of Posidonia oceanica on Coastal Morphodynamics in Navarino Bay, Greece",
+          "date": "2026-10-28",
+          "venue": "",
+          "link": "https://doi.org/10.3390/geosciences16110445"
+        },
+        {
+          "title": "Coastal erosion processes along a high-energy beach in southwest India: insights from video monitoring and numerical modelling",
+          "date": "2026-10-23",
+          "venue": "",
+          "link": "https://doi.org/10.1007/s11069-026-08453-7"
+        }
+      ]
     },
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 3\"",
@@ -70,6 +163,12 @@
           "link": "https://www.sciencedirect.com/science/article/pii/S2468013326001907/pdf"
         },
         {
+          "title": "Modeling of tidal stream energy resources near Rigolet, Nunatsiavut (Labrador, Canada) to assess energy transition options for a diesel power-reliant northern community",
+          "date": "2026-09-30",
+          "venue": "",
+          "link": "https://iopscience.iop.org/article/10.1088/2753-3751/aea90d/pdf"
+        },
+        {
           "title": "Hydrodynamic Identification of Potential Sediment Depositional Zones in the Lower Rabnabad Channel of Payra Port, Bangladesh",
           "date": "2026-09-25",
           "venue": "",
@@ -80,12 +179,6 @@
           "date": "2026-09-25",
           "venue": "",
           "link": "https://doi.org/10.18520/cs/v131/i6/542-553"
-        },
-        {
-          "title": "Modeling of tidal stream energy resources near Rigolet, Nunatsiavut (Labrador, Canada) to assess energy transition options for a diesel power-reliant northern community",
-          "date": "2026-09-17",
-          "venue": "",
-          "link": "https://iopscience.iop.org/article/10.1088/2753-3751/aea90d/pdf"
         }
       ]
     },
@@ -128,7 +221,38 @@
     {
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"Wavewatch\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
-      "openalex": []
+      "openalex": [
+        {
+          "title": "Predicting oceanic significant wave height using physics-augmented machine learning",
+          "date": "2026-11-17",
+          "venue": "",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0029801826052601/pdf"
+        },
+        {
+          "title": "Wave-induced atmosphere\u2013ocean processes and their effects on Antarctic sea ice: A case study with an atmosphere\u2013ocean\u2013wave\u2013sea ice coupled model",
+          "date": "2026-11-11",
+          "venue": "",
+          "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5582/egusphere-2026-5582.pdf"
+        },
+        {
+          "title": "Wave-current interactions in the northwest Atlantic Ocean during Hurricane Arthur",
+          "date": "2026-11-10",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1817735/pdf"
+        },
+        {
+          "title": "cSINGV v1.0: development and evaluation of a 1.5 km coupled atmosphere\u2013ocean\u2013wave modelling system for the Western Maritime Continent",
+          "date": "2026-11-05",
+          "venue": "",
+          "link": "https://gmd.copernicus.org/articles/19/10479/2026/gmd-19-10479-2026.pdf"
+        },
+        {
+          "title": "The Overlooked Role of Alongshore Beach Non\u2010Uniformity in Short\u2010Term Shoreline Variability",
+          "date": "2026-11-05",
+          "venue": "",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL126111"
+        }
+      ]
     }
   ]
 }
