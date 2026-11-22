@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-11-21** · Showing results since **2025**_
+_Last update: **2026-11-22** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -17,6 +17,13 @@ _Last update: **2026-11-21** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) ROMS
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+ROMS&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
+
+**Recent items (OpenAlex):**
+- [Numerical Analysis of the Cofferdam Partial Collapse that Occurred during its Construction](http://www.hrpub.org/download/20261030/CEA16-14845734.pdf) · 2026-12-01
+- [Multi-scale dynamic wake modeling and prediction of floating offshore wind turbine wakes via physics-informed neural networks and Fourier neural operators](https://arxiv.org/pdf/2604.23937) · 2026-11-19
+- [Tectonic coupling indicated by bi-modal stress regimes revealed from moment tensors of ML ≥ 4 intermediate-depth Vrancea earthquakes (2022–2025)](https://www.nature.com/articles/s41598-026-72164-z_reference.pdf) · 2026-11-19
+- [A Regional Subseasonal-to-Seasonal (S2S) Ocean-Atmosphere Forecast System for Peru and Ecuador](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3371/egusphere-2026-3371.pdf) · 2026-11-18
+- [An Introduction to Meshless Methods with Applications in Engineering](https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.1201/9781003783800&type=googlepdf) · 2026-11-17
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
