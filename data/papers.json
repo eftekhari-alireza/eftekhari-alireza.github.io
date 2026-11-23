@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "year_from": 2025,
   "items": [
     {
@@ -49,6 +49,12 @@
           "link": "http://www.hrpub.org/download/20261030/CEA16-14845734.pdf"
         },
         {
+          "title": "Polhavet / Arctic Ocean 2050 Implementation Plan 2026-2028",
+          "date": "2026-11-20",
+          "venue": "",
+          "link": "https://septentrio.uit.no/index.php/polhav/article/download/8959/9418"
+        },
+        {
           "title": "Multi-scale dynamic wake modeling and prediction of floating offshore wind turbine wakes via physics-informed neural networks and Fourier neural operators",
           "date": "2026-11-19",
           "venue": "",
@@ -65,12 +71,6 @@
           "date": "2026-11-18",
           "venue": "",
           "link": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3371/egusphere-2026-3371.pdf"
-        },
-        {
-          "title": "An Introduction to Meshless Methods with Applications in Engineering",
-          "date": "2026-11-17",
-          "venue": "",
-          "link": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.1201/9781003783800&type=googlepdf"
         }
       ]
     },
@@ -78,6 +78,18 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) FVCOM",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Marine ecological responses to thermal discharge from nuclear and coal-fired power plants: a review focusing on seawater quality, plankton, and microorganisms",
+          "date": "2026-11-20",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.2006926/pdf"
+        },
+        {
+          "title": "Estuarine saltwater intrusion research needs to move beyond hazard assessment towards adaptation-ready evidence",
+          "date": "2026-11-20",
+          "venue": "",
+          "link": "https://www.researchsquare.com/article/rs-11628039/latest.pdf"
+        },
         {
           "title": "Hydrodynamic controls on harmful algal bloom connectivity in an estuarine system: insights for monitoring",
           "date": "2026-11-07",
@@ -95,18 +107,6 @@
           "date": "2026-11-01",
           "venue": "",
           "link": "https://doi.org/10.2139/ssrn.7418213"
-        },
-        {
-          "title": "Inferring tidal current characteristics from harmonic sea-level analysis at Safaga and Qusseir Harbours, Red Sea",
-          "date": "2026-11-01",
-          "venue": "",
-          "link": "https://www.sciencedirect.com/science/article/pii/S1687428526000968/pdf"
-        },
-        {
-          "title": "Multi-fidelity data fusion for ocean sound speed",
-          "date": "2026-11-01",
-          "venue": "",
-          "link": "https://pubs.aip.org/asa/jasa/article-pdf/160/5/3941/21195527/3941_1_10.0047244.pdf"
         }
       ]
     },
@@ -114,6 +114,12 @@
       "query": "(\"numerical modeling\" OR \"numerical modelling\") (ocean OR coastal) \"MIKE 21\"",
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
+        {
+          "title": "Assessment of Tidal Impact on Storm Surges in the Northern Coastal Area of Vietnam",
+          "date": "2026-11-22",
+          "venue": "",
+          "link": "https://doi.org/10.1007/978-981-92-6722-4_200"
+        },
         {
           "title": "Transfer learning-enhanced physics-informed neural networks for efficient simulation of river flood in complex large-scale river systems",
           "date": "2026-11-10",
@@ -137,12 +143,6 @@
           "date": "2026-10-28",
           "venue": "",
           "link": "https://doi.org/10.3390/geosciences16110445"
-        },
-        {
-          "title": "Coastal erosion processes along a high-energy beach in southwest India: insights from video monitoring and numerical modelling",
-          "date": "2026-10-23",
-          "venue": "",
-          "link": "https://doi.org/10.1007/s11069-026-08453-7"
         }
       ]
     },
@@ -187,6 +187,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Delft3D%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Marine ecological responses to thermal discharge from nuclear and coal-fired power plants: a review focusing on seawater quality, plankton, and microorganisms",
+          "date": "2026-11-20",
+          "venue": "",
+          "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.2006926/pdf"
+        },
+        {
           "title": "Brief communication: Tidal timing and minutes to act during the 15 August 2026 Flores tsunami",
           "date": "2026-11-12",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-11-03",
           "venue": "",
           "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15011608/v1"
-        },
-        {
-          "title": "Unsustainable river sand mining: morphodynamical impacts, monitoring tools, and an integrated framework for sustainable management",
-          "date": "2026-11-01",
-          "venue": "",
-          "link": "https://iopscience.iop.org/article/10.1088/2515-7620/aeb8fe/pdf"
         }
       ]
     },
