@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-11-23** · Showing results since **2025**_
+_Last update: **2026-11-24** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -69,8 +69,8 @@ _Last update: **2026-11-23** · Showing results since **2025**_
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Performance assessment of a hybrid floating offshore renewable energy platform with oscillating water columns](https://link.springer.com/content/pdf/10.1007/s00773-026-01155-6.pdf) · 2026-11-22
 - [The impacts of changing wave climate and storm intensity on predicted barrier island evolution in the North Atlantic Basin](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E057C5E7E3AE95505FF47FC1EC5B6C1F/S2754720526100560a.pdf/div-class-title-the-impacts-of-changing-wave-climate-and-storm-intensity-on-predicted-barrier-island-evolution-in-the-north-atlantic-basin-div.pdf) · 2026-11-19
 - [Predicting oceanic significant wave height using physics-augmented machine learning](https://www.sciencedirect.com/science/article/pii/S0029801826052601/pdf) · 2026-11-17
 - [Wave-induced atmosphere–ocean processes and their effects on Antarctic sea ice: A case study with an atmosphere–ocean–wave–sea ice coupled model](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5582/egusphere-2026-5582.pdf) · 2026-11-11
 - [Wave-current interactions in the northwest Atlantic Ocean during Hurricane Arthur](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1817735/pdf) · 2026-11-10
-- [cSINGV v1.0: development and evaluation of a 1.5 km coupled atmosphere–ocean–wave modelling system for the Western Maritime Continent](https://gmd.copernicus.org/articles/19/10479/2026/gmd-19-10479-2026.pdf) · 2026-11-05

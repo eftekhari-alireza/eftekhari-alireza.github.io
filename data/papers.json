@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "year_from": 2025,
   "items": [
     {
@@ -223,6 +223,12 @@
       "scholar_url": "https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1",
       "openalex": [
         {
+          "title": "Performance assessment of a hybrid floating offshore renewable energy platform with oscillating water columns",
+          "date": "2026-11-22",
+          "venue": "",
+          "link": "https://link.springer.com/content/pdf/10.1007/s00773-026-01155-6.pdf"
+        },
+        {
           "title": "The impacts of changing wave climate and storm intensity on predicted barrier island evolution in the North Atlantic Basin",
           "date": "2026-11-19",
           "venue": "",
@@ -245,12 +251,6 @@
           "date": "2026-11-10",
           "venue": "",
           "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1817735/pdf"
-        },
-        {
-          "title": "cSINGV v1.0: development and evaluation of a 1.5 km coupled atmosphere\u2013ocean\u2013wave modelling system for the Western Maritime Continent",
-          "date": "2026-11-05",
-          "venue": "",
-          "link": "https://gmd.copernicus.org/articles/19/10479/2026/gmd-19-10479-2026.pdf"
         }
       ]
     }
