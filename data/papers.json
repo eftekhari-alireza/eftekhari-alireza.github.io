@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "year_from": 2025,
   "items": [
     {
@@ -193,6 +193,12 @@
           "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.2006926/pdf"
         },
         {
+          "title": "Mapping and Modeling Storm-Driven Morphological Change on Assateague Island",
+          "date": "2026-11-19",
+          "venue": "",
+          "link": "https://udspace.udel.edu/bitstreams/4d340684-3994-4aa6-a12f-4f7a37fdcfa2/download"
+        },
+        {
           "title": "Brief communication: Tidal timing and minutes to act during the 15 August 2026 Flores tsunami",
           "date": "2026-11-12",
           "venue": "",
@@ -209,12 +215,6 @@
           "date": "2026-11-04",
           "venue": "",
           "link": "https://www.sciencedirect.com/science/article/pii/S2590123026050000/pdf"
-        },
-        {
-          "title": "Morphodynamic modelling of sedimentation rates in a large riverine reservoir",
-          "date": "2026-11-03",
-          "venue": "",
-          "link": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15011608/v1"
         }
       ]
     },

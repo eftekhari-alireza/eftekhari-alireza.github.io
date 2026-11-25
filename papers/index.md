@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-11-24** · Showing results since **2025**_
+_Last update: **2026-11-25** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -60,10 +60,10 @@ _Last update: **2026-11-24** · Showing results since **2025**_
 
 **Recent items (OpenAlex):**
 - [Marine ecological responses to thermal discharge from nuclear and coal-fired power plants: a review focusing on seawater quality, plankton, and microorganisms](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.2006926/pdf) · 2026-11-20
+- [Mapping and Modeling Storm-Driven Morphological Change on Assateague Island](https://udspace.udel.edu/bitstreams/4d340684-3994-4aa6-a12f-4f7a37fdcfa2/download) · 2026-11-19
 - [Brief communication: Tidal timing and minutes to act during the 15 August 2026 Flores tsunami](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5978/egusphere-2026-5978.pdf) · 2026-11-12
 - [Satellite data for the integrated modelling of Watershed-Coast System morphodynamics in a changing climate: a critical review and a structured framework](https://eartharxiv.org/repository/object/16017/download/27719/) · 2026-11-09
 - [Estimating compound coastal flooding in response to combined fluvial and marine effects in the Seine Bay](https://www.sciencedirect.com/science/article/pii/S2590123026050000/pdf) · 2026-11-04
-- [Morphodynamic modelling of sedimentation rates in a large riverine reservoir](https://essopenarchive.org/doi/pdf/10.22541/essoar.15011608/v1) · 2026-11-03
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
