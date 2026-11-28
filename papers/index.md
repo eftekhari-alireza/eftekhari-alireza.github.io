@@ -3,7 +3,7 @@ layout: page
 title: Latest Research (auto-updated)
 permalink: /papers/
 ---
-_Last update: **2026-11-27** · Showing results since **2025**_
+_Last update: **2026-11-28** · Showing results since **2025**_
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) CROCO
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+CROCO&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -21,9 +21,9 @@ _Last update: **2026-11-27** · Showing results since **2025**_
 **Recent items (OpenAlex):**
 - [Numerical Analysis of the Cofferdam Partial Collapse that Occurred during its Construction](http://www.hrpub.org/download/20261030/CEA16-14845734.pdf) · 2026-12-01
 - [Methodological framework for tsunami risk assessment in port facilities](https://doi.org/10.5194/nhess-26-6055-2026) · 2026-11-25
+- [roboelf V1.0.0 - a GPU-accelerated offline marine biogeochemistry modelling framework - Part 1: General model description](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6179/egusphere-2026-6179.pdf) · 2026-11-25
+- [One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics](https://arxiv.org/pdf/2611.34925) · 2026-11-25
 - [Hybrid plasma actuation and vibrating flap for unsteady flow control of NACA 4412 airfoil: CFD-deep learning analysis](https://www.sciencedirect.com/science/article/pii/S2215098626003307/pdf) · 2026-11-24
-- [Polhavet / Arctic Ocean 2050 Implementation Plan 2026-2028](https://septentrio.uit.no/index.php/polhav/article/download/8959/9418) · 2026-11-20
-- [Multi-scale dynamic wake modeling and prediction of floating offshore wind turbine wakes via physics-informed neural networks and Fourier neural operators](https://arxiv.org/pdf/2604.23937) · 2026-11-19
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) FVCOM
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+FVCOM&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -32,18 +32,18 @@ _Last update: **2026-11-27** · Showing results since **2025**_
 - [Contrasting biodiversity patterns across trophic levels in two Svalbard fjords: effects of Atlantic influence and physical isolation](https://www.researchsquare.com/article/rs-11349070/latest.pdf) · 2026-11-24
 - [Marine ecological responses to thermal discharge from nuclear and coal-fired power plants: a review focusing on seawater quality, plankton, and microorganisms](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.2006926/pdf) · 2026-11-20
 - [Estuarine saltwater intrusion research needs to move beyond hazard assessment towards adaptation-ready evidence](https://www.researchsquare.com/article/rs-11628039/latest.pdf) · 2026-11-20
+- [Tidal asymmetry response to natural shoreline restoration on the western Yellow Sea coast](https://doi.org/10.2139/ssrn.7418213) · 2026-11-19
 - [Hydrodynamic controls on harmful algal bloom connectivity in an estuarine system: insights for monitoring](https://www.sciencedirect.com/science/article/pii/S0304380026004291/pdf) · 2026-11-07
-- [cSINGV v1.0: development and evaluation of a 1.5 km coupled atmosphere–ocean–wave modelling system for the Western Maritime Continent](https://gmd.copernicus.org/articles/19/10479/2026/gmd-19-10479-2026.pdf) · 2026-11-05
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 21"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+21%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
 
 **Recent items (OpenAlex):**
+- [Balancing hard structures and beach nourishment to combat Mediterranean coastal retreat](https://link.springer.com/content/pdf/10.1007/s11852-026-01286-3.pdf) · 2026-11-26
 - [Assessment of Tidal Impact on Storm Surges in the Northern Coastal Area of Vietnam](https://doi.org/10.1007/978-981-92-6722-4_200) · 2026-11-22
 - [Transfer learning-enhanced physics-informed neural networks for efficient simulation of river flood in complex large-scale river systems](https://www.researchsquare.com/article/rs-11382325/latest.pdf) · 2026-11-10
 - [Southern South China Sea is a climate resilient hub for offshore finfish production](https://www.sciencedirect.com/science/article/pii/S0144860926001615/pdf) · 2026-11-05
 - [Hydrodynamic and Sediment Transport Modeling for Evaluating the Effectiveness of Coastal Protection Structures in Pulau Baai Port](https://iopscience.iop.org/article/10.1088/1755-1315/1681/1/012085/pdf) · 2026-11-01
-- [Nature-Based Solutions for Managing Urban Pluvial Flood Risk: A Systematic Review of Hazard Drivers, Modelling Approaches, and Climate Scenario Integration](https://doi.org/10.3390/su182110994) · 2026-10-29
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "MIKE 3"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22MIKE+3%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
@@ -63,7 +63,7 @@ _Last update: **2026-11-27** · Showing results since **2025**_
 - [Wave overtopping load transmission and landward revetment stability on a sloping sea dike with varying crest widths](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.2000340/pdf) · 2026-11-25
 - [A Depth‐Averaged Discontinuous Galerkin Morphodynamic Model With Orthogonal Bubble Function‐Based Boundary Treatment](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026WR043808) · 2026-11-25
 - [Hydrodynamic Nonlinear Interactions in River‐Dominated Deltas: Wax Lake Delta (Louisiana, USA)](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GL126237) · 2026-11-25
-- [Marine ecological responses to thermal discharge from nuclear and coal-fired power plants: a review focusing on seawater quality, plankton, and microorganisms](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.2006926/pdf) · 2026-11-20
+- [One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics](https://arxiv.org/pdf/2611.34925) · 2026-11-25
 
 ## ("numerical modeling" OR "numerical modelling") (ocean OR coastal) "Wavewatch"
 [Google Scholar (sorted by date)](https://scholar.google.com/scholar?q=%28%22numerical+modeling%22+OR+%22numerical+modelling%22%29+%28ocean+OR+coastal%29+%22Wavewatch%22&hl=en&as_ylo=2025&scisbd=1&as_sdt=1%2C5&as_vis=1)
